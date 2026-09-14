@@ -6,6 +6,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
 from .audit import AuditLog
+from .clients import automation_client, cmra_client, workers_client
 from .config import load_repositories
 from .orchestrator import Orchestrator
 from .policy import DEFAULT_POLICY
@@ -41,6 +42,21 @@ def health():
         "jobs": len(orchestrator.jobs),
         "audit_events": len(audit.events),
     }
+
+
+@app.get("/api/federation/health")
+def federation_health():
+    services = {"cmra": cmra_client(), "workers": workers_client(), "automation": automation_client()}
+    result = {}
+    for name, client in services.items():
+        if client is None:
+            result[name] = {"configured": False, "status": "not_configured"}
+            continue
+        try:
+            result[name] = {"configured": True, "status": "ok", "health": client.health()}
+        except Exception as exc:
+            result[name] = {"configured": True, "status": "unreachable", "error": type(exc).__name__}
+    return result
 
 
 @app.get("/api/policy")
