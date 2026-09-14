@@ -1,0 +1,13 @@
+repositories:
+  - name: Gungv
+    full_name: sutantoagung12-lang/Gungv
+    role: runtime
+    enabled: true
+    capabilities:
+      - cmra
+      - runtime-mesh
+      - telegram
+      - payments
+    metadata:
+      control_mode: orchestrated
+      direct_main_writes: false
