@@ -19,15 +19,22 @@ class Job:
 
 
 class Orchestrator:
+    """Low-overhead in-memory job orchestrator with bounded payloads."""
+
     def __init__(self, registry: Registry | None = None, policy: ActionPolicy = DEFAULT_POLICY):
         self.registry = registry or Registry()
         self.policy = policy
         self.jobs: dict[str, Job] = {}
 
     def submit(self, kind: str, target: str, payload: dict | None = None) -> Job:
-        if kind in {"main_write"} and not self.policy.allows("main_write"):
+        kind = str(kind).strip()
+        target = str(target).strip()
+        if not kind or not target:
+            raise ValueError("kind and target are required")
+        if kind == "main_write" and not self.policy.allows("main_write"):
             raise PermissionError("Direct main-branch writes are disabled by policy")
-        job = Job(uuid4().hex, kind, target, payload or {})
+        body = payload if isinstance(payload, dict) else {}
+        job = Job(uuid4().hex, kind, target, body)
         self.jobs[job.job_id] = job
         return job
 
