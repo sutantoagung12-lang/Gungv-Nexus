@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
@@ -44,18 +45,25 @@ def health():
     }
 
 
+def _check_service(name: str, client):
+    if client is None:
+        return name, {"configured": False, "status": "not_configured"}
+    try:
+        return name, {"configured": True, "status": "ok", "health": client.health()}
+    except Exception as exc:
+        return name, {"configured": True, "status": "unreachable", "error": type(exc).__name__}
+
+
 @app.get("/api/federation/health")
 def federation_health():
+    """Probe federation members concurrently so one slow service cannot serialize all checks."""
     services = {"cmra": cmra_client(), "workers": workers_client(), "automation": automation_client()}
-    result = {}
-    for name, client in services.items():
-        if client is None:
-            result[name] = {"configured": False, "status": "not_configured"}
-            continue
-        try:
-            result[name] = {"configured": True, "status": "ok", "health": client.health()}
-        except Exception as exc:
-            result[name] = {"configured": True, "status": "unreachable", "error": type(exc).__name__}
+    configured = [(name, client) for name, client in services.items() if client is not None]
+    result = {name: {"configured": False, "status": "not_configured"} for name, client in services.items() if client is None}
+    if configured:
+        with ThreadPoolExecutor(max_workers=len(configured)) as pool:
+            for name, status in pool.map(lambda item: _check_service(*item), configured):
+                result[name] = status
     return result
 
 
