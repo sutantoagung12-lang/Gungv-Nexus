@@ -8,6 +8,8 @@ repositories:
       - runtime-mesh
       - telegram
       - payments
+      - outcome-learning
+      - safe-evolution
     metadata:
       access_mode: managed
       control_mode: orchestrated
@@ -26,6 +28,23 @@ repositories:
       - decay
       - reflection
       - consolidation
+    metadata:
+      access_mode: managed
+      control_mode: orchestrated
+      direct_main_writes: false
+
+  - name: Neuron
+    full_name: sutantoagung12-lang/Neuron
+    role: cognitive-execution-layer
+    enabled: true
+    capabilities:
+      - task-contracts
+      - capability-profiles
+      - model-profiles
+      - routing-metadata
+      - telemetry
+      - provider-adapters
+      - risk-budget
     metadata:
       access_mode: managed
       control_mode: orchestrated
