@@ -10,10 +10,11 @@ from .audit import AuditLog
 from .clients import automation_client, cmra_client, workers_client
 from .config import load_repositories
 from .orchestrator import Orchestrator
+from .organism import build_organism_status
 from .policy import DEFAULT_POLICY
 from .registry import Repository, Registry, Worker
 
-app = FastAPI(title="Gungv Nexus", version="0.2.0")
+app = FastAPI(title="Gungv Nexus", version="0.3.0")
 registry = Registry()
 audit = AuditLog()
 orchestrator = Orchestrator(registry)
@@ -54,8 +55,7 @@ def _check_service(name: str, client):
         return name, {"configured": True, "status": "unreachable", "error": type(exc).__name__}
 
 
-@app.get("/api/federation/health")
-def federation_health():
+def _federation_health() -> dict:
     """Probe federation members concurrently so one slow service cannot serialize all checks."""
     services = {"cmra": cmra_client(), "workers": workers_client(), "automation": automation_client()}
     configured = [(name, client) for name, client in services.items() if client is not None]
@@ -65,6 +65,23 @@ def federation_health():
             for name, status in pool.map(lambda item: _check_service(*item), configured):
                 result[name] = status
     return result
+
+
+@app.get("/api/federation/health")
+def federation_health():
+    return _federation_health()
+
+
+@app.get("/api/organism/status")
+def organism_status():
+    """Read-only aggregate health for the CMRA-X organism."""
+    return build_organism_status(
+        repositories=len(registry.repositories),
+        workers=len(registry.workers),
+        jobs=len(orchestrator.jobs),
+        audit_events=len(audit.events),
+        federation=_federation_health(),
+    ).to_dict()
 
 
 @app.get("/api/policy")
