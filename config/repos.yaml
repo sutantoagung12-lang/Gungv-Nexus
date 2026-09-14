@@ -47,7 +47,7 @@ repositories:
       evaluation_priority: high
 
   - name: graphiti
-    full_name: getzep/graphiti
+    full_name: Memory-Agents/graphiti
     role: temporal-graph-provider
     enabled: true
     capabilities:
