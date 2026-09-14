@@ -8,7 +8,7 @@ from pydantic import BaseModel, Field
 
 from .audit import AuditLog
 from .clients import automation_client, cmra_client, workers_client
-from .cognition import TaskProfile
+from .cognition import ModelProfile, TaskProfile
 from .config import load_repositories
 from .orchestrator import Orchestrator
 from .policy import DEFAULT_POLICY
@@ -37,6 +37,15 @@ class JobRequest(BaseModel):
     tool_use: float = Field(default=0, ge=0, le=1)
     latency_budget: float = Field(default=1, gt=0)
     cost_budget: float = Field(default=1, gt=0)
+
+
+class ModelRequest(BaseModel):
+    name: str = Field(min_length=1, max_length=120)
+    capabilities: dict[str, float] = Field(default_factory=dict)
+    latency: float = Field(default=1, gt=0)
+    cost: float = Field(default=1, gt=0)
+    reliability: float = Field(default=0.8, ge=0, le=1)
+    privacy: float = Field(default=0.5, ge=0, le=1)
 
 
 @app.get("/")
@@ -93,6 +102,27 @@ def policy():
 @app.get("/api/audit")
 def audit_events():
     return audit.list()
+
+
+@app.post("/api/models")
+def register_model(request: ModelRequest):
+    model = orchestrator.register_model(ModelProfile(**request.model_dump()))
+    audit.record("model_register", request.name)
+    return model
+
+
+@app.get("/api/models")
+def models():
+    return list(orchestrator.router.models.values())
+
+
+@app.post("/api/models/{model_name}/result")
+def model_result(model_name: str, success: bool = True):
+    if model_name not in orchestrator.router.models:
+        raise HTTPException(status_code=404, detail="model not found")
+    orchestrator.record_model_result(model_name, success)
+    audit.record("model_result", model_name, metadata={"success": success})
+    return orchestrator.router.models[model_name]
 
 
 @app.post("/api/repositories")
