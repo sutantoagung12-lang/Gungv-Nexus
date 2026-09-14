@@ -11,3 +11,67 @@ repositories:
     metadata:
       control_mode: orchestrated
       direct_main_writes: false
+
+  - name: mcp-memory-service
+    full_name: doobidoo/mcp-memory-service
+    role: memory-provider
+    enabled: true
+    capabilities:
+      - persistent-memory
+      - semantic-search
+      - knowledge-graph
+      - mcp
+      - consolidation
+    metadata:
+      access_mode: read_only
+      integration_mode: adapter
+      source: github-public
+      evaluation_priority: high
+
+  - name: agent-memory
+    full_name: neo4j-labs/agent-memory
+    role: graph-memory-provider
+    enabled: true
+    capabilities:
+      - short-term-memory
+      - long-term-memory
+      - reasoning-memory
+      - knowledge-graph
+      - vector-search
+      - entity-resolution
+      - mcp
+    metadata:
+      access_mode: read_only
+      integration_mode: adapter
+      source: github-public
+      evaluation_priority: high
+
+  - name: graphiti
+    full_name: getzep/graphiti
+    role: temporal-graph-provider
+    enabled: true
+    capabilities:
+      - temporal-knowledge-graph
+      - hybrid-retrieval
+      - semantic-search
+      - graph-search
+      - incremental-updates
+    metadata:
+      access_mode: read_only
+      integration_mode: adapter
+      source: github-public
+      evaluation_priority: high
+
+  - name: ai-agent-frameworks-radar
+    full_name: aglio-lab/ai-agent-frameworks
+    role: technology-radar
+    enabled: true
+    capabilities:
+      - framework-discovery
+      - ecosystem-monitoring
+      - agent-framework-comparison
+    metadata:
+      access_mode: read_only
+      integration_mode: research
+      source: github-public
+      evaluation_priority: medium
