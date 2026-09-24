@@ -1,0 +1,30 @@
+{
+  "name": "instagram",
+  "capability": "social-publishing",
+  "mode": "oauth2-api-connector",
+  "provider": "Instagram",
+  "account_types": ["business", "creator"],
+  "auth": {
+    "authorization_url": "https://www.instagram.com/oauth/authorize",
+    "token_url": "https://api.instagram.com/oauth/access_token",
+    "graph_url": "https://graph.instagram.com"
+  },
+  "scopes": [
+    "instagram_business_basic",
+    "instagram_business_content_publish"
+  ],
+  "credentials": {
+    "env": [
+      "INSTAGRAM_CLIENT_ID",
+      "INSTAGRAM_CLIENT_SECRET",
+      "INSTAGRAM_REDIRECT_URI",
+      "INSTAGRAM_API_VERSION"
+    ],
+    "persist": false
+  },
+  "side_effects": {
+    "publishing": "execution-gated",
+    "messaging": "not-enabled-by-default",
+    "comments": "not-enabled-by-default"
+  }
+}
