@@ -6,6 +6,9 @@ from knowledge.store import KnowledgeStore
 from agents.orchestrator import Orchestrator
 from security.policy import SecurityPolicy
 from telemetry.logger import Telemetry
+from agents.execution import ExecutionEngine
+from evaluation.engine import Evaluator
+from evolution.learning import LearningLoop
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -16,12 +19,40 @@ class NexusRuntime:
         self.orchestrator=Orchestrator()
         self.security=SecurityPolicy()
         self.telemetry=Telemetry(str(self.root/"telemetry/events.jsonl"))
+        self.execution=ExecutionEngine(self)
+        self.evaluator=Evaluator()
+        self.learning=LearningLoop(self)
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
         ctx=self.context.compile(user_input, memories=self.memory.search(user_input), knowledge=self.knowledge.search(user_input))
         self.telemetry.emit("task_received", input=user_input, agents=agents)
         return {"input":user_input,"agents":agents,"context":ctx.__dict__}
+
+    def run_cycle(self, goal: str, task: str):
+        from cognition.orchestration import OrchestrationCycle
+        cycle = OrchestrationCycle(self).run(goal, task)
+        evaluation = self.evaluator.run(checks={
+            "cycle_created": bool(cycle.get("cycle_id")),
+            "agents_selected": bool(cycle.get("agents")),
+            "context_compiled": bool(cycle.get("context"))
+        })
+        execution = self.execution.execute("record_memory", {
+            "id": cycle["cycle_id"] + "-result",
+            "type": "execution-result",
+            "content": f"Cycle evaluated: {evaluation.passed}",
+            "status": "COMPLETED"
+        })
+        learning = self.learning.learn(
+            cycle_id=cycle["cycle_id"], goal=goal, task=task,
+            evaluation={"passed": evaluation.passed}
+        )
+        return {
+            "cycle": cycle,
+            "evaluation": evaluation.__dict__,
+            "execution": execution,
+            "learning": learning
+        }
 
     def health(self):
         return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
