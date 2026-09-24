@@ -1,5 +1,2 @@
-"""Evidence-aware research preparation."""
 class ResearchIntelligence:
-    def prepare(self,question,sources=None):
-        sources=sources or []
-        return {"question":question,"sources":sources,"validated":False,"next":["cross_check","assess_provenance","experiment","evaluate"]}
+    def prepare(self,question,sources=None): return {'question':question,'sources':sources or [],'validated':False,'stages':['discover','cross_check','experiment','evaluate','record']}
