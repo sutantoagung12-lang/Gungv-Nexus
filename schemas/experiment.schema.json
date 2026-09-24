@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Experiment","type":"object","required":["id","question","hypothesis","status"],"properties":{"id":{"type":"string"},"question":{"type":"string"},"hypothesis":{"type":"string"},"status":{"type":"string"},"design":{"type":"object"},"results":{"type":"object"},"conclusion":{"type":"string"}}}
