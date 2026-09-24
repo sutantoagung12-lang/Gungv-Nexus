@@ -1,5 +1,11 @@
 import os
-from ai_live_host.core import Event, HostController
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+
+from core import Event, HostController  # noqa: E402
 
 
 def test_demo_response():
@@ -15,7 +21,7 @@ def test_support_memory():
     e = Event(kind="support", user="B", amount=10000, currency="IDR")
     c.ingest(e)
     response = c.respond(e)
-    assert "10,000" in response or "10000" in response
+    assert "10000" in response
     assert c.memory.supporters["B"] == 10000
 
 
