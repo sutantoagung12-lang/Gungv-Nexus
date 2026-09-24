@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "1.1.0",
+  "architecture_version": "1.2.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -29,8 +29,8 @@
     "engine": "experiments/engine.py"
   },
   "health": {
-    "status": "runtime-baseline",
-    "last_validation": "repository workflow configured"
+    "status": "integration-foundation",
+    "last_validation": "runtime modules and governance components committed; CI configured, execution not independently verified"
   },
   "anomalies": [],
   "capabilities": [
@@ -49,7 +49,23 @@
     "evaluation engine",
     "recovery planning",
     "telemetry",
-    "offline runtime CLI"
+    "offline runtime CLI",
+    "world model",
+    "self model",
+    "digital twin simulation",
+    "dependency impact analysis",
+    "knowledge graph",
+    "confidence assessment",
+    "contradiction detection",
+    "attention engine",
+    "planning engine",
+    "decision preparation",
+    "change governance",
+    "repository snapshot manifests",
+    "safe replay",
+    "anomaly detection",
+    "benchmark runner",
+    "ChatGPT bootstrap manifest"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -58,7 +74,7 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "1.1.0",
-    "status": "runtime-foundation"
+    "version": "1.2.0",
+    "status": "integration-foundation"
   }
 }
