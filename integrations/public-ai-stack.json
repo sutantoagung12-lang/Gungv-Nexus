@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "policy": {
     "external_code_untrusted": true,
     "adapter_first": true,
@@ -9,20 +9,161 @@
     "runtime_activation_requires_environment_validation": true
   },
   "capabilities": [
-    {"name":"LangGraph","repository":"langchain-ai/langgraph","target":"agents/orchestrator.py","mode":"adapter","priority":"high","verified_public_repo":true,"default_branch":"main"},
-    {"name":"CrewAI","repository":"crewAIInc/crewAI","target":"agents/registry.py","mode":"adapter","priority":"medium","verified_public_repo":true,"default_branch":"main","adapter_status":"planned"},
-    {"name":"OpenHands","repository":"OpenHands/OpenHands","target":"workers/development","mode":"isolated-adapter","priority":"high","verified_public_repo":true,"default_branch":"main","adapter_status":"planned"},
-    {"name":"browser-use","repository":"browser-use/browser-use","target":"workers/browser","mode":"isolated-adapter","priority":"high","verified_public_repo":true,"default_branch":"main"},
-    {"name":"Dify","repository":"langgenius/dify","target":"automation","mode":"service-connector","priority":"medium","verified_public_repo":true,"default_branch":"main","adapter_status":"planned"},
-    {"name":"n8n","repository":"n8n-io/n8n","target":"automation","mode":"service-connector","priority":"medium","verified_public_repo":true,"default_branch":"master","adapter_status":"planned"},
-    {"name":"Khoj","repository":"khoj-ai/khoj","target":"memory","mode":"adapter","priority":"high","verified_public_repo":true,"default_branch":"master"},
-    {"name":"R2R","repository":"SciPhi-AI/R2R","target":"knowledge","mode":"adapter","priority":"high","verified_public_repo":true,"default_branch":"main"},
-    {"name":"LocalAI","repository":"mudler/LocalAI","target":"Neuron","mode":"provider-adapter","priority":"medium","verified_public_repo":true,"default_branch":"master","adapter_status":"planned"}
+    {
+      "name": "LangGraph",
+      "repository": "langchain-ai/langgraph",
+      "target": "agents/orchestrator.py",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "CrewAI",
+      "repository": "crewAIInc/crewAI",
+      "target": "agents/registry.py",
+      "mode": "adapter",
+      "priority": "medium",
+      "verified_public_repo": true,
+      "default_branch": "main",
+      "adapter_status": "planned"
+    },
+    {
+      "name": "OpenHands",
+      "repository": "OpenHands/OpenHands",
+      "target": "workers/development",
+      "mode": "isolated-adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main",
+      "adapter_status": "planned"
+    },
+    {
+      "name": "browser-use",
+      "repository": "browser-use/browser-use",
+      "target": "workers/browser",
+      "mode": "isolated-adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Dify",
+      "repository": "langgenius/dify",
+      "target": "automation",
+      "mode": "service-connector",
+      "priority": "medium",
+      "verified_public_repo": true,
+      "default_branch": "main",
+      "adapter_status": "planned"
+    },
+    {
+      "name": "n8n",
+      "repository": "n8n-io/n8n",
+      "target": "automation",
+      "mode": "service-connector",
+      "priority": "medium",
+      "verified_public_repo": true,
+      "default_branch": "master",
+      "adapter_status": "planned"
+    },
+    {
+      "name": "Khoj",
+      "repository": "khoj-ai/khoj",
+      "target": "memory",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "master"
+    },
+    {
+      "name": "R2R",
+      "repository": "SciPhi-AI/R2R",
+      "target": "knowledge",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "LocalAI",
+      "repository": "mudler/LocalAI",
+      "target": "Neuron",
+      "mode": "provider-adapter",
+      "priority": "medium",
+      "verified_public_repo": true,
+      "default_branch": "master",
+      "adapter_status": "planned"
+    }
   ],
   "runtime_status": {
-    "adapter_code_present": ["LangGraph","R2R","Khoj","browser-use"],
+    "adapter_code_present": [
+      "LangGraph",
+      "R2R",
+      "Khoj",
+      "browser-use"
+    ],
     "external_dependencies_installed": false,
     "live_external_execution": false,
     "ci_execution_verified": false
-  }
+  },
+  "research_candidates": [
+    {
+      "name": "Google ADK",
+      "repository": "google/adk-python",
+      "role": "agent development/orchestration",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Agno",
+      "repository": "agno-agi/agno",
+      "role": "agent framework/multimodal/multi-agent",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Microsoft AutoGen",
+      "repository": "microsoft/autogen",
+      "role": "multi-agent orchestration",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "DSPy",
+      "repository": "stanfordnlp/dspy",
+      "role": "programmatic LM optimization/evaluation",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "PydanticAI",
+      "repository": "pydantic/pydantic-ai",
+      "role": "typed agent runtime/tools",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Apify MCP Server",
+      "repository": "apify/apify-mcp-server",
+      "role": "MCP web/data tool access",
+      "verified_public_repo": true,
+      "default_branch": "master"
+    },
+    {
+      "name": "Goose",
+      "repository": "aaif-goose/goose",
+      "role": "coding/agent tool execution",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Mastra",
+      "repository": "mastra-ai/mastra",
+      "role": "TypeScript agents/workflows",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    }
+  ],
+  "research_note": "Candidates are research inputs only. No code has been copied, installed, or activated from these repositories."
 }
