@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "purpose": "Direct capability composition pool for Gungv-Nexus",
   "policy": {
     "external_code_untrusted": true,
     "adapter_or_connector_required": true,
     "source_repositories_are_not_copied": true
   },
-  "count": 104,
+  "count": 181,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -631,6 +631,551 @@
       "capability": "universal-tools",
       "trust": "external-public",
       "integration": "registry-first"
+    },
+    {
+      "repository": "microsoft/semantic-kernel",
+      "capability": "agent-framework",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "ag2ai/ag2",
+      "capability": "multi-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "agentscope-ai/agentscope",
+      "capability": "agent-framework",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "volcengine/verl-agent",
+      "capability": "agent-runtime",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "strands-agents/sdk-python",
+      "capability": "agent-runtime",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "VoltAgent/voltagent",
+      "capability": "agent-framework",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OpenBMB/ChatDev",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OpenBMB/AgentVerse",
+      "capability": "multi-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "camel-ai/camel",
+      "capability": "multi-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "SWE-agent/SWE-agent",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "princeton-nlp/SWE-agent",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "Aider-AI/aider",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "cline/cline",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "RooCodeInc/Roo-Code",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "All-Hands-AI/OpenHands",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "google-gemini/gemini-cli",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "anomalyco/opencode",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "block/goose",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "HKUDS/DeepCode",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "openclaw/openclaw",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "QwenLM/Qwen-Agent",
+      "capability": "agent-framework",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "Tencent/Hunyuan-LLM",
+      "capability": "model-runtime",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "PygmalionAI/LocalAI",
+      "capability": "model-runtime",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "browseros-ai/BrowserOS",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "TauricResearch/TradingAgents",
+      "capability": "domain-agents",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OpenInterpreter/open-interpreter",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "THUDM/GLM-PC",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OpenBMB/UltraRAG",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "volcengine/OpenViking",
+      "capability": "memory-context",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "Tencent/MemoryOS",
+      "capability": "memory",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "doobidoo/mcp-memory-service",
+      "capability": "memory-mcp",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "iwe-org/iwe",
+      "capability": "memory",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "moorecheh-ai/memanto",
+      "capability": "memory",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "apecloud/ApeRAG",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "HKUDS/LightRAG",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "HKUDS/RAG-Anything",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "infiniflow/ragflow",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OpenSPG/KAG",
+      "capability": "knowledge-graph-rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "stanford-oval/storm",
+      "capability": "research",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "run-llama/llama_deploy",
+      "capability": "deployment",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "neo4j/graph-rag",
+      "capability": "graph-rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "microsoft/graphrag",
+      "capability": "graph-rag",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "google/mcp",
+      "capability": "mcp",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "IBM/mcp-context-forge",
+      "capability": "mcp-gateway",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "microsoft/mcp",
+      "capability": "mcp",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "modelcontextprotocol/go-sdk",
+      "capability": "mcp-sdk",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "modelcontextprotocol/csharp-sdk",
+      "capability": "mcp-sdk",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "modelcontextprotocol/java-sdk",
+      "capability": "mcp-sdk",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "google/A2A",
+      "capability": "agent-protocol",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "agentprotocol/agent-protocol",
+      "capability": "agent-protocol",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "universal-tool-calling-protocol/python-utcp",
+      "capability": "tool-protocol",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "browserbase/mcp-server-browserbase",
+      "capability": "browser-mcp",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "ChromeDevTools/chrome-devtools-mcp",
+      "capability": "browser-mcp",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "microsoft/semantic-kernel-mcp",
+      "capability": "mcp",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "puppeteer/puppeteer",
+      "capability": "browser",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "browseros-ai/browseros",
+      "capability": "browser",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "Tencent/BrowserGym",
+      "capability": "browser-eval",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OpenAdaptAI/OpenAdapt",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "OS-Copilot/OS-Copilot",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "xlang-ai/OSWorld",
+      "capability": "computer-eval",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "daytonaio/daytona",
+      "capability": "sandbox",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "NVIDIA/OpenShell",
+      "capability": "sandbox",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "riza-io/riza",
+      "capability": "code-execution",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "fly-apps/flyctl",
+      "capability": "compute",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "containers/podman",
+      "capability": "container-runtime",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "moby/moby",
+      "capability": "container-runtime",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "firecracker-microvm/firecracker",
+      "capability": "microvm-sandbox",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "kata-containers/kata-containers",
+      "capability": "sandbox",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "openai/safety-gym",
+      "capability": "safety-eval",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "microsoft/agent-governance-toolkit",
+      "capability": "governance",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "lakeraai/lakera-py",
+      "capability": "prompt-security",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "NVIDIA/garak",
+      "capability": "security-eval",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "open-telemetry/opentelemetry-python",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "Arize-ai/openinference",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "wandb/weave",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "truera/trulens",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
+    },
+    {
+      "repository": "openlit/openlit",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first",
+      "source_batch": "2026-09-24-discovery-2"
     }
-  ]
+  ],
+  "last_update": {
+    "date": "2026-09-24",
+    "added_from_discovery_batch": 86,
+    "unique_entries_added": 77,
+    "total_entries": 181
+  }
 }
