@@ -1,0 +1,9 @@
+{
+  "name": "gungv-nexus-chatgpt-bridge",
+  "version": "1.0.0",
+  "transport": "http",
+  "endpoint": "/bootstrap",
+  "read_only": true,
+  "authentication_required_for_public_deployment": true,
+  "automatic_chat_startup": "requires_chatgpt_connector_registration"
+}
