@@ -31,6 +31,16 @@ def _module_status(name: str, package: str) -> CapabilityStatus:
                             f"{package} package detected" if present else f"{package} package unavailable")
 
 
+def _env_status(name: str, required: tuple[str, ...]) -> CapabilityStatus:
+    present = all(bool(os.getenv(key)) for key in required)
+    return CapabilityStatus(
+        name,
+        "configured" if present else "missing",
+        present,
+        "required environment configuration present" if present else "required environment configuration missing",
+    )
+
+
 def detect() -> dict:
     in_actions = bool(os.getenv("GITHUB_ACTIONS"))
     token = bool(os.getenv("GITHUB_TOKEN"))
@@ -44,6 +54,10 @@ def detect() -> dict:
         _module_status("langgraph", "langgraph"),
         _module_status("r2r", "r2r"),
         _module_status("khoj", "khoj"),
+        _env_status(
+            "instagram_api",
+            ("INSTAGRAM_CLIENT_ID", "INSTAGRAM_CLIENT_SECRET", "INSTAGRAM_REDIRECT_URI", "INSTAGRAM_API_VERSION"),
+        ),
     ]
     return {
         "mode": "adaptive",
