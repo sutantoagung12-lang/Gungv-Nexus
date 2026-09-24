@@ -47,6 +47,19 @@ def build_graph(runtime: dict | None = None) -> dict[str, list[dict]]:
             readiness=ready,
         )
         graph.setdefault(capability, []).append(asdict(node))
+
+    # Local first-party connectors are not external repositories. They enter
+    # the graph only at their observed runtime state; configuration alone is
+    # not treated as validated connectivity.
+    instagram_state = runtime.get("summary", {}).get("instagram_api", "missing")
+    graph.setdefault("social-publishing", []).append(asdict(CapabilityNode(
+        capability="social-publishing",
+        repository="local/integrations/instagram",
+        trust="internal",
+        integration="oauth2-api-connector",
+        adapter="instagram_api",
+        readiness="ready" if instagram_state in {"validated", "active"} else instagram_state,
+    )))
     return graph
 
 
