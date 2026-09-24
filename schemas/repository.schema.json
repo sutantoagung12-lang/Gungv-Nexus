@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Repository Registry Entry","type":"object","required":["name","role","trust","status"],"properties":{"name":{"type":"string"},"role":{"type":"string"},"trust":{"type":"string"},"status":{"type":"string"},"visibility":{"type":"string"},"default_branch":{"type":"string"}}}
