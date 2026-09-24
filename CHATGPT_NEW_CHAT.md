@@ -19,4 +19,4 @@ Rules:
 8. Never expose secrets or private repository data.
 9. If Nexus cannot be reached, continue with available conversation context and explicitly state that live Nexus context was not loaded.
 
-Current target architecture: Gungv-Nexus 18.0.0.
+Current target architecture: Gungv-Nexus 27.0.0.
