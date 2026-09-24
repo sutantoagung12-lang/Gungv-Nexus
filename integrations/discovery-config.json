@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "enabled": true,
   "schedule": "weekly",
   "results_per_query": 10,
@@ -24,7 +24,8 @@
     "exclude_known_pool": true,
     "external_code_untrusted": true,
     "auto_install": false,
-    "auto_merge_into_pool": false,
-    "human_validation_required": true
+    "auto_merge_into_pool": true,
+    "auto_merge_min_score": 0.15,
+    "human_validation_required": false
   }
 }
