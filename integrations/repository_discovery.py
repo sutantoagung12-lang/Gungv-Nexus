@@ -16,6 +16,7 @@ from integrations.github_pool import capabilities
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "integrations" / "discovery-config.json"
+POOL = ROOT / "integrations" / "github-capability-pool.json"
 
 
 def load_config() -> dict:
