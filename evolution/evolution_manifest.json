@@ -1,7 +1,7 @@
 {
-  "version": "23.0.0",
+  "version": "24.0.0",
   "name": "Gungv-Nexus Evolution Layer",
-  "status": "unified-adaptive-intelligence",
+  "status": "reflective-experience-intelligence",
   "changes": [
     "capability graph",
     "runtime readiness states",
@@ -17,7 +17,10 @@
     "bounded experience-driven learning engine",
     "unified intelligence architecture",
     "bounded outcome evaluator",
-    "selective foresight and uncertainty gating"
+    "selective foresight and uncertainty gating",
+    "quality-aware reflection",
+    "governed memory promotion",
+    "procedural/corrective/strategic lesson abstraction"
   ],
   "policy": {
     "external_code_untrusted": true,
@@ -32,7 +35,7 @@
     "pool_is_not_dependency_installation": true,
     "fallback_planning_is_non_executing": true,
     "experience_memory_is_bounded": true,
-    "learning_loop": "experience -> evaluation -> reward -> provider learning -> lesson distillation -> future resolution",
+    "learning_loop": "experience -> evaluation -> reflection -> abstraction -> governed promotion -> future planning",
     "intelligence_architecture": "memory + planning + tools + evaluation + experience learning + foresight + safety"
   }
 }
