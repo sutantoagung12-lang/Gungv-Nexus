@@ -5,14 +5,18 @@ Gungv-Nexus is the control plane for the Gungv GitHub-Native Cognitive System.
 ## Mission
 Build a persistent, auditable, research-capable cognitive ecosystem connecting ChatGPT, the user's repositories, memory, knowledge, agents, experiments, evaluation, governance, recovery, and controlled evolution.
 
-## Core rule
-External information is untrusted until provenance, security, cross-checking, and validation requirements are satisfied.
+## Current state
+Architecture baseline: v18.0.0 — Cognitive OS Foundations Integrated.
 
-## Architecture
-See [ARCHITECTURE.md](ARCHITECTURE.md).
+The repository contains runtime foundations for context and reasoning orchestration, memory and knowledge stores, research and experiments, evaluation and learning, work queues and bounded agents, economic opportunity analysis, multi-agent routing, world-model simulation, controlled evolution and promotion, federation boundaries, recovery, bounded autonomous operations, and the Cognitive OS facade.
 
-## Version
-Architecture baseline: v3.0.0 — Cognitive Intelligence
+## Operating boundary
+External information is untrusted until provenance, security checks, cross-checking, and validation are satisfied.
+Destructive operations require human confirmation.
+The runtime does not contain credentials. Chat-session persistence depends on available ChatGPT memory/context and connected runtime. Full CI execution must be verified separately before claiming production readiness.
 
-## Runtime
-The runtime includes Power Mode plus memory intelligence, knowledge confidence analysis, controlled change gates, quality evaluation, multi-agent routing, safety safeguards, telemetry, and lesson learning. It remains on-demand rather than 24/7 by design.
+## GitHub / ChatGPT
+CHATGPT_BOOTSTRAP.md and CHATGPT_NEW_CHAT.md define the ChatGPT bootstrap protocol. The public bridge exposes only sanitized metadata and is read-only.
+
+## Verification
+Repository state is authoritative only when read from the current GitHub revision. Do not infer successful CI from the existence of a workflow file; verify actual workflow runs when available.
