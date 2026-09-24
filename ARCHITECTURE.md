@@ -1,4 +1,6 @@
-# Gungv-Nexus Architecture v1.2.0
+# Gungv-Nexus Architecture v18.0.0
+
+Gungv-Nexus is a GitHub-Native Cognitive System whose human interface can be ChatGPT.
 
 ## Core layers
 1. Human Interface
@@ -34,24 +36,23 @@
 31. Governance / Security
 32. Observability / Recovery
 
+## Runtime extensions through v18
+Work Queue → Persistent Bounded Agent → Research Intelligence → Experiment Lab → Economic Engine → Multi-Agent Mesh → World Model → Meta-Evaluation → Controlled Promotion → Federation → Recovery OS → Bounded Autonomous Operations → Cognitive OS.
+
 ## Reality boundary
-REALITY -> OBSERVATION -> DATA -> MODEL -> INFERENCE -> HYPOTHESIS -> SIMULATION -> EXPERIMENT -> VALIDATED KNOWLEDGE
+REALITY → OBSERVATION → DATA → MODEL → INFERENCE → HYPOTHESIS → SIMULATION → EXPERIMENT → VALIDATED KNOWLEDGE
 
 ## Memory lifecycle
-DISCOVERED -> RAW -> VALIDATING -> ACTIVE -> CONFIRMED -> STALE -> ARCHIVED
+DISCOVERED → RAW → VALIDATING → ACTIVE → CONFIRMED → STALE → ARCHIVED
 
 ## Experiment lifecycle
-QUESTION -> HYPOTHESIS -> DESIGN -> BRANCH -> IMPLEMENT -> TEST -> BENCHMARK -> RESULT -> CONCLUSION
+QUESTION → HYPOTHESIS → DESIGN → BRANCH → IMPLEMENT → TEST → BENCHMARK → RESULT → CONCLUSION
 
 ## Change lifecycle
-PROPOSE -> IMPACT ANALYSIS -> ISOLATE -> TEST -> EVALUATE -> REVIEW -> PROMOTE -> RECORD
+PROPOSE → IMPACT ANALYSIS → ISOLATE → TEST → EVALUATE → REVIEW → PROMOTE → RECORD
 
 ## External-source lifecycle
-EXTERNAL -> UNTRUSTED -> SANDBOX -> PARSE -> SECURITY CHECK -> PROVENANCE -> CROSS-CHECK -> EXPERIMENT -> VALIDATED
-
-
-## Integration foundation
-The runtime now includes explicit world/self models, attention/planning/decision preparation, knowledge graph, confidence and contradiction checks, dependency impact analysis, digital-twin simulation, repository audit/snapshots, safe replay, anomaly detection, controlled evolution, research/federation boundaries, and integration tests.
+EXTERNAL → UNTRUSTED → SANDBOX → PARSE → SECURITY CHECK → PROVENANCE → CROSS-CHECK → EXPERIMENT → VALIDATED
 
 ## Safety boundary
-Human decisions remain authoritative. Destructive repository changes require explicit confirmation. External sources remain untrusted until provenance, security checks, cross-checking, and validation are complete.
+Human authority remains final. Destructive repository changes require explicit confirmation. External sources remain untrusted until validated. Production readiness requires verified tests and runtime evidence, not architecture metadata alone.
