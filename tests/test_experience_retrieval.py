@@ -28,6 +28,7 @@ def test_experience_retrieval_prefers_quality():
     assert len(results) == 2
     assert results[0]["quality"] > results[1]["quality"]
     assert results[0]["retrieval_score"] > results[1]["retrieval_score"]
+    assert results[0]["confidence"] == 0.9
 
 
 def test_experience_retrieval_returns_relevant_lessons():
