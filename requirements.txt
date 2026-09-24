@@ -1,2 +1,9 @@
-# Runtime dependencies
+# Core runtime
 pytest>=8,<9
+
+# Optional AI integrations
+# Install only after environment review and validation.
+# langgraph
+# r2r
+# khoj
+# browser-use
