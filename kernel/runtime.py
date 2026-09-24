@@ -15,6 +15,7 @@ from memory.intelligence import MemoryIntelligence
 from knowledge.intelligence import KnowledgeIntelligence
 from governance.gate import ChangeGate
 from evaluation.quality import QualityEvaluator
+from cognition.runtime_loop import CognitiveRuntimeLoop
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -34,6 +35,7 @@ class NexusRuntime:
         self.knowledge_intelligence_engine=KnowledgeIntelligence(self)
         self.change_gate_engine=ChangeGate()
         self.quality_engine=QualityEvaluator()
+        self.cognitive_loop=CognitiveRuntimeLoop(self)
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -83,6 +85,9 @@ class NexusRuntime:
 
     def quality_evaluate(self, result):
         return self.quality_engine.evaluate(result)
+
+    def cognitive_cycle(self, objective: str, task: str):
+        return self.cognitive_loop.run(objective, task)
 
     def health(self):
         return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
