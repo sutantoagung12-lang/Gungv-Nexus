@@ -2,45 +2,40 @@
 
 AI Live Host is a credential-free control-plane MVP for an autonomous live host.
 
-## Scope
+## Implemented
 - AI conversation controller
-- session memory
-- chat event queue
-- donation/fan-funding event abstraction
-- YouTube Live REST adapter
+- short session memory
+- chat and support event handling
+- optional OpenAI Responses API integration
+- YouTube Live chat adapter
 - safe dry-run mode
 - mobile-friendly dashboard
 - no credentials committed to Git
 
-## Runtime
-The MVP uses Python standard library only. Optional AI generation uses the OpenAI Responses API through HTTPS when `OPENAI_API_KEY` is present.
-
-Required for YouTube live operations:
-- `YOUTUBE_ACCESS_TOKEN` with the required YouTube OAuth scopes
-- `YOUTUBE_LIVE_CHAT_ID` for an existing live chat
-
-The MVP deliberately does not automate OAuth consent or store tokens.
-
-## Start
-
+## Run
 ```bash
-python -m ai_live_host.server
+python ai-live-host/server.py
 ```
 
-Open the dashboard on the configured host at `/`.
+Open the dashboard at `http://HOST:8790/`.
 
 Health: `/health`
 Status: `/api/status`
-Demo event: `POST /api/demo`
-Send chat: `POST /api/chat`
-Send support event: `POST /api/support`
-Generate AI response: `POST /api/respond`
-Send a YouTube chat message: `POST /api/youtube/chat`
+Demo: `POST /api/demo`
+Chat: `POST /api/chat`
+Support simulation: `POST /api/support`
+YouTube chat: `POST /api/youtube/chat`
 
-Set `LIVE_DRY_RUN=1` for safe testing (default).
+## Environment
+Optional AI:
+- `OPENAI_API_KEY`
+- `OPENAI_MODEL`
 
-## Safety boundary
+YouTube chat:
+- `YOUTUBE_ACCESS_TOKEN`
+- `YOUTUBE_LIVE_CHAT_ID`
 
-The system never claims that a stream, monetization feature, or donation was activated merely because configuration exists. Runtime responses expose explicit states: `configured`, `connected`, `ready`, and `dry_run`.
+Use `LIVE_DRY_RUN=1` (default) while testing. Set it to `0` only after the YouTube configuration and authorization have been independently verified.
 
-Platform eligibility and monetization remain controlled by the platform account and its policies.
+## Boundary
+The MVP does not store OAuth tokens, automate OAuth consent, create a public stream automatically, or claim monetization is active. Platform eligibility remains controlled by the platform.
