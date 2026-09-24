@@ -6,6 +6,7 @@ from memory.experience_store import ExperienceStore
 from memory.retrieval import ExperienceRetriever
 from memory.skill_store import SkillStore
 from evolution.skills import SkillLearning
+from evolution.self_repair import SelfRepairEngine
 from knowledge.store import KnowledgeStore
 from agents.orchestrator import Orchestrator
 from security.policy import SecurityPolicy
@@ -45,6 +46,7 @@ class NexusRuntime:
         self.experience_retriever=ExperienceRetriever(self.experiences)
         self.skills=SkillStore(str(self.root/"memory/data/skills.jsonl"))
         self.skill_learning=SkillLearning(self.skills)
+        self.self_repair=SelfRepairEngine()
         self.knowledge=KnowledgeStore(str(self.root/"knowledge/data/claims.jsonl"))
         self.context=ContextCompiler()
         self.orchestrator=Orchestrator()
@@ -120,6 +122,14 @@ class NexusRuntime:
             "execution": execution,
             "learning": learning
         }
+
+    def diagnose_failure(self, failure: dict):
+        return self.self_repair.diagnose(failure)
+
+    def validate_repair(self, candidate, *, tests_passed: bool, regression_free: bool):
+        return self.self_repair.validate(
+            candidate, tests_passed=tests_passed, regression_free=regression_free
+        )
 
     def power_plan(self, objective: str, task: str):
         return self.power.plan(objective, task)
