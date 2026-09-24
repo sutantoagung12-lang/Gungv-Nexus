@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "experience-driven-learning",
+  "health": "unified-adaptive-intelligence",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -164,12 +164,11 @@
     "capability_pool_expansion": "1000 new GitHub repository metadata entries added to the capability pool; no source code copied or installed; CI execution not independently verified.",
     "adaptive_cognitive_runtime": "Core modules and repository tests added; CI execution not independently verified."
   },
-  "version": "22.0.0",
-  "runtime": "task -> execution -> evaluation -> reward -> experience -> lesson -> provider learning -> future planning",
+  "version": "23.0.0",
+  "runtime": "memory -> planning -> tool selection -> foresight -> execution gate -> evaluation -> reward -> experience -> lesson -> adaptation",
   "last_evolution": {
-    "version": "22.0.0",
-    "status": "experience-driven-learning",
-    "commit": "cd46ec164e83c1efeb1adc3030e1b39be0615bc2",
+    "version": "23.0.0",
+    "commit": "03476a062b6b0b365da8db8ebe06fd4162302e04",
     "ci_verified": false
   }
 }
