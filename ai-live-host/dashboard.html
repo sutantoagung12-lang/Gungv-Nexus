@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Gungv AI Live Host</title>
+<style>
+body{margin:0;background:#0f1115;color:#f3f4f6;font:16px system-ui,sans-serif}
+main{max-width:720px;margin:auto;padding:20px}
+.card{background:#191d24;border:1px solid #2b313c;border-radius:16px;padding:16px;margin:12px 0}
+button,input{width:100%;box-sizing:border-box;border-radius:12px;padding:13px;margin-top:8px;font:inherit}
+button{border:0;cursor:pointer}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#0d0f13;padding:12px;border-radius:12px}
+.small{color:#aeb6c3;font-size:13px}
+</style>
+</head>
+<body>
+<main>
+<h1>🤖 Gungv AI Live Host</h1>
+<p class="small">MVP aman: dry-run aktif secara default. Tidak ada credential yang disimpan di browser.</p>
+<div class="card">
+<button onclick="call('/api/start')">▶ Mulai sesi AI</button>
+<button onclick="call('/api/stop')">■ Hentikan sesi</button>
+<button onclick="call('/api/demo')">🧪 Jalankan demo</button>
+</div>
+<div class="card">
+<h3>Chat simulasi</h3>
+<input id="user" placeholder="Nama penonton">
+<input id="text" placeholder="Pesan penonton">
+<button onclick="chat()">Kirim</button>
+</div>
+<div class="card">
+<h3>Support simulasi</h3>
+<input id="supportUser" placeholder="Nama pendukung">
+<input id="amount" type="number" min="0" placeholder="Nominal IDR">
+<button onclick="support()">💰 Simulasikan dukungan</button>
+</div>
+<div class="card"><h3>Status</h3><pre id="out">Memuat...</pre></div>
+<script>
+async function call(path, body){
+ const r=await fetch(path,{method:body?'POST':'GET',headers:{'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});
+ const j=await r.json(); document.getElementById('out').textContent=JSON.stringify(j,null,2); return j;
+}
+async function chat(){await call('/api/chat',{user:user.value,text:text.value});}
+async function support(){await call('/api/support',{user:supportUser.value,amount:Number(amount.value||0),currency:'IDR'});}
+async function status(){await call('/api/status');}
+status();
+setInterval(status,5000);
+</script>
+</main>
+</body>
+</html>
