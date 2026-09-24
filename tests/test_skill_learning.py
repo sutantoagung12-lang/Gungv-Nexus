@@ -5,7 +5,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from evolution.skills import SkillLearning
-from memory.skill_store import SkillStore
+from memory.skill_store import Skill, SkillStore
 
 
 def test_skill_promotes_after_repeated_quality_evidence():
@@ -35,7 +35,7 @@ def test_skill_store_persists_and_retrieves():
     with tempfile.TemporaryDirectory() as tmp:
         path = Path(tmp) / "skills.jsonl"
         store = SkillStore(str(path))
-        store.upsert(__import__("memory.skill_store", fromlist=["Skill"]).Skill(
+        store.upsert(Skill(
             skill_id="abc123",
             name="agent planning",
             description="Reusable procedure for planning tasks",
