@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "1.0",
+  "architecture_version": "1.1.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -12,33 +12,53 @@
     "topology": "github/topology/topology.json"
   },
   "memory_state": {
-    "status": "initialized"
+    "status": "implemented",
+    "store": "memory/store.py"
   },
   "knowledge_state": {
-    "status": "initialized"
+    "status": "implemented",
+    "store": "knowledge/store.py"
   },
   "agent_state": {
-    "status": "not_yet_implemented"
+    "status": "implemented",
+    "registry": "agents/registry.py",
+    "orchestrator": "agents/orchestrator.py"
   },
   "experiment_state": {
-    "status": "initialized"
+    "status": "implemented",
+    "engine": "experiments/engine.py"
   },
   "health": {
-    "status": "baseline"
+    "status": "runtime-baseline",
+    "last_validation": "repository workflow configured"
   },
   "anomalies": [],
   "capabilities": [
     "repository registry",
     "architecture metadata",
     "epistemic policy",
-    "federation source classification"
+    "federation source classification",
+    "context compilation",
+    "memory store",
+    "knowledge store",
+    "agent routing",
+    "security policy",
+    "provenance",
+    "epistemic firewall",
+    "experiment engine",
+    "evaluation engine",
+    "recovery planning",
+    "telemetry",
+    "offline runtime CLI"
   ],
   "limitations": [
-    "runtime orchestration not yet implemented",
-    "chat-session persistence depends on available memory/context mechanisms"
+    "runtime does not contain credentials",
+    "destructive GitHub operations remain confirmation-gated",
+    "chat-session persistence depends on available ChatGPT memory/context and runtime deployment",
+    "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "1.0",
-    "status": "baseline"
+    "version": "1.1.0",
+    "status": "runtime-foundation"
   }
 }
