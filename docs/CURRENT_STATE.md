@@ -1,14 +1,15 @@
 # Current State
 
-- Architecture: 18.0.0
-- Health: cognitive-os-foundations-integrated
+- Architecture: 27.0.0
+- Health: self-learning-skill-evolution-with-guarded-repair
 - GitHub repository: public, main
 - Cognitive OS foundations: integrated
+- Self-learning and guarded self-repair: implemented
 - ChatGPT bootstrap protocol: present
 - Public bridge: sanitized, read-only
 - Destructive operations: confirmation-gated
 - Credentials in runtime: none by design
-- CI verification: not independently confirmed for the latest bootstrap commit
+- CI verification: latest main commit is currently queued for validation/smoke workflows; not yet passed
 - Production readiness: not claimed
 
 ## Next operating principle
