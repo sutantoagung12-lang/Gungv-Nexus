@@ -1,15 +1,26 @@
-"""Unified discovery surface for the optional public AI stack."""
+"""Unified discovery surface for external AI capabilities."""
 
+from .adk import GoogleADKAdapter
+from .agno import AgnoAdapter
 from .browser_use import BrowserUseAdapter
+from .dspy import DSPyAdapter
 from .khoj import KhojAdapter
 from .langgraph import LangGraphAdapter
+from .pydantic_ai import PydanticAIAdapter
 from .r2r import R2RAdapter
 
 
+ADAPTERS = [
+    LangGraphAdapter,
+    R2RAdapter,
+    KhojAdapter,
+    BrowserUseAdapter,
+    GoogleADKAdapter,
+    AgnoAdapter,
+    DSPyAdapter,
+    PydanticAIAdapter,
+]
+
+
 def status() -> list[dict]:
-    return [
-        LangGraphAdapter().status(),
-        R2RAdapter().status(),
-        KhojAdapter().status(),
-        BrowserUseAdapter().status(),
-    ]
+    return [adapter().status() for adapter in ADAPTERS]
