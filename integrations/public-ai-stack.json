@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "policy": {
+    "external_code_untrusted": true,
+    "adapter_first": true,
+    "license_validation_required": true,
+    "tests_required_before_activation": true,
+    "human_approval_for_destructive_actions": true
+  },
+  "capabilities": [
+    {"name":"LangGraph","repository":"langchain-ai/langgraph","target":"agents/orchestrator.py","mode":"adapter","priority":"high"},
+    {"name":"CrewAI","repository":"crewAIInc/crewAI","target":"agents/registry.py","mode":"adapter","priority":"medium"},
+    {"name":"OpenHands","repository":"OpenHands/OpenHands","target":"workers/development","mode":"isolated-adapter","priority":"high"},
+    {"name":"browser-use","repository":"browser-use/browser-use","target":"workers/browser","mode":"isolated-adapter","priority":"high"},
+    {"name":"Dify","repository":"langgenius/dify","target":"automation","mode":"service-connector","priority":"medium"},
+    {"name":"n8n","repository":"n8n-io/n8n","target":"automation","mode":"service-connector","priority":"medium"},
+    {"name":"Khoj","repository":"khoj-ai/khoj","target":"memory","mode":"adapter","priority":"high"},
+    {"name":"R2R","repository":"SciPhi-AI/R2R","target":"knowledge","mode":"adapter","priority":"high"},
+    {"name":"LocalAI","repository":"mudler/LocalAI","target":"Neuron","mode":"provider-adapter","priority":"medium"}
+  ]
+}
