@@ -1,0 +1,1 @@
+# Security\n\nNever store secrets in this repository. Enforce least privilege, source isolation, authorization boundaries, external-input distrust, and recovery procedures.\n
