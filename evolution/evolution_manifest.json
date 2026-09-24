@@ -1,0 +1,23 @@
+{
+  "version": "19.0.0",
+  "name": "Gungv-Nexus Evolution Layer",
+  "status": "capability-composition-runtime",
+  "changes": [
+    "dynamic capability index",
+    "task-to-capability resolution",
+    "181-entry external capability pool",
+    "bounded capability suggestions",
+    "evolution telemetry metadata"
+  ],
+  "policy": {
+    "external_code_untrusted": true,
+    "registry_first": true,
+    "execution_requires_validated_adapter": true,
+    "destructive_actions_require_human_approval": true
+  },
+  "runtime_contract": {
+    "external_execution_default": false,
+    "capability_resolution_is_read_only": true,
+    "pool_is_not_dependency_installation": true
+  }
+}
