@@ -13,6 +13,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from integrations.github_pool import capabilities
+from integrations.runtime_availability import detect
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "integrations" / "discovery-config.json"
@@ -130,15 +131,26 @@ def write_snapshot(output: str | Path | None = None) -> tuple[Path, int]:
     target = Path(output) if output else ROOT / config["output"]
     target.parent.mkdir(parents=True, exist_ok=True)
 
-    candidates = discover()
-    added = integrate_into_pool(candidates)
+    runtime = detect()
+    try:
+        candidates = discover()
+        added = integrate_into_pool(candidates)
+        status = "integrated-metadata-only"
+        error = None
+    except Exception as exc:
+        candidates = []
+        added = 0
+        status = "degraded-no-discovery"
+        error = f"{type(exc).__name__}: {exc}"
 
     payload = {
         "version": "1.1.0",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": "GitHub Search API",
-        "status": "integrated-metadata-only",
+        "status": status,
         "added_to_capability_pool": added,
+        "runtime_availability": runtime,
+        "error": error,
         "candidates": candidates,
     }
     target.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
