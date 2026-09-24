@@ -9,6 +9,8 @@ from telemetry.logger import Telemetry
 from agents.execution import ExecutionEngine
 from evaluation.engine import Evaluator
 from evolution.learning import LearningLoop
+from cognition.attention import AttentionEngine
+from cognition.power import PowerEngine
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -22,6 +24,8 @@ class NexusRuntime:
         self.execution=ExecutionEngine(self)
         self.evaluator=Evaluator()
         self.learning=LearningLoop(self)
+        self.attention=AttentionEngine(limit=8)
+        self.power=PowerEngine(self)
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -53,6 +57,9 @@ class NexusRuntime:
             "execution": execution,
             "learning": learning
         }
+
+    def power_plan(self, objective: str, task: str):
+        return self.power.plan(objective, task)
 
     def health(self):
         return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
