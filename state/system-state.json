@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "1.5.0",
+  "architecture_version": "2.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,10 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": {
-    "status": "cognitive-loop-complete",
-    "last_validation": "runtime modules, orchestration, safe execution, evaluation, learning, and tests are present; GitHub Actions execution not independently verified"
-  },
+  "health": "power-mode-integrated",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -81,7 +78,12 @@
     "safe execution layer",
     "evaluation-to-learning loop",
     "full cognitive cycle",
-    "cycle test coverage"
+    "cycle test coverage",
+    "relevance-ranked attention",
+    "confidence-aware memory retrieval",
+    "power-mode planning",
+    "multi-agent cognitive routing",
+    "controlled cognitive safeguards"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -92,5 +94,8 @@
   "evolution_state": {
     "version": "1.5.0",
     "status": "cognitive-loop-complete"
+  },
+  "last_validation": {
+    "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified."
   }
 }
