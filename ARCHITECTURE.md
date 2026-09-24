@@ -1,4 +1,4 @@
-# Gungv-Nexus Architecture v18.0.0
+# Gungv-Nexus Architecture v27.0.0
 
 Gungv-Nexus is a GitHub-Native Cognitive System whose human interface can be ChatGPT.
 
@@ -35,9 +35,10 @@ Gungv-Nexus is a GitHub-Native Cognitive System whose human interface can be Cha
 30. GitHub Operating Layer
 31. Governance / Security
 32. Observability / Recovery
+33. Guarded Self-Repair
 
-## Runtime extensions through v18
-Work Queue → Persistent Bounded Agent → Research Intelligence → Experiment Lab → Economic Engine → Multi-Agent Mesh → World Model → Meta-Evaluation → Controlled Promotion → Federation → Recovery OS → Bounded Autonomous Operations → Cognitive OS.
+## Runtime extensions through v27
+Work Queue → Persistent Bounded Agent → Research Intelligence → Experiment Lab → Economic Engine → Multi-Agent Mesh → World Model → Meta-Evaluation → Controlled Promotion → Federation → Recovery OS → Bounded Autonomous Operations → Cognitive OS → Experience/Skill Learning → Failure Diagnosis → Repair Candidate Generation → Isolated Validation → Regression-Gated Promotion.
 
 ## Reality boundary
 REALITY → OBSERVATION → DATA → MODEL → INFERENCE → HYPOTHESIS → SIMULATION → EXPERIMENT → VALIDATED KNOWLEDGE
@@ -55,4 +56,4 @@ PROPOSE → IMPACT ANALYSIS → ISOLATE → TEST → EVALUATE → REVIEW → PRO
 EXTERNAL → UNTRUSTED → SANDBOX → PARSE → SECURITY CHECK → PROVENANCE → CROSS-CHECK → EXPERIMENT → VALIDATED
 
 ## Safety boundary
-Human authority remains final. Destructive repository changes require explicit confirmation. External sources remain untrusted until validated. Production readiness requires verified tests and runtime evidence, not architecture metadata alone.
+Human authority remains final. Destructive repository changes require explicit confirmation. External sources remain untrusted until validated. Guarded self-repair can generate and validate candidates but does not bypass safety gates or deploy unverified code. Production readiness requires verified tests and runtime evidence.
