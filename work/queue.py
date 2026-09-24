@@ -1,3 +1,4 @@
+"""Persistent-ready work queue."""
 class WorkQueue:
     def __init__(self): self.items=[]
     def enqueue(self,objective,task):
