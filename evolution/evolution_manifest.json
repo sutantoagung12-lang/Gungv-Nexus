@@ -1,7 +1,7 @@
 {
-  "version": "21.0.0",
+  "version": "22.0.0",
   "name": "Gungv-Nexus Evolution Layer",
-  "status": "adaptive-cognitive-runtime",
+  "status": "experience-driven-learning",
   "changes": [
     "capability graph",
     "runtime readiness states",
@@ -11,7 +11,10 @@
     "structured experience memory",
     "resource-aware planning",
     "risk-aware activation gate",
-    "runtime-adaptive orchestration"
+    "runtime-adaptive orchestration",
+    "reward-aware provider learning",
+    "lesson distillation from experience",
+    "bounded experience-driven learning engine"
   ],
   "policy": {
     "external_code_untrusted": true,
@@ -25,6 +28,7 @@
     "capability_resolution_is_read_only": true,
     "pool_is_not_dependency_installation": true,
     "fallback_planning_is_non_executing": true,
-    "experience_memory_is_bounded": true
+    "experience_memory_is_bounded": true,
+    "learning_loop": "experience -> evaluation -> reward -> provider learning -> lesson distillation -> future resolution"
   }
 }
