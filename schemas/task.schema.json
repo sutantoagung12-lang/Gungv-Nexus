@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","title":"Task","type":"object","required":["id","goal","status"],"properties":{"id":{"type":"string"},"goal":{"type":"string"},"status":{"type":"string"},"dependencies":{"type":"array"},"actions":{"type":"array"},"results":{"type":"array"}}}
