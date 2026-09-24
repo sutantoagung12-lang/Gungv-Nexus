@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "1.2.0",
+  "architecture_version": "1.3.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -29,8 +29,8 @@
     "engine": "experiments/engine.py"
   },
   "health": {
-    "status": "integration-foundation",
-    "last_validation": "runtime modules and governance components committed; CI configured, execution not independently verified"
+    "status": "fabric-integration-ready",
+    "last_validation": "integration modules and tests committed; CI execution still requires verification"
   },
   "anomalies": [],
   "capabilities": [
@@ -65,7 +65,14 @@
     "safe replay",
     "anomaly detection",
     "benchmark runner",
-    "ChatGPT bootstrap manifest"
+    "ChatGPT bootstrap manifest",
+    "repository audit trail",
+    "resource catalog",
+    "controlled evolution",
+    "research source boundary",
+    "federation cross-check",
+    "snapshot schema",
+    "integration tests"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -74,7 +81,7 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "1.2.0",
-    "status": "integration-foundation"
+    "version": "1.3.0",
+    "status": "fabric-integration-ready"
   }
 }
