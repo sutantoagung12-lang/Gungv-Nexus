@@ -75,6 +75,15 @@ class ExperienceStore:
                  "evidence_count": 1}
                 for lesson in item["lessons"]
             ]
+        if item["lesson_records"]:
+            item["confidence"] = max(
+                float(record.get("confidence", 0.0))
+                for record in item["lesson_records"]
+            )
+            item["evidence_count"] = max(
+                int(record.get("evidence_count", 1))
+                for record in item["lesson_records"]
+            )
         self._items.append(item)
         self._items = self._items[-self.max_items:]
         for record in item["lesson_records"]:
