@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "26.0.0",
+  "architecture_version": "27.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -32,7 +32,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "persistent-skill-learning-runtime",
+  "health": "self-learning-skill-evolution-with-guarded-repair",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -52,7 +52,10 @@
     "recency-aware retrieval",
     "persistent experience memory",
     "quality-gated skill promotion",
-    "persistent skill retrieval"
+    "persistent skill retrieval",
+    "failure diagnosis",
+    "repair candidate generation",
+    "regression-gated self-repair"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -61,28 +64,20 @@
     "external sources remain untrusted until validated",
     "CI execution is not independently verified",
     "experience and skill stores use bounded local JSONL persistence",
-    "skill promotion requires repeated high-quality evidence and remains deterministic/lexical"
+    "skill promotion requires repeated high-quality evidence and remains deterministic/lexical",
+    "self-repair is candidate-based and validation-gated; it does not autonomously bypass safety or deploy unverified code"
   ],
   "evolution_state": {
-    "version": "26.0.0",
-    "status": "persistent-skill-learning-runtime",
-    "runtime": "task -> skill retrieval -> experience retrieval -> memory/knowledge retrieval -> planning -> tool selection -> foresight -> safety gate -> execution -> evaluation -> reward -> reflection -> abstraction -> quality gate -> persistent experience -> repeated-evidence skill promotion -> future skill reuse",
-    "memory_learning": "bounded experiences persist across runtime restarts; repeated high-quality lessons can be promoted into reusable skills only after deterministic evidence thresholds"
+    "version": "27.0.0",
+    "status": "self-learning-skill-evolution-with-guarded-repair",
+    "runtime": "task -> skill retrieval -> experience retrieval -> planning -> execution -> evaluation -> reflection -> persistent learning -> skill promotion -> failure diagnosis -> repair candidate -> isolated validation -> regression gate -> controlled promotion -> reuse"
   },
   "last_evolution": {
-    "version": "26.0.0",
+    "version": "27.0.0",
     "commits": [
-      "a3af6fcebc0d92561c075cae9d44f851277e8e22",
-      "29f9f71153c5feeb3fa04b7433eef5059fb8f295",
-      "5175b5935c08c37d580018f08ef09d0133de94ca",
-      "b0644243e40f1133b34c6eebc72b057909c8e0af",
-      "104b927eacdc0024c0129ef9a95bd48d003f142d",
-      "8b55b0cd14f9fc19a5d705cdb7912c15aa0d1407",
-      "7decd9dbf27f061bf76e2ff3a31650484bc6c064",
-      "f5b30683aaba7d4b0f1139b315984958a7c412a9",
-      "8e7f19c729f7f592a03d064fe359a1568a855954",
-      "71d455e4b16677ed3786b0b5dd874c1353c45eab",
-      "b086f732066d3e86dd03e3200be90e4abc436dc8"
+      "85a4ec0a21d94d831364012e27f255ba01e87990",
+      "b3832c808e2868883b986e400f0f403d7d15b434",
+      "767773d3ae888b65596ec9e1f29c7cf34fe21fd3"
     ],
     "ci_verified": false
   }
