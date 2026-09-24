@@ -27,6 +27,14 @@ class Memory:
     def to_dict(self):
         return asdict(self)
 
+    def is_stale(self, days=30):
+        try:
+            from datetime import datetime, timezone, timedelta
+            dt=datetime.fromisoformat(self.updated_at.replace("Z","+00:00"))
+            return datetime.now(timezone.utc)-dt > timedelta(days=days)
+        except Exception:
+            return False
+
 @dataclass
 class Task:
     id: str
