@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python bridge/build_static.py
+      - run: python bridge/build_public.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: bridge/site
