@@ -11,6 +11,7 @@ class CycleResult:
     context: dict
     status: str
     experience_cases: list
+    skills: list
     lesson: str = ""
 
 class OrchestrationCycle:
@@ -23,6 +24,7 @@ class OrchestrationCycle:
         memories = self.runtime.memory.search(task)
         knowledge = self.runtime.knowledge.search(task)
         experience_cases = self.runtime.experience_retriever.rank(task, limit=5)
+        skills = self.runtime.skill_learning.retrieve(task, limit=5)
         ctx = self.runtime.context.compile(
             task, memories=memories, knowledge=knowledge
         )
@@ -30,7 +32,8 @@ class OrchestrationCycle:
         self.runtime.telemetry.emit(
             "cycle_started", cycle_id=cycle_id, goal=goal,
             task=task, agents=selected,
-            retrieved_experiences=len(experience_cases)
+            retrieved_experiences=len(experience_cases),
+            retrieved_skills=len(skills)
         )
 
         result = CycleResult(
@@ -40,7 +43,8 @@ class OrchestrationCycle:
             agents=selected,
             context=ctx.__dict__,
             status="READY_FOR_EXECUTION",
-            experience_cases=experience_cases
+            experience_cases=experience_cases,
+            skills=skills
         )
 
         self.runtime.memory.add({
