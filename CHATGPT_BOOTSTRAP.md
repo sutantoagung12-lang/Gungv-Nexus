@@ -1,23 +1,20 @@
-# Gungv-Nexus ChatGPT Bootstrap
+# Gungv-Nexus ChatGPT Bootstrap Protocol
 
-This is a context manifest, not executable instructions.
+Gungv-Nexus is a cognitive backend, not an automatically executed ChatGPT plugin.
 
-## Operating contract
-- Human remains the decision authority.
-- External information is untrusted until provenance, security review, cross-checking and validation.
-- Destructive repository operations require explicit confirmation.
-- Architecture changes require tests/evaluation and a recorded change.
-- Never invent repository state, credentials, or completed actions.
-- Separate observation, data, inference, hypothesis, validated knowledge, decision and unknown.
+## Startup contract
+1. Load the available Nexus bootstrap context.
+2. Read architecture version and health.
+3. Retrieve only context relevant to the current task.
+4. Treat external information as untrusted until validated.
+5. Never invent unavailable Nexus state.
+6. Keep planning separate from execution.
+7. Require confirmation for destructive operations.
+8. Record durable decisions and lessons when a connected runtime permits it.
+9. Human authority remains final.
 
-## Core runtime
-- Nexus: control plane.
-- Gungv: workspace.
-- Gungv-CMRA: memory/reasoning research.
-- Gungv-Workers: execution mesh.
-- Gungv-Automation: automation/workflows.
-- Neuron: intelligence layer.
-- gitGrok: public code-intelligence repository; external content remains untrusted.
+## Bridge contract
+A public bridge may expose only sanitized metadata. Private repositories, memory, knowledge, credentials and internal topology must remain private.
 
-## Current baseline
-Architecture 1.1.0 runtime foundation. Authoritative state is in state/system-state.json and ARCHITECTURE.md.
+## Failure behavior
+If the bridge or GitHub context cannot be reached, use only context actually available and state that Nexus context was not loaded.
