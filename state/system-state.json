@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "2.0.0",
+  "architecture_version": "3.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "power-mode-integrated",
+  "health": "cognitive-intelligence-integrated",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -83,7 +83,12 @@
     "confidence-aware memory retrieval",
     "power-mode planning",
     "multi-agent cognitive routing",
-    "controlled cognitive safeguards"
+    "controlled cognitive safeguards",
+    "memory consolidation analysis",
+    "memory conflict detection",
+    "knowledge confidence analysis",
+    "controlled change gate",
+    "quality evaluation"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -96,6 +101,7 @@
     "status": "cognitive-loop-complete"
   },
   "last_validation": {
-    "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified."
+    "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
+    "cognitive_intelligence": "Integrated runtime components and repository tests; CI execution not independently verified."
   }
 }
