@@ -19,6 +19,8 @@ class IntelligenceProfile:
     foresight: bool = True
     uncertainty_gating: bool = True
     safety_gating: bool = True
+    reflection: bool = True
+    quality_aware_memory: bool = True
     multi_agent: bool = True
 
 
