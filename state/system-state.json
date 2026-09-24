@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "4.0.0",
+  "architecture_version": "5.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "integrated-cognitive-runtime",
+  "health": "growth-capable-runtime",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -93,7 +93,11 @@
     "privacy-preserving bootstrap",
     "ChatGPT bootstrap protocol",
     "integrated cognitive runtime",
-    "risk-gated cognitive cycles"
+    "risk-gated cognitive cycles",
+    "opportunity evaluation",
+    "continuous research loop",
+    "recoverable task checkpoints",
+    "sustainable monetization research"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -109,6 +113,7 @@
     "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
     "cognitive_intelligence": "Integrated runtime components and repository tests; CI execution not independently verified.",
     "bridge_security": "Public bridge workflow now builds only sanitized metadata; private topology, memory, knowledge and secrets excluded by design.",
-    "runtime_cycle": "Integrated cognitive cycle added with execution gate and evaluation."
+    "runtime_cycle": "Integrated cognitive cycle added with execution gate and evaluation.",
+    "growth_runtime": "Growth, research and checkpoint components integrated; profitability is evaluated, not guaranteed."
   }
 }
