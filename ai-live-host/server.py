@@ -1,8 +1,4 @@
-"""Mobile-friendly HTTP server for the AI Live Host MVP.
-
-Run directly:
-    python ai-live-host/server.py
-"""
+"""Mobile-friendly HTTP server for the AI Live Host MVP."""
 from __future__ import annotations
 
 import json
@@ -10,6 +6,7 @@ import os
 import sys
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
+from urllib.parse import urlparse, parse_qs
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
@@ -45,12 +42,26 @@ class Handler(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
     def do_GET(self) -> None:
-        if self.path == "/":
+        parsed = urlparse(self.path)
+        if parsed.path == "/":
             self.send_html((ROOT / "dashboard.html").read_bytes())
-        elif self.path == "/health":
+        elif parsed.path == "/scene":
+            self.send_html((ROOT / "live_scene.html").read_bytes())
+        elif parsed.path == "/health":
             self.send_json({"status": "ok", "service": "ai-live-host"})
-        elif self.path == "/api/status":
+        elif parsed.path == "/api/status":
             self.send_json(controller.status())
+        elif parsed.path == "/api/scene":
+            since = parse_qs(parsed.query).get("since", [""])[0]
+            event = controller.events[-1] if controller.events else None
+            if event is None or event.event_id == since:
+                self.send_json({})
+            else:
+                response = controller.memory.messages[-1]["text"] if controller.memory.messages else ""
+                self.send_json({
+                    "event_id": event.event_id, "kind": event.kind, "user": event.user,
+                    "response": response,
+                })
         else:
             self.send_json({"error": "not_found"}, 404)
 
@@ -72,13 +83,9 @@ class Handler(BaseHTTPRequestHandler):
                 amount = float(data.get("amount", 0))
                 if amount < 0 or amount > 1_000_000_000:
                     raise ValueError("invalid amount")
-                event = Event(
-                    kind="support",
-                    text=str(data.get("text", ""))[:500],
-                    user=str(data.get("user", ""))[:100],
-                    amount=amount,
-                    currency=str(data.get("currency", "IDR"))[:10],
-                )
+                event = Event(kind="support", text=str(data.get("text", ""))[:500],
+                              user=str(data.get("user", ""))[:100], amount=amount,
+                              currency=str(data.get("currency", "IDR"))[:10])
                 controller.ingest(event)
                 self.send_json({"event_id": event.event_id, "response": controller.respond(event)})
                 return
