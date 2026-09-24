@@ -1,0 +1,44 @@
+{
+  "identity": {
+    "name": "Gungv-Nexus",
+    "architecture": "GitHub-Native Cognitive System",
+    "owner_role": "human"
+  },
+  "architecture_version": "1.0",
+  "active_goals": [],
+  "active_tasks": [],
+  "repository_state": {
+    "registry": "github/registry/repositories.json",
+    "topology": "github/topology/topology.json"
+  },
+  "memory_state": {
+    "status": "initialized"
+  },
+  "knowledge_state": {
+    "status": "initialized"
+  },
+  "agent_state": {
+    "status": "not_yet_implemented"
+  },
+  "experiment_state": {
+    "status": "initialized"
+  },
+  "health": {
+    "status": "baseline"
+  },
+  "anomalies": [],
+  "capabilities": [
+    "repository registry",
+    "architecture metadata",
+    "epistemic policy",
+    "federation source classification"
+  ],
+  "limitations": [
+    "runtime orchestration not yet implemented",
+    "chat-session persistence depends on available memory/context mechanisms"
+  ],
+  "evolution_state": {
+    "version": "1.0",
+    "status": "baseline"
+  }
+}
