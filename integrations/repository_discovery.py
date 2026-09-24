@@ -88,19 +88,47 @@ def discover(limit_per_query: int | None = None) -> list[dict]:
     return candidates[: int(config["max_candidates"])]
 
 
-def write_snapshot(output: str | Path | None = None) -> Path:
+def integrate_into_pool(candidates: list[dict]) -> int:
+    config = load_config()
+    if not config["policy"].get("auto_merge_into_pool"):
+        return 0
+    pool = json.loads(POOL.read_text(encoding="utf-8"))
+    existing = {item.get("repository") for item in pool.get("repositories", [])}
+    threshold = float(config["policy"].get("auto_merge_min_score", 0))
+    additions = []
+    for item in candidates:
+        if item["repository"] in existing or item["score"] < threshold:
+            continue
+        entry = dict(item)
+        entry["integration_mode"] = "metadata-only"
+        entry["trust"] = "untrusted"
+        entry["requires_validation"] = True
+        additions.append(entry)
+        existing.add(item["repository"])
+    pool.setdefault("repositories", []).extend(additions)
+    pool["count"] = len(pool["repositories"])
+    pool["version"] = "1.2.0"
+    pool["last_update"] = datetime.now(timezone.utc).date().isoformat()
+    pool["policy"]["external_code_untrusted"] = True
+    pool["policy"]["auto_install"] = False
+    pool["policy"]["auto_merge_into_pool"] = True
+    POOL.write_text(json.dumps(pool, indent=2) + "\n", encoding="utf-8")
+    return len(additions)
+
+
+def write_snapshot(output: str | Path | None = None) -> tuple[Path, int]:
     config = load_config()
     target = Path(output) if output else ROOT / config["output"]
     target.parent.mkdir(parents=True, exist_ok=True)
     payload = {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": "GitHub Search API",
-        "status": "untrusted-discovery",
+        "status": "integrated-metadata-only",\n        "added_to_capability_pool": added,
         "candidates": discover(),
     }
     target.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
-    return target
+    return target, added
 
 
 if __name__ == "__main__":
