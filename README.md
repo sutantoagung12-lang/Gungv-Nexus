@@ -12,4 +12,7 @@ External information is untrusted until provenance, security, cross-checking, an
 See [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## Version
-Architecture baseline: v1.0
+Architecture baseline: v1.5.0
+
+## Runtime
+The local runtime supports goal-task orchestration, memory/context retrieval, safety-gated execution, evaluation, telemetry, and lesson learning. It is designed for on-demand operation rather than 24/7 service.
