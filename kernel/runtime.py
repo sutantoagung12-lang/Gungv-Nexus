@@ -19,6 +19,19 @@ from cognition.runtime_loop import CognitiveRuntimeLoop
 from economics.opportunity import OpportunityEngine
 from research.loop import ResearchLoop
 from recovery.checkpoint import CheckpointManager
+from work.queue import WorkQueue
+from agents.persistent import PersistentAgent
+from research.intelligence import ResearchIntelligence
+from experiments.lab import ExperimentLab
+from economics.engine import EconomicEngine
+from agents.mesh import AgentMesh
+from simulation.world import WorldModel
+from evolution.meta import MetaEvaluator
+from evolution.promotion import PromotionGate
+from federation.mesh import FederationMesh
+from recovery.os import RecoveryOS
+from operations.autonomous import AutonomousOperations
+from cognitive_os import CognitiveOS
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -42,6 +55,19 @@ class NexusRuntime:
         self.opportunity_engine=OpportunityEngine()
         self.research_loop=ResearchLoop(self)
         self.checkpoints=CheckpointManager(self)
+        self.work_queue=WorkQueue()
+        self.persistent_agent=PersistentAgent(self)
+        self.research_intelligence=ResearchIntelligence()
+        self.experiment_lab=ExperimentLab()
+        self.economic_engine=EconomicEngine()
+        self.agent_mesh=AgentMesh()
+        self.world_model=WorldModel()
+        self.meta_evaluator=MetaEvaluator()
+        self.promotion_gate=PromotionGate()
+        self.federation_mesh=FederationMesh()
+        self.recovery_os=RecoveryOS()
+        self.autonomous_operations=AutonomousOperations()
+        self.cognitive_os=CognitiveOS(self)
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -106,6 +132,9 @@ class NexusRuntime:
 
     def checkpoint_load(self, task_id):
         return self.checkpoints.load(task_id)
+
+    def roadmap18(self):
+        return {'versions':'6-18','status':'integrated-foundations','human_authority':True}
 
     def health(self):
         return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
