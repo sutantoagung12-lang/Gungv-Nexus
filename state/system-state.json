@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "1.3.0",
+  "architecture_version": "1.4.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -29,8 +29,8 @@
     "engine": "experiments/engine.py"
   },
   "health": {
-    "status": "fabric-integration-ready",
-    "last_validation": "integration modules and tests committed; CI execution still requires verification"
+    "status": "fabric-initialized",
+    "last_validation": "all 12 repositories inspected; integration manifests initialized; runtime CI execution not yet independently verified"
   },
   "anomalies": [],
   "capabilities": [
@@ -72,7 +72,11 @@
     "research source boundary",
     "federation cross-check",
     "snapshot schema",
-    "integration tests"
+    "integration tests",
+    "12-repository fabric registry",
+    "repository integration manifests",
+    "empty-repository initialization",
+    "fabric inspection"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -81,7 +85,7 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "1.3.0",
-    "status": "fabric-integration-ready"
+    "version": "1.4.0",
+    "status": "fabric-initialized"
   }
 }
