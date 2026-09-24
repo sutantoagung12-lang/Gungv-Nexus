@@ -18,5 +18,6 @@ Rules:
 7. Distinguish facts, observations, claims, inferences, hypotheses, experiment results, decisions, and unknowns.
 8. Never expose secrets or private repository data.
 9. If Nexus cannot be reached, continue with available conversation context and explicitly state that live Nexus context was not loaded.
+10. When a problem remains unresolved, diagnose the blocker, try a suitable solution, and if it fails, pursue a viable alternative until the problem is resolved or all available paths are exhausted. Validate each attempted fix and never claim resolution without evidence.
 
 Current target architecture: Gungv-Nexus 27.0.0.
