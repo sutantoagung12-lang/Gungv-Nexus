@@ -94,6 +94,60 @@
       "verified_public_repo": true,
       "default_branch": "master",
       "adapter_status": "planned"
+    },
+    {
+      "name": "Graphiti",
+      "repository": "getzep/graphiti",
+      "target": "memory/temporal-graph",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "OpenAI Agents SDK",
+      "repository": "openai/openai-agents-python",
+      "target": "agents/orchestrator",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "MCP Servers",
+      "repository": "modelcontextprotocol/servers",
+      "target": "integrations/mcp",
+      "mode": "tool-registry",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Playwright MCP",
+      "repository": "microsoft/playwright-mcp",
+      "target": "workers/browser",
+      "mode": "service-connector",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Mem0",
+      "repository": "mem0ai/mem0",
+      "target": "memory/semantic",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
+    },
+    {
+      "name": "Letta",
+      "repository": "letta-ai/letta",
+      "target": "memory/stateful-agent",
+      "mode": "adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main"
     }
   ],
   "runtime_status": {
@@ -109,37 +163,9 @@
   },
   "research_candidates": [
     {
-      "name": "Google ADK",
-      "repository": "google/adk-python",
-      "role": "agent development/orchestration",
-      "verified_public_repo": true,
-      "default_branch": "main"
-    },
-    {
-      "name": "Agno",
-      "repository": "agno-agi/agno",
-      "role": "agent framework/multimodal/multi-agent",
-      "verified_public_repo": true,
-      "default_branch": "main"
-    },
-    {
       "name": "Microsoft AutoGen",
       "repository": "microsoft/autogen",
       "role": "multi-agent orchestration",
-      "verified_public_repo": true,
-      "default_branch": "main"
-    },
-    {
-      "name": "DSPy",
-      "repository": "stanfordnlp/dspy",
-      "role": "programmatic LM optimization/evaluation",
-      "verified_public_repo": true,
-      "default_branch": "main"
-    },
-    {
-      "name": "PydanticAI",
-      "repository": "pydantic/pydantic-ai",
-      "role": "typed agent runtime/tools",
       "verified_public_repo": true,
       "default_branch": "main"
     },
@@ -165,5 +191,5 @@
       "default_branch": "main"
     }
   ],
-  "research_note": "Candidates are research inputs only. No code has been copied, installed, or activated from these repositories."
+  "research_note": "Selected additions are capability-expanding: temporal graph memory, agent runtime/SDK, MCP tool ecosystem, Playwright browser control, semantic memory, and stateful agent memory. Repository code is not copied wholesale."
 }
