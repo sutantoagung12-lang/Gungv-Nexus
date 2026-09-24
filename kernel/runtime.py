@@ -2,6 +2,8 @@ import json
 from pathlib import Path
 from context.compiler import ContextCompiler
 from memory.store import MemoryStore
+from memory.experience_store import ExperienceStore
+from memory.retrieval import ExperienceRetriever
 from knowledge.store import KnowledgeStore
 from agents.orchestrator import Orchestrator
 from security.policy import SecurityPolicy
@@ -37,6 +39,8 @@ class NexusRuntime:
     def __init__(self, root="."):
         self.root=Path(root)
         self.memory=MemoryStore(str(self.root/"memory/data"))
+        self.experiences=ExperienceStore()
+        self.experience_retriever=ExperienceRetriever(self.experiences)
         self.knowledge=KnowledgeStore(str(self.root/"knowledge/data/claims.jsonl"))
         self.context=ContextCompiler()
         self.orchestrator=Orchestrator()
@@ -71,9 +75,20 @@ class NexusRuntime:
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
-        ctx=self.context.compile(user_input, memories=self.memory.search(user_input), knowledge=self.knowledge.search(user_input))
-        self.telemetry.emit("task_received", input=user_input, agents=agents)
-        return {"input":user_input,"agents":agents,"context":ctx.__dict__}
+        ctx=self.context.compile(
+            user_input,
+            memories=self.memory.search(user_input),
+            knowledge=self.knowledge.search(user_input)
+        )
+        cases=self.experience_retriever.rank(user_input, limit=5)
+        self.telemetry.emit("task_received", input=user_input, agents=agents,
+                            retrieved_experiences=len(cases))
+        return {
+            "input":user_input,
+            "agents":agents,
+            "context":ctx.__dict__,
+            "experience_cases":cases
+        }
 
     def run_cycle(self, goal: str, task: str):
         from cognition.orchestration import OrchestrationCycle
@@ -137,4 +152,9 @@ class NexusRuntime:
         return {'versions':'6-18','status':'integrated-foundations','human_authority':True}
 
     def health(self):
-        return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
+        return {
+            "status":"ok",
+            "memory_records":len(self.memory.all()),
+            "experience_records":len(self.experiences.recent(self.experiences.max_items)),
+            "knowledge_records":len(self.knowledge.all())
+        }
