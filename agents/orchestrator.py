@@ -1,4 +1,5 @@
 from agents.registry import AGENTS
+from integrations.capability_index import resolve
 
 
 class Orchestrator:
@@ -15,23 +16,13 @@ class Orchestrator:
         return ["planner", "reviewer"]
 
     def select_with_capabilities(self, task: str) -> dict:
-        """Route a task to Nexus agents plus optional external capabilities."""
+        """Route a task to Nexus agents plus dynamically indexed capabilities."""
         agents = self.select(task)
-        t = task.lower()
-        capabilities = []
-
-        if any(x in t for x in ("research", "search", "find", "knowledge")):
-            capabilities.append("R2R")
-        if any(x in t for x in ("memory", "remember", "recall")):
-            capabilities.append("Khoj")
-        if any(x in t for x in ("browser", "web", "navigate", "website")):
-            capabilities.append("browser-use")
-        if any(x in t for x in ("workflow", "graph", "orchestrate")):
-            capabilities.append("LangGraph")
-
+        matched = resolve(task)
         return {
             "agents": agents,
-            "capabilities": capabilities,
+            "capabilities": [item["capability"] for item in matched],
+            "capability_sources": matched,
             "external_execution": False,
             "approval_required_for_destructive_actions": True,
         }
