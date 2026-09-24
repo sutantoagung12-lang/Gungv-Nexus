@@ -1,8 +1,10 @@
-""""Bounded episodic experience with typed, quality-aware lessons."""
+"""Persistent bounded episodic experience with typed, quality-aware lessons."""
 from __future__ import annotations
 
+import json
 from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
+from pathlib import Path
 from typing import Any
 
 
@@ -23,11 +25,46 @@ class Experience:
 
 
 class ExperienceStore:
-    def __init__(self, max_items: int = 500, max_lessons: int = 500):
+    def __init__(self, max_items: int = 500, max_lessons: int = 500, path: str | None = None):
         self.max_items = max(1, max_items)
         self.max_lessons = max(1, max_lessons)
+        self.path = Path(path) if path else None
         self._items: list[dict[str, Any]] = []
         self._lessons: list[dict[str, Any]] = []
+        self._load()
+
+    def _load(self) -> None:
+        if not self.path or not self.path.exists():
+            return
+        for line in self.path.read_text(encoding="utf-8").splitlines():
+            try:
+                item = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            if not isinstance(item, dict) or not item.get("task"):
+                continue
+            self._items.append(item)
+            for record in item.get("lesson_records", []):
+                self._lessons.append({
+                    **record,
+                    "source_task": item["task"],
+                    "reward": item.get("reward", 0.0),
+                    "quality": item.get("quality", 0.0),
+                    "timestamp": item.get("timestamp"),
+                })
+        self._items = self._items[-self.max_items:]
+        self._lessons = self._lessons[-self.max_lessons:]
+
+    def _persist(self) -> None:
+        if not self.path:
+            return
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        tmp = self.path.with_suffix(".tmp")
+        tmp.write_text(
+            "".join(json.dumps(item, ensure_ascii=False) + "\n" for item in self._items),
+            encoding="utf-8",
+        )
+        tmp.replace(self.path)
 
     def record(self, experience: Experience) -> dict:
         item = asdict(experience)
@@ -47,6 +84,7 @@ class ExperienceStore:
                 "timestamp": item["timestamp"],
             })
         self._lessons = self._lessons[-self.max_lessons:]
+        self._persist()
         return item
 
     def recent(self, limit: int = 10) -> list[dict]:
