@@ -1,9 +1,26 @@
-# Core runtime
+# Gungv-Nexus runtime dependencies
 pytest>=8,<9
 
-# Optional AI integrations
-# Install only after environment review and validation.
-# langgraph
-# r2r
-# khoj
-# browser-use
+# AI orchestration
+langgraph
+openai-agents
+google-adk
+agno
+dspy
+pydantic-ai
+
+# Knowledge and memory
+r2r
+khoj
+graphiti-core
+mem0ai
+letta
+
+# Browser and tool protocols
+browser-use
+playwright
+mcp
+
+# Full integration policy:
+# These packages are installed by CI as a combined runtime stack.
+# External services/API credentials remain environment-dependent.
