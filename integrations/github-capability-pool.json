@@ -1,0 +1,636 @@
+{
+  "version": "1.0.0",
+  "purpose": "Direct capability composition pool for Gungv-Nexus",
+  "policy": {
+    "external_code_untrusted": true,
+    "adapter_or_connector_required": true,
+    "source_repositories_are_not_copied": true
+  },
+  "count": 104,
+  "repositories": [
+    {
+      "repository": "langchain-ai/langgraph",
+      "capability": "agent-runtime",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "crewAIInc/crewAI",
+      "capability": "multi-agent",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "OpenHands/OpenHands",
+      "capability": "coding-agent",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "browser-use/browser-use",
+      "capability": "browser-agent",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "langgenius/dify",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "n8n-io/n8n",
+      "capability": "automation",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "khoj-ai/khoj",
+      "capability": "memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "SciPhi-AI/R2R",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "mudler/LocalAI",
+      "capability": "model-runtime",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "getzep/graphiti",
+      "capability": "temporal-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "openai/openai-agents-python",
+      "capability": "agent-runtime",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "modelcontextprotocol/servers",
+      "capability": "mcp",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "microsoft/playwright-mcp",
+      "capability": "browser-mcp",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "mem0ai/mem0",
+      "capability": "semantic-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "letta-ai/letta",
+      "capability": "stateful-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "topoteretes/cognee",
+      "capability": "knowledge-graph",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "vectorize-io/hindsight",
+      "capability": "adaptive-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "langfuse/langfuse",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Arize-ai/phoenix",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "qdrant/qdrant",
+      "capability": "vector-db",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "chroma-core/chroma",
+      "capability": "vector-db",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "deepset-ai/haystack",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "run-llama/llama_index",
+      "capability": "rag",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "stanfordnlp/dspy",
+      "capability": "optimization",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "pydantic/pydantic-ai",
+      "capability": "typed-agents",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "google/adk-python",
+      "capability": "agent-runtime",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "agno-agi/agno",
+      "capability": "agent-framework",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "microsoft/autogen",
+      "capability": "multi-agent",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "huggingface/smolagents",
+      "capability": "agents",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "vercel/ai",
+      "capability": "ai-sdk",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "CopilotKit/CopilotKit",
+      "capability": "agent-ui",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "mastra-ai/mastra",
+      "capability": "typescript-agents",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "browserbase/stagehand",
+      "capability": "browser",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "microsoft/playwright",
+      "capability": "browser",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Skyvern-AI/skyvern",
+      "capability": "browser-automation",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "SeleniumHQ/selenium",
+      "capability": "browser",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "AgentQL/agentql",
+      "capability": "browser-query",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "openai/openai-python",
+      "capability": "llm-sdk",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "anthropics/anthropic-sdk-python",
+      "capability": "llm-sdk",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "googleapis/python-genai",
+      "capability": "llm-sdk",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "BerriAI/litellm",
+      "capability": "model-gateway",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Portkey-AI/gateway",
+      "capability": "model-gateway",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Helicone/helicone",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "guardrails-ai/guardrails",
+      "capability": "guardrails",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "NVIDIA-NeMo/Guardrails",
+      "capability": "guardrails",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "dottxt-ai/outlines",
+      "capability": "structured-generation",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Unstructured-IO/unstructured",
+      "capability": "document-ai",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "datalab-to/marker",
+      "capability": "pdf-ai",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "VikParuchuri/surya",
+      "capability": "ocr",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "qdrant/fastembed",
+      "capability": "embeddings",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "milvus-io/milvus",
+      "capability": "vector-db",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "weaviate/weaviate",
+      "capability": "vector-db",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "pgvector/pgvector",
+      "capability": "vector-db",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "vespa-engine/vespa",
+      "capability": "search",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "duckdb/duckdb",
+      "capability": "analytics",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "pola-rs/polars",
+      "capability": "data",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "apache/airflow",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "prefecthq/prefect",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "dagster-io/dagster",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Temporalio/temporal",
+      "capability": "durable-workflows",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "argoproj/argo-workflows",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "ray-project/ray",
+      "capability": "distributed-compute",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "modal-labs/modal-client",
+      "capability": "compute",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "e2b-dev/E2B",
+      "capability": "sandbox",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "openai/inspect_ai",
+      "capability": "evaluation",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "swe-bench/SWE-bench",
+      "capability": "benchmark",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "ServiceNow/BrowserGym",
+      "capability": "browser-eval",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "microsoft/TaskWeaver",
+      "capability": "agent-framework",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "ollama/ollama",
+      "capability": "local-model",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "vllm-project/vllm",
+      "capability": "inference",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "sgl-project/sglang",
+      "capability": "inference",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "ggml-org/llama.cpp",
+      "capability": "inference",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "open-webui/open-webui",
+      "capability": "ai-ui",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "FlowiseAI/Flowise",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "langflow-ai/langflow",
+      "capability": "workflow",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "composiohq/composio",
+      "capability": "tool-integration",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "mcp-use/mcp-use",
+      "capability": "mcp-agents",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "punkpeye/awesome-mcp-servers",
+      "capability": "mcp-directory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "modelcontextprotocol/typescript-sdk",
+      "capability": "mcp-sdk",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "modelcontextprotocol/python-sdk",
+      "capability": "mcp-sdk",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "a2aproject/A2A",
+      "capability": "agent-protocol",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "stacklok/toolhive",
+      "capability": "mcp-security",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "protectai/llm-guard",
+      "capability": "llm-security",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Giskard-AI/giskard",
+      "capability": "ai-testing",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "explodinggradients/ragas",
+      "capability": "rag-eval",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "confident-ai/deepeval",
+      "capability": "llm-eval",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "openai/evals",
+      "capability": "evaluation",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "mlflow/mlflow",
+      "capability": "mlops",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "wandb/wandb",
+      "capability": "mlops",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "opik-ai/opik",
+      "capability": "observability",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "invariantlabs-ai/invariant",
+      "capability": "agent-security",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "firecrawl/firecrawl",
+      "capability": "web-data",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "BrowserMCP/mcp",
+      "capability": "browser-mcp",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "agent-infra/sandbox",
+      "capability": "agent-sandbox",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "gentleman-programming/engram",
+      "capability": "agent-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "zilliztech/memsearch",
+      "capability": "semantic-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "basicmachines-co/basic-memory",
+      "capability": "memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "microsoft/UFO",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "ByteDance-Seed/UI-TARS",
+      "capability": "computer-use",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "Vercel-labs/agent-browser",
+      "capability": "browser-cli",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "apify/apify-mcp-server",
+      "capability": "web-data-mcp",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "ToolUniverse/ToolUniverse",
+      "capability": "tool-discovery",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "atomicstrata/atomicmemory",
+      "capability": "semantic-memory",
+      "trust": "external-public",
+      "integration": "registry-first"
+    },
+    {
+      "repository": "olo-dot-io/Uni-CLI",
+      "capability": "universal-tools",
+      "trust": "external-public",
+      "integration": "registry-first"
+    }
+  ]
+}
