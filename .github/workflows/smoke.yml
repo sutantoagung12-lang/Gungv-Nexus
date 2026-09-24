@@ -1,5 +1,9 @@
 name: nexus-smoke
 on:
+  schedule:
+    - cron: "*/15 * * * *"
+  repository_dispatch:
+    types: [nexus-validate]
   push:
     branches: [main]
   pull_request:
