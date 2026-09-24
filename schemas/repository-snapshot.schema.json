@@ -1,0 +1,9 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "type":"object",
+  "required":["created_at","repositories"],
+  "properties":{
+    "created_at":{"type":"string"},
+    "repositories":{"type":"array","items":{"type":"object","required":["name","branch"]}}
+  }
+}
