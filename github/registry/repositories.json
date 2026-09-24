@@ -1,0 +1,101 @@
+{
+  "version": "1.0",
+  "repositories": [
+    {
+      "name": "sutantoagung12-lang/Gungv-Nexus",
+      "role": "cognitive-kernel-control-plane",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/Gungv",
+      "role": "workspace-core-environment",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/Gungv-CMRA",
+      "role": "memory-reasoning-research",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/Gungv-Workers",
+      "role": "worker-execution-mesh",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/Gungv-Automation",
+      "role": "automation-workflow",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/Neuron",
+      "role": "intelligence-model-layer",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/gitGrok",
+      "role": "code-intelligence-exploration",
+      "trust": "external-public",
+      "status": "active",
+      "visibility": "public",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/terms.html",
+      "role": "web-governance-support",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/privacy.html",
+      "role": "web-privacy-support",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/index.html",
+      "role": "web-interface-entry",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/styles.css",
+      "role": "web-interface-styling",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    },
+    {
+      "name": "sutantoagung12-lang/api-index.py",
+      "role": "api-integration-layer",
+      "trust": "internal",
+      "status": "active",
+      "visibility": "private",
+      "default_branch": "main"
+    }
+  ]
+}
