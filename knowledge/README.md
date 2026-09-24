@@ -1,0 +1,1 @@
+# Knowledge\n\nKnowledge separates entities, claims, evidence, sources, discoveries, and conflicts. No external claim becomes validated knowledge without an explicit validation path.\n
