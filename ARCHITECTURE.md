@@ -1,4 +1,4 @@
-# Gungv-Nexus Architecture v1.0
+# Gungv-Nexus Architecture v1.2.0
 
 ## Core layers
 1. Human Interface
@@ -48,3 +48,10 @@ PROPOSE -> IMPACT ANALYSIS -> ISOLATE -> TEST -> EVALUATE -> REVIEW -> PROMOTE -
 
 ## External-source lifecycle
 EXTERNAL -> UNTRUSTED -> SANDBOX -> PARSE -> SECURITY CHECK -> PROVENANCE -> CROSS-CHECK -> EXPERIMENT -> VALIDATED
+
+
+## Integration foundation
+The runtime now includes explicit world/self models, attention/planning/decision preparation, knowledge graph, confidence and contradiction checks, dependency impact analysis, digital-twin simulation, repository audit/snapshots, safe replay, anomaly detection, controlled evolution, research/federation boundaries, and integration tests.
+
+## Safety boundary
+Human decisions remain authoritative. Destructive repository changes require explicit confirmation. External sources remain untrusted until provenance, security checks, cross-checking, and validation are complete.
