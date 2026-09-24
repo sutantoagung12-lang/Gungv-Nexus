@@ -16,6 +16,9 @@ from knowledge.intelligence import KnowledgeIntelligence
 from governance.gate import ChangeGate
 from evaluation.quality import QualityEvaluator
 from cognition.runtime_loop import CognitiveRuntimeLoop
+from economics.opportunity import OpportunityEngine
+from research.loop import ResearchLoop
+from recovery.checkpoint import CheckpointManager
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -36,6 +39,9 @@ class NexusRuntime:
         self.change_gate_engine=ChangeGate()
         self.quality_engine=QualityEvaluator()
         self.cognitive_loop=CognitiveRuntimeLoop(self)
+        self.opportunity_engine=OpportunityEngine()
+        self.research_loop=ResearchLoop(self)
+        self.checkpoints=CheckpointManager(self)
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -88,6 +94,18 @@ class NexusRuntime:
 
     def cognitive_cycle(self, objective: str, task: str):
         return self.cognitive_loop.run(objective, task)
+
+    def opportunities(self, opportunities):
+        return self.opportunity_engine.evaluate(opportunities)
+
+    def research_prepare(self, question, sources=None):
+        return self.research_loop.prepare(question, sources)
+
+    def checkpoint_save(self, task_id, state):
+        return self.checkpoints.save(task_id, state)
+
+    def checkpoint_load(self, task_id):
+        return self.checkpoints.load(task_id)
 
     def health(self):
         return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
