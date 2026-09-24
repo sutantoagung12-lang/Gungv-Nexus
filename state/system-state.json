@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "5.0.0",
+  "architecture_version": "18.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "growth-capable-runtime",
+  "health": "cognitive-os-foundations-integrated",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -97,7 +97,20 @@
     "opportunity evaluation",
     "continuous research loop",
     "recoverable task checkpoints",
-    "sustainable monetization research"
+    "sustainable monetization research",
+    "work queue",
+    "persistent bounded agent",
+    "research intelligence",
+    "experiment lab",
+    "economic engine",
+    "multi-agent mesh",
+    "world model simulation",
+    "meta-evaluation",
+    "controlled promotion gate",
+    "federation mesh",
+    "recovery OS",
+    "bounded autonomous operations",
+    "cognitive OS facade"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -106,14 +119,15 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "1.5.0",
-    "status": "cognitive-loop-complete"
+    "version": "18.0.0",
+    "status": "cognitive-os-foundations-integrated"
   },
   "last_validation": {
     "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
     "cognitive_intelligence": "Integrated runtime components and repository tests; CI execution not independently verified.",
     "bridge_security": "Public bridge workflow now builds only sanitized metadata; private topology, memory, knowledge and secrets excluded by design.",
     "runtime_cycle": "Integrated cognitive cycle added with execution gate and evaluation.",
-    "growth_runtime": "Growth, research and checkpoint components integrated; profitability is evaluated, not guaranteed."
+    "growth_runtime": "Growth, research and checkpoint components integrated; profitability is evaluated, not guaranteed.",
+    "roadmap_6_18": "Foundation modules and runtime wiring committed; repository-side tests added. Full CI execution is not independently verified."
   }
 }
