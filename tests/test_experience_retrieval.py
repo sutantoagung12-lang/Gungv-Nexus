@@ -43,3 +43,12 @@ def test_experience_retrieval_returns_relevant_lessons():
 
     assert lessons
     assert "planning" in lessons[0]["lesson"].lower()
+
+
+def test_experience_store_persists_records():
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "experiences.jsonl"
+        store = ExperienceStore(path=str(path))
+        store.record(Experience(task="persist experience", quality=0.9, reward=0.9))
+        reloaded = ExperienceStore(path=str(path))
+        assert reloaded.recent(1)[0]["task"] == "persist experience"
