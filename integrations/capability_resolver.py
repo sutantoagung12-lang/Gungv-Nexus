@@ -10,11 +10,14 @@ def _matches(task: str, capability: str) -> int:
     return sum(token in text for token in capability.replace("-", " ").replace("/", " ").split())
 
 
-def resolve(task: str, limit: int = 5, runtime: dict | None = None, telemetry: dict | None = None) -> list[dict]:
+def resolve(task: str, limit: int = 5, runtime: dict | None = None, telemetry: dict | None = None, lessons: list[dict] | None = None) -> list[dict]:
     graph = build_graph(runtime)
     candidates = []
+    lesson_text = " ".join(x.get("lesson", "") for x in (lessons or [])).lower()
     for capability, providers in graph.items():
         match = _matches(task, capability)
+        if lesson_text and capability.replace("-", " ") in lesson_text:
+            match += 1
         ready = rank([p for p in providers if p["readiness"] == "ready"], telemetry)
         if match and ready:
             candidates.append((match, capability, ready))
