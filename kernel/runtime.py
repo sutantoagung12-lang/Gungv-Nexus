@@ -4,6 +4,8 @@ from context.compiler import ContextCompiler
 from memory.store import MemoryStore
 from memory.experience_store import ExperienceStore
 from memory.retrieval import ExperienceRetriever
+from memory.skill_store import SkillStore
+from evolution.skills import SkillLearning
 from knowledge.store import KnowledgeStore
 from agents.orchestrator import Orchestrator
 from security.policy import SecurityPolicy
@@ -39,8 +41,10 @@ class NexusRuntime:
     def __init__(self, root="."):
         self.root=Path(root)
         self.memory=MemoryStore(str(self.root/"memory/data"))
-        self.experiences=ExperienceStore()
+        self.experiences=ExperienceStore(path=str(self.root/"memory/data/experiences.jsonl"))
         self.experience_retriever=ExperienceRetriever(self.experiences)
+        self.skills=SkillStore(str(self.root/"memory/data/skills.jsonl"))
+        self.skill_learning=SkillLearning(self.skills)
         self.knowledge=KnowledgeStore(str(self.root/"knowledge/data/claims.jsonl"))
         self.context=ContextCompiler()
         self.orchestrator=Orchestrator()
@@ -81,13 +85,15 @@ class NexusRuntime:
             knowledge=self.knowledge.search(user_input)
         )
         cases=self.experience_retriever.rank(user_input, limit=5)
+        skills=self.skill_learning.retrieve(user_input, limit=5)
         self.telemetry.emit("task_received", input=user_input, agents=agents,
                             retrieved_experiences=len(cases))
         return {
             "input":user_input,
             "agents":agents,
             "context":ctx.__dict__,
-            "experience_cases":cases
+            "experience_cases":cases,
+            "skills":skills
         }
 
     def run_cycle(self, goal: str, task: str):
@@ -156,5 +162,6 @@ class NexusRuntime:
             "status":"ok",
             "memory_records":len(self.memory.all()),
             "experience_records":len(self.experiences.recent(self.experiences.max_items)),
+            "skill_records":len(self.skills.all()),
             "knowledge_records":len(self.knowledge.all())
         }
