@@ -1,23 +1,30 @@
 {
-  "version": "19.0.0",
+  "version": "21.0.0",
   "name": "Gungv-Nexus Evolution Layer",
-  "status": "capability-composition-runtime",
+  "status": "adaptive-cognitive-runtime",
   "changes": [
-    "dynamic capability index",
-    "task-to-capability resolution",
-    "181-entry external capability pool",
-    "bounded capability suggestions",
-    "evolution telemetry metadata"
+    "capability graph",
+    "runtime readiness states",
+    "health-ranked provider selection",
+    "adaptive capability resolver",
+    "bounded fallback planning",
+    "structured experience memory",
+    "resource-aware planning",
+    "risk-aware activation gate",
+    "runtime-adaptive orchestration"
   ],
   "policy": {
     "external_code_untrusted": true,
     "registry_first": true,
     "execution_requires_validated_adapter": true,
-    "destructive_actions_require_human_approval": true
+    "destructive_actions_require_human_approval": true,
+    "resource_acquisition_is_not_automatic": true
   },
   "runtime_contract": {
     "external_execution_default": false,
     "capability_resolution_is_read_only": true,
-    "pool_is_not_dependency_installation": true
+    "pool_is_not_dependency_installation": true,
+    "fallback_planning_is_non_executing": true,
+    "experience_memory_is_bounded": true
   }
 }
