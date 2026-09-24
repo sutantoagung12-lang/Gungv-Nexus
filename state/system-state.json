@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "20.3.0",
+  "architecture_version": "21.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "expanded-capability-pool",
+  "health": "adaptive-cognitive-runtime",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -126,7 +126,16 @@
     "adaptive runtime availability detection",
     "graceful capability degradation",
     "validation-before-activation policy",
-    "1000-repository capability discovery batch"
+    "1000-repository capability discovery batch",
+    "capability graph",
+    "runtime readiness states",
+    "health-ranked provider selection",
+    "adaptive capability resolver",
+    "bounded fallback planning",
+    "structured experience memory",
+    "resource-aware planning",
+    "risk-aware activation gate",
+    "runtime-adaptive orchestration"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -135,10 +144,12 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "20.3.0",
-    "status": "expanded-capability-pool",
+    "version": "21.0.0",
+    "status": "adaptive-cognitive-runtime",
     "pool_entries": 1181,
-    "discovery": "15 GitHub capability queries; 1000 new metadata-only repositories added; runtime remains validation-gated"
+    "discovery": "15 GitHub capability queries; 1000 new metadata-only repositories added; runtime remains validation-gated",
+    "runtime": "availability -> readiness -> provider health -> adaptive resolution -> bounded fallback -> experience learning",
+    "safety": "external execution remains disabled by default; destructive/high-risk actions remain approval-gated"
   },
   "last_validation": {
     "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
@@ -150,6 +161,7 @@
     "capability_composition": "Dynamic capability index and orchestrator routing added; repository-side tests added. CI execution not independently verified.",
     "repository_discovery": "Automatic discovery and metadata-only pool integration workflow committed; CI execution not independently verified.",
     "runtime_adaptation": "Adaptive availability detector and degraded discovery path committed; CI execution not independently verified.",
-    "capability_pool_expansion": "1000 new GitHub repository metadata entries added to the capability pool; no source code copied or installed; CI execution not independently verified."
+    "capability_pool_expansion": "1000 new GitHub repository metadata entries added to the capability pool; no source code copied or installed; CI execution not independently verified.",
+    "adaptive_cognitive_runtime": "Core modules and repository tests added; CI execution not independently verified."
   }
 }
