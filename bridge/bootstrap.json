@@ -1,9 +1,9 @@
 {
   "bridge_version": "2.0.0",
-  "architecture_version": "18.0.0",
+  "architecture_version": "27.0.0",
   "health": {
-    "status": "cognitive-os-foundations-integrated",
-    "last_validation": "runtime modules, orchestration, safe execution, evaluation, learning, recovery, growth components, and repository tests are present; GitHub Actions execution not independently verified"
+    "status": "self-learning-skill-evolution-with-guarded-repair",
+    "last_validation": "Nexus v27 runtime modules and regression tests are present; current main CI validation and smoke runs must be observed to completion before claiming verified CI"
   },
   "capabilities": [
     "repository registry",
@@ -53,13 +53,23 @@
     "safe execution layer",
     "evaluation-to-learning loop",
     "full cognitive cycle",
-    "cycle test coverage"
+    "cycle test coverage",
+    "persistent experience memory",
+    "quality-aware experience retrieval",
+    "case-based experience reuse",
+    "persistent skill retrieval",
+    "quality-gated skill promotion",
+    "failure diagnosis",
+    "repair candidate generation",
+    "isolated repair validation",
+    "regression-gated self-repair"
   ],
   "safety": {
     "external_data": "untrusted_until_validated",
     "destructive_actions": "confirmation_required",
     "unknown_state": "do_not_invent",
-    "human_authority": true
+    "human_authority": true,
+    "self_repair": "candidate_and_validation_gated"
   },
   "bootstrap_endpoint": "/bootstrap.json"
 }
