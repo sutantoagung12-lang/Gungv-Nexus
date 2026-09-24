@@ -1,12 +1,17 @@
 """Provider-agnostic AI Live Host controller.
 
-No secrets are stored here. The controller can run fully offline in demo mode.
+The core can run offline. If OPENAI_API_KEY is configured, it can optionally
+generate a response through the OpenAI Responses API. Secrets are read only
+from environment variables and are never persisted by this module.
 """
 from __future__ import annotations
 
+import json
 import os
 import time
 import uuid
+import urllib.error
+import urllib.request
 from dataclasses import dataclass, field
 from typing import Any
 
@@ -33,11 +38,12 @@ class SessionMemory:
             del self.messages[:-40]
 
     def support(self, user: str, amount: float) -> None:
-        self.supporters[user or "anonymous"] = self.supporters.get(user or "anonymous", 0.0) + amount
+        key = user or "anonymous"
+        self.supporters[key] = self.supporters.get(key, 0.0) + amount
 
 
 class HostController:
-    """Deterministic controller with optional external AI generation."""
+    """Conversation controller with deterministic and optional AI modes."""
 
     def __init__(self) -> None:
         self.memory = SessionMemory()
@@ -65,18 +71,50 @@ class HostController:
         elif event.text:
             self.memory.add("user", event.text)
 
-    def respond(self, event: Event) -> str:
-        """Return a safe deterministic response suitable for a first MVP."""
+    def _deterministic(self, event: Event) -> str:
         if event.kind == "support":
             name = event.user or "teman"
             amount = f"{event.amount:g} {event.currency}" if event.amount is not None else "dukungan"
-            response = f"Terima kasih {name} atas dukungannya sebesar {amount}. Kita lanjutkan live."
-        elif event.text:
-            text = event.text.strip()
-            response = f"Terima kasih pertanyaannya. Saya akan membahas: {text}"
-        else:
-            response = "Halo semuanya. Silakan kirim pertanyaan di chat."
+            return f"Terima kasih {name} atas dukungannya sebesar {amount}. Kita lanjutkan live."
+        if event.text:
+            return f"Terima kasih pertanyaannya. Saya akan membahas: {event.text.strip()}"
+        return "Halo semuanya. Silakan kirim pertanyaan di chat."
 
+    def _openai_response(self, event: Event) -> str | None:
+        key = os.getenv("OPENAI_API_KEY")
+        if not key:
+            return None
+        model = os.getenv("OPENAI_MODEL")
+        if not model:
+            return None
+        recent = self.memory.messages[-12:]
+        instructions = (
+            "Kamu adalah host live AI berbahasa Indonesia. Jawab singkat, natural, "
+            "sopan, tidak membuat klaim palsu, dan jangan meminta data pribadi. "
+            "Untuk event dukungan, ucapkan terima kasih tanpa menjanjikan imbalan."
+        )
+        payload = {
+            "model": model,
+            "instructions": instructions,
+            "input": json.dumps({"event": event.__dict__, "recent_memory": recent}, ensure_ascii=False),
+            "max_output_tokens": 180,
+        }
+        request = urllib.request.Request(
+            "https://api.openai.com/v1/responses",
+            data=json.dumps(payload).encode(),
+            headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=25) as response:
+                data = json.loads(response.read().decode())
+            text = data.get("output_text")
+            return text.strip() if isinstance(text, str) and text.strip() else None
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError):
+            return None
+
+    def respond(self, event: Event) -> str:
+        response = self._openai_response(event) or self._deterministic(event)
         self.memory.add("assistant", response)
         return response
 
@@ -96,6 +134,7 @@ class HostController:
             },
             "ai": {
                 "openai_key_configured": bool(os.getenv("OPENAI_API_KEY")),
-                "provider_mode": "optional-http" if os.getenv("OPENAI_API_KEY") else "deterministic",
+                "model_configured": bool(os.getenv("OPENAI_MODEL")),
+                "provider_mode": "openai-http" if os.getenv("OPENAI_API_KEY") and os.getenv("OPENAI_MODEL") else "deterministic",
             },
         }
