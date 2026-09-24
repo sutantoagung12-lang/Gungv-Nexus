@@ -1,9 +1,9 @@
 {
   "bridge_version": "2.0.0",
-  "architecture_version": "1.5.0",
+  "architecture_version": "18.0.0",
   "health": {
-    "status": "cognitive-loop-complete",
-    "last_validation": "runtime modules, orchestration, safe execution, evaluation, learning, and tests are present; GitHub Actions execution not independently verified"
+    "status": "cognitive-os-foundations-integrated",
+    "last_validation": "runtime modules, orchestration, safe execution, evaluation, learning, recovery, growth components, and repository tests are present; GitHub Actions execution not independently verified"
   },
   "capabilities": [
     "repository registry",
