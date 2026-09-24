@@ -1,3 +1,4 @@
+"""Controlled experiment registry."""
 class ExperimentLab:
     def __init__(self): self.items=[]
     def create(self,question,hypothesis):
