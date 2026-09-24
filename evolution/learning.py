@@ -4,6 +4,7 @@ import uuid
 from memory.experience_store import Experience
 
 
+
 @dataclass
 class LearningResult:
     lesson_id: str
@@ -39,7 +40,7 @@ class LearningLoop:
         quality = 1.0 if passed else 0.0
         reward = 1.0 if passed else 0.0
         confidence = 0.9 if passed else 0.2
-        self.runtime.experiences.record(Experience(
+        experience = self.runtime.experiences.record(Experience(
             task=task,
             result="success" if passed else "adjustment_needed",
             quality=quality,
@@ -53,13 +54,19 @@ class LearningLoop:
             }],
         ))
 
+        skill = self.runtime.skill_learning.observe(experience)
         self.runtime.telemetry.emit(
             "lesson_recorded",
             lesson_id=lesson_id,
             cycle_id=cycle_id,
             passed=passed,
-            experience_recorded=True
+            experience_recorded=True,
+            skill_promoted=bool(skill)
         )
-        return asdict(LearningResult(
+        result = asdict(LearningResult(
             lesson_id, passed, lesson, True, True
         ))
+        result["skill_promoted"] = bool(skill)
+        if skill:
+            result["skill_id"] = skill["skill_id"]
+        return result
