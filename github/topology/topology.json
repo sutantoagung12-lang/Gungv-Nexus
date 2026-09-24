@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "root": "sutantoagung12-lang/Gungv-Nexus",
+  "nodes": [
+    "Gungv",
+    "Gungv-CMRA",
+    "Gungv-Workers",
+    "Gungv-Automation",
+    "Neuron",
+    "gitGrok",
+    "terms.html",
+    "privacy.html",
+    "index.html",
+    "styles.css",
+    "api-index.py"
+  ],
+  "relations": [
+    [
+      "Gungv-Nexus",
+      "controls",
+      "Gungv"
+    ],
+    [
+      "Gungv-Nexus",
+      "coordinates",
+      "Gungv-CMRA"
+    ],
+    [
+      "Gungv-Nexus",
+      "dispatches",
+      "Gungv-Workers"
+    ],
+    [
+      "Gungv-Nexus",
+      "orchestrates",
+      "Gungv-Automation"
+    ],
+    [
+      "Gungv-Nexus",
+      "coordinates",
+      "Neuron"
+    ],
+    [
+      "Gungv-Nexus",
+      "uses",
+      "gitGrok"
+    ],
+    [
+      "index.html",
+      "uses",
+      "styles.css"
+    ],
+    [
+      "index.html",
+      "references",
+      "terms.html"
+    ],
+    [
+      "index.html",
+      "references",
+      "privacy.html"
+    ],
+    [
+      "api-index.py",
+      "integrates",
+      "Gungv-Nexus"
+    ]
+  ]
+}
