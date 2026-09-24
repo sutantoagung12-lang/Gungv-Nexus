@@ -1,5 +1,2 @@
-"""Economic workflow registry; it evaluates signals, not guaranteed profits."""
 class EconomicEngine:
-    def evaluate(self,opportunity,signals=None):
-        signals=signals or {}
-        return {"opportunity":opportunity,"signals":signals,"status":"EVALUATE","profit_guaranteed":False},
+    def evaluate(self,opportunity,signals=None): return {'opportunity':opportunity,'signals':signals or {},'profit_guaranteed':False,'status':'EVALUATE'}
