@@ -1,0 +1,35 @@
+name: nexus-smoke
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile Python modules
+        run: python -m compileall -q .
+      - name: Run learning engine smoke test
+        run: |
+          python - <<'PY'
+          from learning.engine import LearningEngine
+          engine = LearningEngine()
+          engine.observe(
+              "browser task", [], ["browser-agent"], True, 0.9, 0.9,
+              lessons=["reuse successful browser workflow"]
+          )
+          ctx = engine.context("browser task")
+          assert ctx["experiences"]
+          assert ctx["lessons"]
+          assert engine.promote_lesson("validated lesson", 0.7)
+          print("NEXUS_SMOKE_PASS")
+          PY
