@@ -24,3 +24,9 @@ mcp
 # Full integration policy:
 # These packages are installed by CI as a combined runtime stack.
 # External services/API credentials remain environment-dependent.
+
+# Additional capability expansion
+cognee
+hindsight-client
+opentelemetry-api
+opentelemetry-sdk
