@@ -1,5 +1,6 @@
 from agents.registry import AGENTS
-from integrations.capability_index import resolve
+from integrations.capability_resolver import resolve
+from execution.fallback import build_plan
 
 
 class Orchestrator:
@@ -16,13 +17,12 @@ class Orchestrator:
         return ["planner", "reviewer"]
 
     def select_with_capabilities(self, task: str) -> dict:
-        """Route a task to Nexus agents plus dynamically indexed capabilities."""
-        agents = self.select(task)
-        matched = resolve(task)
+        candidates = resolve(task)
         return {
-            "agents": agents,
-            "capabilities": [item["capability"] for item in matched],
-            "capability_sources": matched,
+            "agents": [name for name in self.select(task) if name in AGENTS],
+            "capabilities": [item["capability"] for item in candidates],
+            "capability_sources": candidates,
+            "fallback_plan": build_plan(candidates),
             "external_execution": False,
             "approval_required_for_destructive_actions": True,
         }
