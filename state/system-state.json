@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "20.1.0",
+  "architecture_version": "20.2.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "automatic-capability-pool-integration",
+  "health": "adaptive-runtime-availability",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -122,7 +122,10 @@
     "known-pool deduplication",
     "human validation gate for discovered repositories",
     "automatic capability-pool integration",
-    "metadata-only repository onboarding"
+    "metadata-only repository onboarding",
+    "adaptive runtime availability detection",
+    "graceful capability degradation",
+    "validation-before-activation policy"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -131,10 +134,10 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "20.1.0",
-    "status": "automatic-capability-pool-integration",
+    "version": "20.2.0",
+    "status": "adaptive-runtime-availability",
     "pool_entries": 181,
-    "discovery": "weekly read-only search with automatic metadata integration"
+    "discovery": "weekly discovery with metadata integration, runtime detection and graceful degradation"
   },
   "last_validation": {
     "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
@@ -144,6 +147,7 @@
     "growth_runtime": "Growth, research and checkpoint components integrated; profitability is evaluated, not guaranteed.",
     "roadmap_6_18": "Foundation modules and runtime wiring committed; repository-side tests added. Full CI execution is not independently verified.",
     "capability_composition": "Dynamic capability index and orchestrator routing added; repository-side tests added. CI execution not independently verified.",
-    "repository_discovery": "Automatic discovery and metadata-only pool integration workflow committed; CI execution not independently verified."
+    "repository_discovery": "Automatic discovery and metadata-only pool integration workflow committed; CI execution not independently verified.",
+    "runtime_adaptation": "Adaptive availability detector and degraded discovery path committed; CI execution not independently verified."
   }
 }
