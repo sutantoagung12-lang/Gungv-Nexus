@@ -1,34 +1,52 @@
 {
   "identity": {"name": "Gungv-Nexus", "architecture": "GitHub-Native Cognitive System", "owner_role": "human"},
-  "architecture_version": "24.0.0",
+  "architecture_version": "25.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {"registry": "github/registry/repositories.json", "topology": "github/topology/topology.json"},
-  "memory_state": {"status": "implemented", "store": "memory/store.py", "experience_store": "memory/experience_store.py", "policy": "intelligence/memory_policy.py"},
+  "memory_state": {
+    "status": "implemented",
+    "store": "memory/store.py",
+    "experience_store": "memory/experience_store.py",
+    "retriever": "memory/retrieval.py",
+    "policy": "intelligence/memory_policy.py"
+  },
   "knowledge_state": {"status": "implemented", "store": "knowledge/store.py"},
   "agent_state": {"status": "implemented", "registry": "agents/registry.py", "orchestrator": "agents/orchestrator.py"},
   "experiment_state": {"status": "implemented", "engine": "experiments/engine.py"},
-  "health": "reflective-experience-intelligence",
+  "health": "experience-aware-cognitive-runtime",
   "anomalies": [],
   "capabilities": [
     "repository registry", "memory store", "knowledge store", "agent routing",
     "experiment engine", "evaluation engine", "controlled evolution",
     "bounded experience-driven learning", "unified intelligence architecture",
     "quality-aware reflection", "governed memory promotion",
-    "typed lesson abstraction", "quality-aware experience retrieval"
+    "typed lesson abstraction", "quality-aware experience retrieval",
+    "case-based experience reuse", "recency-aware retrieval"
   ],
   "limitations": [
     "runtime does not contain credentials",
     "destructive GitHub operations remain confirmation-gated",
     "chat-session persistence depends on available ChatGPT memory/context and runtime deployment",
     "external sources remain untrusted until validated",
-    "CI execution is not independently verified"
+    "CI execution is not independently verified",
+    "experience retrieval is dependency-free lexical retrieval until a validated semantic retriever is introduced"
   ],
   "evolution_state": {
-    "version": "24.0.0",
-    "status": "reflective-experience-intelligence",
-    "runtime": "task -> memory retrieval -> planning -> tool selection -> foresight -> safety gate -> execution -> evaluation -> reward -> reflection -> abstraction -> memory quality gate -> promotion -> future planning",
-    "memory_learning": "typed lessons with confidence, evidence, reward and quality signals; bounded retention"
+    "version": "25.0.0",
+    "status": "experience-aware-cognitive-runtime",
+    "runtime": "task -> experience retrieval -> memory/knowledge retrieval -> planning -> tool selection -> foresight -> safety gate -> execution -> evaluation -> reward -> reflection -> abstraction -> memory quality gate -> promotion -> future case retrieval",
+    "memory_learning": "bounded typed experiences ranked by relevance, quality, reward, confidence, evidence and recency"
   },
-  "last_evolution": {"version": "24.0.0", "commit": "2e6b441c69fcdba99ab543ca61f57ca78cbd5d85", "ci_verified": false}
+  "last_evolution": {
+    "version": "25.0.0",
+    "commits": [
+      "b687aac8849abac388a75b101c02ee9b33647e96",
+      "a0117f39aabc19d012907bb8ea5b61b44d971d6d",
+      "b6a9dd7231410103e9147042cf003e444042deb9",
+      "0fef14a0d380d1e2c8067909ba4c73af8431932e",
+      "28d121d0bc326b41f408683018b07f11c31b392e"
+    ],
+    "ci_verified": false
+  }
 }
