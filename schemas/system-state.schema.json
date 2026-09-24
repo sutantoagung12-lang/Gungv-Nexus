@@ -1,0 +1,7 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"Gungv Nexus System State",
+  "type":"object",
+  "required":["identity","architecture_version","active_goals","active_tasks","repository_state","memory_state","knowledge_state","agent_state","experiment_state","health","anomalies","capabilities","limitations","evolution_state"],
+  "properties":{"identity":{"type":"object"},"architecture_version":{"type":"string"},"active_goals":{"type":"array"},"active_tasks":{"type":"array"},"repository_state":{"type":"object"},"memory_state":{"type":"object"},"knowledge_state":{"type":"object"},"agent_state":{"type":"object"},"experiment_state":{"type":"object"},"health":{"type":"object"},"anomalies":{"type":"array"},"capabilities":{"type":"array"},"limitations":{"type":"array"},"evolution_state":{"type":"object"}}
+}
