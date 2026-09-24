@@ -1,0 +1,7 @@
+{
+  "name":"Gungv-Nexus ChatGPT Bridge",
+  "version":"1.0.0",
+  "repository":"sutantoagung12-lang/Gungv-Nexus",
+  "startup":{"required":true,"sources":["CHATGPT_BOOTSTRAP.md","state/system-state.json","github/registry/repositories.json","github/topology/topology.json"]},
+  "rules":{"external_data":"untrusted_until_validated","destructive_actions":"confirmation_required","unknown_state":"do_not_invent","human_authority":true}
+}
