@@ -63,27 +63,31 @@ def discover(limit_per_query: int | None = None) -> list[dict]:
     candidates: list[dict] = []
 
     for query in _queries(config):
-        params = urllib.parse.urlencode({"q": query, "sort": "stars", "order": "desc", "per_page": limit})
+        params = urllib.parse.urlencode(
+            {"q": query, "sort": "stars", "order": "desc", "per_page": limit}
+        )
         payload = _request(f"https://api.github.com/search/repositories?{params}")
         for item in payload.get("items", []):
             full_name = item.get("full_name")
             if not full_name or full_name in known or full_name in seen:
                 continue
             seen.add(full_name)
-            candidates.append({
-                "repository": full_name,
-                "capability": "discovered",
-                "description": item.get("description"),
-                "stars": item.get("stargazers_count", 0),
-                "forks": item.get("forks_count", 0),
-                "language": item.get("language"),
-                "license": (item.get("license") or {}).get("spdx_id"),
-                "updated_at": item.get("updated_at"),
-                "url": item.get("html_url"),
-                "score": round(_score(item), 6),
-                "trust": "untrusted",
-                "requires_validation": True,
-            })
+            candidates.append(
+                {
+                    "repository": full_name,
+                    "capability": "discovered",
+                    "description": item.get("description"),
+                    "stars": item.get("stargazers_count", 0),
+                    "forks": item.get("forks_count", 0),
+                    "language": item.get("language"),
+                    "license": (item.get("license") or {}).get("spdx_id"),
+                    "updated_at": item.get("updated_at"),
+                    "url": item.get("html_url"),
+                    "score": round(_score(item), 6),
+                    "trust": "untrusted",
+                    "requires_validation": True,
+                }
+            )
 
     candidates.sort(key=lambda x: (-x["score"], -x["stars"], x["repository"]))
     return candidates[: int(config["max_candidates"])]
@@ -93,10 +97,12 @@ def integrate_into_pool(candidates: list[dict]) -> int:
     config = load_config()
     if not config["policy"].get("auto_merge_into_pool"):
         return 0
+
     pool = json.loads(POOL.read_text(encoding="utf-8"))
     existing = {item.get("repository") for item in pool.get("repositories", [])}
     threshold = float(config["policy"].get("auto_merge_min_score", 0))
     additions = []
+
     for item in candidates:
         if item["repository"] in existing or item["score"] < threshold:
             continue
@@ -106,10 +112,12 @@ def integrate_into_pool(candidates: list[dict]) -> int:
         entry["requires_validation"] = True
         additions.append(entry)
         existing.add(item["repository"])
+
     pool.setdefault("repositories", []).extend(additions)
     pool["count"] = len(pool["repositories"])
     pool["version"] = "1.2.0"
     pool["last_update"] = datetime.now(timezone.utc).date().isoformat()
+    pool.setdefault("policy", {})
     pool["policy"]["external_code_untrusted"] = True
     pool["policy"]["auto_install"] = False
     pool["policy"]["auto_merge_into_pool"] = True
@@ -121,12 +129,17 @@ def write_snapshot(output: str | Path | None = None) -> tuple[Path, int]:
     config = load_config()
     target = Path(output) if output else ROOT / config["output"]
     target.parent.mkdir(parents=True, exist_ok=True)
+
+    candidates = discover()
+    added = integrate_into_pool(candidates)
+
     payload = {
         "version": "1.1.0",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "source": "GitHub Search API",
-        "status": "integrated-metadata-only",\n        "added_to_capability_pool": added,
-        "candidates": discover(),
+        "status": "integrated-metadata-only",
+        "added_to_capability_pool": added,
+        "candidates": candidates,
     }
     target.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
     return target, added
