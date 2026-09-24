@@ -1,0 +1,11 @@
+{
+  "version":"1.0",
+  "sources":[
+    {"type":"owned_github","trust":"internal"},
+    {"type":"public_github","trust":"untrusted"},
+    {"type":"web","trust":"untrusted"},
+    {"type":"documentation","trust":"untrusted"},
+    {"type":"api","trust":"untrusted"},
+    {"type":"authorized_external_repository","trust":"untrusted_until_validated"}
+  ]
+}
