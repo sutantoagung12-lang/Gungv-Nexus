@@ -11,6 +11,10 @@ from evaluation.engine import Evaluator
 from evolution.learning import LearningLoop
 from cognition.attention import AttentionEngine
 from cognition.power import PowerEngine
+from memory.intelligence import MemoryIntelligence
+from knowledge.intelligence import KnowledgeIntelligence
+from governance.gate import ChangeGate
+from evaluation.quality import QualityEvaluator
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -26,6 +30,10 @@ class NexusRuntime:
         self.learning=LearningLoop(self)
         self.attention=AttentionEngine(limit=8)
         self.power=PowerEngine(self)
+        self.memory_intelligence_engine=MemoryIntelligence(self)
+        self.knowledge_intelligence_engine=KnowledgeIntelligence(self)
+        self.change_gate_engine=ChangeGate()
+        self.quality_engine=QualityEvaluator()
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -60,6 +68,21 @@ class NexusRuntime:
 
     def power_plan(self, objective: str, task: str):
         return self.power.plan(objective, task)
+
+    def memory_intelligence(self):
+        return self.memory_intelligence_engine.analyze()
+
+    def memory_consolidation(self, limit=100):
+        return self.memory_intelligence_engine.consolidate(limit)
+
+    def knowledge_intelligence(self):
+        return self.knowledge_intelligence_engine.analyze()
+
+    def change_gate(self, action):
+        return self.change_gate_engine.assess(action)
+
+    def quality_evaluate(self, result):
+        return self.quality_engine.evaluate(result)
 
     def health(self):
         return {"status":"ok","memory_records":len(self.memory.all()),"knowledge_records":len(self.knowledge.all())}
