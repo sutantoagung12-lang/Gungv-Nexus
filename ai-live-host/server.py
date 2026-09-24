@@ -1,15 +1,22 @@
-"""Mobile-friendly HTTP server for the AI Live Host MVP."""
+"""Mobile-friendly HTTP server for the AI Live Host MVP.
+
+Run directly:
+    python ai-live-host/server.py
+"""
 from __future__ import annotations
 
 import json
 import os
+import sys
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
-from .core import Event, HostController
-from .youtube import YouTubeError, YouTubeLive
-
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+
+from core import Event, HostController  # noqa: E402
+from youtube import YouTubeError, YouTubeLive  # noqa: E402
+
 controller = HostController()
 
 
@@ -56,7 +63,7 @@ class Handler(BaseHTTPRequestHandler):
             if self.path == "/api/stop":
                 self.send_json(controller.stop())
                 return
-            if self.path == "/api/chat":
+            if self.path in {"/api/chat", "/api/respond"}:
                 event = Event(kind="chat", text=str(data.get("text", ""))[:1000], user=str(data.get("user", ""))[:100])
                 controller.ingest(event)
                 self.send_json({"event_id": event.event_id, "response": controller.respond(event)})
