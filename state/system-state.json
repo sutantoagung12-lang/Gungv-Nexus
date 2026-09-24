@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "3.0.0",
+  "architecture_version": "3.1.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "cognitive-intelligence-integrated",
+  "health": "operational-foundation-complete",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -88,7 +88,10 @@
     "memory conflict detection",
     "knowledge confidence analysis",
     "controlled change gate",
-    "quality evaluation"
+    "quality evaluation",
+    "sanitized public bridge contract",
+    "privacy-preserving bootstrap",
+    "ChatGPT bootstrap protocol"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -102,6 +105,7 @@
   },
   "last_validation": {
     "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
-    "cognitive_intelligence": "Integrated runtime components and repository tests; CI execution not independently verified."
+    "cognitive_intelligence": "Integrated runtime components and repository tests; CI execution not independently verified.",
+    "bridge_security": "Public bridge workflow now builds only sanitized metadata; private topology, memory, knowledge and secrets excluded by design."
   }
 }
