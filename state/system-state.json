@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "20.0.0",
+  "architecture_version": "20.1.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -28,7 +28,7 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
-  "health": "automatic-repository-discovery",
+  "health": "automatic-capability-pool-integration",
   "anomalies": [],
   "capabilities": [
     "repository registry",
@@ -120,7 +120,9 @@
     "untrusted candidate scoring",
     "weekly discovery workflow",
     "known-pool deduplication",
-    "human validation gate for discovered repositories"
+    "human validation gate for discovered repositories",
+    "automatic capability-pool integration",
+    "metadata-only repository onboarding"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -129,10 +131,10 @@
     "external sources remain untrusted until validated"
   ],
   "evolution_state": {
-    "version": "20.0.0",
-    "status": "automatic-repository-discovery",
+    "version": "20.1.0",
+    "status": "automatic-capability-pool-integration",
     "pool_entries": 181,
-    "discovery": "weekly read-only candidate discovery"
+    "discovery": "weekly read-only search with automatic metadata integration"
   },
   "last_validation": {
     "power_mode": "Integrated into runtime; repository-side test added. CI execution not independently verified.",
@@ -142,6 +144,6 @@
     "growth_runtime": "Growth, research and checkpoint components integrated; profitability is evaluated, not guaranteed.",
     "roadmap_6_18": "Foundation modules and runtime wiring committed; repository-side tests added. Full CI execution is not independently verified.",
     "capability_composition": "Dynamic capability index and orchestrator routing added; repository-side tests added. CI execution not independently verified.",
-    "repository_discovery": "Discovery engine, configuration, and scheduled workflow committed; workflow execution not independently verified."
+    "repository_discovery": "Automatic discovery and metadata-only pool integration workflow committed; CI execution not independently verified."
   }
 }
