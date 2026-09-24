@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "enabled": true,
+  "schedule": "weekly",
+  "results_per_query": 10,
+  "max_candidates": 50,
+  "search_terms": [
+    "AI agent runtime",
+    "agent orchestration",
+    "LLM memory",
+    "RAG knowledge graph",
+    "browser computer use",
+    "MCP tools",
+    "sandbox execution",
+    "AI observability",
+    "agent security",
+    "AI coding agent"
+  ],
+  "output": "integrations/discovery/latest.json",
+  "policy": {
+    "public_only": true,
+    "exclude_archived": true,
+    "exclude_forks": true,
+    "exclude_known_pool": true,
+    "external_code_untrusted": true,
+    "auto_install": false,
+    "auto_merge_into_pool": false,
+    "human_validation_required": true
+  }
+}
