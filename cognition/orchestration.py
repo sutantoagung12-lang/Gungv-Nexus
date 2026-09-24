@@ -10,6 +10,7 @@ class CycleResult:
     agents: list
     context: dict
     status: str
+    experience_cases: list
     lesson: str = ""
 
 class OrchestrationCycle:
@@ -21,11 +22,15 @@ class OrchestrationCycle:
         selected = self.runtime.orchestrator.select(task)
         memories = self.runtime.memory.search(task)
         knowledge = self.runtime.knowledge.search(task)
-        ctx = self.runtime.context.compile(task, memories=memories, knowledge=knowledge)
+        experience_cases = self.runtime.experience_retriever.rank(task, limit=5)
+        ctx = self.runtime.context.compile(
+            task, memories=memories, knowledge=knowledge
+        )
 
         self.runtime.telemetry.emit(
             "cycle_started", cycle_id=cycle_id, goal=goal,
-            task=task, agents=selected
+            task=task, agents=selected,
+            retrieved_experiences=len(experience_cases)
         )
 
         result = CycleResult(
@@ -34,7 +39,8 @@ class OrchestrationCycle:
             task=task,
             agents=selected,
             context=ctx.__dict__,
-            status="READY_FOR_EXECUTION"
+            status="READY_FOR_EXECUTION",
+            experience_cases=experience_cases
         )
 
         self.runtime.memory.add({
@@ -44,5 +50,7 @@ class OrchestrationCycle:
             "status": result.status,
             "timestamp": datetime.now(timezone.utc).isoformat()
         })
-        self.runtime.telemetry.emit("cycle_ready", cycle_id=cycle_id, status=result.status)
+        self.runtime.telemetry.emit(
+            "cycle_ready", cycle_id=cycle_id, status=result.status
+        )
         return asdict(result)
