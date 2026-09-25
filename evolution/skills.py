@@ -33,9 +33,6 @@ class SkillLearning:
         prior = next((s for s in self.store.all() if s.get("skill_id") == skill_id), None)
         evidence = int(prior.get("evidence_count", 0)) if prior else 0
         evidence += 1
-        if evidence < self.MIN_EVIDENCE:
-            return None
-
         task = experience.get("task", "").strip()
         skill = Skill(
             skill_id=skill_id,
@@ -47,6 +44,7 @@ class SkillLearning:
             quality=float(experience.get("quality", 0.0)),
             reward=float(experience.get("reward", 0.0)),
             confidence=confidence,
+            status="ACTIVE" if evidence >= self.MIN_EVIDENCE else "PROPOSED",
         )
         return self.store.upsert(skill)
 
