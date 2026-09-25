@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 concurrency:
   group: nexus-validate-${{ github.ref }}
   cancel-in-progress: true
