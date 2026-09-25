@@ -2,7 +2,7 @@ name: validate-nexus
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, repair/nexus-v27-ci]
   pull_request:
     branches: [main]
 concurrency:
