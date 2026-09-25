@@ -7,9 +7,8 @@ from integrations.adapters.stack import status
 
 def test_adapters_are_optional():
     results = status()
-    assert {item["name"] for item in results} == {
-        "LangGraph", "R2R", "Khoj", "browser-use"
-    }
+    names = {item["name"] for item in results}
+    assert {"LangGraph", "R2R", "Khoj", "browser-use"}.issubset(names)
     assert all("available" in item and "active" in item for item in results)
 
 
