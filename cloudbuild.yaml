@@ -8,6 +8,7 @@ steps:
         pip install "pytest>=8,<9"
         python scripts/validate_nexus.py
         python scripts/nexus_health.py health/nexus-health.json
+        python scripts/nexus_dashboard.py health/nexus-health.html
         python -m pytest -q
 
 timeout: "600s"
