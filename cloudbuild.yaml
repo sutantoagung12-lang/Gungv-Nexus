@@ -7,6 +7,7 @@ steps:
         python -m pip install --upgrade pip
         pip install "pytest>=8,<9"
         python scripts/validate_nexus.py
+        python scripts/nexus_health.py health/nexus-health.json
         python -m pytest -q
 
 timeout: "600s"
@@ -17,3 +18,4 @@ options:
 tags:
   - gungv-nexus
   - validation
+  - health
