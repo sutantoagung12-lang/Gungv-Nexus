@@ -10,7 +10,7 @@ class ActivationDecision:
     reason: str
 
 
-RISK = {"browser-use": "high", "browser_use": "high", "github-write": "high", "code-execution": "high"}
+RISK = {"browser-use": "high", "browser_use": "high", "android-chrome-cdp": "high", "github-write": "high", "code-execution": "high"}
 
 
 def evaluate_activation(capability: str, *, environment_validated: bool = False,
@@ -24,6 +24,8 @@ def evaluate_activation(capability: str, *, environment_validated: bool = False,
         return ActivationDecision(capability, False, "human_approval_required_for_high_risk_capability")
     if capability in {"browser-use", "browser_use"} and "browser_use" not in set(runtime["available_adapters"]):
         return ActivationDecision(capability, False, "browser_adapter_unavailable")
+    if capability == "android-chrome-cdp" and "android_chrome_cdp" not in set(runtime["availability"].get("available", [])):
+        return ActivationDecision(capability, False, "android_chrome_cdp_endpoint_unavailable")
     return ActivationDecision(capability, True, "activation_requirements_satisfied")
 
 

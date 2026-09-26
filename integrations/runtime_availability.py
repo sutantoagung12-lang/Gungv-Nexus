@@ -51,6 +51,7 @@ def detect() -> dict:
                          "running inside GitHub Actions" if in_actions else "not running inside GitHub Actions"),
         _module_status("browser_use", "browser_use"),
         _module_status("playwright", "playwright"),
+        _env_status("android_chrome_cdp", ("NEXUS_ANDROID_CHROME_CDP_URL",)),
         _module_status("langgraph", "langgraph"),
         _module_status("r2r", "r2r"),
         _module_status("khoj", "khoj"),
