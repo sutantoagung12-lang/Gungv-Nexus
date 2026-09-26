@@ -4,7 +4,6 @@
 from __future__ import annotations
 
 import html
-import json
 import sys
 from pathlib import Path
 
@@ -19,10 +18,17 @@ def render(report: dict) -> str:
         status = html.escape(item["status"])
         name = html.escape(item["name"].replace("_", " ").title())
         detail = html.escape(item["detail"])
+        diagnostic = item.get("diagnostic")
+        extra = ""
+        if diagnostic:
+            extra = (
+                f'<p><b>Action:</b> {html.escape(diagnostic["action"])}</p>'
+                f'<p><b>Next:</b> {html.escape(diagnostic["next_step"])}</p>'
+            )
         cards.append(
             f'<section class="card"><div class="row"><strong>{name}</strong>'
             f'<span class="status {status.lower()}">{status}</span></div>'
-            f'<p>{detail}</p></section>'
+            f'<p>{detail}</p>{extra}</section>'
         )
 
     return f"""<!doctype html>
@@ -42,7 +48,7 @@ h1{{margin:0 0 6px;font-size:1.45rem}} .muted{{opacity:.75;font-size:.9rem}}
 .status{{font-size:.76rem;font-weight:700;border-radius:999px;padding:5px 9px}}
 .pass{{background:#dcfce7;color:#166534}} .blocked{{background:#fef3c7;color:#92400e}}
 .ready{{background:#dbeafe;color:#1e40af}} .fail{{background:#fee2e2;color:#991b1b}}
-p{{margin:8px 0 0;color:#4b5563;word-break:break-word}}
+p{{margin:8px 0 0;color:#4b5563;word-break:break-word;line-height:1.4}}
 .grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:14px}}
 .metric{{background:#ffffff22;border-radius:12px;padding:10px;text-align:center}}
 .metric b{{display:block;font-size:1.25rem}}
@@ -52,7 +58,7 @@ footer{{color:#6b7280;font-size:.8rem;margin-top:16px;text-align:center}}
 <body>
 <header>
 <h1>Gungv-Nexus Health</h1>
-<div class="muted">Contract and runtime safety dashboard</div>
+<div class="muted">Contract, diagnostics and activation safety</div>
 <div class="grid">
 <div class="metric"><b>{summary["pass"]}</b>PASS</div>
 <div class="metric"><b>{summary["blocked"]}</b>BLOCKED</div>
