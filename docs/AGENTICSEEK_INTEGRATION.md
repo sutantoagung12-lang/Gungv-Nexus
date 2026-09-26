@@ -50,3 +50,34 @@ an external reference/project and retains its own GPL-3.0 license.
 The bridge does not execute actions. Nexus execution policy remains
 confirmation-gated for destructive operations, and external components remain
 untrusted until validated.
+
+## Android Chrome worker connection
+
+The browser loop is now connected to an optional Nexus-side Android Chrome
+CDP worker adapter.
+
+Set:
+
+    NEXUS_ANDROID_CHROME_CDP_URL=http://127.0.0.1:9222
+
+when an authorized Chrome/Chromium CDP endpoint is available. The adapter
+uses Playwright's CDP connection and supports a small controlled action set:
+open, click, type, press, and snapshot.
+
+The adapter is deliberately not a direct "installed Chrome" hook. Android
+Chrome normally does not expose a remote-debugging endpoint to arbitrary local
+apps. An authorized bridge/debugging path must expose CDP first. Nexus only
+consumes that endpoint after configuration and explicit action approval.
+
+The execution boundary is:
+
+    AgenticSeek browser loop
+      -> Nexus Orchestrator
+      -> AndroidChromeWorker
+      -> CDP endpoint
+      -> Chrome/Chromium
+      -> observation
+      -> verification
+
+No automatic credential discovery, installation, or permission escalation is
+performed.
