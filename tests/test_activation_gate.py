@@ -18,6 +18,17 @@ def test_browser_requires_human_approval():
     assert decision.reason == "human_approval_required_for_browser_actions"
 
 
+def test_android_chrome_requires_human_approval():
+    decision = evaluate_activation(
+        "android-chrome-cdp",
+        environment_validated=True,
+        tests_passed=True,
+        human_approved=False,
+    )
+    assert decision.allowed is False
+    assert decision.reason == "human_approval_required_for_android_chrome_actions"
+
+
 def test_activation_can_be_allowed_after_all_gates():
     decision = evaluate_activation(
         "LangGraph",
