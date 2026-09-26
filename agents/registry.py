@@ -10,4 +10,8 @@ AGENTS = {
     "documentation": "Maintain system documentation.",
     "benchmark": "Measure performance and quality.",
     "recovery": "Restore safe state after failure.",
+    "browser": "Logical browser-agent role for validated web automation adapters.",
+    "file": "Logical file-agent role for validated workspace/file adapters.",
+    "tool": "Logical tool-agent role for validated connectors and MCP adapters.",
+    "model_router": "Select a suitable LLM/provider without executing external actions.",
 }
