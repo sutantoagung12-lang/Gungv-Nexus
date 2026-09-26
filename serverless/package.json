@@ -1,0 +1,7 @@
+{
+  "name": "gungv-nexus-serverless-runtime",
+  "private": true,
+  "type": "module",
+  "scripts": {"check": "node --check src/worker.js"},
+  "dependencies": {"wrangler": "^4.0.0"}
+}
