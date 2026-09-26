@@ -8,6 +8,9 @@ steps:
         pip install "pytest>=8,<9"
         python scripts/validate_nexus.py
         python scripts/nexus_health.py health/nexus-health.json
+        python scripts/nexus_recovery_report.py health/nexus-recovery.json
+        python scripts/validate_recovery.py health/nexus-recovery-validation.json
+        python scripts/nexus_readiness.py health/nexus-readiness.json
         python scripts/nexus_dashboard.py health/nexus-health.html
         python -m pytest -q
 
@@ -20,3 +23,4 @@ tags:
   - gungv-nexus
   - validation
   - health
+  - recovery
