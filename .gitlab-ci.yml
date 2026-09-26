@@ -1,0 +1,16 @@
+stages:
+  - validate
+
+nexus_validation:
+  stage: validate
+  image: python:3.12-slim
+  before_script:
+    - python -m pip install --upgrade pip
+    - pip install "pytest>=8,<9"
+  script:
+    - python scripts/validate_nexus.py
+    - python scripts/nexus_health.py /tmp/nexus-health.json
+    - python scripts/nexus_recovery_report.py /tmp/nexus-recovery.json
+    - python scripts/validate_recovery.py /tmp/nexus-recovery-validation.json
+    - python scripts/nexus_readiness.py /tmp/nexus-readiness.json
+    - python -m pytest -q
