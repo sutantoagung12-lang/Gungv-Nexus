@@ -42,3 +42,12 @@ def test_browser_loop_covers_observe_reason_action_verify():
     assert state["stage"] == "verify"
     state = loop.verify(state, "Documentation page loaded.")
     assert state["stage"] == "complete"
+
+
+from agents.orchestrator import Orchestrator
+
+
+def test_orchestrator_prepares_browser_task_without_execution():
+    result = Orchestrator().prepare_browser_task("browse a website and read the page")
+    assert result["state"]["stage"] == "plan"
+    assert result["action_request"]["executed"] is False
