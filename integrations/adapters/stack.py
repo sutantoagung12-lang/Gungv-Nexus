@@ -2,6 +2,7 @@
 
 from .adk import GoogleADKAdapter
 from .agno import AgnoAdapter
+from .android_chrome import AndroidChromeWorker
 from .browser_use import BrowserUseAdapter
 from .cognee import CogneeAdapter
 from .dspy import DSPyAdapter
@@ -25,6 +26,7 @@ ADAPTERS = [
     CogneeAdapter,
     HindsightAdapter,
     OpenTelemetryAdapter,
+    AndroidChromeWorker,
 ]
 
 
