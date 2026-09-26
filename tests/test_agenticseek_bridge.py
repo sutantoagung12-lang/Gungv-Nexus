@@ -51,3 +51,17 @@ def test_orchestrator_prepares_browser_task_without_execution():
     result = Orchestrator().prepare_browser_task("browse a website and read the page")
     assert result["state"]["stage"] == "plan"
     assert result["action_request"]["executed"] is False
+
+
+from integrations.adapters.android_chrome import AndroidChromeWorker
+
+
+def test_android_chrome_worker_requires_explicit_approval():
+    worker = AndroidChromeWorker("http://127.0.0.1:9222")
+    assert worker.status()["configured"] is True
+    try:
+        worker.execute({"type": "snapshot"}, approved=False)
+    except PermissionError:
+        pass
+    else:
+        raise AssertionError("worker must require explicit approval")
