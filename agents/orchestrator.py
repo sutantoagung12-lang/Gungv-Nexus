@@ -2,11 +2,13 @@ from agents.registry import AGENTS
 from integrations.agenticseek_bridge import AgenticSeekBridge
 from integrations.capability_resolver import resolve
 from execution.fallback import build_plan
+from integrations.agenticseek_browser_loop import AgenticSeekBrowserLoop
 
 
 class Orchestrator:
     def __init__(self):
         self.agenticseek = AgenticSeekBridge()
+        self.browser_loop = AgenticSeekBrowserLoop()
 
     def select(self, task: str):
         t = task.lower()
@@ -39,3 +41,13 @@ class Orchestrator:
             "external_execution": False,
             "approval_required_for_destructive_actions": True,
         }
+
+
+    def prepare_browser_task(self, task: str, *, requires_confirmation: bool = True) -> dict:
+        """Create a browser control-loop request without executing it."""
+        profile = self.agenticseek.profile(task)
+        if "browser" not in [role["nexus_agent"] for role in profile["roles"]]:
+            raise ValueError("task is not classified as a browser task")
+        return self.browser_loop.start(
+            task, requires_confirmation=requires_confirmation
+        )
