@@ -85,4 +85,7 @@ class AndroidChromeWorker:
                     "result": result,
                 }
             finally:
-                browser.close()
+                # The Playwright context is stopped by sync_playwright(); do
+                # not call browser.close() because this endpoint may represent
+                # the user's existing Android Chrome session.
+                pass
