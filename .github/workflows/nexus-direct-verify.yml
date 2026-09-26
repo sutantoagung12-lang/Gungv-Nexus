@@ -1,0 +1,31 @@
+name: nexus-direct-verify
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install test runtime
+        run: |
+          python -m pip install --upgrade pip
+          pip install "pytest>=8,<9"
+      - name: Contract validation
+        run: python scripts/validate_nexus.py
+      - name: Recovery validation
+        run: python scripts/validate_recovery.py /tmp/nexus-recovery-validation.json
+      - name: Full test suite
+        run: python -m pytest -q
+      - name: Readiness validation
+        run: python scripts/nexus_readiness.py /tmp/nexus-readiness.json
