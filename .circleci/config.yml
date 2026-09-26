@@ -1,0 +1,36 @@
+version: 2.1
+
+jobs:
+  nexus-validation:
+    docker:
+      - image: cimg/python:3.12
+    steps:
+      - checkout
+      - run:
+          name: Install test runtime
+          command: |
+            python -m pip install --upgrade pip
+            pip install "pytest>=8,<9"
+      - run:
+          name: Nexus contract
+          command: python scripts/validate_nexus.py
+      - run:
+          name: Nexus health
+          command: python scripts/nexus_health.py /tmp/nexus-health.json
+      - run:
+          name: Recovery plan
+          command: python scripts/nexus_recovery_report.py /tmp/nexus-recovery.json
+      - run:
+          name: Recovery validation
+          command: python scripts/validate_recovery.py /tmp/nexus-recovery-validation.json
+      - run:
+          name: Readiness
+          command: python scripts/nexus_readiness.py /tmp/nexus-readiness.json
+      - run:
+          name: Test suite
+          command: python -m pytest -q
+
+workflows:
+  nexus:
+    jobs:
+      - nexus-validation
