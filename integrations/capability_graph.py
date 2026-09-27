@@ -1,6 +1,7 @@
 """Capability graph for runtime-aware provider selection."""
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass, asdict
 from integrations.github_pool import capabilities
 from integrations.runtime_availability import detect
@@ -48,7 +49,7 @@ def build_graph(runtime: dict | None = None) -> dict[str, list[dict]]:
         )
         graph.setdefault(capability, []).append(asdict(node))
 
-    colibri_state = runtime.get("summary", {}).get("colibri", "missing")
+    colibri_state = "configured" if os.getenv("NEXUS_COLIBRI_BASE_URL") else "missing"
     graph.setdefault("large-model-inference", []).append(asdict(CapabilityNode(
         capability="large-model-inference",
         repository="JustVugg/colibri",
