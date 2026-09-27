@@ -37,6 +37,7 @@ from federation.mesh import FederationMesh
 from recovery.os import RecoveryOS
 from operations.autonomous import AutonomousOperations
 from cognitive_os import CognitiveOS
+from integrations.colibri import ColibriAdapter
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -78,6 +79,7 @@ class NexusRuntime:
         self.recovery_os=RecoveryOS()
         self.autonomous_operations=AutonomousOperations()
         self.cognitive_os=CognitiveOS(self)
+        self.colibri=ColibriAdapter()
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -163,6 +165,12 @@ class NexusRuntime:
 
     def checkpoint_load(self, task_id):
         return self.checkpoints.load(task_id)
+
+    def colibri_status(self):
+        return self.colibri.status()
+
+    def colibri_chat(self, messages, **kwargs):
+        return self.colibri.chat(messages, **kwargs)
 
     def roadmap18(self):
         return {'versions':'6-18','status':'integrated-foundations','human_authority':True}
