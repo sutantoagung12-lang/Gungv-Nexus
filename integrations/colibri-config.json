@@ -1,0 +1,24 @@
+{
+  "provider": "colibri",
+  "repository": "JustVugg/colibri",
+  "mode": "provider-adapter",
+  "capability": "large-model-inference",
+  "endpoint_env": "NEXUS_COLIBRI_BASE_URL",
+  "model_env": "NEXUS_COLIBRI_MODEL",
+  "timeout_env": "NEXUS_COLIBRI_TIMEOUT",
+  "default_endpoint": "http://127.0.0.1:8080",
+  "api": "openai-compatible",
+  "placement": {
+    "ssd": "model-storage-and-streaming",
+    "ram": "resident-hot-state",
+    "vram": "optional-acceleration",
+    "expert_cache": "provider-managed"
+  },
+  "policy": {
+    "nexus_controls_orchestration": true,
+    "nexus_controls_memory": true,
+    "nexus_controls_safety": true,
+    "no_credentials_in_repo": true,
+    "network_execution_requires_runtime_validation": true
+  }
+}
