@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "policy": {
     "external_code_untrusted": true,
     "adapter_first": true,
@@ -148,6 +148,23 @@
       "priority": "high",
       "verified_public_repo": true,
       "default_branch": "main"
+    },
+    {
+      "name": "Colibri",
+      "repository": "JustVugg/colibri",
+      "target": "inference",
+      "mode": "provider-adapter",
+      "priority": "high",
+      "verified_public_repo": true,
+      "default_branch": "main",
+      "adapter_status": "implemented",
+      "integration_surface": "OpenAI-compatible local server",
+      "adapted_concepts": [
+        "SSD-backed model streaming",
+        "RAM resident state",
+        "optional VRAM acceleration",
+        "expert caching"
+      ]
     }
   ],
   "runtime_status": {
@@ -155,7 +172,8 @@
       "LangGraph",
       "R2R",
       "Khoj",
-      "browser-use"
+      "browser-use",
+      "Colibri"
     ],
     "external_dependencies_installed": false,
     "live_external_execution": false,
@@ -191,5 +209,5 @@
       "default_branch": "main"
     }
   ],
-  "research_note": "Selected additions are capability-expanding: temporal graph memory, agent runtime/SDK, MCP tool ecosystem, Playwright browser control, semantic memory, and stateful agent memory. Repository code is not copied wholesale."
+  "research_note": "Selected additions are capability-expanding. Colibri is integrated through an adapter boundary rather than copied wholesale; Nexus retains orchestration, memory, safety, provenance, evaluation and recovery control."
 }
