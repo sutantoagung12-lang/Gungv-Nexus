@@ -52,7 +52,6 @@ def detect() -> dict:
         _module_status("browser_use", "browser_use"),
         _module_status("playwright", "playwright"),
         _env_status("android_chrome_cdp", ("NEXUS_ANDROID_CHROME_CDP_URL",)),
-        _env_status("colibri", ("NEXUS_COLIBRI_BASE_URL",)),
         _module_status("langgraph", "langgraph"),
         _module_status("r2r", "r2r"),
         _module_status("khoj", "khoj"),
