@@ -48,6 +48,16 @@ def build_graph(runtime: dict | None = None) -> dict[str, list[dict]]:
         )
         graph.setdefault(capability, []).append(asdict(node))
 
+    colibri_state = runtime.get("summary", {}).get("colibri", "missing")
+    graph.setdefault("large-model-inference", []).append(asdict(CapabilityNode(
+        capability="large-model-inference",
+        repository="JustVugg/colibri",
+        trust="external-adapter",
+        integration="openai-compatible-local-server",
+        adapter="colibri",
+        readiness="ready" if colibri_state in {"configured", "reachable", "validated", "active"} else colibri_state,
+    )))
+
     # Local first-party connectors are not external repositories. They enter
     # the graph only at their observed runtime state; configuration alone is
     # not treated as validated connectivity.
