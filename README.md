@@ -20,3 +20,6 @@ CHATGPT_BOOTSTRAP.md and CHATGPT_NEW_CHAT.md define the ChatGPT bootstrap protoc
 
 ## Verification
 Repository state is authoritative only when read from the current GitHub revision. Workflow definitions are not proof of successful execution; inspect actual workflow runs and conclusions.
+
+## Colibri inference integration
+Nexus includes an adapter for JustVugg/colibri as an optional large-model inference provider. The adapter preserves Nexus as the control plane and exposes Colibri's OpenAI-compatible local server through `NexusRuntime.colibri`. Colibri-specific memory hierarchy concepts are represented at the provider boundary: SSD-backed model streaming, RAM resident state, optional VRAM acceleration, and provider-managed expert caching. Runtime configuration is validated separately from actual reachability.
