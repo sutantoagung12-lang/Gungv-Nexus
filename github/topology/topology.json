@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "root": "sutantoagung12-lang/Gungv-Nexus",
   "nodes": [
     "Gungv",
@@ -17,24 +17,120 @@
     "framerslab/agentos",
     "nikola66/web-agent",
     "XortexAI/XMem",
-    "daronyondem/agent-cockpit"
+    "daronyondem/agent-cockpit",
+    "EverMind-AI/Raven",
+    "onepointconsulting/nanobot-2026-07-30",
+    "Shijou87/Brow",
+    "mantou132/browser4agent",
+    "shaun0927/openchrome",
+    "reg2005/agent-mem"
   ],
   "relations": [
-    ["Gungv-Nexus", "controls", "Gungv"],
-    ["Gungv-Nexus", "coordinates", "Gungv-CMRA"],
-    ["Gungv-Nexus", "dispatches", "Gungv-Workers"],
-    ["Gungv-Nexus", "orchestrates", "Gungv-Automation"],
-    ["Gungv-Nexus", "coordinates", "Neuron"],
-    ["Gungv-Nexus", "uses", "gitGrok"],
-    ["index.html", "uses", "styles.css"],
-    ["index.html", "references", "terms.html"],
-    ["index.html", "references", "privacy.html"],
-    ["api-index.py", "integrates", "Gungv-Nexus"],
-    ["Gungv-Nexus", "studies", "razzant/ouroboros"],
-    ["Gungv-Nexus", "adapts-patterns-from", "framerslab/agentos"],
-    ["Gungv-Nexus", "adapts-patterns-from", "nikola66/web-agent"],
-    ["Gungv-Nexus", "adapts-patterns-from", "XortexAI/XMem"],
-    ["Gungv-Nexus", "adapts-patterns-from", "daronyondem/agent-cockpit"]
+    [
+      "Gungv-Nexus",
+      "controls",
+      "Gungv"
+    ],
+    [
+      "Gungv-Nexus",
+      "coordinates",
+      "Gungv-CMRA"
+    ],
+    [
+      "Gungv-Nexus",
+      "dispatches",
+      "Gungv-Workers"
+    ],
+    [
+      "Gungv-Nexus",
+      "orchestrates",
+      "Gungv-Automation"
+    ],
+    [
+      "Gungv-Nexus",
+      "coordinates",
+      "Neuron"
+    ],
+    [
+      "Gungv-Nexus",
+      "uses",
+      "gitGrok"
+    ],
+    [
+      "index.html",
+      "uses",
+      "styles.css"
+    ],
+    [
+      "index.html",
+      "references",
+      "terms.html"
+    ],
+    [
+      "index.html",
+      "references",
+      "privacy.html"
+    ],
+    [
+      "api-index.py",
+      "integrates",
+      "Gungv-Nexus"
+    ],
+    [
+      "Gungv-Nexus",
+      "studies",
+      "razzant/ouroboros"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "framerslab/agentos"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "nikola66/web-agent"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "XortexAI/XMem"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "daronyondem/agent-cockpit"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "EverMind-AI/Raven"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "onepointconsulting/nanobot-2026-07-30"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "Shijou87/Brow"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "mantou132/browser4agent"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "shaun0927/openchrome"
+    ],
+    [
+      "Gungv-Nexus",
+      "adapts-patterns-from",
+      "reg2005/agent-mem"
+    ]
   ],
   "integration_policy": {
     "external_code": "research-first; do not copy blindly",
