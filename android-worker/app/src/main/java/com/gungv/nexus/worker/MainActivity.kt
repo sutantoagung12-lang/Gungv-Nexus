@@ -50,6 +50,9 @@ class MainActivity : AppCompatActivity() {
             setOnClickListener { refreshStatus() }
         }
 
+        WorkerState.endpoint = endpoint.text.toString().trim().removeSuffix("/")
+        WorkerState.token = token.text.toString()
+
         setContentView(
             LinearLayout(this).apply {
                 orientation = LinearLayout.VERTICAL
@@ -80,6 +83,8 @@ class MainActivity : AppCompatActivity() {
             .putString("endpoint", url)
             .putString("token", secret)
             .apply()
+        WorkerState.endpoint = url.removeSuffix("/")
+        WorkerState.token = secret
         NexusTransport.send(this, url, secret) { result ->
             runOnUiThread { Toast.makeText(this, result, Toast.LENGTH_LONG).show() }
         }
