@@ -40,7 +40,7 @@ class NexusAccessibilityService : AccessibilityService() {
             val endpoint = WorkerState.endpoint
             val token = WorkerState.token
             if (!endpoint.isNullOrBlank() && !token.isNullOrBlank()) {
-                NexusTransport.pollCommands(endpoint, token) { command ->
+                DeviceCommandTransport.poll(endpoint, token) { command ->
                     if (command != null) executeCommand(command)
                 }
             }
@@ -57,7 +57,7 @@ class NexusAccessibilityService : AccessibilityService() {
         val endpoint = WorkerState.endpoint
         val token = WorkerState.token
         if (!endpoint.isNullOrBlank() && !token.isNullOrBlank()) {
-            NexusTransport.sendCommandResult(endpoint, token, result)
+            DeviceCommandTransport.result(endpoint, token, result)
         }
     }
 }
