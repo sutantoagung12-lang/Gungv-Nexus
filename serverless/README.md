@@ -14,8 +14,19 @@ Endpoints:
 - GET /state
 - POST /task
 - POST /schedule
+- POST /device/capabilities (Bearer NEXUS_DEVICE_TOKEN)
+- GET /device/capabilities (Bearer NEXUS_DEVICE_TOKEN)
 
 Local validation:
 npm install
 npm run check
 npx wrangler deploy
+
+
+## Android capability registration
+
+Configure a secret before accepting device reports:
+
+`wrangler secret put NEXUS_DEVICE_TOKEN`
+
+The Android Worker posts its conservative capability snapshot to `/device/capabilities`. The endpoint is authenticated and stores the latest snapshot in the persistent Durable Object state. It does not grant the phone arbitrary execution rights.
