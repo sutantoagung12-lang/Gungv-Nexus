@@ -35,34 +35,32 @@ export default {
     if (url.pathname === "/device/capabilities" && request.method === "POST") {
       const auth = request.headers.get("authorization") || "";
       const expected = env.NEXUS_DEVICE_TOKEN || "";
-      if (!expected || auth !== `Bearer ${expected}`) return json({ error: "device_authorization_required" }, 401);
+      if (!expected || auth !== `Bearer ${expected}`) {
+        return json({ error: "device_authorization_required" }, 401);
+      }
       const body = await request.json().catch(() => null);
-      if (!body || typeof body !== "object") return json({ error: "invalid_capability_snapshot" }, 400);
-      const current = await stub.fetch(new Request(new URL("/state", request.url)));
-      const snapshot = await current.json();
-      snapshot.device = { ...body, received_at: nowIso() };
-      const save = await stub.fetch(new Request(new URL("/device/capabilities", request.url), { method: "POST", headers: { "content-type": "application/json", "x-internal-token": expected }, body: JSON.stringify(body) }));
-      return save;
+      if (!body || typeof body !== "object") {
+        return json({ error: "invalid_capability_snapshot" }, 400);
+      }
+      return stub.fetch(new Request(new URL("/device/capabilities", request.url), {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          "x-internal-token": expected
+        },
+        body: JSON.stringify(body)
+      }));
     }
 
     if (url.pathname === "/device/capabilities" && request.method === "GET") {
-      return stub.fetch(new Request(new URL("/device/capabilities", request.url)));
-    }
-
-    if (url.pathname === "/device/capabilities" && request.method === "POST") {
-      const token = request.headers.get("x-internal-token") || "";
-      if (!this.env.NEXUS_DEVICE_TOKEN || token !== this.env.NEXUS_DEVICE_TOKEN) return json({ error: "device_authorization_required" }, 401);
-      const body = await request.json().catch(() => null);
-      if (!body || typeof body !== "object") return json({ error: "invalid_capability_snapshot" }, 400);
-      const snapshot = await this.load();
-      snapshot.device = { ...body, received_at: nowIso() };
-      await this.save(snapshot);
-      return json({ accepted: true, device: snapshot.device }, 202);
-    }
-
-    if (url.pathname === "/device/capabilities" && request.method === "GET") {
-      const snapshot = await this.load();
-      return snapshot.device ? json(snapshot.device) : json({ error: "device_capabilities_not_registered" }, 404);
+      const auth = request.headers.get("authorization") || "";
+      const expected = env.NEXUS_DEVICE_TOKEN || "";
+      if (!expected || auth !== `Bearer ${expected}`) {
+        return json({ error: "device_authorization_required" }, 401);
+      }
+      return stub.fetch(new Request(new URL("/device/capabilities", request.url), {
+        headers: { "x-internal-token": expected }
+      }));
     }
 
     if (url.pathname === "/result" && request.method === "GET") {
