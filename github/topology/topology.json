@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "root": "sutantoagung12-lang/Gungv-Nexus",
   "nodes": [
     "Gungv",
@@ -23,7 +23,61 @@
     "Shijou87/Brow",
     "mantou132/browser4agent",
     "shaun0927/openchrome",
-    "reg2005/agent-mem"
+    "reg2005/agent-mem",
+    {
+      "repository": "cloudflare/agents",
+      "role": "durable-agent-lifecycle-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "dapr/dapr-agents",
+      "role": "durable-multi-agent-workflow-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "dapr/dapr",
+      "role": "durable-runtime-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "agent-lifecycle-protocol/agent-lifecycle-protocol",
+      "role": "agent-lifecycle-protocol-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "LifeJiggy/Prometheus-Loop",
+      "role": "agentic-loop-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "LeonQin-ai/cognitive-os-agent",
+      "role": "cognitive-state-machine-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "shisa-ai/MELT",
+      "role": "memory-lifecycle-evaluation-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "satoshigreek/loop-harness-kit",
+      "role": "agent-harness-lifecycle-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    },
+    {
+      "repository": "smithdak/ORC",
+      "role": "software-agent-lifecycle-reference",
+      "mode": "research-and-adapt",
+      "executable": false
+    }
   ],
   "relations": [
     [
@@ -138,6 +192,7 @@
     "destructive_actions": "confirmation_required",
     "license_review": "required_before_direct_code_adoption",
     "security_review": "required_before_runtime_integration",
-    "human_authority": true
+    "human_authority": true,
+    "lifecycle": "combine lifecycle patterns into Nexus architecture; external implementations remain non-executable until separately validated"
   }
 }
