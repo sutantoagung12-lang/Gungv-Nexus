@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
+  "version": "1.4",
   "repositories": [
     {
       "name": "sutantoagung12-lang/Gungv-Nexus",
@@ -8,7 +8,7 @@
       "status": "active",
       "visibility": "private",
       "default_branch": "main",
-      "inspected_at": "2026-09-24"
+      "inspected_at": "2026-09-30"
     },
     {
       "name": "sutantoagung12-lang/Gungv",
@@ -119,6 +119,57 @@
       "default_branch": "main",
       "integration_manifest": "NEXUS_INTEGRATION.md",
       "inspected_at": "2026-09-24"
+    },
+    {
+      "name": "razzant/ouroboros",
+      "role": "external-agent-self-evolution-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/razzant/ouroboros",
+      "integration_scope": ["self-modification", "durable-memory", "specialist-swarm", "background-reflection", "governed-evolution"],
+      "verified_at": "2026-09-30"
+    },
+    {
+      "name": "framerslab/agentos",
+      "role": "external-agent-runtime-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/framerslab/agentos",
+      "integration_scope": ["cognitive-memory", "runtime-tool-forging", "multi-agent-orchestration", "guardrails", "skill-loading"],
+      "verified_at": "2026-09-30"
+    },
+    {
+      "name": "nikola66/web-agent",
+      "role": "external-browser-agent-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/nikola66/web-agent",
+      "integration_scope": ["browser-native-runtime", "persistent-browser-memory", "skills", "tools", "planning", "self-improvement", "local-first"],
+      "verified_at": "2026-09-30"
+    },
+    {
+      "name": "XortexAI/XMem",
+      "role": "external-memory-architecture-reference",
+      "trust": "external-public",
+      "status": "archived-readonly",
+      "visibility": "public",
+      "source": "https://github.com/XortexAI/XMem",
+      "integration_scope": ["agentic-memory", "memory-routing", "temporal-memory", "judge-based-memory-updates", "multimodal-memory"],
+      "verified_at": "2026-09-30",
+      "note": "Repository is archived and therefore treated as read-only research input."
+    },
+    {
+      "name": "daronyondem/agent-cockpit",
+      "role": "external-agent-interface-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/daronyondem/agent-cockpit",
+      "integration_scope": ["browser-cockpit", "provider-neutral-context", "local-memory", "knowledge-base", "mobile-pwa", "multi-backend-interface"],
+      "verified_at": "2026-09-30"
     }
   ]
 }
