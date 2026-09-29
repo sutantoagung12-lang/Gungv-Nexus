@@ -52,6 +52,52 @@ export default {
       }));
     }
 
+    if (url.pathname === "/device/command" && request.method === "POST") {
+      const auth = request.headers.get("authorization") || "";
+      const expected = env.NEXUS_DEVICE_TOKEN || "";
+      if (!expected || auth !== `Bearer ${expected}`) {
+        return json({ error: "device_authorization_required" }, 401);
+      }
+      const body = await request.json().catch(() => null);
+      const allowed = ["back", "home", "recents", "notifications", "quick_settings", "tap", "swipe", "set_text"];
+      if (!body || typeof body !== "object" || !allowed.includes(body.action)) {
+        return json({ error: "invalid_device_command", allowed_actions: allowed }, 400);
+      }
+      return stub.fetch(new Request(new URL("/device/command", request.url), {
+        method: "POST",
+        headers: { "content-type": "application/json", "x-internal-token": expected },
+        body: JSON.stringify(body)
+      }));
+    }
+
+    if (url.pathname === "/device/commands" && request.method === "GET") {
+      const auth = request.headers.get("authorization") || "";
+      const expected = env.NEXUS_DEVICE_TOKEN || "";
+      if (!expected || auth !== `Bearer ${expected}`) {
+        return json({ error: "device_authorization_required" }, 401);
+      }
+      return stub.fetch(new Request(new URL("/device/commands", request.url), {
+        headers: { "x-internal-token": expected }
+      }));
+    }
+
+    if (url.pathname === "/device/command-result" && request.method === "POST") {
+      const auth = request.headers.get("authorization") || "";
+      const expected = env.NEXUS_DEVICE_TOKEN || "";
+      if (!expected || auth !== `Bearer ${expected}`) {
+        return json({ error: "device_authorization_required" }, 401);
+      }
+      const body = await request.json().catch(() => null);
+      if (!body || typeof body !== "object" || typeof body.id !== "string") {
+        return json({ error: "invalid_command_result" }, 400);
+      }
+      return stub.fetch(new Request(new URL("/device/command-result", request.url), {
+        method: "POST",
+        headers: { "content-type": "application/json", "x-internal-token": expected },
+        body: JSON.stringify(body)
+      }));
+    }
+
     if (url.pathname === "/device/capabilities" && request.method === "GET") {
       const auth = request.headers.get("authorization") || "";
       const expected = env.NEXUS_DEVICE_TOKEN || "";
@@ -63,6 +109,71 @@ export default {
       }));
     }
 
+    if (url.pathname === "/device/command" && request.method === "POST") {
+      if (request.headers.get("x-internal-token") !== (this.env.NEXUS_DEVICE_TOKEN || "")) {
+        return json({ error: "device_internal_authorization_required" }, 401);
+      }
+      const body = await request.json().catch(() => ({}));
+      const allowed = ["back", "home", "recents", "notifications", "quick_settings", "tap", "swipe", "set_text"];
+      if (!allowed.includes(body.action)) return json({ error: "invalid_device_command" }, 400);
+
+      snapshot.device_commands = snapshot.device_commands || [];
+      const command = {
+        id: crypto.randomUUID(),
+        action: body.action,
+        x: body.x, y: body.y,
+        x1: body.x1, y1: body.y1, x2: body.x2, y2: body.y2,
+        duration_ms: body.duration_ms,
+        text: typeof body.text === "string" ? body.text.slice(0, 10000) : undefined,
+        status: "pending",
+        created_at: nowIso(),
+        leased_at: null,
+        completed_at: null,
+        result: null
+      };
+      snapshot.device_commands = [...snapshot.device_commands.slice(-99), command];
+      await this.save(snapshot);
+      return json({ accepted: true, command }, 202);
+    }
+
+    if (url.pathname === "/device/commands" && request.method === "GET") {
+      if (request.headers.get("x-internal-token") !== (this.env.NEXUS_DEVICE_TOKEN || "")) {
+        return json({ error: "device_internal_authorization_required" }, 401);
+      }
+      snapshot.device_commands = snapshot.device_commands || [];
+      const now = Date.now();
+      const command = snapshot.device_commands.find(item =>
+        item.status === "pending" ||
+        (item.status === "leased" && Date.parse(item.leased_at || "") + 30000 <= now)
+      );
+      if (!command) return json({ available: false, command: null });
+      command.status = "leased";
+      command.leased_at = nowIso();
+      await this.save(snapshot);
+      return json({ available: true, command });
+    }
+
+    if (url.pathname === "/device/command-result" && request.method === "POST") {
+      if (request.headers.get("x-internal-token") !== (this.env.NEXUS_DEVICE_TOKEN || "")) {
+        return json({ error: "device_internal_authorization_required" }, 401);
+      }
+      const body = await request.json().catch(() => ({}));
+      snapshot.device_commands = snapshot.device_commands || [];
+      const command = snapshot.device_commands.find(item => item.id === body.id);
+      if (!command) return json({ error: "command_not_found" }, 404);
+      if (command.status === "completed") return json({ accepted: true, duplicate: true, command });
+      command.status = body.ok === true ? "completed" : "failed";
+      command.completed_at = nowIso();
+      command.result = {
+        ok: body.ok === true,
+        action: command.action,
+        error: typeof body.error === "string" ? body.error : null,
+        detail: typeof body.detail === "string" ? body.detail : null
+      };
+      await this.save(snapshot);
+      return json({ accepted: true, command });
+    }
+
     if (url.pathname === "/result" && request.method === "GET") {
       return stub.fetch(new Request(new URL(url.pathname + url.search, request.url)));
     }
@@ -70,7 +181,7 @@ export default {
     return json({
       service: "gungv-nexus-runtime",
       mode: env.NEXUS_MODE || "serverless",
-      endpoints: ["/health", "/state", "/task", "/schedule", "/approve", "/run", "/result", "/device/capabilities"],
+      endpoints: ["/health", "/state", "/task", "/schedule", "/approve", "/run", "/result", "/device/capabilities", "/device/command", "/device/commands", "/device/command-result"],
       execution: "event-driven-autonomous",
       external_execution: false,
       arbitrary_code_execution: false
@@ -91,6 +202,7 @@ export class NexusState {
       tasks: [],
       schedules: [],
       results: [],
+      device_commands: [],
       updated_at: nowIso()
     };
   }
