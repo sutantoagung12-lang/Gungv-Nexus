@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "purpose": "Direct capability composition pool for Gungv-Nexus",
   "policy": {
     "external_code_untrusted": true,
@@ -3393,9 +3393,10 @@
       "repository": "shaun0927/openchrome",
       "capability": "browser-agent",
       "trust": "external-public-unverified",
-      "integration": "registry-first",
+      "integration": "reference-adapted",
       "requires_validation": true,
-      "source_batch": "2026-09-24-discovery-1000"
+      "source_batch": "2026-09-24-discovery-1000",
+      "source_capability": "shaun0927/openchrome"
     },
     {
       "repository": "disler/bowser",
@@ -9550,33 +9551,43 @@
     },
     {
       "repository": "EverMind-AI/Raven",
-      "capability": "self-evolving-agent",
+      "capability": "agent-runtime",
       "trust": "external-public",
-      "integration": "registry-first"
+      "integration": "reference-adapted",
+      "requires_validation": true,
+      "source_capability": "EverMind-AI/Raven"
     },
     {
       "repository": "onepointconsulting/nanobot-2026-07-30",
-      "capability": "lightweight-agent-runtime",
+      "capability": "agent-runtime",
       "trust": "external-public",
-      "integration": "registry-first"
+      "integration": "reference-adapted",
+      "requires_validation": true,
+      "source_capability": "onepointconsulting/nanobot-2026-07-30"
     },
     {
       "repository": "Shijou87/Brow",
       "capability": "browser-agent",
       "trust": "external-public",
-      "integration": "registry-first"
+      "integration": "reference-adapted",
+      "requires_validation": true,
+      "source_capability": "Shijou87/Brow"
     },
     {
       "repository": "mantou132/browser4agent",
-      "capability": "browser-mcp",
+      "capability": "browser-agent",
       "trust": "external-public",
-      "integration": "registry-first"
+      "integration": "reference-adapted",
+      "requires_validation": true,
+      "source_capability": "mantou132/browser4agent"
     },
     {
       "repository": "reg2005/agent-mem",
-      "capability": "persistent-memory",
+      "capability": "memory",
       "trust": "external-public",
-      "integration": "registry-first"
+      "integration": "reference-adapted",
+      "requires_validation": true,
+      "source_capability": "reg2005/agent-mem"
     }
   ],
   "last_update": "2026-09-30"
