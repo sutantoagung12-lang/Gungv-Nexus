@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "27.0.0",
+  "architecture_version": "28.0.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -32,6 +32,18 @@
     "status": "implemented",
     "engine": "experiments/engine.py"
   },
+  "external_agent_research": {
+    "status": "integrated_as_architecture_references",
+    "repositories": [
+      "razzant/ouroboros",
+      "framerslab/agentos",
+      "nikola66/web-agent",
+      "XortexAI/XMem",
+      "daronyondem/agent-cockpit"
+    ],
+    "mode": "research-and-adapt",
+    "direct_code_import": false
+  },
   "health": "self-learning-skill-evolution-with-guarded-repair",
   "anomalies": [],
   "capabilities": [
@@ -55,7 +67,15 @@
     "persistent skill retrieval",
     "failure diagnosis",
     "repair candidate generation",
-    "regression-gated self-repair"
+    "regression-gated self-repair",
+    "self-modification pattern research",
+    "specialist swarm pattern research",
+    "runtime tool-forging pattern research",
+    "browser-native agent pattern research",
+    "local-first agent runtime pattern research",
+    "agentic memory routing pattern research",
+    "provider-neutral agent cockpit pattern research",
+    "mobile PWA agent interface pattern research"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -65,19 +85,20 @@
     "CI execution is not independently verified",
     "experience and skill stores use bounded local JSONL persistence",
     "skill promotion requires repeated high-quality evidence and remains deterministic/lexical",
-    "self-repair is candidate-based and validation-gated; it does not autonomously bypass safety or deploy unverified code"
+    "self-repair is candidate-based and validation-gated; it does not autonomously bypass safety or deploy unverified code",
+    "external repositories are architecture references until license, security, compatibility, and test validation are completed"
   ],
   "evolution_state": {
-    "version": "27.0.0",
+    "version": "28.0.0",
     "status": "self-learning-skill-evolution-with-guarded-repair",
-    "runtime": "task -> skill retrieval -> experience retrieval -> planning -> execution -> evaluation -> reflection -> persistent learning -> skill promotion -> failure diagnosis -> repair candidate -> isolated validation -> regression gate -> controlled promotion -> reuse"
+    "runtime": "task -> skill retrieval -> experience retrieval -> planning -> execution -> evaluation -> reflection -> persistent learning -> skill promotion -> failure diagnosis -> repair candidate -> isolated validation -> regression gate -> controlled promotion -> reuse",
+    "new_research_inputs": "ouroboros + agentos + web-agent + xmem + agent-cockpit"
   },
   "last_evolution": {
-    "version": "27.0.0",
+    "version": "28.0.0",
     "commits": [
-      "85a4ec0a21d94d831364012e27f255ba01e87990",
-      "b3832c808e2868883b986e400f0f403d7d15b434",
-      "767773d3ae888b65596ec9e1f29c7cf34fe21fd3"
+      "8985688f1b18c1ae1fc61f9c958d9f703f032cfd",
+      "7a90b3c34a95a50fa8f75e26159b99db0188466d6"
     ],
     "ci_verified": false
   }
