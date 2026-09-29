@@ -22,10 +22,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install "pytest>=8,<9"
       - name: Contract validation
+        env:
+          PYTHONPATH: .
         run: python scripts/validate_nexus.py
       - name: Recovery validation
+        env:
+          PYTHONPATH: .
         run: python scripts/validate_recovery.py /tmp/nexus-recovery-validation.json
       - name: Full test suite
+        env:
+          PYTHONPATH: .
         run: python -m pytest -q
       - name: Readiness validation
+        env:
+          PYTHONPATH: .
         run: python scripts/nexus_readiness.py /tmp/nexus-readiness.json
