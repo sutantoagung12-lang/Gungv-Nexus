@@ -8,7 +8,7 @@
     "auto_install": false,
     "auto_merge_into_pool": true
   },
-  "count": 1211,
+  "count": 1213,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -9588,6 +9588,20 @@
       "integration": "reference-adapted",
       "requires_validation": true,
       "source_capability": "reg2005/agent-mem"
+    },
+    {
+      "repository": "local/nexus-orchestrator",
+      "capability": "nexus-agent",
+      "trust": "internal",
+      "integration": "first-party",
+      "requires_validation": false
+    },
+    {
+      "repository": "local/android-chrome-worker",
+      "capability": "nexus-browser-agent",
+      "trust": "internal",
+      "integration": "first-party",
+      "requires_validation": true
     }
   ],
   "last_update": "2026-09-30"
