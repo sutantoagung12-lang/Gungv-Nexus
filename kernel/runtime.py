@@ -38,6 +38,7 @@ from recovery.os import RecoveryOS
 from operations.autonomous import AutonomousOperations
 from cognitive_os import CognitiveOS
 from integrations.colibri import ColibriAdapter
+from integrations.device_runtime import DeviceRuntime
 
 class NexusRuntime:
     def __init__(self, root="."):
@@ -80,6 +81,7 @@ class NexusRuntime:
         self.autonomous_operations=AutonomousOperations()
         self.cognitive_os=CognitiveOS(self)
         self.colibri=ColibriAdapter()
+        self.device_runtime=DeviceRuntime()
 
     def handle(self, user_input: str):
         agents=self.orchestrator.select(user_input)
@@ -181,5 +183,6 @@ class NexusRuntime:
             "memory_records":len(self.memory.all()),
             "experience_records":len(self.experiences.recent(self.experiences.max_items)),
             "skill_records":len(self.skills.all()),
-            "knowledge_records":len(self.knowledge.all())
+            "knowledge_records":len(self.knowledge.all()),
+            "device_runtime":self.device_runtime.status()
         }
