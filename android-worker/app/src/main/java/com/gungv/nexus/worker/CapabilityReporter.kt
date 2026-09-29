@@ -4,19 +4,16 @@ import android.content.Context
 import android.media.projection.MediaProjectionManager
 import android.os.Build
 import android.view.WindowManager
+import android.hardware.display.DisplayManager
 import org.json.JSONObject
 
 object CapabilityReporter {
     fun snapshot(context: Context, serviceConnected: Boolean): JSONObject {
-        val wm = context.getSystemService(WindowManager::class.java)
+        val dm = context.getSystemService(DisplayManager::class.java)
         val mediaProjection =
             context.getSystemService(MediaProjectionManager::class.java)
 
-        val displayCount = if (Build.VERSION.SDK_INT >= 30) {
-            wm?.display?.let { 1 }
-        } else {
-            1
-        } ?: 0
+        val displayCount = dm?.displays?.size ?: 0
 
         return JSONObject().apply {
             put("worker", "nexus-android")
