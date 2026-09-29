@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "28.1.0",
+  "architecture_version": "28.2.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -84,7 +84,13 @@
     "provider-neutral agent cockpit pattern research",
     "mobile PWA agent interface pattern research",
     "reference-safe capability graph routing",
-    "reference-source exclusion from executable provider selection"
+    "reference-source exclusion from executable provider selection",
+    "durable lifecycle architecture",
+    "checkpoint-and-resume lifecycle",
+    "hibernate-and-wake lifecycle pattern",
+    "durable multi-agent workflow pattern",
+    "deterministic lifecycle state-machine pattern",
+    "memory lifecycle evaluation pattern"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -98,20 +104,81 @@
     "external repositories are architecture references until license, security, compatibility, and test validation are completed"
   ],
   "evolution_state": {
-    "version": "28.1.0",
-    "status": "self-learning-skill-evolution-with-guarded-repair",
-    "runtime": "task -> skill retrieval -> experience retrieval -> planning -> execution -> evaluation -> reflection -> persistent learning -> skill promotion -> failure diagnosis -> repair candidate -> isolated validation -> regression gate -> controlled promotion -> reuse",
-    "new_research_inputs": "ouroboros + agentos + web-agent + xmem + agent-cockpit + raven + nanobot + brow + browser4agent + openchrome + agent-mem"
+    "version": "28.2.0",
+    "status": "durable-lifecycle-architecture-integrated",
+    "runtime": "system lifecycle -> task lifecycle -> agent lifecycle -> capability routing -> durable execution -> checkpoint -> verification -> memory -> learning -> evolution -> sleep/wake",
+    "new_research_inputs": "ouroboros + agentos + web-agent + xmem + agent-cockpit + raven + nanobot + brow + browser4agent + openchrome + agent-mem + cloudflare-agents + dapr-agents + dapr + agent-lifecycle-protocol + prometheus-loop + cognitive-os-agent + MELT + loop-harness-kit + ORC"
   },
   "last_evolution": {
-    "version": "28.1.0",
-    "commits": [
-      "91b4dd04fea9baef4987c8e81657d4bfac160a15",
-      "e5b6ca394748fced9da1a382accb2ac88f12f9ca7",
-      "f75726fa7b51a431f10ac8592fa28bd968ecbd87",
-      "0c07412b0cc2032e307588c9d569ea5aabf37b76",
-      "7af6f2da3a7598769115411ea0c7e814177d038d"
-    ],
+    "version": "28.2.0",
+    "commits": [],
     "ci_verified": false
+  },
+  "lifecycle_state": {
+    "status": "architecture-integrated",
+    "controller": "orchestrator",
+    "layers": {
+      "system": [
+        "BOOT",
+        "HEALTH_CHECK",
+        "DISCOVER",
+        "RUNTIME",
+        "MONITOR",
+        "RECOVER",
+        "SLEEP",
+        "WAKE"
+      ],
+      "task": [
+        "RECEIVE",
+        "UNDERSTAND",
+        "RETRIEVE",
+        "PLAN",
+        "POLICY_CHECK",
+        "EXECUTE",
+        "CHECKPOINT",
+        "OBSERVE",
+        "VERIFY",
+        "COMPLETE",
+        "REPLAN",
+        "FAIL"
+      ],
+      "agent": [
+        "PROVISION",
+        "INITIALIZE",
+        "ACTIVE",
+        "LEARN",
+        "SUSPEND",
+        "RESUME",
+        "MIGRATE",
+        "RETRAIN",
+        "DEPRECATE",
+        "DECOMMISSION"
+      ],
+      "state": [
+        "HYDRATE",
+        "PERSIST",
+        "CHECKPOINT",
+        "RESTORE",
+        "MIGRATE",
+        "COMPACT",
+        "ARCHIVE",
+        "REVOKE"
+      ]
+    },
+    "combined_loop": "WAKE -> HYDRATE -> PLAN -> EXECUTE -> CHECKPOINT -> OBSERVE -> VERIFY -> LEARN -> SLEEP",
+    "recovery": "RESTORE -> VERIFY_CHECKPOINT -> RESUME",
+    "evolution": "EVALUATE -> MIGRATE_STATE -> UPDATE_CAPABILITY -> VERIFY -> ACTIVATE",
+    "external_patterns": [
+      "cloudflare/agents",
+      "dapr/dapr-agents",
+      "dapr/dapr",
+      "agent-lifecycle-protocol/agent-lifecycle-protocol",
+      "LifeJiggy/Prometheus-Loop",
+      "LeonQin-ai/cognitive-os-agent",
+      "shisa-ai/MELT",
+      "satoshigreek/loop-harness-kit",
+      "smithdak/ORC"
+    ],
+    "policy": "external patterns are references; executable behavior remains Nexus-controlled"
   }
 }
