@@ -38,7 +38,11 @@ def build_graph(runtime: dict | None = None) -> dict[str, list[dict]]:
         if not capability or not repository:
             continue
         adapter = ADAPTER_MAP.get(capability)
-        ready = "ready" if adapter is None or adapter in available else "unavailable"
+        # Reference-adapted repositories contribute patterns only; the local adapter is executable.
+        if item.get("integration") == "reference-adapted":
+            ready = "reference"
+        else:
+            ready = "ready" if adapter is None or adapter in available else "unavailable"
         node = CapabilityNode(
             capability=capability,
             repository=repository,
