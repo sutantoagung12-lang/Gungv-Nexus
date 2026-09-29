@@ -1,5 +1,5 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "repositories": [
     {
       "name": "sutantoagung12-lang/Gungv-Nexus",
@@ -127,7 +127,13 @@
       "status": "research-integrated",
       "visibility": "public",
       "source": "https://github.com/razzant/ouroboros",
-      "integration_scope": ["self-modification", "durable-memory", "specialist-swarm", "background-reflection", "governed-evolution"],
+      "integration_scope": [
+        "self-modification",
+        "durable-memory",
+        "specialist-swarm",
+        "background-reflection",
+        "governed-evolution"
+      ],
       "verified_at": "2026-09-30"
     },
     {
@@ -137,7 +143,13 @@
       "status": "research-integrated",
       "visibility": "public",
       "source": "https://github.com/framerslab/agentos",
-      "integration_scope": ["cognitive-memory", "runtime-tool-forging", "multi-agent-orchestration", "guardrails", "skill-loading"],
+      "integration_scope": [
+        "cognitive-memory",
+        "runtime-tool-forging",
+        "multi-agent-orchestration",
+        "guardrails",
+        "skill-loading"
+      ],
       "verified_at": "2026-09-30"
     },
     {
@@ -147,7 +159,15 @@
       "status": "research-integrated",
       "visibility": "public",
       "source": "https://github.com/nikola66/web-agent",
-      "integration_scope": ["browser-native-runtime", "persistent-browser-memory", "skills", "tools", "planning", "self-improvement", "local-first"],
+      "integration_scope": [
+        "browser-native-runtime",
+        "persistent-browser-memory",
+        "skills",
+        "tools",
+        "planning",
+        "self-improvement",
+        "local-first"
+      ],
       "verified_at": "2026-09-30"
     },
     {
@@ -157,7 +177,13 @@
       "status": "archived-readonly",
       "visibility": "public",
       "source": "https://github.com/XortexAI/XMem",
-      "integration_scope": ["agentic-memory", "memory-routing", "temporal-memory", "judge-based-memory-updates", "multimodal-memory"],
+      "integration_scope": [
+        "agentic-memory",
+        "memory-routing",
+        "temporal-memory",
+        "judge-based-memory-updates",
+        "multimodal-memory"
+      ],
       "verified_at": "2026-09-30",
       "note": "Repository is archived and therefore treated as read-only research input."
     },
@@ -168,8 +194,131 @@
       "status": "research-integrated",
       "visibility": "public",
       "source": "https://github.com/daronyondem/agent-cockpit",
-      "integration_scope": ["browser-cockpit", "provider-neutral-context", "local-memory", "knowledge-base", "mobile-pwa", "multi-backend-interface"],
+      "integration_scope": [
+        "browser-cockpit",
+        "provider-neutral-context",
+        "local-memory",
+        "knowledge-base",
+        "mobile-pwa",
+        "multi-backend-interface"
+      ],
       "verified_at": "2026-09-30"
+    },
+    {
+      "name": "EverMind-AI/Raven",
+      "role": "external-self-evolving-agent-harness-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/EverMind-AI/Raven",
+      "integration_scope": [
+        "multi-agent-orchestration",
+        "persistent-memory",
+        "skill-evolution",
+        "evaluation-driven-evolution",
+        "proactivity",
+        "long-running-service"
+      ],
+      "verified_at": "2026-09-30",
+      "note": "Research/adaptation only; no external repository writes."
+    },
+    {
+      "name": "onepointconsulting/nanobot-2026-07-30",
+      "role": "external-lightweight-agent-runtime-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/onepointconsulting/nanobot-2026-07-30",
+      "integration_scope": [
+        "lightweight-runtime",
+        "webui",
+        "tools",
+        "memory",
+        "MCP",
+        "multi-agent-workflows",
+        "automation",
+        "server-gateway"
+      ],
+      "verified_at": "2026-09-30",
+      "note": "Research/adaptation only; no external repository writes."
+    },
+    {
+      "name": "Shijou87/Brow",
+      "role": "external-browser-agent-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/Shijou87/Brow",
+      "integration_scope": [
+        "chrome-side-panel",
+        "semantic-browser-automation",
+        "MCP",
+        "WebMCP",
+        "browser-snapshots",
+        "live-browser-session"
+      ],
+      "verified_at": "2026-09-30",
+      "license": "Apache-2.0",
+      "note": "License reviewed; direct derivative code requires Apache notice compliance."
+    },
+    {
+      "name": "mantou132/browser4agent",
+      "role": "external-browser-MCP-bridge-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/mantou132/browser4agent",
+      "integration_scope": [
+        "browser-control",
+        "MCP",
+        "skills",
+        "page-tools",
+        "CDP",
+        "native-host"
+      ],
+      "verified_at": "2026-09-30",
+      "license": "MIT",
+      "note": "Security-sensitive browser access; adapt only after security review."
+    },
+    {
+      "name": "shaun0927/openchrome",
+      "role": "external-browser-runtime-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/shaun0927/openchrome",
+      "integration_scope": [
+        "real-chrome-control",
+        "CDP",
+        "MCP",
+        "isolated-tabs",
+        "recovery",
+        "token-efficient-serialization",
+        "skills"
+      ],
+      "verified_at": "2026-09-30",
+      "license": "MIT",
+      "note": "Security-sensitive authenticated-browser control; adapt only after security review."
+    },
+    {
+      "name": "reg2005/agent-mem",
+      "role": "external-memory-service-reference",
+      "trust": "external-public",
+      "status": "research-integrated",
+      "visibility": "public",
+      "source": "https://github.com/reg2005/agent-mem",
+      "integration_scope": [
+        "persistent-memory",
+        "semantic-search",
+        "SQLite",
+        "local-embeddings",
+        "MCP",
+        "REST-api",
+        "memory-update-delete-forget"
+      ],
+      "verified_at": "2026-09-30",
+      "license": "MIT",
+      "note": "Useful reference for a lightweight persistent-memory service."
     }
   ]
 }
