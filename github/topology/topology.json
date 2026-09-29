@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "root": "sutantoagung12-lang/Gungv-Nexus",
   "nodes": [
     "Gungv",
@@ -12,58 +12,36 @@
     "privacy.html",
     "index.html",
     "styles.css",
-    "api-index.py"
+    "api-index.py",
+    "razzant/ouroboros",
+    "framerslab/agentos",
+    "nikola66/web-agent",
+    "XortexAI/XMem",
+    "daronyondem/agent-cockpit"
   ],
   "relations": [
-    [
-      "Gungv-Nexus",
-      "controls",
-      "Gungv"
-    ],
-    [
-      "Gungv-Nexus",
-      "coordinates",
-      "Gungv-CMRA"
-    ],
-    [
-      "Gungv-Nexus",
-      "dispatches",
-      "Gungv-Workers"
-    ],
-    [
-      "Gungv-Nexus",
-      "orchestrates",
-      "Gungv-Automation"
-    ],
-    [
-      "Gungv-Nexus",
-      "coordinates",
-      "Neuron"
-    ],
-    [
-      "Gungv-Nexus",
-      "uses",
-      "gitGrok"
-    ],
-    [
-      "index.html",
-      "uses",
-      "styles.css"
-    ],
-    [
-      "index.html",
-      "references",
-      "terms.html"
-    ],
-    [
-      "index.html",
-      "references",
-      "privacy.html"
-    ],
-    [
-      "api-index.py",
-      "integrates",
-      "Gungv-Nexus"
-    ]
-  ]
+    ["Gungv-Nexus", "controls", "Gungv"],
+    ["Gungv-Nexus", "coordinates", "Gungv-CMRA"],
+    ["Gungv-Nexus", "dispatches", "Gungv-Workers"],
+    ["Gungv-Nexus", "orchestrates", "Gungv-Automation"],
+    ["Gungv-Nexus", "coordinates", "Neuron"],
+    ["Gungv-Nexus", "uses", "gitGrok"],
+    ["index.html", "uses", "styles.css"],
+    ["index.html", "references", "terms.html"],
+    ["index.html", "references", "privacy.html"],
+    ["api-index.py", "integrates", "Gungv-Nexus"],
+    ["Gungv-Nexus", "studies", "razzant/ouroboros"],
+    ["Gungv-Nexus", "adapts-patterns-from", "framerslab/agentos"],
+    ["Gungv-Nexus", "adapts-patterns-from", "nikola66/web-agent"],
+    ["Gungv-Nexus", "adapts-patterns-from", "XortexAI/XMem"],
+    ["Gungv-Nexus", "adapts-patterns-from", "daronyondem/agent-cockpit"]
+  ],
+  "integration_policy": {
+    "external_code": "research-first; do not copy blindly",
+    "external_data": "untrusted_until_validated",
+    "destructive_actions": "confirmation_required",
+    "license_review": "required_before_direct_code_adoption",
+    "security_review": "required_before_runtime_integration",
+    "human_authority": true
+  }
 }
