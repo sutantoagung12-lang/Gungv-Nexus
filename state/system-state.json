@@ -4,7 +4,7 @@
     "architecture": "GitHub-Native Cognitive System",
     "owner_role": "human"
   },
-  "architecture_version": "28.0.0",
+  "architecture_version": "28.1.0",
   "active_goals": [],
   "active_tasks": [],
   "repository_state": {
@@ -39,10 +39,17 @@
       "framerslab/agentos",
       "nikola66/web-agent",
       "XortexAI/XMem",
-      "daronyondem/agent-cockpit"
+      "daronyondem/agent-cockpit",
+      "EverMind-AI/Raven",
+      "onepointconsulting/nanobot-2026-07-30",
+      "Shijou87/Brow",
+      "mantou132/browser4agent",
+      "shaun0927/openchrome",
+      "reg2005/agent-mem"
     ],
     "mode": "research-and-adapt",
-    "direct_code_import": false
+    "direct_code_import": false,
+    "capability_routing": "reference-adapted sources map to local adapters; reference nodes are non-executable"
   },
   "health": "self-learning-skill-evolution-with-guarded-repair",
   "anomalies": [],
@@ -75,7 +82,9 @@
     "local-first agent runtime pattern research",
     "agentic memory routing pattern research",
     "provider-neutral agent cockpit pattern research",
-    "mobile PWA agent interface pattern research"
+    "mobile PWA agent interface pattern research",
+    "reference-safe capability graph routing",
+    "reference-source exclusion from executable provider selection"
   ],
   "limitations": [
     "runtime does not contain credentials",
@@ -89,16 +98,19 @@
     "external repositories are architecture references until license, security, compatibility, and test validation are completed"
   ],
   "evolution_state": {
-    "version": "28.0.0",
+    "version": "28.1.0",
     "status": "self-learning-skill-evolution-with-guarded-repair",
     "runtime": "task -> skill retrieval -> experience retrieval -> planning -> execution -> evaluation -> reflection -> persistent learning -> skill promotion -> failure diagnosis -> repair candidate -> isolated validation -> regression gate -> controlled promotion -> reuse",
-    "new_research_inputs": "ouroboros + agentos + web-agent + xmem + agent-cockpit"
+    "new_research_inputs": "ouroboros + agentos + web-agent + xmem + agent-cockpit + raven + nanobot + brow + browser4agent + openchrome + agent-mem"
   },
   "last_evolution": {
-    "version": "28.0.0",
+    "version": "28.1.0",
     "commits": [
-      "8985688f1b18c1ae1fc61f9c958d9f703f032cfd",
-      "7a90b3c34a95a50fa8f75e26159b99db0188466d6"
+      "91b4dd04fea9baef4987c8e81657d4bfac160a15",
+      "e5b6ca394748fced9da1a382accb2ac88f12f9ca7",
+      "f75726fa7b51a431f10ac8592fa28bd968ecbd87",
+      "0c07412b0cc2032e307588c9d569ea5aabf37b76",
+      "7af6f2da3a7598769115411ea0c7e814177d038d"
     ],
     "ci_verified": false
   }
