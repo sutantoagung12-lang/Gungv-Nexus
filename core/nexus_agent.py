@@ -22,6 +22,8 @@ from core.agent_checkpoint import CheckpointManager
 from core.agent_scheduler import AgentScheduler
 from core.agent_cycle import AgentCycle
 from core.autonomic_nervous_system import AutonomicNervousSystem
+from core.organ_registry import OrganRegistry
+from core.capability_evolution import CapabilityEvolution
 
 from agents.orchestrator import Orchestrator
 from integrations.autonomous_runtime import AutonomousRuntime
@@ -77,6 +79,8 @@ class GungvNexusAgent:
         self.scheduler = AgentScheduler()
         self.cycle = AgentCycle()
         self.nervous_system = AutonomicNervousSystem()
+        self.organs = OrganRegistry()
+        self.capability_evolution = CapabilityEvolution()
 
     def think(self, task: str) -> NexusCycle:
         if not isinstance(task, str) or not task.strip():
@@ -107,6 +111,12 @@ class GungvNexusAgent:
             },
             next_action="POLICY_CHECK",
         )
+
+    def propose_capability(self, capability: str, reason: str) -> dict[str, Any]:
+        return self.capability_evolution.propose(capability, reason)
+
+    def propose_organ(self, organ_id: str, name: str, function: str) -> dict[str, Any]:
+        return self.organs.propose(organ_id, name, function).__dict__
 
     def run_cycle(self, task: str, session_id: str = 'default') -> dict[str, Any]:\n        return self.cycle.run(self, task, session_id)\n\n    def schedule(self, task: str, priority: int = 50) -> int:\n        return self.scheduler.submit(task, priority)\n\n    def recover(self, error: str, attempts: int = 0) -> dict[str, Any]:\n        return self.recovery.diagnose(error, attempts)\n\n    def evaluate(self, expected: Any, observed: Any, evidence: dict[str, Any] | None = None) -> dict[str, Any]:\n        return self.evaluator.evaluate(expected, observed, evidence)\n\n    def checkpoint(self, state_id: str, state: dict[str, Any]) -> dict[str, Any]:\n        return self.checkpoints.create(state_id, state)\n\n    def authorize(self, action: str, *, human_approved=False, environment_validated=False) -> dict[str, Any]:
         return self.policy.check(action, human_approved=human_approved, environment_validated=environment_validated)
@@ -147,4 +157,6 @@ class GungvNexusAgent:
             "state": "durable-session-model",
             "planning": "structured-plan-with-memory-context",\n            "goals": "priority-goal-management",\n            "reasoning": "explicit-structured-reasoning",\n            "recovery": "bounded-recovery-and-rollback",\n            "evaluation": "evidence-based-outcome-checking",\n            "checkpoints": "reversible-state-coordination",\n            "scheduler": "priority-work-queue",\n            "cycle": "deterministic-state-machine-coordinator",
             "nervous_system": "autonomic-signal-routing",
+            "organ_registry": "validated-dynamic-organ-expansion",
+            "capability_evolution": "evidence-gated-open-ended-expansion",
         }
