@@ -28,4 +28,4 @@ jobs:
       - name: Run autonomous skill control-plane tests
         env:
           PYTHONPATH: .
-        run: pytest -q tests/test_autonomous_skills.py tests/test_skill_builder.py
+        run: pytest -q tests/test_autonomous_skills.py tests/test_skill_builder.py tests/test_freedom_skill.py
