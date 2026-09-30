@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gungv-Nexus Web Computer</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0b0f14;color:#dce7f5;font-family:system-ui,sans-serif;height:100vh;overflow:hidden}
+#bar{height:46px;background:#111821;border-bottom:1px solid #263342;display:flex;align-items:center;padding:0 10px;gap:8px}
+#brand{font-weight:700;margin-right:8px}.pill{padding:5px 9px;border:1px solid #334355;border-radius:8px;background:#18222d;color:#b9c8d8;font-size:12px}
+main{height:calc(100vh - 46px);display:grid;grid-template-columns:210px 1fr 280px}
+aside,.right{background:#101720;border-right:1px solid #263342;padding:12px}.right{border-left:1px solid #263342;border-right:0}
+button{width:100%;padding:9px;margin:4px 0;background:#18222d;color:#dce7f5;border:1px solid #334355;border-radius:7px;text-align:left}
+button:hover{background:#223040}.title{font-size:11px;text-transform:uppercase;color:#71839a;margin:8px 0}
+#workspace{padding:14px;overflow:auto}.window{background:#111923;border:1px solid #2b3948;border-radius:10px;min-height:280px;display:flex;flex-direction:column}
+.head{padding:9px 12px;border-bottom:1px solid #2b3948;display:flex;justify-content:space-between}.body{padding:12px;flex:1}
+textarea,input{width:100%;background:#0b1118;color:#dce7f5;border:1px solid #334355;border-radius:7px;padding:9px}
+textarea{height:150px;resize:vertical}pre{white-space:pre-wrap;color:#9fc2df}.status{font-size:12px;line-height:1.7}
+@media(max-width:800px){main{grid-template-columns:64px 1fr}.right{display:none}aside{padding:7px}aside button{font-size:0;text-align:center}.title{display:none}#brand{font-size:13px}}
+</style>
+</head>
+<body>
+<header id="bar"><span id="brand">Gungv-Nexus</span><span class="pill">WEB COMPUTER</span><span class="pill" id="state">READY</span></header>
+<main>
+<aside>
+<div class="title">Computer</div>
+<button onclick="openApp('terminal')">⌨ Terminal</button>
+<button onclick="openApp('agent')">🧠 Agent</button>
+<button onclick="openApp('files')">📁 Files</button>
+<button onclick="openApp('github')">◈ GitHub</button>
+<div class="title">System</div>
+<button onclick="health()">♥ Health</button>
+<button onclick="capabilities()">⚙ Capabilities</button>
+</aside>
+<section id="workspace"></section>
+<section class="right">
+<div class="title">Nexus status</div>
+<div id="status" class="status">Browser control plane initialized.</div>
+</section>
+</main>
+<script>
+const out=document.getElementById('workspace'),status=document.getElementById('status');
+function shell(title,html){out.innerHTML='<div class="window"><div class="head"><b>'+title+'</b><span class="pill">NEXUS</span></div><div class="body">'+html+'</div></div>'}
+function openApp(app){
+if(app==='terminal')shell('Terminal','<textarea id="cmd" placeholder="Command / task..."></textarea><button onclick="runTask()">Run</button><pre id="termout">Web terminal bridge ready. Execution requires a host adapter.</pre>');
+if(app==='agent')shell('Nexus Agent','<textarea id="task" placeholder="Give Nexus a task..."></textarea><button onclick="runTask()">Think / Run</button><pre id="agentout">God Kernel + awareness + metacognition available through the host API.</pre>');
+if(app==='files')shell('Files','<p>Persistent files are provided by the web host. This panel is the browser-side file manager.</p>');
+if(app==='github')shell('GitHub','<p>GitHub bridge is policy-gated. Credentials must never be stored in this page.</p>');
+}
+async function runTask(){const value=(document.getElementById('task')||document.getElementById('cmd')).value;const target=document.getElementById('agentout')||document.getElementById('termout');try{const r=await fetch('/api/task',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({task:value})});target.textContent=await r.text()}catch(e){target.textContent='Host API not connected: '+e.message}}
+async function health(){try{status.textContent=await (await fetch('/health')).text()}catch(e){status.textContent='Web shell ready; /health host endpoint unavailable.'}}
+async function capabilities(){try{status.textContent=JSON.stringify(await (await fetch('/capabilities')).json(),null,2)}catch(e){status.textContent='Capability API unavailable; browser UI remains usable.'}}
+openApp('agent');health();
+</script>
+</body></html>
