@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gungv-Nexus — World Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+*{box-sizing:border-box}html,body{margin:0;height:100%;background:#071018;color:#e8f1f8;font-family:system-ui,sans-serif}
+#app{height:100%;display:flex;flex-direction:column}
+header{height:54px;padding:8px 12px;background:#0c1721;border-bottom:1px solid #263746;display:flex;align-items:center;gap:10px}
+.brand{font-weight:800}.badge{font-size:11px;padding:5px 8px;border:1px solid #34495b;border-radius:7px;background:#132330}
+main{position:relative;flex:1;min-height:0}#map{position:absolute;inset:0}
+.panel{position:absolute;z-index:1000;top:12px;left:12px;width:min(330px,calc(100% - 24px));background:rgba(8,17,25,.94);border:1px solid #314555;border-radius:12px;padding:12px;backdrop-filter:blur(8px)}
+.panel h2{font-size:16px;margin:0 0 8px}.muted{color:#91a5b5;font-size:12px}
+input,button{width:100%;border:1px solid #34495b;border-radius:8px;background:#101e29;color:#e8f1f8;padding:9px;margin-top:7px}
+button{cursor:pointer}button:hover{background:#172b3a}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-top:9px}.stat{padding:8px;border:1px solid #263b4b;border-radius:8px;background:#0c1821;font-size:12px}
+#nodes{max-height:180px;overflow:auto;margin-top:8px}.node{padding:8px;border-bottom:1px solid #233541;font-size:12px;cursor:pointer}
+.leaflet-container{background:#071018}.leaflet-control-zoom a{background:#10202c!important;color:#fff!important;border-color:#34495b!important}
+</style>
+</head>
+<body>
+<div id="app">
+<header><span class="brand">Gungv-Nexus</span><span class="badge">WORLD MAP</span><span class="badge" id="mode">FRONTIER</span></header>
+<main>
+<div id="map"></div>
+<section class="panel">
+<h2>🌍 World Node Map</h2>
+<div class="muted">Peta eksplorasi Nexus. Setiap node mewakili wilayah, teknologi, proyek, atau sumber pengetahuan.</div>
+<input id="search" placeholder="Cari node atau lokasi...">
+<button onclick="addNode()">＋ Tambah node</button>
+<div class="stats">
+<div class="stat">Nodes<br><b id="count">0</b></div>
+<div class="stat">Mode<br><b>Discovery</b></div>
+</div>
+<div id="nodes"></div>
+</section>
+</main>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const map=L.map('map',{worldCopyJump:true,zoomControl:true}).setView([10,0],2);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{
+maxZoom:19,attribution:'&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+const nodes=[
+ {id:'indonesia',title:'Indonesia',lat:-2.5,lng:118,type:'region',info:'Node regional awal'},
+ {id:'ai',title:'AI / LLM',lat:37.4,lng:-122.1,type:'knowledge',info:'Frontier AI'},
+ {id:'europe',title:'Europe Tech',lat:50,lng:10,type:'region',info:'Technology ecosystem'}
+];
+const markers=new Map();
+
+function markerFor(n){
+ const m=L.marker([n.lat,n.lng]).addTo(map);
+ m.bindPopup('<b>'+escapeHtml(n.title)+'</b><br><small>'+escapeHtml(n.type)+' · '+escapeHtml(n.info||'')+'</small>');
+ markers.set(n.id,m);
+}
+function render(){
+ const q=document.getElementById('search').value.toLowerCase();
+ const list=document.getElementById('nodes'); list.innerHTML='';
+ const filtered=nodes.filter(n=>(n.title+' '+n.type+' '+(n.info||'')).toLowerCase().includes(q));
+ document.getElementById('count').textContent=nodes.length;
+ filtered.forEach(n=>{
+  const el=document.createElement('div');el.className='node';
+  el.textContent=n.title+' · '+n.type;
+  el.onclick=()=>{map.setView([n.lat,n.lng],5);markers.get(n.id)?.openPopup()};
+  list.appendChild(el);
+ });
+}
+function addNode(){
+ const title=prompt('Nama node:'); if(!title)return;
+ const lat=Number(prompt('Latitude (-90..90):','0'));
+ const lng=Number(prompt('Longitude (-180..180):','0'));
+ if(!Number.isFinite(lat)||lat<-90||lat>90||!Number.isFinite(lng)||lng<-180||lng>180)return;
+ const n={id:'node-'+Date.now(),title,lat,lng,type:'frontier',info:'User-created frontier node'};
+ nodes.push(n);markerFor(n);render();map.setView([lat,lng],5);
+}
+function escapeHtml(v){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+nodes.forEach(markerFor);render();
+document.getElementById('search').addEventListener('input',render);
+</script>
+</body>
+</html>
