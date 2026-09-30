@@ -6,6 +6,7 @@ from core.god_signal_router import GodSignalRouter
 from core.body_system import NexusBody
 from core.self_awareness_loop import SelfAwarenessLoop
 from core.skill_orchestrator import SkillOrchestrator
+from core.daily_skill_frontier import DailySkillFrontier
 
 
 class GodKernel:
@@ -17,6 +18,7 @@ class GodKernel:
         self.body = NexusBody()
         self.awareness = SelfAwarenessLoop(nexus, self.god)
         self.skills = SkillOrchestrator()
+        self.frontier = DailySkillFrontier()
         self._wire()
 
     def _wire(self):
@@ -56,6 +58,9 @@ class GodKernel:
         )
         return result
 
+    def daily_frontier(self, candidates: list[dict[str, Any]]):
+        return self.frontier.daily_cycle(candidates)
+
     def pulse(self):
         return self.signals.pulse()
 
@@ -76,4 +81,5 @@ class GodKernel:
             "signals": len(self.signals.history),
             "awareness": self.awareness.status(),
             "skills_registered": len(self.skills.skills),
+            "frontier_policy": "daily-frontier",
         }
