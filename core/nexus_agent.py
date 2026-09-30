@@ -9,6 +9,11 @@ from __future__ import annotations
 
 from dataclasses import asdict, dataclass
 from typing import Any
+from core.agent_state import AgentState
+from core.agent_memory import AgentMemory
+from core.agent_policy import AgentPolicy
+from core.agent_event_bus import AgentEventBus
+from core.agent_planner import AgentPlanner
 
 from agents.orchestrator import Orchestrator
 from integrations.autonomous_runtime import AutonomousRuntime
@@ -52,6 +57,10 @@ class GungvNexusAgent:
         self.domain_expansion = DomainExpansionSkill()
         self.self_evolution = SelfEvolutionSkill()
         self.ai_dominance = AIDominanceSkill()
+        self.memory = AgentMemory()
+        self.policy = AgentPolicy()
+        self.events = AgentEventBus()
+        self.planner = AgentPlanner()
 
     def think(self, task: str) -> NexusCycle:
         if not isinstance(task, str) or not task.strip():
@@ -59,6 +68,8 @@ class GungvNexusAgent:
 
         route = self.runtime.plan(task)
         skills = resolve_autonomous_skills(task)
+        recalled = self.memory.recall(task)
+        plan = self.planner.build(task, route.get('capabilities', {}), recalled)
         lifecycle = list(self.LIFECYCLE)
 
         return NexusCycle(
@@ -74,9 +85,17 @@ class GungvNexusAgent:
                 "checkpoint": "required_before_mutation",
                 "rollback": "last_verified_checkpoint",
                 "failure": "fail_closed",
+                "memory_hits": len(recalled),
+                "planner": plan,
             },
             next_action="POLICY_CHECK",
         )
+
+    def authorize(self, action: str, *, human_approved=False, environment_validated=False) -> dict[str, Any]:
+        return self.policy.check(action, human_approved=human_approved, environment_validated=environment_validated)
+
+    def new_state(self, session_id: str, task: str) -> AgentState:
+        return AgentState(session_id=session_id, task=task)
 
     def capabilities(self, task: str) -> dict[str, Any]:
         return resolve_capability(task)
@@ -105,4 +124,9 @@ class GungvNexusAgent:
             "execution": "guarded-and-validated",
             "learning": "memory-and-evidence",
             "evolution": "experiment-and-rollback",
+            "memory": "episode-and-skill-coordination",
+            "policy": "centralized-authorization-gate",
+            "events": "lifecycle-event-bus",
+            "state": "durable-session-model",
+            "planning": "structured-plan-with-memory-context",
         }
