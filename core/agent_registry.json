@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "name": "Nexus Unified Agent",
   "mode": "single-agent-composed-control-plane",
-  "controller": "core/agent_controller.py",
+  "controller": "core/nexus_agent.py",
   "subsystems": {
     "routing": "agents/orchestrator.py",
     "autonomous_runtime": "integrations/autonomous_runtime.py",
