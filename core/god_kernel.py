@@ -5,6 +5,7 @@ from core.god_lifecycle import GodLifecycle
 from core.god_signal_router import GodSignalRouter
 from core.body_system import NexusBody
 from core.self_awareness_loop import SelfAwarenessLoop
+from core.skill_orchestrator import SkillOrchestrator
 
 
 class GodKernel:
@@ -15,6 +16,7 @@ class GodKernel:
         self.signals = GodSignalRouter(self.god)
         self.body = NexusBody()
         self.awareness = SelfAwarenessLoop(nexus, self.god)
+        self.skills = SkillOrchestrator()
         self._wire()
 
     def _wire(self):
@@ -29,20 +31,27 @@ class GodKernel:
 
     def run(self, task: str):
         self.signals.emit("TASK_RECEIVED", {"task": task}, "god-kernel")
+        skill_plan = self.skills.plan(task)
         awareness = self.awareness.update(task)
         result = self.lifecycle.run(task)
         result["awareness"] = awareness.__dict__
+        result["skill_plan"] = skill_plan
         self.awareness.reflect(
             {
                 "task": task,
                 "verified": result["verified"],
                 "status": result["status"],
                 "cycle": self.god.state.cycle,
+                "skills_selected": skill_plan["selected"],
             }
         )
         self.signals.emit(
             "TASK_VERIFIED",
-            {"task": task, "verified": result["verified"]},
+            {
+                "task": task,
+                "verified": result["verified"],
+                "skills_selected": skill_plan["selected"],
+            },
             "god-kernel",
         )
         return result
@@ -66,4 +75,5 @@ class GodKernel:
             "organs": len(self.body.map()),
             "signals": len(self.signals.history),
             "awareness": self.awareness.status(),
+            "skills_registered": len(self.skills.skills),
         }
