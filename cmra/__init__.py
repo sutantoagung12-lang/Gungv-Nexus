@@ -1,1 +1,1 @@
-CMRA integration package for Gungv-Nexus.
+"""CMRA integration package for Gungv-Nexus."""
