@@ -1,0 +1,145 @@
+{
+  "version": "1.0.0",
+  "purpose": "Nexus registry for autonomous-agent skill sources and reusable operating patterns.",
+  "policy": {
+    "external_repositories_are_references_until_validated": true,
+    "do_not_copy_external_code_automatically": true,
+    "license_security_compatibility_and_tests_required_before_adaptation": true,
+    "credentials_stay_outside_repository": true,
+    "destructive_actions_require_confirmation": true
+  },
+  "sources": [
+    {
+      "repository": "anyoneanderson/agent-skills",
+      "role": "spec-driven autonomous development and harness control loop",
+      "patterns": [
+        "spec-orchestrate",
+        "spec-implement",
+        "spec-code",
+        "spec-review",
+        "spec-test",
+        "spec-evaluate",
+        "harness-init",
+        "harness-plan",
+        "harness-loop",
+        "handover",
+        "agent-delegate",
+        "magi",
+        "skill-suggest"
+      ],
+      "nexus_mapping": [
+        "PLAN",
+        "EXECUTE",
+        "VERIFY",
+        "RECOVER",
+        "LEARN",
+        "EVOLVE"
+      ]
+    },
+    {
+      "repository": "mthines/agent-skills",
+      "role": "end-to-end autonomous workflow and quality-gated delivery",
+      "patterns": [
+        "autonomous-workflow",
+        "fix-bug",
+        "confidence",
+        "critical",
+        "tdd",
+        "code-quality"
+      ],
+      "nexus_mapping": [
+        "PLAN",
+        "EXECUTE",
+        "VERIFY",
+        "CHECKPOINT",
+        "RECOVER"
+      ]
+    },
+    {
+      "repository": "stellarlinkco/skills",
+      "role": "long-running execution, high-recall review, measurable self-evolution",
+      "patterns": [
+        "harness",
+        "code-review",
+        "self-evolution"
+      ],
+      "nexus_mapping": [
+        "RUNTIME",
+        "CHECKPOINT",
+        "OBSERVE",
+        "VERIFY",
+        "RECOVER",
+        "EVOLVE"
+      ]
+    },
+    {
+      "repository": "VectorSpaceLab/AREX-Skill",
+      "role": "repository-to-executable-skill distillation and routing",
+      "patterns": [
+        "skill-distillation",
+        "skill-routing",
+        "operating-context",
+        "validation",
+        "recovery"
+      ],
+      "nexus_mapping": [
+        "DISCOVER",
+        "RETRIEVE",
+        "PLAN",
+        "EXECUTE",
+        "VERIFY",
+        "RECOVER",
+        "LEARN"
+      ]
+    },
+    {
+      "repository": "Orchestra-Research/AI-Research-SKILLs",
+      "role": "AI research lifecycle skill library",
+      "patterns": [
+        "autoresearch",
+        "ideation",
+        "paper-writing",
+        "agents",
+        "rag",
+        "evaluation",
+        "mlops",
+        "observability",
+        "inference"
+      ],
+      "nexus_mapping": [
+        "DISCOVER",
+        "RETRIEVE",
+        "PLAN",
+        "EXECUTE",
+        "OBSERVE",
+        "VERIFY",
+        "LEARN"
+      ]
+    }
+  ],
+  "autonomous_contract": {
+    "loop": [
+      "DISCOVER",
+      "RETRIEVE",
+      "PLAN",
+      "POLICY_CHECK",
+      "EXECUTE",
+      "CHECKPOINT",
+      "OBSERVE",
+      "VERIFY",
+      "RECOVER",
+      "LEARN",
+      "EVOLVE"
+    ],
+    "stop_conditions": [
+      "verification_failed",
+      "policy_blocked",
+      "missing_capability",
+      "missing_authority",
+      "repeated_failure",
+      "resource_limit"
+    ],
+    "promotion_rule": "A candidate skill becomes active only after validation evidence satisfies its declared acceptance criteria.",
+    "rollback_rule": "Failed mutations are discarded or restored to the last verified checkpoint."
+  }
+}
