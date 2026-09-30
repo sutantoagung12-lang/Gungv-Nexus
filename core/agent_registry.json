@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "name": "Nexus Unified Agent",
+  "mode": "single-agent-composed-control-plane",
+  "controller": "core/agent_controller.py",
+  "subsystems": {
+    "routing": "agents/orchestrator.py",
+    "autonomous_runtime": "integrations/autonomous_runtime.py",
+    "capability_resolution": "integrations/capability_resolver.py",
+    "runtime_availability": "integrations/runtime_availability.py",
+    "memory": "memory/store.py",
+    "experience": "memory/experience_store.py",
+    "skills": "memory/skill_store.py",
+    "skill_builder": "memory/skill_builder.py",
+    "knowledge": "knowledge/store.py",
+    "experiments": "experiments/engine.py"
+  },
+  "local_skills": [
+    "freedom",
+    "domain_expansion",
+    "dictator",
+    "ai_dominance",
+    "self_evolution"
+  ],
+  "control_loop": [
+    "WAKE",
+    "HYDRATE",
+    "UNDERSTAND",
+    "RETRIEVE",
+    "DISCOVER",
+    "PLAN",
+    "POLICY_CHECK",
+    "EXECUTE",
+    "CHECKPOINT",
+    "OBSERVE",
+    "VERIFY",
+    "LEARN",
+    "EVOLVE",
+    "SLEEP"
+  ],
+  "guards": {
+    "external_code": "reference_only_until_validated",
+    "destructive_actions": "human_approval",
+    "promotion": "evidence_and_validation_required",
+    "rollback": "last_verified_checkpoint",
+    "failure_mode": "fail_closed"
+  }
+}
