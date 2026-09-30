@@ -20,6 +20,7 @@ from core.agent_recovery import RecoveryEngine
 from core.agent_evaluator import AgentEvaluator
 from core.agent_checkpoint import CheckpointManager
 from core.agent_scheduler import AgentScheduler
+from core.agent_cycle import AgentCycle
 
 from agents.orchestrator import Orchestrator
 from integrations.autonomous_runtime import AutonomousRuntime
@@ -73,6 +74,7 @@ class GungvNexusAgent:
         self.evaluator = AgentEvaluator()
         self.checkpoints = CheckpointManager()
         self.scheduler = AgentScheduler()
+        self.cycle = AgentCycle()
 
     def think(self, task: str) -> NexusCycle:
         if not isinstance(task, str) or not task.strip():
@@ -104,7 +106,7 @@ class GungvNexusAgent:
             next_action="POLICY_CHECK",
         )
 
-    def schedule(self, task: str, priority: int = 50) -> int:\n        return self.scheduler.submit(task, priority)\n\n    def recover(self, error: str, attempts: int = 0) -> dict[str, Any]:\n        return self.recovery.diagnose(error, attempts)\n\n    def evaluate(self, expected: Any, observed: Any, evidence: dict[str, Any] | None = None) -> dict[str, Any]:\n        return self.evaluator.evaluate(expected, observed, evidence)\n\n    def checkpoint(self, state_id: str, state: dict[str, Any]) -> dict[str, Any]:\n        return self.checkpoints.create(state_id, state)\n\n    def authorize(self, action: str, *, human_approved=False, environment_validated=False) -> dict[str, Any]:
+    def run_cycle(self, task: str, session_id: str = 'default') -> dict[str, Any]:\n        return self.cycle.run(self, task, session_id)\n\n    def schedule(self, task: str, priority: int = 50) -> int:\n        return self.scheduler.submit(task, priority)\n\n    def recover(self, error: str, attempts: int = 0) -> dict[str, Any]:\n        return self.recovery.diagnose(error, attempts)\n\n    def evaluate(self, expected: Any, observed: Any, evidence: dict[str, Any] | None = None) -> dict[str, Any]:\n        return self.evaluator.evaluate(expected, observed, evidence)\n\n    def checkpoint(self, state_id: str, state: dict[str, Any]) -> dict[str, Any]:\n        return self.checkpoints.create(state_id, state)\n\n    def authorize(self, action: str, *, human_approved=False, environment_validated=False) -> dict[str, Any]:
         return self.policy.check(action, human_approved=human_approved, environment_validated=environment_validated)
 
     def new_state(self, session_id: str, task: str) -> AgentState:
@@ -141,5 +143,5 @@ class GungvNexusAgent:
             "policy": "centralized-authorization-gate",
             "events": "lifecycle-event-bus",
             "state": "durable-session-model",
-            "planning": "structured-plan-with-memory-context",\n            "goals": "priority-goal-management",\n            "reasoning": "explicit-structured-reasoning",\n            "recovery": "bounded-recovery-and-rollback",\n            "evaluation": "evidence-based-outcome-checking",\n            "checkpoints": "reversible-state-coordination",\n            "scheduler": "priority-work-queue",
+            "planning": "structured-plan-with-memory-context",\n            "goals": "priority-goal-management",\n            "reasoning": "explicit-structured-reasoning",\n            "recovery": "bounded-recovery-and-rollback",\n            "evaluation": "evidence-based-outcome-checking",\n            "checkpoints": "reversible-state-coordination",\n            "scheduler": "priority-work-queue",\n            "cycle": "deterministic-state-machine-coordinator",
         }
