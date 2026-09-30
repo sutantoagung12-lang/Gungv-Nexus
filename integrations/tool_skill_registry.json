@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "purpose": "Nexus-neutral registry for externally available ChatGPT tools and reusable skills.",
+  "policy": {
+    "external_tools_are_untrusted_until_validated": true,
+    "availability_is_runtime_observed": true,
+    "credentials_stay_outside_repository": true,
+    "destructive_actions_require_confirmation": true
+  },
+  "tool_classes": {
+    "source_control": ["github"],
+    "research": ["exa", "firecrawl", "tavily"],
+    "browser_automation": ["tinyfish"],
+    "memory": ["basic_memory_cloud", "cortex_semantic_memory", "engram"],
+    "automation": ["automations"],
+    "runtime_deployment": ["vercel", "railway", "render", "floot", "supabase"],
+    "remote_execution": ["remote_desktop_commander"],
+    "application_building": ["replit", "base44"],
+    "api_provider": ["openai_platform"],
+    "quality_review": ["qodo", "coderabbit"]
+  },
+  "skill_classes": {
+    "routing": ["agent-routekit"],
+    "evidence": ["agentproof"],
+    "agent_runtime": ["vercel-workflow", "vercel-sandbox", "vercel-queues"],
+    "local_ai": ["local-ai-use", "local-ai-app-integration"],
+    "web_research": ["exa-search"],
+    "code_quality": ["qodo-codebase-wisdom", "qodo-review", "coderabbit-code-review"]
+  },
+  "nexus_mapping": {
+    "discover": ["github", "exa", "firecrawl", "tavily"],
+    "retrieve": ["basic_memory_cloud", "cortex_semantic_memory", "engram"],
+    "plan": ["agent-routekit"],
+    "execute": ["tinyfish", "remote_desktop_commander", "floot"],
+    "persist": ["supabase", "basic_memory_cloud"],
+    "schedule": ["automations"],
+    "deploy": ["vercel", "railway", "render"],
+    "verify": ["qodo-review", "coderabbit-code-review", "agentproof"],
+    "learn": ["cortex_semantic_memory", "basic_memory_cloud"],
+    "evolve": ["agent-routekit", "agentproof"]
+  }
+}
