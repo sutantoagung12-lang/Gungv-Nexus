@@ -1,0 +1,36 @@
+name: Nexus Runtime
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+concurrency:
+  group: nexus-runtime
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  runtime:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Checkout Nexus
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            python -m pip install -r requirements.txt
+          fi
+      - name: Start Nexus organism
+        env:
+          PYTHONUNBUFFERED: "1"
+          NEXUS_HEARTBEAT_SECONDS: "30"
+        run: |
+          timeout --signal=TERM --kill-after=30s 5h45m             python -m runtime.nexus_daemon
