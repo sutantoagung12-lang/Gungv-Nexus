@@ -10,7 +10,6 @@ from dataclasses import dataclass, field
 from typing import Any
 
 from integrations.autonomous_runtime import AutonomousRuntime
-from integrations.runtime_availability import RuntimeAvailability
 from skills.domain_expansion import DomainExpansionSkill
 from skills.self_evolution import SelfEvolutionSkill
 
@@ -38,7 +37,6 @@ class NexusAgent:
 
     def __init__(self) -> None:
         self.runtime = AutonomousRuntime()
-        self.availability = RuntimeAvailability()
         self.domain = DomainExpansionSkill()
         self.evolution = SelfEvolutionSkill()
 
