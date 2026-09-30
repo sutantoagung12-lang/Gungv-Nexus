@@ -2,18 +2,20 @@
 from dataclasses import dataclass, field
 from typing import Any
 
+
 @dataclass
 class GodSkill:
     name: str = "god-skill"
     purpose: str = "coordinate, expand, verify and evolve the Nexus organism"
     principles: tuple[str, ...] = (
         "perceive", "reason", "coordinate", "verify",
-        "learn", "evolve", "recover"
+        "learn", "evolve", "recover", "metacognize"
     )
     capabilities: set[str] = field(default_factory=lambda: {
         "orchestrate", "inspect", "expand_capabilities",
         "manage_tools", "manage_organs", "self_diagnose",
-        "self_repair", "learn", "evolve"
+        "self_repair", "learn", "evolve", "self_awareness",
+        "introspection", "metacognition", "hypothesis_testing"
     })
 
     def assess(self, task: str, context: dict[str, Any] | None = None) -> dict[str, Any]:
@@ -41,3 +43,13 @@ class GodSkill:
         if not lesson or not lesson.strip():
             raise ValueError("lesson is required")
         return {"status": "RECORDED", "lesson": lesson}
+
+    def metacognize(self, reasoning: dict[str, Any], uncertainty: dict[str, float] | None = None) -> dict[str, Any]:
+        uncertainty = uncertainty or {}
+        weakest = min(uncertainty, key=uncertainty.get) if uncertainty else None
+        return {
+            "reasoning": reasoning,
+            "uncertainty": dict(uncertainty),
+            "weakest_area": weakest,
+            "challenge_required": bool(weakest and uncertainty[weakest] < 0.7),
+        }
