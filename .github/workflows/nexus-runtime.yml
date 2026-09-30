@@ -2,6 +2,15 @@ name: Nexus Runtime
 
 on:
   workflow_dispatch:
+    inputs:
+      task_id:
+        description: "Unique task identifier"
+        required: false
+        type: string
+      objective:
+        description: "Nexus objective to execute"
+        required: false
+        type: string
   schedule:
     - cron: "0 */6 * * *"
 
@@ -10,7 +19,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   runtime:
@@ -19,18 +28,75 @@ jobs:
     steps:
       - name: Checkout Nexus
         uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then
             python -m pip install -r requirements.txt
           fi
+
+      - name: Execute requested Nexus task
+        if: github.event_name == 'workflow_dispatch' && inputs.task_id != ''
+        env:
+          PYTHONUNBUFFERED: "1"
+          NEXUS_OBJECTIVE: ${{ inputs.objective }}
+          NEXUS_TASK_ID: ${{ inputs.task_id }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from runtime.nexus_daemon import NexusDaemon
+
+          task_id = os.environ["NEXUS_TASK_ID"]
+          objective = os.environ.get("NEXUS_OBJECTIVE", "").strip()
+          if not objective:
+              raise SystemExit("NEXUS_OBJECTIVE is required")
+
+          result = {
+              "task_id": task_id,
+              "objective": objective,
+              "started_at": datetime.now(timezone.utc).isoformat(),
+          }
+
+          try:
+              daemon = NexusDaemon()
+              result["execution"] = daemon.cycle()
+              result["status"] = "completed"
+          except Exception as exc:
+              result["status"] = "failed"
+              result["error"] = str(exc)
+
+          result["completed_at"] = datetime.now(timezone.utc).isoformat()
+          path = os.path.join("runtime", "results", f"{task_id}.json")
+          os.makedirs(os.path.dirname(path), exist_ok=True)
+          with open(path, "w", encoding="utf-8") as handle:
+              json.dump(result, handle, ensure_ascii=False, indent=2)
+
+          if result["status"] == "failed":
+              raise SystemExit(result["error"])
+          PY
+
+      - name: Publish task result
+        if: github.event_name == 'workflow_dispatch' && inputs.task_id != ''
+        env:
+          TASK_ID: ${{ inputs.task_id }}
+        run: |
+          git config user.name "gungv-nexus-runtime"
+          git config user.email "gungv-nexus-runtime@users.noreply.github.com"
+          git add "runtime/results/$TASK_ID.json"
+          git commit -m "runtime: record task $TASK_ID"
+          git push
+
       - name: Start Nexus organism
+        if: github.event_name != 'workflow_dispatch' || inputs.task_id == ''
         env:
           PYTHONUNBUFFERED: "1"
           NEXUS_HEARTBEAT_SECONDS: "30"
         run: |
-          timeout --signal=TERM --kill-after=30s 5h45m             python -m runtime.nexus_daemon
+          timeout --signal=TERM --kill-after=30s 5h45m python -m runtime.nexus_daemon
