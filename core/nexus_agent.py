@@ -21,6 +21,7 @@ from core.agent_evaluator import AgentEvaluator
 from core.agent_checkpoint import CheckpointManager
 from core.agent_scheduler import AgentScheduler
 from core.agent_cycle import AgentCycle
+from core.autonomic_nervous_system import AutonomicNervousSystem
 
 from agents.orchestrator import Orchestrator
 from integrations.autonomous_runtime import AutonomousRuntime
@@ -75,6 +76,7 @@ class GungvNexusAgent:
         self.checkpoints = CheckpointManager()
         self.scheduler = AgentScheduler()
         self.cycle = AgentCycle()
+        self.nervous_system = AutonomicNervousSystem()
 
     def think(self, task: str) -> NexusCycle:
         if not isinstance(task, str) or not task.strip():
@@ -144,4 +146,5 @@ class GungvNexusAgent:
             "events": "lifecycle-event-bus",
             "state": "durable-session-model",
             "planning": "structured-plan-with-memory-context",\n            "goals": "priority-goal-management",\n            "reasoning": "explicit-structured-reasoning",\n            "recovery": "bounded-recovery-and-rollback",\n            "evaluation": "evidence-based-outcome-checking",\n            "checkpoints": "reversible-state-coordination",\n            "scheduler": "priority-work-queue",\n            "cycle": "deterministic-state-machine-coordinator",
+            "nervous_system": "autonomic-signal-routing",
         }
