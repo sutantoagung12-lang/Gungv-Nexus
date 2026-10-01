@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-01",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-geechun80-vouza-admin-agent",
+      "name": "Explore geechun80/vouza-admin-agent",
+      "source": "https://github.com/geechun80/vouza-admin-agent",
+      "problem": "Vouza Admin Agent \u2014 AI-powered office automation with email, calendar, Telegram, WhatsApp and more",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-linotypefibre247-discord-cli",
+      "name": "Explore Linotypefibre247/discord-cli",
+      "source": "https://github.com/Linotypefibre247/discord-cli",
+      "problem": "Manage Discord from your terminal with CLI commands, offline search, message sync, and MCP server support for developers and AI agents",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-parnellcold355-easypanel-mcp",
+      "name": "Explore Parnellcold355/easypanel-mcp",
+      "source": "https://github.com/Parnellcold355/easypanel-mcp",
+      "problem": "Connect AI agents to EasyPanel to deploy and manage infrastructure using natural language commands via the MCP protocol.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-clintonwrong53-d2l-cli",
+      "name": "Explore clintonwrong53/d2l-cli",
+      "source": "https://github.com/clintonwrong53/d2l-cli",
+      "problem": "Access D2L Brightspace data in read-only mode via CLI to retrieve grades, assignments, content, and syllabi for AI coding agents and automation tools.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nkwem3002-computed-skills",
+      "name": "Explore nkwem3002/computed-skills",
+      "source": "https://github.com/nkwem3002/computed-skills",
+      "problem": "Deliver skills that dynamically adjust to context by running scripts that tailor agent instructions based on real-time data and conditions.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lluis5713-agent-architect",
+      "name": "Explore Lluis5713/agent-architect",
+      "source": "https://github.com/Lluis5713/agent-architect",
+      "problem": "Build multi-microservice systems with AI coding tools using folders, markdown, and no custom tooling.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-freepolice-20-arikernel",
+      "name": "Explore freepolice-20/arikernel",
+      "source": "https://github.com/freepolice-20/arikernel",
+      "problem": "Block prompt injection and data exfiltration in AI agents at runtime with capability policies, taint tracking, and tool call control",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kainotomo-ph-agent-hub",
+      "name": "Explore kainotomo/ph-agent-hub",
+      "source": "https://github.com/kainotomo/ph-agent-hub",
+      "problem": "PH Agent Hub is a modular AI platform with a Chat UI for users and an Admin UI for managing models, tools, tenants, and users. Powered by a flexible agent backend, it supports multi\u2011tenant setups, DeepSeek\u2011compatible workflows, and Docker\u2011based deployment.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nimblebraininc-nimblebrain",
+      "name": "Explore NimbleBrainInc/nimblebrain",
+      "source": "https://github.com/NimbleBrainInc/nimblebrain",
+      "problem": "Self-hosted platform for MCP Apps and agent automations \u2014 tools, interactive UIs, scheduled runs, multi-agent delegation.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sytone-botnexus",
+      "name": "Explore sytone/botnexus",
+      "source": "https://github.com/sytone/botnexus",
+      "problem": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in C# using the dotnet environment.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ssap-pa-self-learning-agent-setup",
+      "name": "Explore ssap-pa/self-learning-agent-setup",
+      "source": "https://github.com/ssap-pa/self-learning-agent-setup",
+      "problem": "Make your AI agent learn from every approve / edit / reject. Postgres + pgvector schema, Claude Code/Codex prompts, and a browser demo where Postgres, pgvector and the embedding model all run in the tab.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ilhom1111-web2api",
+      "name": "Explore Ilhom1111/web2api",
+      "source": "https://github.com/Ilhom1111/web2api",
+      "problem": "Bridge web-based AI services into OpenAI and Anthropic compatible APIs for seamless SDK use without code changes or browser automation.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pkocto-pi-browser",
+      "name": "Explore PKOcto/pi-browser",
+      "source": "https://github.com/PKOcto/pi-browser",
+      "problem": "\ud83d\udd0d Control browsers using natural language commands with multi-AI model support for seamless automation and task management.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chrispeer69-us-tow-ai-connect",
+      "name": "Explore chrispeer69/us-tow-ai-connect",
+      "source": "https://github.com/chrispeer69/us-tow-ai-connect",
+      "problem": "US Tow AI-Connect: Middleware connector bridging Thinkrr.ai voice agents with towing management software (Towbook, TowLogs, Omadi) via headless browser automation. A Blue Collar AI product.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-abhinav1234abhinav-neurostack",
+      "name": "Explore Abhinav1234abhinav/neurostack",
+      "source": "https://github.com/Abhinav1234abhinav/neurostack",
+      "problem": "Index and search Markdown vaults as knowledge graphs to provide AI agents with persistent, structured long-term memory across sessions.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-juliofernandes-neuroform",
+      "name": "Explore juliofernandes/NeuroForm",
+      "source": "https://github.com/juliofernandes/NeuroForm",
+      "problem": "Enable local LLMs to manage semantic memory graphs using a hybrid heuristic and LLM-driven Neo4j system for dynamic, autonomous knowledge control.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-makhnogk-cerebrium",
+      "name": "Explore MakhnoGK/cerebrium",
+      "source": "https://github.com/MakhnoGK/cerebrium",
+      "problem": "Persistent, cross-session memory for AI agents - one SQLite file (FTS5 full-text + sqlite-vec vector search + a typed knowledge graph) behind a single stdio MCP server.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-wallter-trw-memory",
+      "name": "Explore wallter/trw-memory",
+      "source": "https://github.com/wallter/trw-memory",
+      "problem": "Standalone AI agent memory engine \u2014 hybrid search (BM25 + vectors), Q-learning scoring, Ebbinghaus decay, tiered storage, knowledge graph. Part of TRW Framework.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-meteorologicalballoonfronttooth549-tsfm",
+      "name": "Explore meteorologicalballoonfronttooth549/tsfm",
+      "source": "https://github.com/meteorologicalballoonfronttooth549/tsfm",
+      "problem": "Provide on-device Apple Foundation Models inference in TypeScript with streaming, structured output, and chat-style APIs for secure, local AI processing.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rferrari-boar-app",
+      "name": "Explore rferrari/boar-app",
+      "source": "https://github.com/rferrari/boar-app",
+      "problem": "BOAR - Adaptive Local Intelligence",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bino5150-lumina",
+      "name": "Explore Bino5150/lumina",
+      "source": "https://github.com/Bino5150/lumina",
+      "problem": "A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designed from the ground up with local inference on consumer hardware in mind. It evolves, grows, and gets smarter as you go. And it REMEMBERS... ",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-madslundt-homecompute",
+      "name": "Explore madslundt/HomeCompute",
+      "source": "https://github.com/madslundt/HomeCompute",
+      "problem": "A local-first AI platform for private inference, automation, and agents.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zyrabit-tech-zyrabit-slm",
+      "name": "Explore Zyrabit-tech/zyrabit-SLM",
+      "source": "https://github.com/Zyrabit-tech/zyrabit-SLM",
+      "problem": "Sovereign AI Infrastructure for Enterprise RAG. Zero-Trust PII Sanitization, Local Inference (CPU-optimized), and Docker-ready architecture.",
+      "created_on": "2026-10-01",
+      "policy": "review-before-activation"
+    }
+  ]
+}

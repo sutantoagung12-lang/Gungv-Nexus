@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-01",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "geechun80-vouza-admin-agent",
+      "title": "geechun80/vouza-admin-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/geechun80/vouza-admin-agent",
+      "description": "Vouza Admin Agent \u2014 AI-powered office automation with email, calendar, Telegram, WhatsApp and more",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:48:32Z"
+    },
+    {
+      "id": "linotypefibre247-discord-cli",
+      "title": "Linotypefibre247/discord-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Linotypefibre247/discord-cli",
+      "description": "Manage Discord from your terminal with CLI commands, offline search, message sync, and MCP server support for developers and AI agents",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:48:20Z"
+    },
+    {
+      "id": "parnellcold355-easypanel-mcp",
+      "title": "Parnellcold355/easypanel-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Parnellcold355/easypanel-mcp",
+      "description": "Connect AI agents to EasyPanel to deploy and manage infrastructure using natural language commands via the MCP protocol.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:48:16Z"
+    },
+    {
+      "id": "clintonwrong53-d2l-cli",
+      "title": "clintonwrong53/d2l-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/clintonwrong53/d2l-cli",
+      "description": "Access D2L Brightspace data in read-only mode via CLI to retrieve grades, assignments, content, and syllabi for AI coding agents and automation tools.",
+      "stars": 1,
+      "updated_at": "2026-10-01T05:48:10Z"
+    },
+    {
+      "id": "nkwem3002-computed-skills",
+      "title": "nkwem3002/computed-skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nkwem3002/computed-skills",
+      "description": "Deliver skills that dynamically adjust to context by running scripts that tailor agent instructions based on real-time data and conditions.",
+      "stars": 1,
+      "updated_at": "2026-10-01T05:47:35Z"
+    },
+    {
+      "id": "lluis5713-agent-architect",
+      "title": "Lluis5713/agent-architect",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Lluis5713/agent-architect",
+      "description": "Build multi-microservice systems with AI coding tools using folders, markdown, and no custom tooling.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:48:54Z"
+    },
+    {
+      "id": "freepolice-20-arikernel",
+      "title": "freepolice-20/arikernel",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/freepolice-20/arikernel",
+      "description": "Block prompt injection and data exfiltration in AI agents at runtime with capability policies, taint tracking, and tool call control",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:48:45Z"
+    },
+    {
+      "id": "kainotomo-ph-agent-hub",
+      "title": "kainotomo/ph-agent-hub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kainotomo/ph-agent-hub",
+      "description": "PH Agent Hub is a modular AI platform with a Chat UI for users and an Admin UI for managing models, tools, tenants, and users. Powered by a flexible agent backend, it supports multi\u2011tenant setups, DeepSeek\u2011compatible workflows, and Docker\u2011based deployment.",
+      "stars": 10,
+      "updated_at": "2026-10-01T05:48:44Z"
+    },
+    {
+      "id": "nimblebraininc-nimblebrain",
+      "title": "NimbleBrainInc/nimblebrain",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NimbleBrainInc/nimblebrain",
+      "description": "Self-hosted platform for MCP Apps and agent automations \u2014 tools, interactive UIs, scheduled runs, multi-agent delegation.",
+      "stars": 23,
+      "updated_at": "2026-10-01T05:48:37Z"
+    },
+    {
+      "id": "sytone-botnexus",
+      "title": "sytone/botnexus",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sytone/botnexus",
+      "description": "BotNexus is an experimental lab for agents, tools, memory, channels, and automation ideas of varying quality written in C# using the dotnet environment.",
+      "stars": 2,
+      "updated_at": "2026-10-01T05:48:24Z"
+    },
+    {
+      "id": "ssap-pa-self-learning-agent-setup",
+      "title": "ssap-pa/self-learning-agent-setup",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ssap-pa/self-learning-agent-setup",
+      "description": "Make your AI agent learn from every approve / edit / reject. Postgres + pgvector schema, Claude Code/Codex prompts, and a browser demo where Postgres, pgvector and the embedding model all run in the tab.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:47:03Z"
+    },
+    {
+      "id": "ilhom1111-web2api",
+      "title": "Ilhom1111/web2api",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ilhom1111/web2api",
+      "description": "Bridge web-based AI services into OpenAI and Anthropic compatible APIs for seamless SDK use without code changes or browser automation.",
+      "stars": 1,
+      "updated_at": "2026-10-01T05:45:57Z"
+    },
+    {
+      "id": "deviousdevv303-forgeclaw",
+      "title": "DeviousDevv303/forgeclaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "description": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:41:48Z"
+    },
+    {
+      "id": "pkocto-pi-browser",
+      "title": "PKOcto/pi-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PKOcto/pi-browser",
+      "description": "\ud83d\udd0d Control browsers using natural language commands with multi-AI model support for seamless automation and task management.",
+      "stars": 3,
+      "updated_at": "2026-10-01T05:39:12Z"
+    },
+    {
+      "id": "chrispeer69-us-tow-ai-connect",
+      "title": "chrispeer69/us-tow-ai-connect",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/chrispeer69/us-tow-ai-connect",
+      "description": "US Tow AI-Connect: Middleware connector bridging Thinkrr.ai voice agents with towing management software (Towbook, TowLogs, Omadi) via headless browser automation. A Blue Collar AI product.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:28:03Z"
+    },
+    {
+      "id": "abhinav1234abhinav-neurostack",
+      "title": "Abhinav1234abhinav/neurostack",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Abhinav1234abhinav/neurostack",
+      "description": "Index and search Markdown vaults as knowledge graphs to provide AI agents with persistent, structured long-term memory across sessions.",
+      "stars": 2,
+      "updated_at": "2026-10-01T05:47:47Z"
+    },
+    {
+      "id": "juliofernandes-neuroform",
+      "title": "juliofernandes/NeuroForm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/juliofernandes/NeuroForm",
+      "description": "Enable local LLMs to manage semantic memory graphs using a hybrid heuristic and LLM-driven Neo4j system for dynamic, autonomous knowledge control.",
+      "stars": 2,
+      "updated_at": "2026-10-01T05:44:58Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 4,
+      "updated_at": "2026-10-01T05:39:14Z"
+    },
+    {
+      "id": "makhnogk-cerebrium",
+      "title": "MakhnoGK/cerebrium",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MakhnoGK/cerebrium",
+      "description": "Persistent, cross-session memory for AI agents - one SQLite file (FTS5 full-text + sqlite-vec vector search + a typed knowledge graph) behind a single stdio MCP server.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:38:38Z"
+    },
+    {
+      "id": "wallter-trw-memory",
+      "title": "wallter/trw-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/wallter/trw-memory",
+      "description": "Standalone AI agent memory engine \u2014 hybrid search (BM25 + vectors), Q-learning scoring, Ebbinghaus decay, tiered storage, knowledge graph. Part of TRW Framework.",
+      "stars": 2,
+      "updated_at": "2026-10-01T05:15:29Z"
+    },
+    {
+      "id": "meteorologicalballoonfronttooth549-tsfm",
+      "title": "meteorologicalballoonfronttooth549/tsfm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/meteorologicalballoonfronttooth549/tsfm",
+      "description": "Provide on-device Apple Foundation Models inference in TypeScript with streaming, structured output, and chat-style APIs for secure, local AI processing.",
+      "stars": 2,
+      "updated_at": "2026-10-01T05:46:35Z"
+    },
+    {
+      "id": "rferrari-boar-app",
+      "title": "rferrari/boar-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rferrari/boar-app",
+      "description": "BOAR - Adaptive Local Intelligence",
+      "stars": 22,
+      "updated_at": "2026-10-01T05:46:08Z"
+    },
+    {
+      "id": "bino5150-lumina",
+      "title": "Bino5150/lumina",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Bino5150/lumina",
+      "description": "A full featured, powerful, and efficient AI Agentic Harness/Desktop Agent app designed from the ground up with local inference on consumer hardware in mind. It evolves, grows, and gets smarter as you go. And it REMEMBERS... ",
+      "stars": 181,
+      "updated_at": "2026-10-01T05:42:24Z"
+    },
+    {
+      "id": "madslundt-homecompute",
+      "title": "madslundt/HomeCompute",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/madslundt/HomeCompute",
+      "description": "A local-first AI platform for private inference, automation, and agents.",
+      "stars": 0,
+      "updated_at": "2026-10-01T05:38:09Z"
+    },
+    {
+      "id": "zyrabit-tech-zyrabit-slm",
+      "title": "Zyrabit-tech/zyrabit-SLM",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Zyrabit-tech/zyrabit-SLM",
+      "description": "Sovereign AI Infrastructure for Enterprise RAG. Zero-Trust PII Sanitization, Local Inference (CPU-optimized), and Docker-ready architecture.",
+      "stars": 4,
+      "updated_at": "2026-10-01T05:37:10Z"
+    }
+  ]
+}
