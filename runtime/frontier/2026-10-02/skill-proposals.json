@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-02",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-geechun80-vouza-admin-agent",
+      "name": "Explore geechun80/vouza-admin-agent",
+      "source": "https://github.com/geechun80/vouza-admin-agent",
+      "problem": "Vouza Admin Agent \u2014 AI-powered office automation with email, calendar, Telegram, WhatsApp and more",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ssap-pa-self-learning-agent-setup",
+      "name": "Explore ssap-pa/self-learning-agent-setup",
+      "source": "https://github.com/ssap-pa/self-learning-agent-setup",
+      "problem": "Make your AI agent learn from every approve / edit / reject. Postgres + pgvector schema, Claude Code/Codex prompts, and a browser demo where Postgres, pgvector and the embedding model all run in the tab.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sint-ai-sint-protocol",
+      "name": "Explore sint-ai/sint-protocol",
+      "source": "https://github.com/sint-ai/sint-protocol",
+      "problem": "Open-source runtime security and governance for AI agents, MCP tools, robotics, industrial automation, and physical AI.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-taiwanccyoyo-agent-starter-kit",
+      "name": "Explore TaiwanCCyoyo/agent-starter-kit",
+      "source": "https://github.com/TaiwanCCyoyo/agent-starter-kit",
+      "problem": "A curated starter kit for AI Agent development. Featuring personal insights on Antigravity, custom skills library, and multi-agent orchestration workflows. Designed as a foundational template for rapid automation prototyping.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bytechefhq-bytechef",
+      "name": "Explore bytechefhq/bytechef",
+      "source": "https://github.com/bytechefhq/bytechef",
+      "problem": "Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapier.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-srhsoulja-backrooms",
+      "name": "Explore SRHSoulja/backrooms",
+      "source": "https://github.com/SRHSoulja/backrooms",
+      "problem": "A public AI-agent world whose map grows only from corroborated evidence: residents research with read-only tools, findings are judged across independent sources, rooms are built from agreement and retracted by dispute. Runs on a laptop and free-tier models.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lukegalea-clinic-demo",
+      "name": "Explore lukegalea/clinic-demo",
+      "source": "https://github.com/lukegalea/clinic-demo",
+      "problem": "A deliberately small Phoenix/Ash vet-clinic demo: agent-readable contracts (ash_agent_tools), decisions as DMN (ash_decisions), processes as BPMN (ash_bpmn)",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-insomniac-vibelabs-two-key",
+      "name": "Explore Insomniac-VibeLabs/two-key",
+      "source": "https://github.com/Insomniac-VibeLabs/two-key",
+      "problem": "Authorization layer for AI agents. A tool call runs only if a policy VM and an independent judge quorum both approve. Prototype. Algorithms are chosen so a later build can run on a FIPS 140-3 validated module; this release is not validated.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mcd0luo-celestea-harness-studio",
+      "name": "Explore Mcd0LUO/Celestea-Harness-Studio",
+      "source": "https://github.com/Mcd0LUO/Celestea-Harness-Studio",
+      "problem": "Self-hosted AI agent harness: web UI + HTTP API, sandboxed tool execution, persistent workspace memory, selection quoting, browser and computer use. TypeScript, zero runtime deps, one command to start.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sakshamjeetsingh863-jpg-coolchat",
+      "name": "Explore sakshamjeetsingh863-jpg/CoolChat",
+      "source": "https://github.com/sakshamjeetsingh863-jpg/CoolChat",
+      "problem": "\ud83e\udd16 JARVIS AI Assistant \u2014 A powerful Python-based personal AI assistant with Gemini AI, voice interaction, speech recognition, computer control, web search, browser automation, file management, system monitoring, reminders, and customizable actions. Built for Windows, macOS, and Linux.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-scszcoder-ecan.ai",
+      "name": "Explore scszcoder/eCan.ai",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "problem": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyfireitdiy-jarvis",
+      "name": "Explore skyfireitdiy/Jarvis",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "problem": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tkalevra-faultline",
+      "name": "Explore tkalevra/FaultLine",
+      "source": "https://github.com/tkalevra/FaultLine",
+      "problem": "Validated, private, shareable knowledge-graph memory for AI \u2014 per-tenant, write-gated, PostgreSQL-authoritative, served over MCP.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aitherium-awdk",
+      "name": "Explore Aitherium/awdk",
+      "source": "https://github.com/Aitherium/awdk",
+      "problem": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hyperb1iss-sibyl",
+      "name": "Explore hyperb1iss/sibyl",
+      "source": "https://github.com/hyperb1iss/sibyl",
+      "problem": "Collective intelligence runtime for AI agents. Knowledge graph + persistent memory.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opok-ops-mindforge",
+      "name": "Explore opok-ops/MindForge",
+      "source": "https://github.com/opok-ops/MindForge",
+      "problem": "Production-grade lifelong memory for AI agents \u2014 4-tier memory, knowledge graph, E2EE, federated P2P, MCP server.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sunormesky-max-epicode",
+      "name": "Explore sunormesky-max/epicode",
+      "source": "https://github.com/sunormesky-max/epicode",
+      "problem": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-locketkeyllc-scaffold-engine",
+      "name": "Explore LocketKeyLLC/scaffold-engine",
+      "source": "https://github.com/LocketKeyLLC/scaffold-engine",
+      "problem": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each with verification and auto-retry, and compiles the result. 100% on your hardware: Ollama inference, RAG with Milvus vector search, Postgres state, SearXNG search. FastAPI + Docker. No cloud calls unless you opt in.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harperz9-flywheel",
+      "name": "Explore HarperZ9/flywheel",
+      "source": "https://github.com/HarperZ9/flywheel",
+      "problem": "Self-hostable, model-agnostic AI workstation and coding harness. Run any model (frontier or local) behind one OpenAI-compatible surface, run a gated coding agent over your folders, and keep a proof receipt you can re-check offline. Verified-inference loop, receipt-wrapped tool calls, composed lanes. Offline-first. FSL-1.1-MIT.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-neonmc23-ramforge",
+      "name": "Explore NeonMC23/RAMforge",
+      "source": "https://github.com/NeonMC23/RAMforge",
+      "problem": "RAMforge is a local inference runtime designed to run AI models that may be significantly larger than the available RAM or VRAM by treating RAM, VRAM, and storage as a hierarchical memory system.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-02",
+      "policy": "review-before-activation"
+    }
+  ]
+}
