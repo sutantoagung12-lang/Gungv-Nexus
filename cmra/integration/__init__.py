@@ -1,0 +1,1 @@
+"""CMRA integration contracts."""
