@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-03",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "jonah-ux-jonah-ux",
+      "title": "jonah-ux/jonah-ux",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jonah-ux/jonah-ux",
+      "description": "Tools for AI coding agents, local context, and recoverable developer workflows.",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:15:38Z"
+    },
+    {
+      "id": "ggddffdd-agentdesktop",
+      "title": "ggddffdd/AgentDesktop",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ggddffdd/AgentDesktop",
+      "description": "AgentDesktop - a local Windows AI agent workbench built with PySide6. 61+ tools (web search, RAG, automation, voice ASR/TTS, video generation), agent loop with sub-agent parallel execution, model routing, permission engine.",
+      "stars": 1,
+      "updated_at": "2026-10-03T05:15:15Z"
+    },
+    {
+      "id": "rush86999-atom",
+      "title": "rush86999/atom",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rush86999/atom",
+      "description": "Atom Agent, Open-Source Governed AI Agent Platform for Self-Hosted Automation",
+      "stars": 901,
+      "updated_at": "2026-10-03T05:14:34Z"
+    },
+    {
+      "id": "nori72ny-myaispecials",
+      "title": "nori72ny/myAIspecials",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nori72ny/myAIspecials",
+      "description": "ais",
+      "stars": 2,
+      "updated_at": "2026-10-03T05:12:54Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2012,
+      "updated_at": "2026-10-03T05:11:07Z"
+    },
+    {
+      "id": "zkysar1-zak-code",
+      "title": "zkysar1/Zak-Code",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zkysar1/Zak-Code",
+      "description": "A clean-room, vendor-agnostic, API-first agentic coding tool.",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:15:12Z"
+    },
+    {
+      "id": "learnerview-codecritic",
+      "title": "learnerview/CodeCritic",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/learnerview/CodeCritic",
+      "description": "CodeCritic is a hybrid agentic code-review system that combines a Python LLM orchestrator with Java-based analysis tools.  The Python layer plans and synthesizes reviews, while the Java layer performs deterministic analysis on Java source code using AST parsing, static bug heuristics, and best-effort SpotBugs integration.",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:15:09Z"
+    },
+    {
+      "id": "vivekchand-clawmetry",
+      "title": "vivekchand/clawmetry",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vivekchand/clawmetry",
+      "description": "See your agent think. Zero-config observability & governance for 30 AI agent runtimes: Claude Code, OpenAI Codex, Hermes, OpenClaw & 26 more. Live token costs, sessions, tool calls, crons.",
+      "stars": 423,
+      "updated_at": "2026-10-03T05:14:18Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-10-03T05:13:31Z"
+    },
+    {
+      "id": "niyam-paneru-niyam-paneru",
+      "title": "Niyam-Paneru/Niyam-Paneru",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Niyam-Paneru/Niyam-Paneru",
+      "description": "Backend systems and AI automation portfolio: browser writes, booking workflows, voice boundaries, metrics, and remote compute.",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:06:22Z"
+    },
+    {
+      "id": "deviousdevv303-forgeclaw",
+      "title": "DeviousDevv303/forgeclaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "description": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:04:27Z"
+    },
+    {
+      "id": "puppetwen-aibrowser",
+      "title": "PuppetWen/AiBrowser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PuppetWen/AiBrowser",
+      "description": "Windows multi-browser workspace with isolated profiles, synchronized interaction, automation, proxies, and custom layouts.",
+      "stars": 1,
+      "updated_at": "2026-10-03T05:01:28Z"
+    },
+    {
+      "id": "manuelgr928-rusty-beaker",
+      "title": "Manuelgr928/rusty-beaker",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:00:04Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 543,
+      "updated_at": "2026-10-03T05:13:02Z"
+    },
+    {
+      "id": "pratibhabharti18-memory-bank",
+      "title": "pratibhabharti18/Memory-Bank",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "description": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "stars": 1,
+      "updated_at": "2026-10-03T05:09:44Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 4,
+      "updated_at": "2026-10-03T05:08:37Z"
+    },
+    {
+      "id": "aitherium-awdk",
+      "title": "Aitherium/awdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Aitherium/awdk",
+      "description": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "stars": 11,
+      "updated_at": "2026-10-03T05:03:52Z"
+    },
+    {
+      "id": "opok-ops-mindforge",
+      "title": "opok-ops/MindForge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/opok-ops/MindForge",
+      "description": "Production-grade lifelong memory for AI agents \u2014 4-tier memory, knowledge graph, E2EE, federated P2P, MCP server.",
+      "stars": 2,
+      "updated_at": "2026-10-03T05:01:14Z"
+    },
+    {
+      "id": "grandmasg-ircord",
+      "title": "Grandmasg/IRCord",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Grandmasg/IRCord",
+      "description": "Self-hosted hybrid IRC-Discord daemon in Rust featuring local AI inference (Ollama/FreeToken), WhatPulse stats, and system telemetry.",
+      "stars": 1,
+      "updated_at": "2026-10-03T05:16:07Z"
+    },
+    {
+      "id": "cortexkit-synapse",
+      "title": "cortexkit/synapse",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cortexkit/synapse",
+      "description": "Local AI inference for CortexKit: embeddings, rerank, micro-LLM one-shots across CUDA/Metal/ANE/Vulkan/CPU \u2014 certification-gated engines behind one subc surface.",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:12:36Z"
+    },
+    {
+      "id": "mmogr-gglib",
+      "title": "mmogr/gglib",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mmogr/gglib",
+      "description": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "stars": 1,
+      "updated_at": "2026-10-03T05:08:25Z"
+    },
+    {
+      "id": "hrabanazviking-runeforgeai-project-aesir",
+      "title": "hrabanazviking/RuneForgeAI-Project-Aesir",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hrabanazviking/RuneForgeAI-Project-Aesir",
+      "description": "Bare-metal Mojo inference engine designed for local sovereignty. Features zero-copy GGUF parsing, PagedAttention KV caching, and a stateless sampler. Optimized for consumer hardware, it eliminates cloud dependency and bloat to deliver high-performance, private AI directly on the edge.",
+      "stars": 1,
+      "updated_at": "2026-10-03T05:05:40Z"
+    },
+    {
+      "id": "santanu20-blazar",
+      "title": "santanu20/blazar",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/santanu20/blazar",
+      "description": "The control plane for local AI inference \u2014 unified OpenAI, Ollama and Anthropic APIs with intelligent routing, resource-aware scheduling and multi-engine serving",
+      "stars": 0,
+      "updated_at": "2026-10-03T05:01:50Z"
+    }
+  ]
+}
