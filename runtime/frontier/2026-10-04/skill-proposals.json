@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-04",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-yxq953-muselite",
+      "name": "Explore yxq953/MuseLite",
+      "source": "https://github.com/yxq953/MuseLite",
+      "problem": "MuseLite is an open-source AI workspace combining chat, Agent tools, browser automation, and scheduled tasks for users who enjoy Muse and Dots.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rafiaauthoi-dsaic-finance-agent",
+      "name": "Explore rafiaauthoi/dsaic-finance-agent",
+      "source": "https://github.com/rafiaauthoi/dsaic-finance-agent",
+      "problem": "AI agent that drafts WSA funding requests for WMU student organizations, with human review before every submission",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrcryptohat-ccbot",
+      "name": "Explore MrCryptoHat/ccbot",
+      "source": "https://github.com/MrCryptoHat/ccbot",
+      "problem": "Call sign \u201cCharlie-Charlie\u201d \ud83d\udcfb Control Claude Code, OpenAI Codex & other terminal AI agents from your phone. Telegram topics \u2194 tmux: live pane screenshots & key presses, tappable interactive prompts, one-tap parallel git-worktree agents, two-way voice, session resume. Self-hosted, no cloud middleman.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dilipkumarmummadi-ai-engineering-hub",
+      "name": "Explore DilipKumarMummadi/ai-engineering-hub",
+      "source": "https://github.com/DilipKumarMummadi/ai-engineering-hub",
+      "problem": "AI Engineering Hub A centralized AI engineering repository containing reusable AI agents, skills, prompts, workflows, tools, and automation to help software engineers accelerate their day-to-day development activities.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yrn-dev-operator",
+      "name": "Explore yrn-dev/Operator",
+      "source": "https://github.com/yrn-dev/Operator",
+      "problem": "Terminal AI coding agent \u2014 Autonomous AI Agent for Linux. Supports Alem AI + Ollama. Works with code, research, automation, DevOps, data analysis, and content generation.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bigduu-bamboo-agent",
+      "name": "Explore bigduu/Bamboo-agent",
+      "source": "https://github.com/bigduu/Bamboo-agent",
+      "problem": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assembly over HTTP, SSE, and WebSocket.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gollem-dev-gollem",
+      "name": "Explore gollem-dev/gollem",
+      "source": "https://github.com/gollem-dev/gollem",
+      "problem": "Go framework for agentic AI app with MCP and built-in tools",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-guzhujushi-trimum",
+      "name": "Explore guzhujushi/trimum",
+      "source": "https://github.com/guzhujushi/trimum",
+      "problem": "trimum \u2014 Linux AI Agent runtime (harness): daemon + pluggable agents + unified tool gateway + sandbox + tamper-evident audit",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zhnt-loushang",
+      "name": "Explore zhnt/loushang",
+      "source": "https://github.com/zhnt/loushang",
+      "problem": "AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool governance,   traceable delivery, and provider routing for GPT, Claude, DeepSeek, Qwen, Kimi, GLM, and MiniMax.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kos-tile-phantom",
+      "name": "Explore kOs-tile/phantom",
+      "source": "https://github.com/kOs-tile/phantom",
+      "problem": "PHANTOM \u2014 Hermes Agent Stealth Browser Engine. Human-like web automation with anti-detection for AI agents.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dbd1911-voxelcraft",
+      "name": "Explore dbd1911/voxelcraft",
+      "source": "https://github.com/dbd1911/voxelcraft",
+      "problem": "Browser voxel survival game with a built-in automation API for autonomous AI agents. Original code + procedural textures.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-alexzvency-ship-it-claude-browser-automator",
+      "name": "Explore alexzvency-ship-it/claude-browser-automator",
+      "source": "https://github.com/alexzvency-ship-it/claude-browser-automator",
+      "problem": "Top Playwright Test Automation Framework 2026 - Run AI Browser Scripts Instantly",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ashvin-to-basemem",
+      "name": "Explore ashvin-to/BaseMem",
+      "source": "https://github.com/ashvin-to/BaseMem",
+      "problem": "Persistent graph-based memory and knowledge base for AI agents with MCP integration, code intelligence, and cross-session context.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liliang-cn-cortexdb",
+      "name": "Explore liliang-cn/cortexdb",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "problem": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP tools. Works without an embedding model.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-congregantmsec41-agentic-stack-desktop",
+      "name": "Explore congregantmsec41/agentic-stack-desktop",
+      "source": "https://github.com/congregantmsec41/agentic-stack-desktop",
+      "problem": "Unify Claude Code, Codex, OpenCode, and Cursor into one local knowledge graph for shared memory on macOS.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-slickpurse464-noshy",
+      "name": "Explore slickpurse464/Noshy",
+      "source": "https://github.com/slickpurse464/Noshy",
+      "problem": "Provide persistent knowledge storage for AI agents using ICM and MCP standards to manage facts and memory graphs across sessions.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harperz9-flywheel",
+      "name": "Explore HarperZ9/flywheel",
+      "source": "https://github.com/HarperZ9/flywheel",
+      "problem": "Self-hostable, model-agnostic AI workstation and coding harness. Run any model (frontier or local) behind one OpenAI-compatible surface, run a gated coding agent over your folders, and keep a proof receipt you can re-check offline. Verified-inference loop, receipt-wrapped tool calls, composed lanes. Offline-first. FSL-1.1-MIT.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-locketkeyllc-scaffold-engine",
+      "name": "Explore LocketKeyLLC/scaffold-engine",
+      "source": "https://github.com/LocketKeyLLC/scaffold-engine",
+      "problem": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each with verification and auto-retry, and compiles the result. 100% on your hardware: Ollama inference, RAG with Milvus vector search, Postgres state, SearXNG search. FastAPI + Docker. No cloud calls unless you opt in.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-usukhbayarp-soum-referral-ai",
+      "name": "Explore usukhbayarp/soum-referral-ai",
+      "source": "https://github.com/usukhbayarp/soum-referral-ai",
+      "problem": "Mongolian referral documentation prototype with source evidence, clinician review, and local inference; fictional data only",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-juliensimon-ai-inference-tco-calculator",
+      "name": "Explore juliensimon/ai-inference-tco-calculator",
+      "source": "https://github.com/juliensimon/ai-inference-tco-calculator",
+      "problem": "AI Inference TCO Calculator \u2014 compare API vs self-hosted GPU vs local/edge inference costs",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dkblinux98-nyxgpt",
+      "name": "Explore dkblinux98/nyxGPT",
+      "source": "https://github.com/dkblinux98/nyxGPT",
+      "problem": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persistent sessions, RAG with Cassandra 5.0 native vector search, streaming CLI + FastAPI + Next.js web UI, and production-grade ops tooling: one-command lifecycle, canary deploys, health dashboards, metrics. No cloud required.",
+      "created_on": "2026-10-04",
+      "policy": "review-before-activation"
+    }
+  ]
+}
