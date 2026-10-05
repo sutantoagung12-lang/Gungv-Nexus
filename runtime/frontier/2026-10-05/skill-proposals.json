@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-05",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-arttopix-kinenix",
+      "name": "Explore arttopix/Kinenix",
+      "source": "https://github.com/arttopix/Kinenix",
+      "problem": "Open-source, Local AI-Native Agentic Automation Framework powered by Python & on-device SLMs. Free unattended robots, zero-license Excel automation, and business-first ROI analytics.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fub05-mcp---agent-starter-kit",
+      "name": "Explore fub05/MCP---Agent-Starter-Kit",
+      "source": "https://github.com/fub05/MCP---Agent-Starter-Kit",
+      "problem": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestration.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fysoul17-devlyn-cli",
+      "name": "Explore fysoul17/devlyn-cli",
+      "source": "https://github.com/fysoul17/devlyn-cli",
+      "problem": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manishiitg-agentworks",
+      "name": "Explore manishiitg/agentworks",
+      "source": "https://github.com/manishiitg/agentworks",
+      "problem": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bobmatnyc-trusty-tools",
+      "name": "Explore bobmatnyc/trusty-tools",
+      "source": "https://github.com/bobmatnyc/trusty-tools",
+      "problem": "Unified Rust workspace for the trusty-* AI developer-tooling ecosystem: hybrid code search, memory palace, code analysis, PR review, and the MPM multi-agent platform \u2014 MCP servers, daemons & CLIs.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bytedance-deer-flow",
+      "name": "Explore bytedance/deer-flow",
+      "source": "https://github.com/bytedance/deer-flow",
+      "problem": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-eshablink-agentforge",
+      "name": "Explore Eshablink/agentforge",
+      "source": "https://github.com/Eshablink/agentforge",
+      "problem": "Production-style full-stack agentic AI platform with RAG, tool calling, LLM integrations, analytics, and autonomous workflows.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vishal7pandey-chatpid",
+      "name": "Explore vishal7pandey/chatpid",
+      "source": "https://github.com/vishal7pandey/chatpid",
+      "problem": "GraphRAG for engineering diagrams. Converts a P&ID (DEXPI standard) into a Neo4j knowledge graph and gives a LangGraph ReAct agent four retrieval tools (ContextRAG/VectorRAG/PathRAG/CypherRAG) instead of feeding raw images or XML to an LLM. Reimplementation of arXiv:2603.22528.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-littleduck1219-we-can-use",
+      "name": "Explore littleduck1219/we-can-use",
+      "source": "https://github.com/littleduck1219/we-can-use",
+      "problem": "Awesome links for the AI coding ecosystem \u2014 agent skills, plugins, MCP servers, CLI tools, and 12,000+ auto-collected repos, refreshed weekly. EN/KO.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-suxrobgm-jobpilot",
+      "name": "Explore suxrobGM/jobpilot",
+      "source": "https://github.com/suxrobGM/jobpilot",
+      "problem": "An AI agent that applies to jobs for you. It finds openings, tailors your resume, and fills out applications in a real browser on your own machine. Runs on your Claude Code or Codex subscription.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bilal0399-learn-agentic-ai",
+      "name": "Explore bilal0399/learn-agentic-ai",
+      "source": "https://github.com/bilal0399/learn-agentic-ai",
+      "problem": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aitherium-awdk",
+      "name": "Explore Aitherium/awdk",
+      "source": "https://github.com/Aitherium/awdk",
+      "problem": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-swanchain-computing-provider",
+      "name": "Explore swanchain/computing-provider",
+      "source": "https://github.com/swanchain/computing-provider",
+      "problem": "Turn your GPU into an AI inference endpoint on the Swan Chain network. Connects outbound over WebSocket, serves local SGLang/vLLM/Ollama models \u2014 no inbound ports, no wallet required.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-osaurus-ai-vmlx-swift",
+      "name": "Explore osaurus-ai/vmlx-swift",
+      "source": "https://github.com/osaurus-ai/vmlx-swift",
+      "problem": "Unified Swift MLX inference stack for fast, local, multimodal AI on Apple Silicon.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sawfwair-relay-mere-run",
+      "name": "Explore sawfwair/relay-mere-run",
+      "source": "https://github.com/sawfwair/relay-mere-run",
+      "problem": "Account-scoped relay and desktop compute node for private, local mere.run inference.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yashbhadange2006-tinyai",
+      "name": "Explore YashBhadange2006/TinyAI",
+      "source": "https://github.com/YashBhadange2006/TinyAI",
+      "problem": "On-device AI assistant for Android built with Kotlin, featuring local LLM inference, offline AI capabilities, and edge AI experimentation.",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chrisjohnson-strix-halo-r9700-llm-builds",
+      "name": "Explore chrisjohnson/strix-halo-r9700-llm-builds",
+      "source": "https://github.com/chrisjohnson/strix-halo-r9700-llm-builds",
+      "problem": "Model-engine build catalog + benchmark orchestrator for the Bosgame M5 Strix Halo / R9700 eGPU inference box (extracted from local-ai-machine, M-135)",
+      "created_on": "2026-10-05",
+      "policy": "review-before-activation"
+    }
+  ]
+}

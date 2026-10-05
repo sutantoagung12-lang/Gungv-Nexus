@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-05",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "arttopix-kinenix",
+      "title": "arttopix/Kinenix",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/arttopix/Kinenix",
+      "description": "Open-source, Local AI-Native Agentic Automation Framework powered by Python & on-device SLMs. Free unattended robots, zero-license Excel automation, and business-first ROI analytics.",
+      "stars": 1,
+      "updated_at": "2026-10-05T05:35:59Z"
+    },
+    {
+      "id": "fub05-mcp---agent-starter-kit",
+      "title": "fub05/MCP---Agent-Starter-Kit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/fub05/MCP---Agent-Starter-Kit",
+      "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestration.",
+      "stars": 6,
+      "updated_at": "2026-10-05T05:35:27Z"
+    },
+    {
+      "id": "deviousdevv303-forgeclaw",
+      "title": "DeviousDevv303/forgeclaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "description": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "stars": 0,
+      "updated_at": "2026-10-05T05:35:26Z"
+    },
+    {
+      "id": "fysoul17-devlyn-cli",
+      "title": "fysoul17/devlyn-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/fysoul17/devlyn-cli",
+      "description": "AI development toolkit for Claude Code \u2014 ideate, auto-resolve, and ship with context engineering and agent orchestration",
+      "stars": 1,
+      "updated_at": "2026-10-05T05:35:24Z"
+    },
+    {
+      "id": "manishiitg-agentworks",
+      "title": "manishiitg/agentworks",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/manishiitg/agentworks",
+      "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "stars": 13,
+      "updated_at": "2026-10-05T05:34:43Z"
+    },
+    {
+      "id": "bobmatnyc-trusty-tools",
+      "title": "bobmatnyc/trusty-tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bobmatnyc/trusty-tools",
+      "description": "Unified Rust workspace for the trusty-* AI developer-tooling ecosystem: hybrid code search, memory palace, code analysis, PR review, and the MPM multi-agent platform \u2014 MCP servers, daemons & CLIs.",
+      "stars": 20,
+      "updated_at": "2026-10-05T05:36:10Z"
+    },
+    {
+      "id": "bytedance-deer-flow",
+      "title": "bytedance/deer-flow",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 83394,
+      "updated_at": "2026-10-05T05:34:30Z"
+    },
+    {
+      "id": "eshablink-agentforge",
+      "title": "Eshablink/agentforge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Eshablink/agentforge",
+      "description": "Production-style full-stack agentic AI platform with RAG, tool calling, LLM integrations, analytics, and autonomous workflows.",
+      "stars": 0,
+      "updated_at": "2026-10-05T05:33:00Z"
+    },
+    {
+      "id": "vishal7pandey-chatpid",
+      "title": "vishal7pandey/chatpid",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vishal7pandey/chatpid",
+      "description": "GraphRAG for engineering diagrams. Converts a P&ID (DEXPI standard) into a Neo4j knowledge graph and gives a LangGraph ReAct agent four retrieval tools (ContextRAG/VectorRAG/PathRAG/CypherRAG) instead of feeding raw images or XML to an LLM. Reimplementation of arXiv:2603.22528.",
+      "stars": 0,
+      "updated_at": "2026-10-05T05:32:12Z"
+    },
+    {
+      "id": "littleduck1219-we-can-use",
+      "title": "littleduck1219/we-can-use",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/littleduck1219/we-can-use",
+      "description": "Awesome links for the AI coding ecosystem \u2014 agent skills, plugins, MCP servers, CLI tools, and 12,000+ auto-collected repos, refreshed weekly. EN/KO.",
+      "stars": 1,
+      "updated_at": "2026-10-05T05:32:01Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23137,
+      "updated_at": "2026-10-05T05:35:13Z"
+    },
+    {
+      "id": "suxrobgm-jobpilot",
+      "title": "suxrobGM/jobpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/suxrobGM/jobpilot",
+      "description": "An AI agent that applies to jobs for you. It finds openings, tailors your resume, and fills out applications in a real browser on your own machine. Runs on your Claude Code or Codex subscription.",
+      "stars": 81,
+      "updated_at": "2026-10-05T05:32:35Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2015,
+      "updated_at": "2026-10-05T05:28:23Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 35993,
+      "updated_at": "2026-10-05T05:26:42Z"
+    },
+    {
+      "id": "bilal0399-learn-agentic-ai",
+      "title": "bilal0399/learn-agentic-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bilal0399/learn-agentic-ai",
+      "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "stars": 8,
+      "updated_at": "2026-10-05T05:28:37Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 92,
+      "updated_at": "2026-10-05T05:25:49Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 1983,
+      "updated_at": "2026-10-05T05:25:26Z"
+    },
+    {
+      "id": "aitherium-awdk",
+      "title": "Aitherium/awdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Aitherium/awdk",
+      "description": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "stars": 11,
+      "updated_at": "2026-10-05T05:12:43Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-05T05:05:01Z"
+    },
+    {
+      "id": "swanchain-computing-provider",
+      "title": "swanchain/computing-provider",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/swanchain/computing-provider",
+      "description": "Turn your GPU into an AI inference endpoint on the Swan Chain network. Connects outbound over WebSocket, serves local SGLang/vLLM/Ollama models \u2014 no inbound ports, no wallet required.",
+      "stars": 0,
+      "updated_at": "2026-10-05T04:41:39Z"
+    },
+    {
+      "id": "osaurus-ai-vmlx-swift",
+      "title": "osaurus-ai/vmlx-swift",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/osaurus-ai/vmlx-swift",
+      "description": "Unified Swift MLX inference stack for fast, local, multimodal AI on Apple Silicon.",
+      "stars": 21,
+      "updated_at": "2026-10-05T04:40:57Z"
+    },
+    {
+      "id": "sawfwair-relay-mere-run",
+      "title": "sawfwair/relay-mere-run",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sawfwair/relay-mere-run",
+      "description": "Account-scoped relay and desktop compute node for private, local mere.run inference.",
+      "stars": 2,
+      "updated_at": "2026-10-05T04:37:17Z"
+    },
+    {
+      "id": "yashbhadange2006-tinyai",
+      "title": "YashBhadange2006/TinyAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/YashBhadange2006/TinyAI",
+      "description": "On-device AI assistant for Android built with Kotlin, featuring local LLM inference, offline AI capabilities, and edge AI experimentation.",
+      "stars": 46,
+      "updated_at": "2026-10-05T04:27:34Z"
+    },
+    {
+      "id": "chrisjohnson-strix-halo-r9700-llm-builds",
+      "title": "chrisjohnson/strix-halo-r9700-llm-builds",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/chrisjohnson/strix-halo-r9700-llm-builds",
+      "description": "Model-engine build catalog + benchmark orchestrator for the Bosgame M5 Strix Halo / R9700 eGPU inference box (extracted from local-ai-machine, M-135)",
+      "stars": 0,
+      "updated_at": "2026-10-05T04:18:18Z"
+    }
+  ]
+}
