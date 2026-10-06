@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-06",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-splayfooted-wynnea293-agent-toolkit-for-aws",
+      "name": "Explore Splayfooted-wynnea293/agent-toolkit-for-aws",
+      "source": "https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws",
+      "problem": "Provide tools and guardrails for AI coding agents to build, deploy, and manage applications on AWS.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rim-19-job_search",
+      "name": "Explore rim-19/job_search",
+      "source": "https://github.com/rim-19/job_search",
+      "problem": "Automated job-search agent \u2014 collects remote dev roles from job APIs, RSS feeds, and ~80 startup boards, scores each against a CV with Gemini (1-10 + summary), dedupes and stores in SQLite, and publishes a GitHub Pages dashboard on a schedule via GitHub Actions.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tale-project-tale",
+      "name": "Explore tale-project/tale",
+      "source": "https://github.com/tale-project/tale",
+      "problem": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud. MIT licensed.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zakame-brooks-agent-team",
+      "name": "Explore zakame/brooks-agent-team",
+      "source": "https://github.com/zakame/brooks-agent-team",
+      "problem": "Orchestrate high-performance AI development using Fred Brooks' Surgical Team model. This plugin maps specialized agent roles\u2014chief programmer, scribe, and support\u2014to your workflow, keeping the lead focused on critical work. Compatible with, Claude Code, OpenAI Codex, xAI Grok Build, GitHub Copilot CLI, OpenCode, Hermes Agent, and Pi.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-imfeh2-fora",
+      "name": "Explore ImFeH2/fora",
+      "source": "https://github.com/ImFeH2/fora",
+      "problem": "Run your own organization of agents",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cryer-star-cli",
+      "name": "Explore cryer/star-cli",
+      "source": "https://github.com/cryer/star-cli",
+      "problem": "An AI agent command-line interface \u2014 multi-model LLM access, streaming terminal UI, tool calling, permission control, and session persistence.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-khanmo248-open-seo",
+      "name": "Explore khanmo248/open-seo",
+      "source": "https://github.com/khanmo248/open-seo",
+      "problem": "Manage your SEO data with this open-source tool. Connect your AI agents to perform keyword research and track site performance using your own API keys.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hiroliang-tentserv-agent",
+      "name": "Explore HiroLiang/tentserv-agent",
+      "source": "https://github.com/HiroLiang/tentserv-agent",
+      "problem": "tentgent CLI tool for llm model",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-raullenchai-rapid-mlx",
+      "name": "Explore raullenchai/Rapid-MLX",
+      "source": "https://github.com/raullenchai/Rapid-MLX",
+      "problem": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4\u00d7 faster than Apple's MLX (mlx-lm) on the same weights.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bayar-gg-vrcloud-ide",
+      "name": "Explore bayar-gg/vrcloud-ide",
+      "source": "https://github.com/bayar-gg/vrcloud-ide",
+      "problem": "Persistent, realtime, AI-powered web IDE on your own server: editor, terminals, git, AI agent with computer use, browser automation and remote desktop. Single Node.js process.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-puissant-familypsilophytaceae582-awesome-ai-tools",
+      "name": "Explore puissant-familypsilophytaceae582/awesome-ai-tools",
+      "source": "https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools",
+      "problem": "Browse a curated directory of AI models, frameworks, and tools for modern development projects.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mylesstrawcolored236-syntax-supercut-studio",
+      "name": "Explore Mylesstrawcolored236/syntax-supercut-studio",
+      "source": "https://github.com/Mylesstrawcolored236/syntax-supercut-studio",
+      "problem": "Browse a curated list of top AI tools, models, and frameworks to accelerate your development work.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doralynnindignant843-agent-browser-runtime",
+      "name": "Explore Doralynnindignant843/agent-browser-runtime",
+      "source": "https://github.com/Doralynnindignant843/agent-browser-runtime",
+      "problem": "Manage persistent Chrome sessions for AI agents with isolated tab groups, noVNC handoff, and artifact extraction for reliable browser automation.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hamdadi3367-awesome-ai-extensions",
+      "name": "Explore hamdadi3367/awesome-ai-extensions",
+      "source": "https://github.com/hamdadi3367/awesome-ai-extensions",
+      "problem": "Browse a curated list of AI-powered browser extensions for writing, research, automation, and coding.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-muvon-octobrain",
+      "name": "Explore Muvon/octobrain",
+      "source": "https://github.com/Muvon/octobrain",
+      "problem": "Persistent memory for AI assistants \u2014 semantic search, knowledge graph, and MCP server integration. Built in Rust.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gerrielxxvii307-allan-mcp-memory-code",
+      "name": "Explore gerrielxxvii307/allan-mcp-memory-code",
+      "source": "https://github.com/gerrielxxvii307/allan-mcp-memory-code",
+      "problem": "Store persistent knowledge graphs for AI coding assistants using a local Docker setup with hybrid search and entity extraction.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-alvarolizama-dran",
+      "name": "Explore alvarolizama/dran",
+      "source": "https://github.com/alvarolizama/dran",
+      "problem": "Dran \u2014 shared memory & knowledge base for AI agent swarms. One typed knowledge graph plus trust-scored atomic facts, read and written over MCP/REST, browsed as a Phoenix LiveView wiki. What one agent learns, none forget.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-eastythenob8-svg-graph-memory",
+      "name": "Explore eastythenob8-svg/graph-memory",
+      "source": "https://github.com/eastythenob8-svg/graph-memory",
+      "problem": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across sessions.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-open-nvr-ai-adapter",
+      "name": "Explore open-nvr/ai-adapter",
+      "source": "https://github.com/open-nvr/ai-adapter",
+      "problem": "AI Adapter is a flexible integration layer for connecting any AI model to OpenNVR. It enables seamless support for cloud, local, and edge models through a modular architecture\u2014allowing developers to plug in, switch, and scale AI capabilities for real-time video analytics without vendor lock-in. Run any AI model \u2014 YOLO, BLIP, InsightFace, LLMs",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tetherto-qvac",
+      "name": "Explore tetherto/qvac",
+      "source": "https://github.com/tetherto/qvac",
+      "problem": "Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS, Windows, Android, iOS.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iyulab-lm-supply",
+      "name": "Explore iyulab/lm-supply",
+      "source": "https://github.com/iyulab/lm-supply",
+      "problem": ".NET library for on-demand local AI model inference \u2014 zero bundled models, lazy loading, hardware-aware GPU/CPU selection, 10 task types including embeddings, generation, vision, and audio.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-desmondgregarious958-quantumleap---llama.cpp-turboquant",
+      "name": "Explore desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+      "source": "https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+      "problem": "Run LLMs on any hardware with llama.cpp, TurboQuant KV compression, and ExpertFlow MoE tuning for faster local inference",
+      "created_on": "2026-10-06",
+      "policy": "review-before-activation"
+    }
+  ]
+}

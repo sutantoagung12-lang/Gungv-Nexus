@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-06",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "splayfooted-wynnea293-agent-toolkit-for-aws",
+      "title": "Splayfooted-wynnea293/agent-toolkit-for-aws",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Splayfooted-wynnea293/agent-toolkit-for-aws",
+      "description": "Provide tools and guardrails for AI coding agents to build, deploy, and manage applications on AWS.",
+      "stars": 0,
+      "updated_at": "2026-10-06T06:17:36Z"
+    },
+    {
+      "id": "rim-19-job_search",
+      "title": "rim-19/job_search",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rim-19/job_search",
+      "description": "Automated job-search agent \u2014 collects remote dev roles from job APIs, RSS feeds, and ~80 startup boards, scores each against a CV with Gemini (1-10 + summary), dedupes and stores in SQLite, and publishes a GitHub Pages dashboard on a schedule via GitHub Actions.",
+      "stars": 0,
+      "updated_at": "2026-10-06T06:17:20Z"
+    },
+    {
+      "id": "tale-project-tale",
+      "title": "tale-project/tale",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tale-project/tale",
+      "description": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud. MIT licensed.",
+      "stars": 32,
+      "updated_at": "2026-10-06T06:17:20Z"
+    },
+    {
+      "id": "zakame-brooks-agent-team",
+      "title": "zakame/brooks-agent-team",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zakame/brooks-agent-team",
+      "description": "Orchestrate high-performance AI development using Fred Brooks' Surgical Team model. This plugin maps specialized agent roles\u2014chief programmer, scribe, and support\u2014to your workflow, keeping the lead focused on critical work. Compatible with, Claude Code, OpenAI Codex, xAI Grok Build, GitHub Copilot CLI, OpenCode, Hermes Agent, and Pi.",
+      "stars": 2,
+      "updated_at": "2026-10-06T06:16:58Z"
+    },
+    {
+      "id": "imfeh2-fora",
+      "title": "ImFeH2/fora",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ImFeH2/fora",
+      "description": "Run your own organization of agents",
+      "stars": 264,
+      "updated_at": "2026-10-06T06:16:32Z"
+    },
+    {
+      "id": "cryer-star-cli",
+      "title": "cryer/star-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cryer/star-cli",
+      "description": "An AI agent command-line interface \u2014 multi-model LLM access, streaming terminal UI, tool calling, permission control, and session persistence.",
+      "stars": 40,
+      "updated_at": "2026-10-06T06:17:58Z"
+    },
+    {
+      "id": "khanmo248-open-seo",
+      "title": "khanmo248/open-seo",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/khanmo248/open-seo",
+      "description": "Manage your SEO data with this open-source tool. Connect your AI agents to perform keyword research and track site performance using your own API keys.",
+      "stars": 0,
+      "updated_at": "2026-10-06T06:17:39Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-10-06T06:17:15Z"
+    },
+    {
+      "id": "hiroliang-tentserv-agent",
+      "title": "HiroLiang/tentserv-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/HiroLiang/tentserv-agent",
+      "description": "tentgent CLI tool for llm model",
+      "stars": 0,
+      "updated_at": "2026-10-06T06:17:03Z"
+    },
+    {
+      "id": "raullenchai-rapid-mlx",
+      "title": "raullenchai/Rapid-MLX",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/raullenchai/Rapid-MLX",
+      "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4\u00d7 faster than Apple's MLX (mlx-lm) on the same weights.",
+      "stars": 3911,
+      "updated_at": "2026-10-06T06:15:30Z"
+    },
+    {
+      "id": "bayar-gg-vrcloud-ide",
+      "title": "bayar-gg/vrcloud-ide",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bayar-gg/vrcloud-ide",
+      "description": "Persistent, realtime, AI-powered web IDE on your own server: editor, terminals, git, AI agent with computer use, browser automation and remote desktop. Single Node.js process.",
+      "stars": 3,
+      "updated_at": "2026-10-06T06:15:25Z"
+    },
+    {
+      "id": "puissant-familypsilophytaceae582-awesome-ai-tools",
+      "title": "puissant-familypsilophytaceae582/awesome-ai-tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/puissant-familypsilophytaceae582/awesome-ai-tools",
+      "description": "Browse a curated directory of AI models, frameworks, and tools for modern development projects.",
+      "stars": 3,
+      "updated_at": "2026-10-06T06:15:16Z"
+    },
+    {
+      "id": "mylesstrawcolored236-syntax-supercut-studio",
+      "title": "Mylesstrawcolored236/syntax-supercut-studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mylesstrawcolored236/syntax-supercut-studio",
+      "description": "Browse a curated list of top AI tools, models, and frameworks to accelerate your development work.",
+      "stars": 2,
+      "updated_at": "2026-10-06T06:15:11Z"
+    },
+    {
+      "id": "doralynnindignant843-agent-browser-runtime",
+      "title": "Doralynnindignant843/agent-browser-runtime",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Doralynnindignant843/agent-browser-runtime",
+      "description": "Manage persistent Chrome sessions for AI agents with isolated tab groups, noVNC handoff, and artifact extraction for reliable browser automation.",
+      "stars": 0,
+      "updated_at": "2026-10-06T06:15:00Z"
+    },
+    {
+      "id": "hamdadi3367-awesome-ai-extensions",
+      "title": "hamdadi3367/awesome-ai-extensions",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hamdadi3367/awesome-ai-extensions",
+      "description": "Browse a curated list of AI-powered browser extensions for writing, research, automation, and coding.",
+      "stars": 1,
+      "updated_at": "2026-10-06T06:13:14Z"
+    },
+    {
+      "id": "muvon-octobrain",
+      "title": "Muvon/octobrain",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Muvon/octobrain",
+      "description": "Persistent memory for AI assistants \u2014 semantic search, knowledge graph, and MCP server integration. Built in Rust.",
+      "stars": 16,
+      "updated_at": "2026-10-06T06:15:56Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-06T06:15:49Z"
+    },
+    {
+      "id": "gerrielxxvii307-allan-mcp-memory-code",
+      "title": "gerrielxxvii307/allan-mcp-memory-code",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/gerrielxxvii307/allan-mcp-memory-code",
+      "description": "Store persistent knowledge graphs for AI coding assistants using a local Docker setup with hybrid search and entity extraction.",
+      "stars": 2,
+      "updated_at": "2026-10-06T06:15:13Z"
+    },
+    {
+      "id": "alvarolizama-dran",
+      "title": "alvarolizama/dran",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/alvarolizama/dran",
+      "description": "Dran \u2014 shared memory & knowledge base for AI agent swarms. One typed knowledge graph plus trust-scored atomic facts, read and written over MCP/REST, browsed as a Phoenix LiveView wiki. What one agent learns, none forget.",
+      "stars": 2,
+      "updated_at": "2026-10-06T06:07:18Z"
+    },
+    {
+      "id": "eastythenob8-svg-graph-memory",
+      "title": "eastythenob8-svg/graph-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/eastythenob8-svg/graph-memory",
+      "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across sessions.",
+      "stars": 1,
+      "updated_at": "2026-10-06T06:07:02Z"
+    },
+    {
+      "id": "open-nvr-ai-adapter",
+      "title": "open-nvr/ai-adapter",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/open-nvr/ai-adapter",
+      "description": "AI Adapter is a flexible integration layer for connecting any AI model to OpenNVR. It enables seamless support for cloud, local, and edge models through a modular architecture\u2014allowing developers to plug in, switch, and scale AI capabilities for real-time video analytics without vendor lock-in. Run any AI model \u2014 YOLO, BLIP, InsightFace, LLMs",
+      "stars": 9,
+      "updated_at": "2026-10-06T06:15:46Z"
+    },
+    {
+      "id": "tetherto-qvac",
+      "title": "tetherto/qvac",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tetherto/qvac",
+      "description": "Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS, Windows, Android, iOS.",
+      "stars": 669,
+      "updated_at": "2026-10-06T06:14:45Z"
+    },
+    {
+      "id": "iyulab-lm-supply",
+      "title": "iyulab/lm-supply",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iyulab/lm-supply",
+      "description": ".NET library for on-demand local AI model inference \u2014 zero bundled models, lazy loading, hardware-aware GPU/CPU selection, 10 task types including embeddings, generation, vision, and audio.",
+      "stars": 12,
+      "updated_at": "2026-10-06T06:14:13Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 136240,
+      "updated_at": "2026-10-06T06:14:37Z"
+    },
+    {
+      "id": "desmondgregarious958-quantumleap---llama.cpp-turboquant",
+      "title": "desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/desmondgregarious958/QuantumLeap---Llama.cpp-TurboQuant",
+      "description": "Run LLMs on any hardware with llama.cpp, TurboQuant KV compression, and ExpertFlow MoE tuning for faster local inference",
+      "stars": 2,
+      "updated_at": "2026-10-06T06:11:36Z"
+    }
+  ]
+}
