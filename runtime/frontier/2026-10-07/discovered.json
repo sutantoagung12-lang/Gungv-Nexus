@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-07",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "getaero-io-gtm-eng-skills",
+      "title": "getaero-io/gtm-eng-skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/getaero-io/gtm-eng-skills",
+      "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.",
+      "stars": 64,
+      "updated_at": "2026-10-07T05:56:28Z"
+    },
+    {
+      "id": "preetiyadav25july-ai-agent-workflow-automation",
+      "title": "preetiyadav25july/ai-agent-workflow-automation",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/preetiyadav25july/ai-agent-workflow-automation",
+      "description": "",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:56:10Z"
+    },
+    {
+      "id": "activepieces-activepieces",
+      "title": "activepieces/activepieces",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+      "stars": 24926,
+      "updated_at": "2026-10-07T05:56:02Z"
+    },
+    {
+      "id": "faris1702-ai_agent_network_automation",
+      "title": "faris1702/AI_Agent_Network_Automation",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/faris1702/AI_Agent_Network_Automation",
+      "description": "This project uses an AI agent to automate configuration of network devices",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:55:55Z"
+    },
+    {
+      "id": "codextde-godmode-bot",
+      "title": "codextde/godmode-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codextde/godmode-bot",
+      "description": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "stars": 3,
+      "updated_at": "2026-10-07T05:55:04Z"
+    },
+    {
+      "id": "quonaro-dsh-plugin-opencode",
+      "title": "quonaro/dsh-plugin-opencode",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/quonaro/dsh-plugin-opencode",
+      "description": "OpenCode CLI inside DeepSeek Harness: delegation tool, /opencode command, and opencode-agent LLM provider route over the ctx.subprocess seam",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:56:46Z"
+    },
+    {
+      "id": "toleflaco-erp-purchasing-agent",
+      "title": "Toleflaco/erp-purchasing-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Toleflaco/erp-purchasing-agent",
+      "description": "ReAct agent consuming erp-mcp-server tools via MCP client. Spring Boot 4.1 + Spring AI 2.0.0.",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:55:33Z"
+    },
+    {
+      "id": "shikhak28-nse-trading-analytics-ai",
+      "title": "shikhak28/nse-trading-analytics-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shikhak28/nse-trading-analytics-ai",
+      "description": "NSE stock market data pipeline (3-year historical backfill, live ticks, order-book depth) + a tool-calling AI trading agent running on local Ollama \u2014 no cloud LLM cost.",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:54:33Z"
+    },
+    {
+      "id": "prime-radiant-inc-evener",
+      "title": "prime-radiant-inc/evener",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 170,
+      "updated_at": "2026-10-07T05:54:27Z"
+    },
+    {
+      "id": "jdeun-schemarouter",
+      "title": "JDeun/SchemaRouter",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JDeun/SchemaRouter",
+      "description": "Typed capability routing and governed execution for AI agents across APIs, tools, and data systems.",
+      "stars": 2,
+      "updated_at": "2026-10-07T05:54:22Z"
+    },
+    {
+      "id": "iamaanahmad-agentforge",
+      "title": "iamaanahmad/agentforge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iamaanahmad/agentforge",
+      "description": "A self-hosted AI operator platform featuring multi-specialist workers, durable task execution, sandboxed code/browser tools, and strict human approval controls.",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:55:01Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 36045,
+      "updated_at": "2026-10-07T05:53:12Z"
+    },
+    {
+      "id": "parksben-opensider",
+      "title": "parksben/opensider",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/parksben/opensider",
+      "description": "A browser extension that drives local Agent CLIs that speak ACP from within your browser for web information gathering, web automation, and more. \u4e00\u4e2a\u6d4f\u89c8\u5668\u6269\u5c55\u7a0b\u5e8f\uff0c\u652f\u6301\u5728\u6d4f\u89c8\u5668\u4e2d\u9a71\u52a8\u672c\u5730 AI Agent \u8fdb\u884c\u7f51\u9875\u4fe1\u606f\u91c7\u96c6\u3001\u7f51\u9875\u81ea\u52a8\u5316\u64cd\u4f5c\u7b49\u5de5\u4f5c\u3002",
+      "stars": 15,
+      "updated_at": "2026-10-07T05:44:22Z"
+    },
+    {
+      "id": "leeguooooo-iphone-use",
+      "title": "leeguooooo/iphone-use",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "description": "Open-source real iPhone control for AI agents: screen text, tap/type/swipe, custom XCTest runner, CLI + HTTP API + MCP, browser takeover and replayable flows. Rust, self-hosted on macOS.",
+      "stars": 83,
+      "updated_at": "2026-10-07T05:43:51Z"
+    },
+    {
+      "id": "alvarolizama-dran",
+      "title": "alvarolizama/dran",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/alvarolizama/dran",
+      "description": "Dran \u2014 shared memory & knowledge base for AI agent swarms. One typed knowledge graph plus trust-scored atomic facts, read and written over MCP/REST, browsed as a Phoenix LiveView wiki. What one agent learns, none forget.",
+      "stars": 3,
+      "updated_at": "2026-10-07T05:52:47Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-10-07T05:51:04Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 92,
+      "updated_at": "2026-10-07T05:48:09Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-07T05:39:59Z"
+    },
+    {
+      "id": "lleontor705-cortex",
+      "title": "lleontor705/cortex",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lleontor705/cortex",
+      "description": "Persistent memory for AI coding agents \u2014 knowledge graph, importance scoring, vector search",
+      "stars": 2,
+      "updated_at": "2026-10-07T05:28:46Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:53:58Z"
+    },
+    {
+      "id": "abhinivesh2729-thinai",
+      "title": "Abhinivesh2729/Thinai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Abhinivesh2729/Thinai",
+      "description": "Thinai is a privacy-focused Android app that runs small language models locally on your device, with a local API for integrating and accessing on-device AI inference.",
+      "stars": 15,
+      "updated_at": "2026-10-07T05:50:37Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 136363,
+      "updated_at": "2026-10-07T05:49:41Z"
+    },
+    {
+      "id": "nvidia-local-ai-inference-recipes",
+      "title": "NVIDIA/local-ai-inference-recipes",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NVIDIA/local-ai-inference-recipes",
+      "description": "NVIDIA\u2019s latest recommended recipes for running models on NVIDIA local hardware",
+      "stars": 4,
+      "updated_at": "2026-10-07T05:27:11Z"
+    },
+    {
+      "id": "dorisaallergenic291-ash4d-local-ai-agent-hub",
+      "title": "dorisaallergenic291/ash4d-local-ai-agent-hub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dorisaallergenic291/ash4d-local-ai-agent-hub",
+      "description": "Self-host your private AI platform on k3s Kubernetes, orchestrating Qwen3 inference, RAG pipelines, and image generation.",
+      "stars": 0,
+      "updated_at": "2026-10-07T05:13:52Z"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-07",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-getaero-io-gtm-eng-skills",
+      "name": "Explore getaero-io/gtm-eng-skills",
+      "source": "https://github.com/getaero-io/gtm-eng-skills",
+      "problem": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-preetiyadav25july-ai-agent-workflow-automation",
+      "name": "Explore preetiyadav25july/ai-agent-workflow-automation",
+      "source": "https://github.com/preetiyadav25july/ai-agent-workflow-automation",
+      "problem": "",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-activepieces-activepieces",
+      "name": "Explore activepieces/activepieces",
+      "source": "https://github.com/activepieces/activepieces",
+      "problem": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-faris1702-ai_agent_network_automation",
+      "name": "Explore faris1702/AI_Agent_Network_Automation",
+      "source": "https://github.com/faris1702/AI_Agent_Network_Automation",
+      "problem": "This project uses an AI agent to automate configuration of network devices",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codextde-godmode-bot",
+      "name": "Explore codextde/godmode-bot",
+      "source": "https://github.com/codextde/godmode-bot",
+      "problem": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-quonaro-dsh-plugin-opencode",
+      "name": "Explore quonaro/dsh-plugin-opencode",
+      "source": "https://github.com/quonaro/dsh-plugin-opencode",
+      "problem": "OpenCode CLI inside DeepSeek Harness: delegation tool, /opencode command, and opencode-agent LLM provider route over the ctx.subprocess seam",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-toleflaco-erp-purchasing-agent",
+      "name": "Explore Toleflaco/erp-purchasing-agent",
+      "source": "https://github.com/Toleflaco/erp-purchasing-agent",
+      "problem": "ReAct agent consuming erp-mcp-server tools via MCP client. Spring Boot 4.1 + Spring AI 2.0.0.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-shikhak28-nse-trading-analytics-ai",
+      "name": "Explore shikhak28/nse-trading-analytics-ai",
+      "source": "https://github.com/shikhak28/nse-trading-analytics-ai",
+      "problem": "NSE stock market data pipeline (3-year historical backfill, live ticks, order-book depth) + a tool-calling AI trading agent running on local Ollama \u2014 no cloud LLM cost.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jdeun-schemarouter",
+      "name": "Explore JDeun/SchemaRouter",
+      "source": "https://github.com/JDeun/SchemaRouter",
+      "problem": "Typed capability routing and governed execution for AI agents across APIs, tools, and data systems.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iamaanahmad-agentforge",
+      "name": "Explore iamaanahmad/agentforge",
+      "source": "https://github.com/iamaanahmad/agentforge",
+      "problem": "A self-hosted AI operator platform featuring multi-specialist workers, durable task execution, sandboxed code/browser tools, and strict human approval controls.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-parksben-opensider",
+      "name": "Explore parksben/opensider",
+      "source": "https://github.com/parksben/opensider",
+      "problem": "A browser extension that drives local Agent CLIs that speak ACP from within your browser for web information gathering, web automation, and more. \u4e00\u4e2a\u6d4f\u89c8\u5668\u6269\u5c55\u7a0b\u5e8f\uff0c\u652f\u6301\u5728\u6d4f\u89c8\u5668\u4e2d\u9a71\u52a8\u672c\u5730 AI Agent \u8fdb\u884c\u7f51\u9875\u4fe1\u606f\u91c7\u96c6\u3001\u7f51\u9875\u81ea\u52a8\u5316\u64cd\u4f5c\u7b49\u5de5\u4f5c\u3002",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leeguooooo-iphone-use",
+      "name": "Explore leeguooooo/iphone-use",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "problem": "Open-source real iPhone control for AI agents: screen text, tap/type/swipe, custom XCTest runner, CLI + HTTP API + MCP, browser takeover and replayable flows. Rust, self-hosted on macOS.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-alvarolizama-dran",
+      "name": "Explore alvarolizama/dran",
+      "source": "https://github.com/alvarolizama/dran",
+      "problem": "Dran \u2014 shared memory & knowledge base for AI agent swarms. One typed knowledge graph plus trust-scored atomic facts, read and written over MCP/REST, browsed as a Phoenix LiveView wiki. What one agent learns, none forget.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lleontor705-cortex",
+      "name": "Explore lleontor705/cortex",
+      "source": "https://github.com/lleontor705/cortex",
+      "problem": "Persistent memory for AI coding agents \u2014 knowledge graph, importance scoring, vector search",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-abhinivesh2729-thinai",
+      "name": "Explore Abhinivesh2729/Thinai",
+      "source": "https://github.com/Abhinivesh2729/Thinai",
+      "problem": "Thinai is a privacy-focused Android app that runs small language models locally on your device, with a local API for integrating and accessing on-device AI inference.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nvidia-local-ai-inference-recipes",
+      "name": "Explore NVIDIA/local-ai-inference-recipes",
+      "source": "https://github.com/NVIDIA/local-ai-inference-recipes",
+      "problem": "NVIDIA\u2019s latest recommended recipes for running models on NVIDIA local hardware",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dorisaallergenic291-ash4d-local-ai-agent-hub",
+      "name": "Explore dorisaallergenic291/ash4d-local-ai-agent-hub",
+      "source": "https://github.com/dorisaallergenic291/ash4d-local-ai-agent-hub",
+      "problem": "Self-host your private AI platform on k3s Kubernetes, orchestrating Qwen3 inference, RAG pipelines, and image generation.",
+      "created_on": "2026-10-07",
+      "policy": "review-before-activation"
+    }
+  ]
+}
