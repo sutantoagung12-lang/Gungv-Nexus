@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-08",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-quantskills-quantskills",
+      "name": "Explore quantskills/quantskills",
+      "source": "https://github.com/quantskills/quantskills",
+      "problem": "QuantSkills\u7ec4\u7ec7\u7684\u5168\u666f\u5bfc\u822a \uff1a\u9762\u5411 AI Agent \u7684\u5f00\u6e90\u91cf\u5316 Skill & Agent \u751f\u6001\uff0c\u4ece\u6570\u636e\u3001\u56e0\u5b50\u7814\u7a76\u3001\u56de\u6d4b\u9a8c\u8bc1\u5230\u98ce\u9669\u76d1\u63a7\u4e0e\u4ea4\u6613\u81ea\u52a8\u5316\u3002\uff5cOpen-source Quant Skills & Agents for AI-driven research, backtesting, risk and trading automation.\u2014\u2014Panoramic navigator for the QuantSkills organization",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chrispeer69-us-tow-ai-connect",
+      "name": "Explore chrispeer69/us-tow-ai-connect",
+      "source": "https://github.com/chrispeer69/us-tow-ai-connect",
+      "problem": "US Tow AI-Connect: Middleware connector bridging Thinkrr.ai voice agents with towing management software (Towbook, TowLogs, Omadi) via headless browser automation. A Blue Collar AI product.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manishiitg-agentworks",
+      "name": "Explore manishiitg/agentworks",
+      "source": "https://github.com/manishiitg/agentworks",
+      "problem": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kingkddew-claude-code-engineering-orchestrator",
+      "name": "Explore kingkddew/claude-code-engineering-orchestrator",
+      "source": "https://github.com/kingkddew/claude-code-engineering-orchestrator",
+      "problem": "Deploy a Full AI Engineering Team 2026 - Claude 12-Agent System with Automated Quality Hooks",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-shuklao-call-with-ai-agent",
+      "name": "Explore SHUKLAO/call-with-ai-agent",
+      "source": "https://github.com/SHUKLAO/call-with-ai-agent",
+      "problem": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsive user experience.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-autumn-foundation-autumn-plugin-agent",
+      "name": "Explore autumn-foundation/autumn-plugin-agent",
+      "source": "https://github.com/autumn-foundation/autumn-plugin-agent",
+      "problem": "Provider-agnostic LLM agent harness with tool calling for Autumn",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sudhakaran-srinivasan-multi-agent-financial-analyst",
+      "name": "Explore sudhakaran-srinivasan/multi-agent-financial-analyst",
+      "source": "https://github.com/sudhakaran-srinivasan/multi-agent-financial-analyst",
+      "problem": "Autonomous multi-agent investment research system built with LLM agents: planning, tool use, self-reflection, and iterative learning via prompt chaining, routing, and evaluator-optimizer patterns",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codeworksh-codework",
+      "name": "Explore codeworksh/codework",
+      "source": "https://github.com/codeworksh/codework",
+      "problem": "AI agent toolkit for coding agents, unified LLM APIs, agentic workflows, tool harness and more.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-linuxdevil-agent-sdk",
+      "name": "Explore LinuxDevil/agent-sdk",
+      "source": "https://github.com/LinuxDevil/agent-sdk",
+      "problem": "TypeScript SDK for durable AI agents: tool calling, approvals, sessions, MCP, and a CLI. Runs in your own Node process.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-anonymoushackdwrks-local-llm-vscode",
+      "name": "Explore AnonymoushackDwrks/local-llm-vscode",
+      "source": "https://github.com/AnonymoushackDwrks/local-llm-vscode",
+      "problem": "Achieving local \"vibe coding\" is entirely possible if you stop treating local LLMs like drop-in replacements for cloud endpoints and instead build an environment optimized for their strengths. While raw open-weight models lack proprietary multi-agent fine-tuning, you can bridge the gap on your own hardware using a tailored tool ecosystem",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-scszcoder-ecan.ai",
+      "name": "Explore scszcoder/eCan.ai",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "problem": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codextde-godmode-bot",
+      "name": "Explore codextde/godmode-bot",
+      "source": "https://github.com/codextde/godmode-bot",
+      "problem": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-parksben-opensider",
+      "name": "Explore parksben/opensider",
+      "source": "https://github.com/parksben/opensider",
+      "problem": "A browser extension that drives local Agent CLIs that speak ACP from within your browser for web information gathering, web automation, and more. \u4e00\u4e2a\u6d4f\u89c8\u5668\u6269\u5c55\u7a0b\u5e8f\uff0c\u652f\u6301\u5728\u6d4f\u89c8\u5668\u4e2d\u9a71\u52a8\u672c\u5730 AI Agent \u8fdb\u884c\u7f51\u9875\u4fe1\u606f\u91c7\u96c6\u3001\u7f51\u9875\u81ea\u52a8\u5316\u64cd\u4f5c\u7b49\u5de5\u4f5c\u3002",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leeguooooo-iphone-use",
+      "name": "Explore leeguooooo/iphone-use",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "problem": "Open-source real iPhone control for AI agents: screen text, tap/type/swipe, custom XCTest runner, CLI + HTTP API + MCP, browser takeover and replayable flows. Rust, self-hosted on macOS.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bilal0399-learn-agentic-ai",
+      "name": "Explore bilal0399/learn-agentic-ai",
+      "source": "https://github.com/bilal0399/learn-agentic-ai",
+      "problem": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nambok-mentedb",
+      "name": "Explore nambok/mentedb",
+      "source": "https://github.com/nambok/mentedb",
+      "problem": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-joey-1123-memoratum",
+      "name": "Explore Joey-1123/memoratum",
+      "source": "https://github.com/Joey-1123/memoratum",
+      "problem": "Self-hosted context infrastructure for AI agents \u2014 temporal knowledge graphs, hybrid retrieval, and a Supermemory-compatible API in a single SQLite file.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aitherium-awdk",
+      "name": "Explore Aitherium/awdk",
+      "source": "https://github.com/Aitherium/awdk",
+      "problem": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "1bit engine: local LLM inference for AMD Ryzen AI (Strix Halo) inside Lemonade. HRX with our Loom kernels on the Radeon iGPU, plus the XDNA 2 NPU; OpenAI-compatible API. Runs Qwen3.8, Zyphra ZAYA1, ternary Bonsai.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cortexkit-synapse",
+      "name": "Explore cortexkit/synapse",
+      "source": "https://github.com/cortexkit/synapse",
+      "problem": "Local AI inference for CortexKit: embeddings, rerank, micro-LLM one-shots across CUDA/Metal/ANE/Vulkan/CPU \u2014 certification-gated engines behind one subc surface.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bisand-kvad",
+      "name": "Explore bisand/kvad",
+      "source": "https://github.com/bisand/kvad",
+      "problem": "Local AI for Apple silicon, written from the arithmetic up: an LLM, image and video inference engine in Rust with Metal kernels for the M5, a web UI, a terminal app and an OpenAI-compatible API.",
+      "created_on": "2026-10-08",
+      "policy": "review-before-activation"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-08",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "quantskills-quantskills",
+      "title": "quantskills/quantskills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/quantskills/quantskills",
+      "description": "QuantSkills\u7ec4\u7ec7\u7684\u5168\u666f\u5bfc\u822a \uff1a\u9762\u5411 AI Agent \u7684\u5f00\u6e90\u91cf\u5316 Skill & Agent \u751f\u6001\uff0c\u4ece\u6570\u636e\u3001\u56e0\u5b50\u7814\u7a76\u3001\u56de\u6d4b\u9a8c\u8bc1\u5230\u98ce\u9669\u76d1\u63a7\u4e0e\u4ea4\u6613\u81ea\u52a8\u5316\u3002\uff5cOpen-source Quant Skills & Agents for AI-driven research, backtesting, risk and trading automation.\u2014\u2014Panoramic navigator for the QuantSkills organization",
+      "stars": 2441,
+      "updated_at": "2026-10-08T05:17:28Z"
+    },
+    {
+      "id": "chrispeer69-us-tow-ai-connect",
+      "title": "chrispeer69/us-tow-ai-connect",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/chrispeer69/us-tow-ai-connect",
+      "description": "US Tow AI-Connect: Middleware connector bridging Thinkrr.ai voice agents with towing management software (Towbook, TowLogs, Omadi) via headless browser automation. A Blue Collar AI product.",
+      "stars": 0,
+      "updated_at": "2026-10-08T06:00:18Z"
+    },
+    {
+      "id": "manishiitg-agentworks",
+      "title": "manishiitg/agentworks",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/manishiitg/agentworks",
+      "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "stars": 14,
+      "updated_at": "2026-10-08T05:59:54Z"
+    },
+    {
+      "id": "kingkddew-claude-code-engineering-orchestrator",
+      "title": "kingkddew/claude-code-engineering-orchestrator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kingkddew/claude-code-engineering-orchestrator",
+      "description": "Deploy a Full AI Engineering Team 2026 - Claude 12-Agent System with Automated Quality Hooks",
+      "stars": 0,
+      "updated_at": "2026-10-08T05:59:52Z"
+    },
+    {
+      "id": "shuklao-call-with-ai-agent",
+      "title": "SHUKLAO/call-with-ai-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SHUKLAO/call-with-ai-agent",
+      "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsive user experience.",
+      "stars": 3,
+      "updated_at": "2026-10-08T05:57:31Z"
+    },
+    {
+      "id": "autumn-foundation-autumn-plugin-agent",
+      "title": "autumn-foundation/autumn-plugin-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/autumn-foundation/autumn-plugin-agent",
+      "description": "Provider-agnostic LLM agent harness with tool calling for Autumn",
+      "stars": 0,
+      "updated_at": "2026-10-08T06:01:03Z"
+    },
+    {
+      "id": "sudhakaran-srinivasan-multi-agent-financial-analyst",
+      "title": "sudhakaran-srinivasan/multi-agent-financial-analyst",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sudhakaran-srinivasan/multi-agent-financial-analyst",
+      "description": "Autonomous multi-agent investment research system built with LLM agents: planning, tool use, self-reflection, and iterative learning via prompt chaining, routing, and evaluator-optimizer patterns",
+      "stars": 0,
+      "updated_at": "2026-10-08T06:00:45Z"
+    },
+    {
+      "id": "codeworksh-codework",
+      "title": "codeworksh/codework",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codeworksh/codework",
+      "description": "AI agent toolkit for coding agents, unified LLM APIs, agentic workflows, tool harness and more.",
+      "stars": 23,
+      "updated_at": "2026-10-08T06:00:32Z"
+    },
+    {
+      "id": "linuxdevil-agent-sdk",
+      "title": "LinuxDevil/agent-sdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LinuxDevil/agent-sdk",
+      "description": "TypeScript SDK for durable AI agents: tool calling, approvals, sessions, MCP, and a CLI. Runs in your own Node process.",
+      "stars": 7,
+      "updated_at": "2026-10-08T06:00:05Z"
+    },
+    {
+      "id": "anonymoushackdwrks-local-llm-vscode",
+      "title": "AnonymoushackDwrks/local-llm-vscode",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AnonymoushackDwrks/local-llm-vscode",
+      "description": "Achieving local \"vibe coding\" is entirely possible if you stop treating local LLMs like drop-in replacements for cloud endpoints and instead build an environment optimized for their strengths. While raw open-weight models lack proprietary multi-agent fine-tuning, you can bridge the gap on your own hardware using a tailored tool ecosystem",
+      "stars": 0,
+      "updated_at": "2026-10-08T05:59:18Z"
+    },
+    {
+      "id": "scszcoder-ecan.ai",
+      "title": "scszcoder/eCan.ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "stars": 21,
+      "updated_at": "2026-10-08T05:53:08Z"
+    },
+    {
+      "id": "codextde-godmode-bot",
+      "title": "codextde/godmode-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codextde/godmode-bot",
+      "description": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "stars": 3,
+      "updated_at": "2026-10-08T05:44:57Z"
+    },
+    {
+      "id": "parksben-opensider",
+      "title": "parksben/opensider",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/parksben/opensider",
+      "description": "A browser extension that drives local Agent CLIs that speak ACP from within your browser for web information gathering, web automation, and more. \u4e00\u4e2a\u6d4f\u89c8\u5668\u6269\u5c55\u7a0b\u5e8f\uff0c\u652f\u6301\u5728\u6d4f\u89c8\u5668\u4e2d\u9a71\u52a8\u672c\u5730 AI Agent \u8fdb\u884c\u7f51\u9875\u4fe1\u606f\u91c7\u96c6\u3001\u7f51\u9875\u81ea\u52a8\u5316\u64cd\u4f5c\u7b49\u5de5\u4f5c\u3002",
+      "stars": 15,
+      "updated_at": "2026-10-08T05:36:32Z"
+    },
+    {
+      "id": "leeguooooo-iphone-use",
+      "title": "leeguooooo/iphone-use",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "description": "Open-source real iPhone control for AI agents: screen text, tap/type/swipe, custom XCTest runner, CLI + HTTP API + MCP, browser takeover and replayable flows. Rust, self-hosted on macOS.",
+      "stars": 104,
+      "updated_at": "2026-10-08T05:35:35Z"
+    },
+    {
+      "id": "bilal0399-learn-agentic-ai",
+      "title": "bilal0399/learn-agentic-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bilal0399/learn-agentic-ai",
+      "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "stars": 8,
+      "updated_at": "2026-10-08T05:54:14Z"
+    },
+    {
+      "id": "nambok-mentedb",
+      "title": "nambok/mentedb",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nambok/mentedb",
+      "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
+      "stars": 118,
+      "updated_at": "2026-10-08T05:50:57Z"
+    },
+    {
+      "id": "joey-1123-memoratum",
+      "title": "Joey-1123/memoratum",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Joey-1123/memoratum",
+      "description": "Self-hosted context infrastructure for AI agents \u2014 temporal knowledge graphs, hybrid retrieval, and a Supermemory-compatible API in a single SQLite file.",
+      "stars": 0,
+      "updated_at": "2026-10-08T05:40:52Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-08T05:40:16Z"
+    },
+    {
+      "id": "aitherium-awdk",
+      "title": "Aitherium/awdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Aitherium/awdk",
+      "description": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "stars": 11,
+      "updated_at": "2026-10-08T05:36:12Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 136537,
+      "updated_at": "2026-10-08T05:59:51Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-08T05:48:37Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "1bit engine: local LLM inference for AMD Ryzen AI (Strix Halo) inside Lemonade. HRX with our Loom kernels on the Radeon iGPU, plus the XDNA 2 NPU; OpenAI-compatible API. Runs Qwen3.8, Zyphra ZAYA1, ternary Bonsai.",
+      "stars": 4,
+      "updated_at": "2026-10-08T05:46:11Z"
+    },
+    {
+      "id": "cortexkit-synapse",
+      "title": "cortexkit/synapse",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cortexkit/synapse",
+      "description": "Local AI inference for CortexKit: embeddings, rerank, micro-LLM one-shots across CUDA/Metal/ANE/Vulkan/CPU \u2014 certification-gated engines behind one subc surface.",
+      "stars": 0,
+      "updated_at": "2026-10-08T05:46:08Z"
+    },
+    {
+      "id": "bisand-kvad",
+      "title": "bisand/kvad",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bisand/kvad",
+      "description": "Local AI for Apple silicon, written from the arithmetic up: an LLM, image and video inference engine in Rust with Metal kernels for the M5, a web UI, a terminal app and an OpenAI-compatible API.",
+      "stars": 0,
+      "updated_at": "2026-10-08T05:44:15Z"
+    }
+  ]
+}
