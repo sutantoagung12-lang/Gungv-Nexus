@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-09",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "langgenius-dify",
+      "title": "langgenius/dify",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 157959,
+      "updated_at": "2026-10-09T06:05:54Z"
+    },
+    {
+      "id": "getaero-io-gtm-eng-skills",
+      "title": "getaero-io/gtm-eng-skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/getaero-io/gtm-eng-skills",
+      "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.",
+      "stars": 65,
+      "updated_at": "2026-10-09T06:05:52Z"
+    },
+    {
+      "id": "tale-project-tale",
+      "title": "tale-project/tale",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tale-project/tale",
+      "description": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud.",
+      "stars": 32,
+      "updated_at": "2026-10-09T06:05:40Z"
+    },
+    {
+      "id": "mahmoudmohamedxx1-hue-storypilot",
+      "title": "mahmoudmohamedxx1-hue/storypilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mahmoudmohamedxx1-hue/storypilot",
+      "description": "Hourly AI storytelling pipeline: Google Sheet stories -> cinematic vertical MP4s (keyless: GLM Flash + Edge-TTS + Pollinations + MoviePy) -> YouTube/TikTok/Instagram. Includes the Kimi-style agent web app.",
+      "stars": 0,
+      "updated_at": "2026-10-09T06:05:24Z"
+    },
+    {
+      "id": "tballochi-daily-briefing",
+      "title": "tballochi/daily-briefing",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tballochi/daily-briefing",
+      "description": "AI agent that emails you a personalised news briefing every morning \u2014 researched from live web search, written from real articles. Runs free on GitHub Actions (Groq + Tavily), no server.",
+      "stars": 7,
+      "updated_at": "2026-10-09T06:04:21Z"
+    },
+    {
+      "id": "adargit008-mcgyvr",
+      "title": "AdarGit008/mcgyvr",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AdarGit008/mcgyvr",
+      "description": "Offload scoped coding work from your agent to a configurable worker ladder \u2014 deterministic tools, local models, API models. A skill for TUI/CLI agent harnesses.",
+      "stars": 2,
+      "updated_at": "2026-10-09T06:05:22Z"
+    },
+    {
+      "id": "mjasnikovs-pi-task",
+      "title": "mjasnikovs/pi-task",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mjasnikovs/pi-task",
+      "description": "Deterministic spec-orchestration for local LLMs in the pi coding agent \u2014 drives prompts through refine\u2192research\u2192grill\u2192compose\u2192critique, with bundled web/docs/fetch worker tools.",
+      "stars": 142,
+      "updated_at": "2026-10-09T06:04:33Z"
+    },
+    {
+      "id": "caismis-rustx",
+      "title": "Caismis/rustX",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Caismis/rustX",
+      "description": "A standalone Rust execution runtime for durable, tool-using LLM agents.",
+      "stars": 3,
+      "updated_at": "2026-10-09T06:04:34Z"
+    },
+    {
+      "id": "lowpower-pigo",
+      "title": "Lowpower/pigo",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Lowpower/pigo",
+      "description": "CLI/TUI coding agent in Go \u2014 streaming LLM, tools, sessions, extensions",
+      "stars": 1,
+      "updated_at": "2026-10-09T06:04:06Z"
+    },
+    {
+      "id": "codextde-godmode-bot",
+      "title": "codextde/godmode-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codextde/godmode-bot",
+      "description": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "stars": 3,
+      "updated_at": "2026-10-09T06:03:36Z"
+    },
+    {
+      "id": "leeguooooo-iphone-use",
+      "title": "leeguooooo/iphone-use",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "description": "Open-source real iPhone control for AI agents: screen text, tap/type/swipe, custom XCTest runner, CLI + HTTP API + MCP, browser takeover and replayable flows. Rust, self-hosted on macOS.",
+      "stars": 118,
+      "updated_at": "2026-10-09T05:57:59Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2019,
+      "updated_at": "2026-10-09T05:57:12Z"
+    },
+    {
+      "id": "tunsuy-agtpilot",
+      "title": "tunsuy/agtpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "description": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "stars": 0,
+      "updated_at": "2026-10-09T05:56:08Z"
+    },
+    {
+      "id": "zennolab-zennoposter-mcp",
+      "title": "ZennoLab/zennoposter-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ZennoLab/zennoposter-mcp",
+      "description": "MCP servers for ZennoPoster and ZennoDroid: let AI agents edit automation projects, run tasks, drive browser instances and Android devices from Claude, Cursor, VS Code and other MCP clients",
+      "stars": 6,
+      "updated_at": "2026-10-09T05:50:21Z"
+    },
+    {
+      "id": "amajorai-layer0",
+      "title": "amajorai/layer0",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/amajorai/layer0",
+      "description": "Self-hosted AI memory and RAG layer with local LLM support. Full Rust implementation with vector embeddings, knowledge graph, FTS5, hybrid search, and OpenAI-compatible API.",
+      "stars": 3,
+      "updated_at": "2026-10-09T06:04:43Z"
+    },
+    {
+      "id": "lleontor705-cortex",
+      "title": "lleontor705/cortex",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lleontor705/cortex",
+      "description": "Persistent memory for AI coding agents \u2014 knowledge graph, importance scoring, vector search",
+      "stars": 2,
+      "updated_at": "2026-10-09T06:03:50Z"
+    },
+    {
+      "id": "makhnogk-cerebrium",
+      "title": "MakhnoGK/cerebrium",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MakhnoGK/cerebrium",
+      "description": "Persistent, cross-session memory for AI agents - one SQLite file (FTS5 full-text + sqlite-vec vector search + a typed knowledge graph) behind a single stdio MCP server.",
+      "stars": 0,
+      "updated_at": "2026-10-09T06:01:51Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2004,
+      "updated_at": "2026-10-09T05:53:59Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-09T05:41:19Z"
+    },
+    {
+      "id": "hwdsl2-infercrate",
+      "title": "hwdsl2/infercrate",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hwdsl2/infercrate",
+      "description": "InferCrate: self-hosted local LLM server powered by Ollama. Secure by default with auto-generated Bearer token auth. Native Ollama API and an OpenAI-compatible /v1 API subset. First-start model pre-pull, NVIDIA GPU (CUDA) acceleration, and persistent model storage. Docker deployment on CPU (amd64/arm64) or CUDA (amd64).",
+      "stars": 10,
+      "updated_at": "2026-10-09T06:05:41Z"
+    },
+    {
+      "id": "tabhiabhishek-langgraph-agent",
+      "title": "tabhiabhishek/LangGraph-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tabhiabhishek/LangGraph-Agent",
+      "description": "Build intelligent AI agents with LangGraph. Features local LLM inference (Ollama), live DuckDuckGo search, and a real-time Streamlit UI.",
+      "stars": 0,
+      "updated_at": "2026-10-09T06:05:20Z"
+    },
+    {
+      "id": "jdorner-palim",
+      "title": "jdorner/palim",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jdorner/palim",
+      "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+      "stars": 0,
+      "updated_at": "2026-10-09T05:58:35Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-09T05:57:29Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 136518,
+      "updated_at": "2026-10-09T06:05:56Z"
+    }
+  ]
+}

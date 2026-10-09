@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-09",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-getaero-io-gtm-eng-skills",
+      "name": "Explore getaero-io/gtm-eng-skills",
+      "source": "https://github.com/getaero-io/gtm-eng-skills",
+      "problem": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, and outbound automation. Powered by Deepline CLI with 28+ GTM data providers.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tale-project-tale",
+      "name": "Explore tale-project/tale",
+      "source": "https://github.com/tale-project/tale",
+      "problem": "Open-source project workspace for teams and AI agents. Assign tasks, coordinate agents in persistent sandboxes, and review results together. Self-hosted or managed cloud.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mahmoudmohamedxx1-hue-storypilot",
+      "name": "Explore mahmoudmohamedxx1-hue/storypilot",
+      "source": "https://github.com/mahmoudmohamedxx1-hue/storypilot",
+      "problem": "Hourly AI storytelling pipeline: Google Sheet stories -> cinematic vertical MP4s (keyless: GLM Flash + Edge-TTS + Pollinations + MoviePy) -> YouTube/TikTok/Instagram. Includes the Kimi-style agent web app.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tballochi-daily-briefing",
+      "name": "Explore tballochi/daily-briefing",
+      "source": "https://github.com/tballochi/daily-briefing",
+      "problem": "AI agent that emails you a personalised news briefing every morning \u2014 researched from live web search, written from real articles. Runs free on GitHub Actions (Groq + Tavily), no server.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-adargit008-mcgyvr",
+      "name": "Explore AdarGit008/mcgyvr",
+      "source": "https://github.com/AdarGit008/mcgyvr",
+      "problem": "Offload scoped coding work from your agent to a configurable worker ladder \u2014 deterministic tools, local models, API models. A skill for TUI/CLI agent harnesses.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mjasnikovs-pi-task",
+      "name": "Explore mjasnikovs/pi-task",
+      "source": "https://github.com/mjasnikovs/pi-task",
+      "problem": "Deterministic spec-orchestration for local LLMs in the pi coding agent \u2014 drives prompts through refine\u2192research\u2192grill\u2192compose\u2192critique, with bundled web/docs/fetch worker tools.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-caismis-rustx",
+      "name": "Explore Caismis/rustX",
+      "source": "https://github.com/Caismis/rustX",
+      "problem": "A standalone Rust execution runtime for durable, tool-using LLM agents.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lowpower-pigo",
+      "name": "Explore Lowpower/pigo",
+      "source": "https://github.com/Lowpower/pigo",
+      "problem": "CLI/TUI coding agent in Go \u2014 streaming LLM, tools, sessions, extensions",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codextde-godmode-bot",
+      "name": "Explore codextde/godmode-bot",
+      "source": "https://github.com/codextde/godmode-bot",
+      "problem": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leeguooooo-iphone-use",
+      "name": "Explore leeguooooo/iphone-use",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "problem": "Open-source real iPhone control for AI agents: screen text, tap/type/swipe, custom XCTest runner, CLI + HTTP API + MCP, browser takeover and replayable flows. Rust, self-hosted on macOS.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tunsuy-agtpilot",
+      "name": "Explore tunsuy/agtpilot",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "problem": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zennolab-zennoposter-mcp",
+      "name": "Explore ZennoLab/zennoposter-mcp",
+      "source": "https://github.com/ZennoLab/zennoposter-mcp",
+      "problem": "MCP servers for ZennoPoster and ZennoDroid: let AI agents edit automation projects, run tasks, drive browser instances and Android devices from Claude, Cursor, VS Code and other MCP clients",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-amajorai-layer0",
+      "name": "Explore amajorai/layer0",
+      "source": "https://github.com/amajorai/layer0",
+      "problem": "Self-hosted AI memory and RAG layer with local LLM support. Full Rust implementation with vector embeddings, knowledge graph, FTS5, hybrid search, and OpenAI-compatible API.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lleontor705-cortex",
+      "name": "Explore lleontor705/cortex",
+      "source": "https://github.com/lleontor705/cortex",
+      "problem": "Persistent memory for AI coding agents \u2014 knowledge graph, importance scoring, vector search",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-makhnogk-cerebrium",
+      "name": "Explore MakhnoGK/cerebrium",
+      "source": "https://github.com/MakhnoGK/cerebrium",
+      "problem": "Persistent, cross-session memory for AI agents - one SQLite file (FTS5 full-text + sqlite-vec vector search + a typed knowledge graph) behind a single stdio MCP server.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hwdsl2-infercrate",
+      "name": "Explore hwdsl2/infercrate",
+      "source": "https://github.com/hwdsl2/infercrate",
+      "problem": "InferCrate: self-hosted local LLM server powered by Ollama. Secure by default with auto-generated Bearer token auth. Native Ollama API and an OpenAI-compatible /v1 API subset. First-start model pre-pull, NVIDIA GPU (CUDA) acceleration, and persistent model storage. Docker deployment on CPU (amd64/arm64) or CUDA (amd64).",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tabhiabhishek-langgraph-agent",
+      "name": "Explore tabhiabhishek/LangGraph-Agent",
+      "source": "https://github.com/tabhiabhishek/LangGraph-Agent",
+      "problem": "Build intelligent AI agents with LangGraph. Features local LLM inference (Ollama), live DuckDuckGo search, and a real-time Streamlit UI.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jdorner-palim",
+      "name": "Explore jdorner/palim",
+      "source": "https://github.com/jdorner/palim",
+      "problem": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-09",
+      "policy": "review-before-activation"
+    }
+  ]
+}
