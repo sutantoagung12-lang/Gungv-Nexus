@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-10",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-leeguooooo-iphone-use",
+      "name": "Explore leeguooooo/iphone-use",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "problem": "Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone \u00b7 \u8ba9 AI agent \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u8bfb\u5c4f\u3001\u70b9\u51fb\u3001\u8f93\u5165\u3001\u6ed1\u52a8\uff0cUSB \u6216 Wi-Fi\uff0c\u81ea\u6709 XCTest runner\uff0c\u53ef\u56de\u653e\u7684 App flow\u3002Open source, self-hosted on macOS.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jarradstree8577-skills",
+      "name": "Explore jarradstree8577/skills",
+      "source": "https://github.com/jarradstree8577/skills",
+      "problem": "Manage reversible themes for Chromium and Electron AI desktop apps using installable agent skills.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-phamtuan207-computer-use-wayland",
+      "name": "Explore phamTuan207/computer-use-wayland",
+      "source": "https://github.com/phamTuan207/computer-use-wayland",
+      "problem": "GUI automation CLI for AI agents on Wayland/Hyprland: virtual pointer, keyboard, screen capture, Chromium DOM and native accessibility. No daemon, no model calls.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-marksab001-agent2wp",
+      "name": "Explore Marksab001/Agent2Wp",
+      "source": "https://github.com/Marksab001/Agent2Wp",
+      "problem": "Connect AI agents to WordPress using the Model Context Protocol. Execute PHP, manage files, and control WP-CLI directly from your server without third-party proxies.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tunsuy-agtpilot",
+      "name": "Explore tunsuy/agtpilot",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "problem": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skeletonshorts029-png-open-code-review",
+      "name": "Explore skeletonshorts029-png/open-code-review",
+      "source": "https://github.com/skeletonshorts029-png/open-code-review",
+      "problem": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-florancelossless996-ai-assistant-platform",
+      "name": "Explore florancelossless996/ai-assistant-platform",
+      "source": "https://github.com/florancelossless996/ai-assistant-platform",
+      "problem": "Build and manage modular AI agents with multi-model support, document RAG, memory, and tool integration using FastAPI and SQLite.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-randomvariablewhitepelican129-open_deep_research",
+      "name": "Explore randomvariablewhitepelican129/open_deep_research",
+      "source": "https://github.com/randomvariablewhitepelican129/open_deep_research",
+      "problem": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kerachm-bossconsole",
+      "name": "Explore kerachm/BossConsole",
+      "source": "https://github.com/kerachm/BossConsole",
+      "problem": "Manage AI agents with a multi-platform operator console featuring live hot-reload, secure tool integration, and enterprise-grade scalability on the JVM.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rohit-1480-dotnet-genai-rag-agent",
+      "name": "Explore Rohit-1480/DotNet-GenAI-RAG-Agent",
+      "source": "https://github.com/Rohit-1480/DotNet-GenAI-RAG-Agent",
+      "problem": "Enterprise .NET GenAI project covering LLMs, Prompt Engineering, Embeddings, RAG, Tool Calling, AI Agents and Multi-Agent Systems.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pablo252-bim-ops-browser-studio",
+      "name": "Explore pablo252/bim-ops-browser-studio",
+      "source": "https://github.com/pablo252/bim-ops-browser-studio",
+      "problem": "Streamline BIM workflows with this browser-based toolkit featuring Revit utilities, automation scripts, and AI tools for AEC data management.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harshdeepk585-twitter-bridge-mcp",
+      "name": "Explore harshdeepk585/twitter-bridge-mcp",
+      "source": "https://github.com/harshdeepk585/twitter-bridge-mcp",
+      "problem": "Bridge Claude.ai to Twitter/X with MCP and browser automation, so you can post, reply, and manage actions without the official API",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ilhom1111-web2api",
+      "name": "Explore Ilhom1111/web2api",
+      "source": "https://github.com/Ilhom1111/web2api",
+      "problem": "Bridge web-based AI services into OpenAI and Anthropic compatible APIs for seamless SDK use without code changes or browser automation.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pkocto-pi-browser",
+      "name": "Explore PKOcto/pi-browser",
+      "source": "https://github.com/PKOcto/pi-browser",
+      "problem": "\ud83d\udd0d Control browsers using natural language commands with multi-AI model support for seamless automation and task management.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-slickpurse464-noshy",
+      "name": "Explore slickpurse464/Noshy",
+      "source": "https://github.com/slickpurse464/Noshy",
+      "problem": "Provide persistent knowledge storage for AI agents using ICM and MCP standards to manage facts and memory graphs across sessions.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-abhinav1234abhinav-neurostack",
+      "name": "Explore Abhinav1234abhinav/neurostack",
+      "source": "https://github.com/Abhinav1234abhinav/neurostack",
+      "problem": "Index and search Markdown vaults as knowledge graphs to provide AI agents with persistent, structured long-term memory across sessions.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-juliofernandes-neuroform",
+      "name": "Explore juliofernandes/NeuroForm",
+      "source": "https://github.com/juliofernandes/NeuroForm",
+      "problem": "Enable local LLMs to manage semantic memory graphs using a hybrid heuristic and LLM-driven Neo4j system for dynamic, autonomous knowledge control.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aitherium-awdk",
+      "name": "Explore Aitherium/awdk",
+      "source": "https://github.com/Aitherium/awdk",
+      "problem": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-alosaupending874-sage",
+      "name": "Explore alosaupending874/sage",
+      "source": "https://github.com/alosaupending874/sage",
+      "problem": "Run local AI models on your machine with a secure, Rust-based inference engine that keeps your data private and provides controlled system access.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-meteorologicalballoonfronttooth549-tsfm",
+      "name": "Explore meteorologicalballoonfronttooth549/tsfm",
+      "source": "https://github.com/meteorologicalballoonfronttooth549/tsfm",
+      "problem": "Provide on-device Apple Foundation Models inference in TypeScript with streaming, structured output, and chat-style APIs for secure, local AI processing.",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rferrari-boar-app",
+      "name": "Explore rferrari/boar-app",
+      "source": "https://github.com/rferrari/boar-app",
+      "problem": "BOAR - Adaptive Local Intelligence",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jdorner-palim",
+      "name": "Explore jdorner/palim",
+      "source": "https://github.com/jdorner/palim",
+      "problem": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+      "created_on": "2026-10-10",
+      "policy": "review-before-activation"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-10",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "leeguooooo-iphone-use",
+      "title": "leeguooooo/iphone-use",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/leeguooooo/iphone-use",
+      "description": "Let AI agents (Claude Code, Codex, any MCP client) drive a real iPhone \u00b7 \u8ba9 AI agent \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u8bfb\u5c4f\u3001\u70b9\u51fb\u3001\u8f93\u5165\u3001\u6ed1\u52a8\uff0cUSB \u6216 Wi-Fi\uff0c\u81ea\u6709 XCTest runner\uff0c\u53ef\u56de\u653e\u7684 App flow\u3002Open source, self-hosted on macOS.",
+      "stars": 134,
+      "updated_at": "2026-10-10T05:48:57Z"
+    },
+    {
+      "id": "jarradstree8577-skills",
+      "title": "jarradstree8577/skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jarradstree8577/skills",
+      "description": "Manage reversible themes for Chromium and Electron AI desktop apps using installable agent skills.",
+      "stars": 1,
+      "updated_at": "2026-10-10T05:48:50Z"
+    },
+    {
+      "id": "phamtuan207-computer-use-wayland",
+      "title": "phamTuan207/computer-use-wayland",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/phamTuan207/computer-use-wayland",
+      "description": "GUI automation CLI for AI agents on Wayland/Hyprland: virtual pointer, keyboard, screen capture, Chromium DOM and native accessibility. No daemon, no model calls.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:48:28Z"
+    },
+    {
+      "id": "marksab001-agent2wp",
+      "title": "Marksab001/Agent2Wp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Marksab001/Agent2Wp",
+      "description": "Connect AI agents to WordPress using the Model Context Protocol. Execute PHP, manage files, and control WP-CLI directly from your server without third-party proxies.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:46:38Z"
+    },
+    {
+      "id": "tunsuy-agtpilot",
+      "title": "tunsuy/agtpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "description": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:46:31Z"
+    },
+    {
+      "id": "skeletonshorts029-png-open-code-review",
+      "title": "skeletonshorts029-png/open-code-review",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/skeletonshorts029-png/open-code-review",
+      "description": "Automate code review processes with this open-source tool to improve software quality and team productivity.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:49:47Z"
+    },
+    {
+      "id": "florancelossless996-ai-assistant-platform",
+      "title": "florancelossless996/ai-assistant-platform",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/florancelossless996/ai-assistant-platform",
+      "description": "Build and manage modular AI agents with multi-model support, document RAG, memory, and tool integration using FastAPI and SQLite.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:49:45Z"
+    },
+    {
+      "id": "randomvariablewhitepelican129-open_deep_research",
+      "title": "randomvariablewhitepelican129/open_deep_research",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/randomvariablewhitepelican129/open_deep_research",
+      "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:49:28Z"
+    },
+    {
+      "id": "kerachm-bossconsole",
+      "title": "kerachm/BossConsole",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kerachm/BossConsole",
+      "description": "Manage AI agents with a multi-platform operator console featuring live hot-reload, secure tool integration, and enterprise-grade scalability on the JVM.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:49:27Z"
+    },
+    {
+      "id": "rohit-1480-dotnet-genai-rag-agent",
+      "title": "Rohit-1480/DotNet-GenAI-RAG-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Rohit-1480/DotNet-GenAI-RAG-Agent",
+      "description": "Enterprise .NET GenAI project covering LLMs, Prompt Engineering, Embeddings, RAG, Tool Calling, AI Agents and Multi-Agent Systems.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:48:58Z"
+    },
+    {
+      "id": "pablo252-bim-ops-browser-studio",
+      "title": "pablo252/bim-ops-browser-studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pablo252/bim-ops-browser-studio",
+      "description": "Streamline BIM workflows with this browser-based toolkit featuring Revit utilities, automation scripts, and AI tools for AEC data management.",
+      "stars": 2,
+      "updated_at": "2026-10-10T05:49:40Z"
+    },
+    {
+      "id": "harshdeepk585-twitter-bridge-mcp",
+      "title": "harshdeepk585/twitter-bridge-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/harshdeepk585/twitter-bridge-mcp",
+      "description": "Bridge Claude.ai to Twitter/X with MCP and browser automation, so you can post, reply, and manage actions without the official API",
+      "stars": 2,
+      "updated_at": "2026-10-10T05:40:39Z"
+    },
+    {
+      "id": "ilhom1111-web2api",
+      "title": "Ilhom1111/web2api",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ilhom1111/web2api",
+      "description": "Bridge web-based AI services into OpenAI and Anthropic compatible APIs for seamless SDK use without code changes or browser automation.",
+      "stars": 1,
+      "updated_at": "2026-10-10T05:35:23Z"
+    },
+    {
+      "id": "pkocto-pi-browser",
+      "title": "PKOcto/pi-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PKOcto/pi-browser",
+      "description": "\ud83d\udd0d Control browsers using natural language commands with multi-AI model support for seamless automation and task management.",
+      "stars": 3,
+      "updated_at": "2026-10-10T05:28:20Z"
+    },
+    {
+      "id": "slickpurse464-noshy",
+      "title": "slickpurse464/Noshy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/slickpurse464/Noshy",
+      "description": "Provide persistent knowledge storage for AI agents using ICM and MCP standards to manage facts and memory graphs across sessions.",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:46:20Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-10T05:39:31Z"
+    },
+    {
+      "id": "abhinav1234abhinav-neurostack",
+      "title": "Abhinav1234abhinav/neurostack",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Abhinav1234abhinav/neurostack",
+      "description": "Index and search Markdown vaults as knowledge graphs to provide AI agents with persistent, structured long-term memory across sessions.",
+      "stars": 2,
+      "updated_at": "2026-10-10T05:37:12Z"
+    },
+    {
+      "id": "juliofernandes-neuroform",
+      "title": "juliofernandes/NeuroForm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/juliofernandes/NeuroForm",
+      "description": "Enable local LLMs to manage semantic memory graphs using a hybrid heuristic and LLM-driven Neo4j system for dynamic, autonomous knowledge control.",
+      "stars": 2,
+      "updated_at": "2026-10-10T05:34:22Z"
+    },
+    {
+      "id": "aitherium-awdk",
+      "title": "Aitherium/awdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Aitherium/awdk",
+      "description": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "stars": 11,
+      "updated_at": "2026-10-10T05:17:55Z"
+    },
+    {
+      "id": "alosaupending874-sage",
+      "title": "alosaupending874/sage",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/alosaupending874/sage",
+      "description": "Run local AI models on your machine with a secure, Rust-based inference engine that keeps your data private and provides controlled system access.",
+      "stars": 1,
+      "updated_at": "2026-10-10T05:45:30Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:45:22Z"
+    },
+    {
+      "id": "meteorologicalballoonfronttooth549-tsfm",
+      "title": "meteorologicalballoonfronttooth549/tsfm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/meteorologicalballoonfronttooth549/tsfm",
+      "description": "Provide on-device Apple Foundation Models inference in TypeScript with streaming, structured output, and chat-style APIs for secure, local AI processing.",
+      "stars": 2,
+      "updated_at": "2026-10-10T05:36:01Z"
+    },
+    {
+      "id": "rferrari-boar-app",
+      "title": "rferrari/boar-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rferrari/boar-app",
+      "description": "BOAR - Adaptive Local Intelligence",
+      "stars": 28,
+      "updated_at": "2026-10-10T05:27:53Z"
+    },
+    {
+      "id": "jdorner-palim",
+      "title": "jdorner/palim",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jdorner/palim",
+      "description": "Self-hosted AI agent platform with extensions, workflows, and a web UI. Local LLM inference via llama.cpp (or any OpenAI-compatible endpoint).",
+      "stars": 0,
+      "updated_at": "2026-10-10T05:27:28Z"
+    }
+  ]
+}
