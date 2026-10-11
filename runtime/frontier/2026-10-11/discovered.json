@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-11",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "scszcoder-ecan.ai",
+      "title": "scszcoder/eCan.ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "stars": 21,
+      "updated_at": "2026-10-11T05:43:15Z"
+    },
+    {
+      "id": "beaked-festoon219-rilable",
+      "title": "Beaked-festoon219/rilable",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Beaked-festoon219/rilable",
+      "description": "Build iOS apps on your iPhone using AI agents that compile code in the cloud, manage sandboxes, and deploy directly to your device.",
+      "stars": 1,
+      "updated_at": "2026-10-11T05:42:32Z"
+    },
+    {
+      "id": "vanilla-celldeath789-mind-agency",
+      "title": "vanilla-celldeath789/mind-agency",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vanilla-celldeath789/mind-agency",
+      "description": "Coordinate multiple AI agents on your local machine to complete complex tasks.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:42:09Z"
+    },
+    {
+      "id": "ahmadrosid-nakama",
+      "title": "ahmadrosid/nakama",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ahmadrosid/nakama",
+      "description": "The AI workspace where teams share agents, skills and automations that the whole company builds on.",
+      "stars": 464,
+      "updated_at": "2026-10-11T05:42:03Z"
+    },
+    {
+      "id": "samrat2414-jervis-x",
+      "title": "Samrat2414/JERVIS-X",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Samrat2414/JERVIS-X",
+      "description": "Advanced Python AI Virtual Assistant with Voice, Automation, Memory, Vision and Multi-Agent Intelligence.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:42:00Z"
+    },
+    {
+      "id": "ultra-guru-android-guru-agent",
+      "title": "Ultra-Guru/Android-Guru-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ultra-Guru/Android-Guru-Agent",
+      "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory (cs-mem) \u00b7 BYO-LLM. No server. No PC.",
+      "stars": 8,
+      "updated_at": "2026-10-11T05:43:41Z"
+    },
+    {
+      "id": "cooperpersonal373-academic-agent-toolkit",
+      "title": "Cooperpersonal373/academic-agent-toolkit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Cooperpersonal373/academic-agent-toolkit",
+      "description": "Install academic research tools and paper search capabilities across your AI coding agents with a single command.",
+      "stars": 1,
+      "updated_at": "2026-10-11T05:41:37Z"
+    },
+    {
+      "id": "tuanductran-soulmap-ai",
+      "title": "tuanductran/soulmap-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tuanductran/soulmap-ai",
+      "description": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling to validate and bundle agent-ready skills.",
+      "stars": 2,
+      "updated_at": "2026-10-11T05:41:35Z"
+    },
+    {
+      "id": "coldwavegenusthespesia630-skill-guide",
+      "title": "Coldwavegenusthespesia630/skill-guide",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Coldwavegenusthespesia630/skill-guide",
+      "description": "Scan installed agent skills and generate HTML slide decks to track your automation tools.",
+      "stars": 2,
+      "updated_at": "2026-10-11T05:41:24Z"
+    },
+    {
+      "id": "clashroy5384-ai-papers-hub",
+      "title": "clashroy5384/ai-papers-hub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/clashroy5384/ai-papers-hub",
+      "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:41:12Z"
+    },
+    {
+      "id": "donnatruculent617-codex-mini",
+      "title": "Donnatruculent617/Codex-Mini",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Donnatruculent617/Codex-Mini",
+      "description": "Connect your mobile browser to Codex Desktop to transfer files and sync AI responses between devices.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:42:04Z"
+    },
+    {
+      "id": "islamic-uplink626-kiro-auto-pro",
+      "title": "Islamic-uplink626/Kiro-Auto-Pro",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Islamic-uplink626/Kiro-Auto-Pro",
+      "description": "Automate Kiro IDE account registration and Pro upgrades using integrated Google OAuth, Stripe checkout, and stealth browser automation.",
+      "stars": 26,
+      "updated_at": "2026-10-11T05:41:08Z"
+    },
+    {
+      "id": "tort1k558-camouflow",
+      "title": "Tort1k558/Camouflow",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "description": "Local-first browser automation with Camoufox and CloakBrowser: reviewed AI workflows, structured extraction, deterministic replay and local MCP/n8n integrations.",
+      "stars": 53,
+      "updated_at": "2026-10-11T05:40:15Z"
+    },
+    {
+      "id": "ninnettesudanese653-claude-plugins",
+      "title": "ninnettesudanese653/claude-plugins",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ninnettesudanese653/claude-plugins",
+      "description": "Manage and extend Claude Code with plugins for social, browser, and Hive workflows.",
+      "stars": 1,
+      "updated_at": "2026-10-11T05:36:25Z"
+    },
+    {
+      "id": "iberi22-xavier",
+      "title": "iberi22/xavier",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iberi22/xavier",
+      "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "stars": 1,
+      "updated_at": "2026-10-11T05:43:03Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-11T05:39:32Z"
+    },
+    {
+      "id": "wosledon-hetu",
+      "title": "wosledon/Hetu",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/wosledon/Hetu",
+      "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u77e5\u8bc6\u4e0e Agent \u5de5\u4f5c\u53f0\uff1aMarkdown \u7b14\u8bb0 + \u5bf9\u8bdd/\u7f16\u7801\u4f1a\u8bdd\uff0c\u914d\u5411\u91cf\u68c0\u7d22\u3001\u77e5\u8bc6\u56fe\u8c31\u3001Wiki\u3001\u8bb0\u5fc6\u3001\u770b\u677f\u4e0e\u5de5\u4f5c\u6d41\uff0c\u652f\u6301 MCP / \u6280\u80fd / \u591a\u6a21\u578b \u00b7 Local-first AI knowledge & agent workspace with semantic search, knowledge graph, memories, kanban, workflows & MCP",
+      "stars": 4,
+      "updated_at": "2026-10-11T05:34:17Z"
+    },
+    {
+      "id": "nurulainifauziah99-gnosys",
+      "title": "nurulainifauziah99/gnosys",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nurulainifauziah99/gnosys",
+      "description": "Build and manage complex knowledge graphs with Gnosys, enabling efficient data integration and reasoning without extra context overhead.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:32:42Z"
+    },
+    {
+      "id": "bilal0399-learn-agentic-ai",
+      "title": "bilal0399/learn-agentic-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bilal0399/learn-agentic-ai",
+      "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "stars": 8,
+      "updated_at": "2026-10-11T05:03:30Z"
+    },
+    {
+      "id": "unsocial-sannyasi563-awesome-free-models",
+      "title": "Unsocial-sannyasi563/awesome-free-models",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Unsocial-sannyasi563/awesome-free-models",
+      "description": "Access a curated list of free AI models, APIs, and tools for local inference and production use without hidden costs.",
+      "stars": 7,
+      "updated_at": "2026-10-11T05:42:11Z"
+    },
+    {
+      "id": "unrealised-mocha570-llamacore",
+      "title": "Unrealised-mocha570/llamacore",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Unrealised-mocha570/llamacore",
+      "description": "Manage local GGUF models, run llama-server processes, and build AI workflows with this desktop client for llama.cpp.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:42:01Z"
+    },
+    {
+      "id": "juliensimon-ai-inference-tco-calculator",
+      "title": "juliensimon/ai-inference-tco-calculator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/juliensimon/ai-inference-tco-calculator",
+      "description": "AI Inference TCO Calculator \u2014 compare API vs self-hosted GPU vs local/edge inference costs",
+      "stars": 1,
+      "updated_at": "2026-10-11T05:36:49Z"
+    },
+    {
+      "id": "superposable-tightend806-your_own",
+      "title": "Superposable-tightend806/your_own",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Superposable-tightend806/your_own",
+      "description": "Build and manage a local AI workspace that preserves your chat history, supports growth, and adapts to your personal needs.",
+      "stars": 0,
+      "updated_at": "2026-10-11T05:33:08Z"
+    },
+    {
+      "id": "paata28b-qwen3.5-9b-toolhub",
+      "title": "Paata28b/Qwen3.5-9B-ToolHub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Paata28b/Qwen3.5-9B-ToolHub",
+      "description": "Deploy a local Qwen3.5-9B multimodal AI with GPU inference supporting web search, image queries, file reading, and an OpenAI-compatible API.",
+      "stars": 1,
+      "updated_at": "2026-10-11T05:32:04Z"
+    }
+  ]
+}
