@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-12",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-deepdivekr-agent-office",
+      "name": "Explore deepdivekr/agent-office",
+      "source": "https://github.com/deepdivekr/agent-office",
+      "problem": "Hand recurring work to the AI you already use (Codex, Claude Code). It runs on your own computer and reports back when it's done.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hkuds-nanobot",
+      "name": "Explore HKUDS/nanobot",
+      "source": "https://github.com/HKUDS/nanobot",
+      "problem": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mahmoudmohamedxx1-hue-storypilot",
+      "name": "Explore mahmoudmohamedxx1-hue/storypilot",
+      "source": "https://github.com/mahmoudmohamedxx1-hue/storypilot",
+      "problem": "Hourly AI storytelling pipeline: Google Sheet stories -> cinematic vertical MP4s (keyless: GLM Flash + Edge-TTS + Pollinations + MoviePy) -> YouTube/TikTok/Instagram. Includes the Kimi-style agent web app.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-storyfunnels-storyos",
+      "name": "Explore StoryFunnels/storyOS",
+      "source": "https://github.com/StoryFunnels/storyOS",
+      "problem": "Open-source, self-hostable, API-first work OS \u2014 user-defined relational databases, views, formulas, automations, and an MCP server for AI agents. Capability is never paywalled.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dmarchak-agentic_nmas",
+      "name": "Explore dmarchak/Agentic_NMAS",
+      "source": "https://github.com/dmarchak/Agentic_NMAS",
+      "problem": "Python Flask Web server with Anthropic AI Agent for Network Management and Automation",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-melvinmathew9991-multi-agent-food-concierge-mcp",
+      "name": "Explore melvinmathew9991/multi-agent-food-concierge-mcp",
+      "source": "https://github.com/melvinmathew9991/multi-agent-food-concierge-mcp",
+      "problem": "Multimodal food concierge (in development): agents recommend dishes and plan meals from text or a photo, with diet and allergen limits enforced by code, not the LLM. MCP tools, hybrid retrieval, Langfuse tracing and evaluation, free-tier and local models only.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cncsmonster-pi-approval-mode",
+      "name": "Explore CNCSMonster/pi-approval-mode",
+      "source": "https://github.com/CNCSMonster/pi-approval-mode",
+      "problem": "Multi-tiered tool execution approval, permission memory, and two-stage LLM safety classifier for Pi Coding Agent",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-earakely-scale-agentenv-wc3-plugin",
+      "name": "Explore earakely-scale/agentenv-wc3-plugin",
+      "source": "https://github.com/earakely-scale/agentenv-wc3-plugin",
+      "problem": "Warcraft III (wc3env) as an AgentEnv Framework environment: an LLM agent plays a melee game against the game's AI through raw wc3env orders as MCP tools. Bring your own game.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-flashmind-labs-flashmind",
+      "name": "Explore flashmind-labs/flashmind",
+      "source": "https://github.com/flashmind-labs/flashmind",
+      "problem": "AI agent framework in Rust \u2014 streaming LLM providers, 70+ tools, vector memory, multi-agent orchestration, and MCP support",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tort1k558-camouflow",
+      "name": "Explore Tort1k558/Camouflow",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "problem": "Local-first browser automation with Camoufox and CloakBrowser: reviewed AI workflows, structured extraction, deterministic replay and local MCP/n8n integrations.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jeet-dhandha-agent-webbridge",
+      "name": "Explore jeet-dhandha/agent-webbridge",
+      "source": "https://github.com/jeet-dhandha/agent-webbridge",
+      "problem": "WebBridge (Agent WebBridge): Open-source browser automation & MCP server for Claude Code, Cursor and AI agents. Multi-profile Chrome, parallel tabs, zero cloud.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-operatsi-operatsi-platform",
+      "name": "Explore Operatsi/operatsi-platform",
+      "source": "https://github.com/Operatsi/operatsi-platform",
+      "problem": "Operatsi is an AI-native business operating platform for intelligent planning, multi-agent orchestration, cloud browser automation, and autonomous workflow execution. Built for founders, teams, and enterprises by OVIC Labs.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pow505-tobub",
+      "name": "Explore pow505/tobub",
+      "source": "https://github.com/pow505/tobub",
+      "problem": "local browser automation runtime with a built-in Agent harness",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-humblemat810-kogwistar",
+      "name": "Explore humblemat810/kogwistar",
+      "source": "https://github.com/humblemat810/kogwistar",
+      "problem": "Graph-native AI substrate for HyperGraphRAG. Knowledge, Workflow orchestration, conversation memory and wisdom are modeled as hypergraphs. Support strong event sourced provenance and replay.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pratibhabharti18-memory-bank",
+      "name": "Explore pratibhabharti18/Memory-Bank",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "problem": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-caura-ai-caura",
+      "name": "Explore caura-ai/caura",
+      "source": "https://github.com/caura-ai/caura",
+      "problem": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sparrowzhou-crogate",
+      "name": "Explore sparrowzhou/CroGate",
+      "source": "https://github.com/sparrowzhou/CroGate",
+      "problem": "Self-hosted gateway for team AI agent and bot workspaces: per-user environments for coding agnet, with shared models, persistent terminals, local inference and remote access",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bisand-kvad",
+      "name": "Explore bisand/kvad",
+      "source": "https://github.com/bisand/kvad",
+      "problem": "Local AI for Apple silicon, written from the arithmetic up: an LLM, image and video inference engine in Rust with Metal kernels for the M5, a web UI, a terminal app and an OpenAI-compatible API.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-locketkeyllc-scaffold-engine",
+      "name": "Explore LocketKeyLLC/scaffold-engine",
+      "source": "https://github.com/LocketKeyLLC/scaffold-engine",
+      "problem": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each with verification and auto-retry, and compiles the result. 100% on your hardware: Ollama inference, RAG with Milvus vector search, Postgres state, SearXNG search. FastAPI + Docker. No cloud calls unless you opt in.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yashbhadange2006-tinyai",
+      "name": "Explore YashBhadange2006/TinyAI",
+      "source": "https://github.com/YashBhadange2006/TinyAI",
+      "problem": "On-device AI assistant for Android built with Kotlin, featuring local LLM inference, offline AI capabilities, and edge AI experimentation.",
+      "created_on": "2026-10-12",
+      "policy": "review-before-activation"
+    }
+  ]
+}
