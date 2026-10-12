@@ -8,7 +8,7 @@
     "auto_install": false,
     "auto_merge_into_pool": true
   },
-  "count": 1214,
+  "count": 1215,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -9617,7 +9617,22 @@
       "trust": "untrusted",
       "requires_validation": true,
       "integration_mode": "metadata-only"
+    },
+    {
+      "repository": "farion1231/cc-switch",
+      "capability": "discovered",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "stars": 143156,
+      "forks": 9526,
+      "language": "Rust",
+      "license": "MIT",
+      "updated_at": "2026-10-12T10:54:58Z",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 1.369075,
+      "trust": "untrusted",
+      "requires_validation": true,
+      "integration_mode": "metadata-only"
     }
   ],
-  "last_update": "2026-10-05"
+  "last_update": "2026-10-12"
 }

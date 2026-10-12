@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-10-05T10:33:47.225598+00:00",
+  "generated_at": "2026-10-12T10:58:28.270456+00:00",
   "source": "GitHub Search API",
   "status": "integrated-metadata-only",
   "added_to_capability_pool": 1,
@@ -98,16 +98,16 @@
   "error": null,
   "candidates": [
     {
-      "repository": "yt-dlp/yt-dlp",
+      "repository": "farion1231/cc-switch",
       "capability": "discovered",
-      "description": "A feature-rich command-line audio/video downloader",
-      "stars": 195657,
-      "forks": 17005,
-      "language": "Python",
-      "license": "Unlicense",
-      "updated_at": "2026-10-05T10:33:22Z",
-      "url": "https://github.com/yt-dlp/yt-dlp",
-      "score": 1.462562,
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "stars": 143156,
+      "forks": 9526,
+      "language": "Rust",
+      "license": "MIT",
+      "updated_at": "2026-10-12T10:54:58Z",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 1.369075,
       "trust": "untrusted",
       "requires_validation": true
     }
