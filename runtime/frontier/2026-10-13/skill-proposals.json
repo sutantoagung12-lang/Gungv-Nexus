@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-13",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-lynox-ai-lynox",
+      "name": "Explore lynox-ai/lynox",
+      "source": "https://github.com/lynox-ai/lynox",
+      "problem": "Run your business, not your tools \u2014 AI runtime for CRM, workflows, research, monitoring. Self-hosted or managed hosting. Source-available (ELv2).",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jyothish-sl-jyothish-sl",
+      "name": "Explore jyothish-sl/jyothish-sl",
+      "source": "https://github.com/jyothish-sl/jyothish-sl",
+      "problem": "Portfolio website of Jyothish S L: RPA, AI agents and automation projects.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-daintreehq-daintree",
+      "name": "Explore daintreehq/daintree",
+      "source": "https://github.com/daintreehq/daintree",
+      "problem": "A delegation environment for orchestrating AI coding agents. Manage Claude, Gemini, and Codex sessions across git   worktrees with integrated terminals, context injection, and workflow automation.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yj-software-mission-control-center",
+      "name": "Explore YJ-Software/mission-control-center",
+      "source": "https://github.com/YJ-Software/mission-control-center",
+      "problem": "Apache-2.0 dashboard for managing AI agent teams: OpenClaw integration, scheduled tasks, daily reports, backups, browser automation, and second-brain (NotebookLM/Obsidian). Solo-maintained \u2014 issues welcome, no SLA. Ubuntu Linux only. Built by \u9060\u632f\u8cc7\u8a0a (YJ-Software).",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-wecode-ai-wegent",
+      "name": "Explore wecode-ai/Wegent",
+      "source": "https://github.com/wecode-ai/Wegent",
+      "problem": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-itzzzzzzak-connector-kit",
+      "name": "Explore itzzzzzzak/connector-kit",
+      "source": "https://github.com/itzzzzzzak/connector-kit",
+      "problem": "Agent-first TypeScript library for safe SaaS API connectors: typed actions, pagination, retries, rate limits, and LLM tools. MIT.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-menaelz-tapnow-studio--",
+      "name": "Explore Menaelz/Tapnow-Studio--",
+      "source": "https://github.com/Menaelz/Tapnow-Studio--",
+      "problem": "\ud83c\udfa8 Create visual AI workflows with Tapnow Studio, a browser-based tool that combines powerful AI capabilities in a single, interactive node editor.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nimbus-agent-nimbus",
+      "name": "Explore nimbus-agent/Nimbus",
+      "source": "https://github.com/nimbus-agent/Nimbus",
+      "problem": "On-call intelligence for DevOps and platform teams. Local-first AI agent over your tools \u2014 HITL-gated, MCP-native, AGPL-3.0.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gane2506-baton",
+      "name": "Explore Gane2506/baton",
+      "source": "https://github.com/Gane2506/baton",
+      "problem": "Baton Agent Orchestrator (jev CLI): idea to reviewed, tested code. Jev dispatches Claude Code, Codex and OpenRouter (incl. free) models through plan, validate, code, test and integrate, with chat, idea queue + scheduler, Kanban board, per-role MCP tools/skills, recursive learning, a quality & security gate and budgets.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tunsuy-agtpilot",
+      "name": "Explore tunsuy/agtpilot",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "problem": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyfireitdiy-jarvis",
+      "name": "Explore skyfireitdiy/Jarvis",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "problem": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chokkopie-nanobrowser",
+      "name": "Explore chokkopie/nanobrowser",
+      "source": "https://github.com/chokkopie/nanobrowser",
+      "problem": "\ud83c\udf10 Automate your web tasks with Nanobrowser, an open-source AI tool that integrates seamlessly into your browser for a smarter browsing experience.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tort1k558-camouflow",
+      "name": "Explore Tort1k558/Camouflow",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "problem": "Local-first browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Powered by Camoufox and CloakBrowser; Glint, our own Chromium engine, is in development.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rumemory-maxgraph",
+      "name": "Explore RuMemory/maxgraph",
+      "source": "https://github.com/RuMemory/maxgraph",
+      "problem": "Persistent memory for AI agents \u2014 MCP server, knowledge graph, hybrid semantic search. Self-hosted & private: your data stays on your machine. \u041f\u0430\u043c\u044f\u0442\u044c \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude, GPT, DeepSeek): MCP-\u0441\u0435\u0440\u0432\u0435\u0440, \u0433\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439. \u0422\u0440\u0438\u0430\u043b 7 \u0434\u043d\u0435\u0439.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jiay-77-palimpsest",
+      "name": "Explore JiaY-77/Palimpsest",
+      "source": "https://github.com/JiaY-77/Palimpsest",
+      "problem": "Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval for AI agents.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sanny1921-cutbrief",
+      "name": "Explore Sanny1921/cutbrief",
+      "source": "https://github.com/Sanny1921/cutbrief",
+      "problem": "CutBrief - local open-weight AI turns rough reel requests into editor handoffs. Hacktoberfest Week 2 prototype; real-device inference testing in progress.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iyulab-lm-supply",
+      "name": "Explore iyulab/lm-supply",
+      "source": "https://github.com/iyulab/lm-supply",
+      "problem": ".NET library for on-demand local AI model inference \u2014 zero bundled models, lazy loading, hardware-aware GPU/CPU selection, 10 task types including embeddings, generation, vision, and audio.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cocozero003-local-moe-studio",
+      "name": "Explore cocozero003/Local-MoE-Studio",
+      "source": "https://github.com/cocozero003/Local-MoE-Studio",
+      "problem": "Run larger local AI models on computers with limited VRAM, without learning complicated inference settings.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-13",
+      "policy": "review-before-activation"
+    }
+  ]
+}

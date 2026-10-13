@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-13",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "lynox-ai-lynox",
+      "title": "lynox-ai/lynox",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lynox-ai/lynox",
+      "description": "Run your business, not your tools \u2014 AI runtime for CRM, workflows, research, monitoring. Self-hosted or managed hosting. Source-available (ELv2).",
+      "stars": 3,
+      "updated_at": "2026-10-13T06:45:18Z"
+    },
+    {
+      "id": "jyothish-sl-jyothish-sl",
+      "title": "jyothish-sl/jyothish-sl",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jyothish-sl/jyothish-sl",
+      "description": "Portfolio website of Jyothish S L: RPA, AI agents and automation projects.",
+      "stars": 0,
+      "updated_at": "2026-10-13T06:45:07Z"
+    },
+    {
+      "id": "daintreehq-daintree",
+      "title": "daintreehq/daintree",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/daintreehq/daintree",
+      "description": "A delegation environment for orchestrating AI coding agents. Manage Claude, Gemini, and Codex sessions across git   worktrees with integrated terminals, context injection, and workflow automation.",
+      "stars": 76,
+      "updated_at": "2026-10-13T06:44:16Z"
+    },
+    {
+      "id": "yj-software-mission-control-center",
+      "title": "YJ-Software/mission-control-center",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/YJ-Software/mission-control-center",
+      "description": "Apache-2.0 dashboard for managing AI agent teams: OpenClaw integration, scheduled tasks, daily reports, backups, browser automation, and second-brain (NotebookLM/Obsidian). Solo-maintained \u2014 issues welcome, no SLA. Ubuntu Linux only. Built by \u9060\u632f\u8cc7\u8a0a (YJ-Software).",
+      "stars": 11,
+      "updated_at": "2026-10-13T06:43:45Z"
+    },
+    {
+      "id": "wecode-ai-wegent",
+      "title": "wecode-ai/Wegent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/wecode-ai/Wegent",
+      "description": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
+      "stars": 870,
+      "updated_at": "2026-10-13T06:43:38Z"
+    },
+    {
+      "id": "itzzzzzzak-connector-kit",
+      "title": "itzzzzzzak/connector-kit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/itzzzzzzak/connector-kit",
+      "description": "Agent-first TypeScript library for safe SaaS API connectors: typed actions, pagination, retries, rate limits, and LLM tools. MIT.",
+      "stars": 3,
+      "updated_at": "2026-10-13T06:45:21Z"
+    },
+    {
+      "id": "menaelz-tapnow-studio--",
+      "title": "Menaelz/Tapnow-Studio--",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Menaelz/Tapnow-Studio--",
+      "description": "\ud83c\udfa8 Create visual AI workflows with Tapnow Studio, a browser-based tool that combines powerful AI capabilities in a single, interactive node editor.",
+      "stars": 21,
+      "updated_at": "2026-10-13T06:45:14Z"
+    },
+    {
+      "id": "nimbus-agent-nimbus",
+      "title": "nimbus-agent/Nimbus",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nimbus-agent/Nimbus",
+      "description": "On-call intelligence for DevOps and platform teams. Local-first AI agent over your tools \u2014 HITL-gated, MCP-native, AGPL-3.0.",
+      "stars": 6,
+      "updated_at": "2026-10-13T06:45:13Z"
+    },
+    {
+      "id": "gane2506-baton",
+      "title": "Gane2506/baton",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Gane2506/baton",
+      "description": "Baton Agent Orchestrator (jev CLI): idea to reviewed, tested code. Jev dispatches Claude Code, Codex and OpenRouter (incl. free) models through plan, validate, code, test and integrate, with chat, idea queue + scheduler, Kanban board, per-role MCP tools/skills, recursive learning, a quality & security gate and budgets.",
+      "stars": 0,
+      "updated_at": "2026-10-13T06:44:31Z"
+    },
+    {
+      "id": "tunsuy-agtpilot",
+      "title": "tunsuy/agtpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "description": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "stars": 0,
+      "updated_at": "2026-10-13T06:42:50Z"
+    },
+    {
+      "id": "skyfireitdiy-jarvis",
+      "title": "skyfireitdiy/Jarvis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "description": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "stars": 145,
+      "updated_at": "2026-10-13T06:38:17Z"
+    },
+    {
+      "id": "chokkopie-nanobrowser",
+      "title": "chokkopie/nanobrowser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/chokkopie/nanobrowser",
+      "description": "\ud83c\udf10 Automate your web tasks with Nanobrowser, an open-source AI tool that integrates seamlessly into your browser for a smarter browsing experience.",
+      "stars": 3,
+      "updated_at": "2026-10-13T06:34:26Z"
+    },
+    {
+      "id": "tort1k558-camouflow",
+      "title": "Tort1k558/Camouflow",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "description": "Local-first browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Powered by Camoufox and CloakBrowser; Glint, our own Chromium engine, is in development.",
+      "stars": 93,
+      "updated_at": "2026-10-13T06:32:19Z"
+    },
+    {
+      "id": "iberi22-xavier",
+      "title": "iberi22/xavier",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iberi22/xavier",
+      "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "stars": 1,
+      "updated_at": "2026-10-13T06:27:53Z"
+    },
+    {
+      "id": "rumemory-maxgraph",
+      "title": "RuMemory/maxgraph",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RuMemory/maxgraph",
+      "description": "Persistent memory for AI agents \u2014 MCP server, knowledge graph, hybrid semantic search. Self-hosted & private: your data stays on your machine. \u041f\u0430\u043c\u044f\u0442\u044c \u0434\u043b\u044f \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u0432 (Claude, GPT, DeepSeek): MCP-\u0441\u0435\u0440\u0432\u0435\u0440, \u0433\u0440\u0430\u0444 \u0437\u043d\u0430\u043d\u0438\u0439. \u0422\u0440\u0438\u0430\u043b 7 \u0434\u043d\u0435\u0439.",
+      "stars": 1,
+      "updated_at": "2026-10-13T06:24:58Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-13T06:18:16Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-10-13T06:12:30Z"
+    },
+    {
+      "id": "jiay-77-palimpsest",
+      "title": "JiaY-77/Palimpsest",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JiaY-77/Palimpsest",
+      "description": "Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval for AI agents.",
+      "stars": 6,
+      "updated_at": "2026-10-13T06:11:34Z"
+    },
+    {
+      "id": "sanny1921-cutbrief",
+      "title": "Sanny1921/cutbrief",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Sanny1921/cutbrief",
+      "description": "CutBrief - local open-weight AI turns rough reel requests into editor handoffs. Hacktoberfest Week 2 prototype; real-device inference testing in progress.",
+      "stars": 0,
+      "updated_at": "2026-10-13T06:41:08Z"
+    },
+    {
+      "id": "iyulab-lm-supply",
+      "title": "iyulab/lm-supply",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iyulab/lm-supply",
+      "description": ".NET library for on-demand local AI model inference \u2014 zero bundled models, lazy loading, hardware-aware GPU/CPU selection, 10 task types including embeddings, generation, vision, and audio.",
+      "stars": 13,
+      "updated_at": "2026-10-13T06:39:23Z"
+    },
+    {
+      "id": "cocozero003-local-moe-studio",
+      "title": "cocozero003/Local-MoE-Studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cocozero003/Local-MoE-Studio",
+      "description": "Run larger local AI models on computers with limited VRAM, without learning complicated inference settings.",
+      "stars": 0,
+      "updated_at": "2026-10-13T06:37:03Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-13T06:33:04Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 137213,
+      "updated_at": "2026-10-13T06:45:31Z"
+    }
+  ]
+}
