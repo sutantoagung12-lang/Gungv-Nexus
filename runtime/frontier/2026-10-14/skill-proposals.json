@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-14",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-luminaresearchteam-agent-chrome-split",
+      "name": "Explore luminaresearchteam/agent-chrome-split",
+      "source": "https://github.com/luminaresearchteam/agent-chrome-split",
+      "problem": "Give each AI agent its own Chrome (separate profile + CDP port) so humans and agents can share one computer without fighting over the screen.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dryvist-ansible-proxmox-ai",
+      "name": "Explore dryvist/ansible-proxmox-ai",
+      "source": "https://github.com/dryvist/ansible-proxmox-ai",
+      "problem": "Ansible roles for the homelab AI/LLM serving stack (Hermes agent, LLM router, Ollama, Qdrant, RAG, model serving).",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-scszcoder-ecan.ai",
+      "name": "Explore scszcoder/eCan.ai",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "problem": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dmarchak-agentic_nmas",
+      "name": "Explore dmarchak/Agentic_NMAS",
+      "source": "https://github.com/dmarchak/Agentic_NMAS",
+      "problem": "Python Flask Web server with Anthropic AI Agent for Network Management and Automation",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cole-robertson-rust-llm",
+      "name": "Explore cole-robertson/rust-llm",
+      "source": "https://github.com/cole-robertson/rust-llm",
+      "problem": "One Rust API for chat, tools, agents, structured output, embeddings, images, audio, batches, MCP, and judgments across LLM providers, with Loco persistence and generators.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cmcoffee-gohort",
+      "name": "Explore cmcoffee/gohort",
+      "source": "https://github.com/cmcoffee/gohort",
+      "problem": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists and build the tools, agents and apps they lack, with sandboxed tools and credentials the model never sees.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-getmodern-ai-graft",
+      "name": "Explore getmodern-ai/graft",
+      "source": "https://github.com/getmodern-ai/graft",
+      "problem": "Graft writes the API integration your agent is missing, on demand, and serves it over MCP. Connect Claude, ChatGPT, Hermes or OpenClaw; the model reads the vendor docs, writes and verifies a small tool, and the proxy injects the credential so it never reaches the code. Self-hostable with Docker and Postgres.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-coreplanelabs-switchboard",
+      "name": "Explore coreplanelabs/switchboard",
+      "source": "https://github.com/coreplanelabs/switchboard",
+      "problem": "Mention it in Slack and an agent reviews the PR, ships the fix, or answers the question \u2014 on the model you choose, with its tools running where you decide.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-operatsi-operatsi-platform",
+      "name": "Explore Operatsi/operatsi-platform",
+      "source": "https://github.com/Operatsi/operatsi-platform",
+      "problem": "Operatsi is an AI-native business operating platform for intelligent planning, multi-agent orchestration, cloud browser automation, and autonomous workflow execution. Built for founders, teams, and enterprises by OVIC Labs.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tunsuy-agtpilot",
+      "name": "Explore tunsuy/agtpilot",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "problem": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyfireitdiy-jarvis",
+      "name": "Explore skyfireitdiy/Jarvis",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "problem": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bilal0399-learn-agentic-ai",
+      "name": "Explore bilal0399/learn-agentic-ai",
+      "source": "https://github.com/bilal0399/learn-agentic-ai",
+      "problem": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-one-semurg-semurg-mcp",
+      "name": "Explore One-Semurg/semurg-mcp",
+      "source": "https://github.com/One-Semurg/semurg-mcp",
+      "problem": "Persistent memory for AI agents over MCP: knowledge graph, vectors and graph RAG on your own hardware. Install a node, connect Claude Code or another agent, use the seven memory tools.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liliang-cn-cortexdb",
+      "name": "Explore liliang-cn/cortexdb",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "problem": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP tools. Works without an embedding model.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sanny1921-cutbrief",
+      "name": "Explore Sanny1921/cutbrief",
+      "source": "https://github.com/Sanny1921/cutbrief",
+      "problem": "CutBrief - local open-weight AI turns rough reel requests into editor handoffs. Hacktoberfest Week 2 prototype; real-device inference testing in progress.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lianeheidemann-dataguard-ai",
+      "name": "Explore lianeheidemann/dataguard-ai",
+      "source": "https://github.com/lianeheidemann/dataguard-ai",
+      "problem": "Local AI (Ollama) for querying enterprise data with role-based authorization, a read-only query catalog and no external inference. Study prototype with synthetic data.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hengyangds-aigw-cli",
+      "name": "Explore HengYangDS/aigw-cli",
+      "source": "https://github.com/HengYangDS/aigw-cli",
+      "problem": "Local control plane for AI provider accounts, credentials, model routes, and explicit client bindings, with guarded native configuration and real inference checks.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iresearchstudycode-aia",
+      "name": "Explore iresearchstudycode/aia",
+      "source": "https://github.com/iresearchstudycode/aia",
+      "problem": "A secure, voice-enabled AI chat interface that runs entirely on your local machine using Ollama for AI model inference. Access is restricted to authenticated users via time-based one-time passwords (TOTP) compatible with Google Authenticator.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-homel-dev-llm-runtime",
+      "name": "Explore homel-dev/llm-runtime",
+      "source": "https://github.com/homel-dev/llm-runtime",
+      "problem": "Production-oriented Kubernetes platform for shared local LLM inference, featuring vLLM, OpenAI-compatible APIs, GPU-backed model-serving tiers, observability, network policies, deployment automation, and reusable runtime contracts for multiple AI systems.",
+      "created_on": "2026-10-14",
+      "policy": "review-before-activation"
+    }
+  ]
+}
