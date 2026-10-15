@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-15",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "kentcdodds-kody",
+      "title": "kentcdodds/kody",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kentcdodds/kody",
+      "description": "\ud83d\udc28 Your agents' cloud \u2014 the memory, keys, code, and automations your AI agent keeps, portable across every MCP host.",
+      "stars": 791,
+      "updated_at": "2026-10-15T04:35:39Z"
+    },
+    {
+      "id": "rim-19-job_search",
+      "title": "rim-19/job_search",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rim-19/job_search",
+      "description": "Automated job-search agent \u2014 collects remote dev roles from job APIs, RSS feeds, and ~80 startup boards, scores each against a CV with Gemini (1-10 + summary), dedupes and stores in SQLite, and publishes a GitHub Pages dashboard on a schedule via GitHub Actions.",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:35:24Z"
+    },
+    {
+      "id": "drix10-ai-resources",
+      "title": "Drix10/ai-resources",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Drix10/ai-resources",
+      "description": "Daily-updated, AI-curated knowledge base: LLMs, AI agents, machine learning, developer tools, cybersecurity, robotics, crypto and more across 40+ categories. Auto-published to blogs.drix10.com.",
+      "stars": 119,
+      "updated_at": "2026-10-15T04:35:15Z"
+    },
+    {
+      "id": "mashrafeearyan-chexsa",
+      "title": "MashrafeeAryan/Chexsa",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MashrafeeAryan/Chexsa",
+      "description": "Open-source personal AI agent that can use your browser and computer to get tasks done.",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:35:13Z"
+    },
+    {
+      "id": "nischalstha-ns-nexus-ai",
+      "title": "nischalstha-ns/nexus-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nischalstha-ns/nexus-ai",
+      "description": "NEXUS AI \u2014 an original Maya-style personal AI agent: voice assistant, computer automation, coding assistant, memory system, local AI companion.",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:34:27Z"
+    },
+    {
+      "id": "fishy97-hermes-allowance",
+      "title": "Fishy97/hermes-allowance",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Fishy97/hermes-allowance",
+      "description": "Per-task allowance of tokens, model calls, tool calls, subagents and minutes for Hermes Agent. Works when the price is $0.",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:35:53Z"
+    },
+    {
+      "id": "squirrelscan-squirrelscan",
+      "title": "squirrelscan/squirrelscan",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/squirrelscan/squirrelscan",
+      "description": "The website QA tool for your coding agent. 300+ audit rules across SEO, performance, security, accessibility and agent experience.",
+      "stars": 274,
+      "updated_at": "2026-10-15T04:35:10Z"
+    },
+    {
+      "id": "wmentor-go-magnetar",
+      "title": "wmentor/go-magnetar",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/wmentor/go-magnetar",
+      "description": "An AI chat agent (harness) with integrated tools, skills and an optional knowledge base. Chat with any OpenAI-compatible LLM, use built-in integrations (web search, Confluence, JIRA, GitHub, GitLab and more), index documents and web pages into a local vector database (RAG), and get answers grounded in your own content.",
+      "stars": 8,
+      "updated_at": "2026-10-15T04:35:08Z"
+    },
+    {
+      "id": "raccoon-office-box-agent",
+      "title": "Raccoon-Office/Box-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Raccoon-Office/Box-Agent",
+      "description": "AI agent framework with Jupyter sandbox, data analysis, MCP tools, ACP protocol, multi-provider LLM, and standalone runtime packaging",
+      "stars": 15,
+      "updated_at": "2026-10-15T04:33:48Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 36513,
+      "updated_at": "2026-10-15T04:35:56Z"
+    },
+    {
+      "id": "dario2003-droid-opencode-browser-automator",
+      "title": "Dario2003-droid/opencode-browser-automator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Dario2003-droid/opencode-browser-automator",
+      "description": "Autonomous Web Agent Toolkit 2026 - AI Browser Automation for Testing & Scraping",
+      "stars": 3,
+      "updated_at": "2026-10-15T04:29:05Z"
+    },
+    {
+      "id": "scszcoder-ecan.ai",
+      "title": "scszcoder/eCan.ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "stars": 21,
+      "updated_at": "2026-10-15T04:26:14Z"
+    },
+    {
+      "id": "rayss868-fastmcp-browser",
+      "title": "rayss868/fastmcp-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rayss868/fastmcp-browser",
+      "description": "Lightweight MCP server + WebExtension for AI browser automation: no CDP, your real browser, multi-profile",
+      "stars": 15,
+      "updated_at": "2026-10-15T04:26:03Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-15T04:10:10Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-10-15T04:08:58Z"
+    },
+    {
+      "id": "windsander-mebular",
+      "title": "Windsander/Mebular",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Windsander/Mebular",
+      "description": "The decentralized memory layer for AI agents \u2014 offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.",
+      "stars": 1,
+      "updated_at": "2026-10-15T04:05:36Z"
+    },
+    {
+      "id": "uralbek2307-mindgraphai",
+      "title": "Uralbek2307/Mindgraphai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Uralbek2307/Mindgraphai",
+      "description": "AI Memory & Knowledge Graph",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:05:43Z"
+    },
+    {
+      "id": "aitherium-awdk",
+      "title": "Aitherium/awdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Aitherium/awdk",
+      "description": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "stars": 11,
+      "updated_at": "2026-10-15T04:01:21Z"
+    },
+    {
+      "id": "mercwar-joe-tron-llma",
+      "title": "mercwar/JOE-TRON-LLMA",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mercwar/JOE-TRON-LLMA",
+      "description": "A step-by-step developer tutorial and low-level C runtime guide for building a sovereign, zero-dependency GGUF local AI inference engine from the bare metal up, featuring custom batching, memory-mapping, and token dispatch loops.",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:34:40Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:29:48Z"
+    },
+    {
+      "id": "cluaiz-cluaiz-app",
+      "title": "cluaiz/cluaiz-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cluaiz/cluaiz-app",
+      "description": "About An open-source, local AI inference Cluaiz App to execute neural models directly on physical edge workstations",
+      "stars": 2,
+      "updated_at": "2026-10-15T04:20:00Z"
+    },
+    {
+      "id": "chrisjohnson-strix-halo-r9700-llm-builds",
+      "title": "chrisjohnson/strix-halo-r9700-llm-builds",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/chrisjohnson/strix-halo-r9700-llm-builds",
+      "description": "Model-engine build catalog + benchmark orchestrator for the Bosgame M5 Strix Halo / R9700 eGPU inference box (extracted from local-ai-machine, M-135)",
+      "stars": 0,
+      "updated_at": "2026-10-15T04:10:55Z"
+    },
+    {
+      "id": "sion971-ace-step-studio",
+      "title": "Sion971/ace-step-studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Sion971/ace-step-studio",
+      "description": "\ud83c\udfa7 Open-Source Local AI Music Studio (Linux and Winows Platform) Professional React/Vite + FastAPI GUI for ACE-Step 1.5. Features: Fast LM/DiT inference, Lyrics Generator, Cover/Remix, Stems & Audio Tools. Free forever",
+      "stars": 1,
+      "updated_at": "2026-10-15T04:10:34Z"
+    }
+  ]
+}
