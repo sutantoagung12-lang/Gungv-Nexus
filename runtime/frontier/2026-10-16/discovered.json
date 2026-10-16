@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-16",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "zemdregon-switchboard",
+      "title": "zemdregon/switchboard",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zemdregon/switchboard",
+      "description": "A headless controller that orchestrates existing AI coding-agent CLIs through their documented automation interfaces.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:29:23Z"
+    },
+    {
+      "id": "imathieub-publii-agent-toolkit",
+      "title": "iMathieuB/publii-agent-toolkit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iMathieuB/publii-agent-toolkit",
+      "description": "Read and edit a Publii CMS site from code, safely enough to hand to an AI agent.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:27:10Z"
+    },
+    {
+      "id": "dicklesworthstone-frankenterm",
+      "title": "Dicklesworthstone/frankenterm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Dicklesworthstone/frankenterm",
+      "description": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+      "stars": 122,
+      "updated_at": "2026-10-16T04:26:44Z"
+    },
+    {
+      "id": "daizedong-schedule-reminder",
+      "title": "DaizeDong/schedule-reminder",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DaizeDong/schedule-reminder",
+      "description": "Persistent store for todos, events, deadlines and progress with pending/doing/done states; fires due reminders via Discord; stable CLI/JSON API other skills call.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:26:41Z"
+    },
+    {
+      "id": "daizedong-demand-mining",
+      "title": "DaizeDong/demand-mining",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DaizeDong/demand-mining",
+      "description": "\u5df2\u53d1\u5e03\u4ea7\u54c1\u6bcf\u65e5\u7528\u6237\u9700\u6c42\u6316\u6398+\u7ade\u54c1/\u70ed\u70b9\u8ffd\u8e2a+EOD \u5934\u8111\u98ce\u66b4+RICE/Kano \u91cf\u5316\u8fed\u4ee3\u6392\u5e8f.",
+      "stars": 1,
+      "updated_at": "2026-10-16T04:26:31Z"
+    },
+    {
+      "id": "bobmatnyc-trusty-tools",
+      "title": "bobmatnyc/trusty-tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bobmatnyc/trusty-tools",
+      "description": "Unified Rust workspace for the trusty-* AI developer-tooling ecosystem: hybrid code search, memory palace, code analysis, PR review, and the MPM multi-agent platform \u2014 MCP servers, daemons & CLIs.",
+      "stars": 22,
+      "updated_at": "2026-10-16T04:29:10Z"
+    },
+    {
+      "id": "iamno1special-mvgeos",
+      "title": "IAmNo1Special/mvgeos",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/IAmNo1Special/mvgeos",
+      "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (tools) against models served by Realms (providers), which are pluggable; the OpenRouter Realm ships as a Rune. Conversations persist as Tomes (sessions) in JSONL. Terminal and desktop interfaces.",
+      "stars": 1,
+      "updated_at": "2026-10-16T04:29:02Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-10-16T04:28:56Z"
+    },
+    {
+      "id": "mortredvigoss-melo",
+      "title": "MortredVigoss/Melo",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MortredVigoss/Melo",
+      "description": "Local-first AI workspace for macOS and iPhone, compatible with Claude, OpenAI APIs, OpenRouter and local models, with MCP tools, persistent memory and multi-Agent collaboration.",
+      "stars": 1,
+      "updated_at": "2026-10-16T04:28:28Z"
+    },
+    {
+      "id": "surzal-kali-daharness",
+      "title": "Surzal-kali/daharness",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Surzal-kali/daharness",
+      "description": "Agentic, iterative security testing \u2014 a local LLM plans, picks, and runs 150+ security tools under your approval. Target data never leaves your hardware.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:29:26Z"
+    },
+    {
+      "id": "aishkhan0586-zenithcraft-free-tools",
+      "title": "aishkhan0586/ZenithCraft-Free-Tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/aishkhan0586/ZenithCraft-Free-Tools",
+      "description": "ZenithCraft is a modern web platform offering free browser-based tools, an AI-powered writing assistant, and custom web and automation services for businesses and individuals. Some tools also work offline.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:28:06Z"
+    },
+    {
+      "id": "tasse00-copane",
+      "title": "Tasse00/copane",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tasse00/copane",
+      "description": "Self-hosted Chrome shared by your AI agents and automations: persistent logged-in profiles, an isolated window per client over plain CDP, and human takeover from your browser for logins and captchas.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:24:16Z"
+    },
+    {
+      "id": "tsaijamey-frago",
+      "title": "tsaijamey/frago",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tsaijamey/frago",
+      "description": "Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.",
+      "stars": 114,
+      "updated_at": "2026-10-16T04:18:04Z"
+    },
+    {
+      "id": "scszcoder-ecan.ai",
+      "title": "scszcoder/eCan.ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "stars": 22,
+      "updated_at": "2026-10-16T04:13:03Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 36565,
+      "updated_at": "2026-10-16T04:12:45Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-10-16T04:24:53Z"
+    },
+    {
+      "id": "domlynch-temporal",
+      "title": "DomLynch/Temporal",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DomLynch/Temporal",
+      "description": "Graphiti's temporal knowledge graph stripped to 2,800 lines. No Neo4j. SQLite only.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:19:18Z"
+    },
+    {
+      "id": "inite-ai-inite-brain-service",
+      "title": "inite-ai/inite-brain-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/inite-ai/inite-brain-service",
+      "description": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR forget. REST + native MCP.",
+      "stars": 41,
+      "updated_at": "2026-10-16T04:14:04Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-16T04:10:17Z"
+    },
+    {
+      "id": "cymun111-sdlc_memory",
+      "title": "cymun111/sdlc_memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cymun111/sdlc_memory",
+      "description": "A shared source of truth for engineering knowledge across repositories, teams, and AI agents, with automatic learning capture, reviewed publishing, and lightweight graph-based retrieval through MCP.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:08:06Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 137749,
+      "updated_at": "2026-10-16T04:28:43Z"
+    },
+    {
+      "id": "lianeheidemann-dataguard-ai",
+      "title": "lianeheidemann/dataguard-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lianeheidemann/dataguard-ai",
+      "description": "Local AI (Ollama) for querying enterprise data with role-based authorization, a read-only query catalog and no external inference. Study prototype with synthetic data.",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:23:04Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-16T04:21:17Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "1bit engine: local LLM inference for AMD Ryzen AI (Strix Halo) inside Lemonade. HRX with our Loom kernels on the Radeon iGPU, plus the XDNA 2 NPU; OpenAI-compatible API. Runs Qwen3.8, Zyphra ZAYA1, ternary Bonsai.",
+      "stars": 5,
+      "updated_at": "2026-10-16T04:21:03Z"
+    },
+    {
+      "id": "mmogr-gglib",
+      "title": "mmogr/gglib",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mmogr/gglib",
+      "description": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "stars": 1,
+      "updated_at": "2026-10-16T04:02:01Z"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-16",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-zemdregon-switchboard",
+      "name": "Explore zemdregon/switchboard",
+      "source": "https://github.com/zemdregon/switchboard",
+      "problem": "A headless controller that orchestrates existing AI coding-agent CLIs through their documented automation interfaces.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-imathieub-publii-agent-toolkit",
+      "name": "Explore iMathieuB/publii-agent-toolkit",
+      "source": "https://github.com/iMathieuB/publii-agent-toolkit",
+      "problem": "Read and edit a Publii CMS site from code, safely enough to hand to an AI agent.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dicklesworthstone-frankenterm",
+      "name": "Explore Dicklesworthstone/frankenterm",
+      "source": "https://github.com/Dicklesworthstone/frankenterm",
+      "problem": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-daizedong-schedule-reminder",
+      "name": "Explore DaizeDong/schedule-reminder",
+      "source": "https://github.com/DaizeDong/schedule-reminder",
+      "problem": "Persistent store for todos, events, deadlines and progress with pending/doing/done states; fires due reminders via Discord; stable CLI/JSON API other skills call.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-daizedong-demand-mining",
+      "name": "Explore DaizeDong/demand-mining",
+      "source": "https://github.com/DaizeDong/demand-mining",
+      "problem": "\u5df2\u53d1\u5e03\u4ea7\u54c1\u6bcf\u65e5\u7528\u6237\u9700\u6c42\u6316\u6398+\u7ade\u54c1/\u70ed\u70b9\u8ffd\u8e2a+EOD \u5934\u8111\u98ce\u66b4+RICE/Kano \u91cf\u5316\u8fed\u4ee3\u6392\u5e8f.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bobmatnyc-trusty-tools",
+      "name": "Explore bobmatnyc/trusty-tools",
+      "source": "https://github.com/bobmatnyc/trusty-tools",
+      "problem": "Unified Rust workspace for the trusty-* AI developer-tooling ecosystem: hybrid code search, memory palace, code analysis, PR review, and the MPM multi-agent platform \u2014 MCP servers, daemons & CLIs.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iamno1special-mvgeos",
+      "name": "Explore IAmNo1Special/mvgeos",
+      "source": "https://github.com/IAmNo1Special/mvgeos",
+      "problem": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (tools) against models served by Realms (providers), which are pluggable; the OpenRouter Realm ships as a Rune. Conversations persist as Tomes (sessions) in JSONL. Terminal and desktop interfaces.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mortredvigoss-melo",
+      "name": "Explore MortredVigoss/Melo",
+      "source": "https://github.com/MortredVigoss/Melo",
+      "problem": "Local-first AI workspace for macOS and iPhone, compatible with Claude, OpenAI APIs, OpenRouter and local models, with MCP tools, persistent memory and multi-Agent collaboration.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-surzal-kali-daharness",
+      "name": "Explore Surzal-kali/daharness",
+      "source": "https://github.com/Surzal-kali/daharness",
+      "problem": "Agentic, iterative security testing \u2014 a local LLM plans, picks, and runs 150+ security tools under your approval. Target data never leaves your hardware.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aishkhan0586-zenithcraft-free-tools",
+      "name": "Explore aishkhan0586/ZenithCraft-Free-Tools",
+      "source": "https://github.com/aishkhan0586/ZenithCraft-Free-Tools",
+      "problem": "ZenithCraft is a modern web platform offering free browser-based tools, an AI-powered writing assistant, and custom web and automation services for businesses and individuals. Some tools also work offline.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tasse00-copane",
+      "name": "Explore Tasse00/copane",
+      "source": "https://github.com/Tasse00/copane",
+      "problem": "Self-hosted Chrome shared by your AI agents and automations: persistent logged-in profiles, an isolated window per client over plain CDP, and human takeover from your browser for logins and captchas.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tsaijamey-frago",
+      "name": "Explore tsaijamey/frago",
+      "source": "https://github.com/tsaijamey/frago",
+      "problem": "Multi-runtime automation infrastructure for AI agents. Native CDP browser control, metadata-driven Recipe system, and persistent Run context management.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-scszcoder-ecan.ai",
+      "name": "Explore scszcoder/eCan.ai",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "problem": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-domlynch-temporal",
+      "name": "Explore DomLynch/Temporal",
+      "source": "https://github.com/DomLynch/Temporal",
+      "problem": "Graphiti's temporal knowledge graph stripped to 2,800 lines. No Neo4j. SQLite only.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-inite-ai-inite-brain-service",
+      "name": "Explore inite-ai/inite-brain-service",
+      "source": "https://github.com/inite-ai/inite-brain-service",
+      "problem": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR forget. REST + native MCP.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cymun111-sdlc_memory",
+      "name": "Explore cymun111/sdlc_memory",
+      "source": "https://github.com/cymun111/sdlc_memory",
+      "problem": "A shared source of truth for engineering knowledge across repositories, teams, and AI agents, with automatic learning capture, reviewed publishing, and lightweight graph-based retrieval through MCP.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lianeheidemann-dataguard-ai",
+      "name": "Explore lianeheidemann/dataguard-ai",
+      "source": "https://github.com/lianeheidemann/dataguard-ai",
+      "problem": "Local AI (Ollama) for querying enterprise data with role-based authorization, a read-only query catalog and no external inference. Study prototype with synthetic data.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tokatlas-tokatlas.github.io",
+      "name": "Explore tokatlas/tokatlas.github.io",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "problem": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "1bit engine: local LLM inference for AMD Ryzen AI (Strix Halo) inside Lemonade. HRX with our Loom kernels on the Radeon iGPU, plus the XDNA 2 NPU; OpenAI-compatible API. Runs Qwen3.8, Zyphra ZAYA1, ternary Bonsai.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mmogr-gglib",
+      "name": "Explore mmogr/gglib",
+      "source": "https://github.com/mmogr/gglib",
+      "problem": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "created_on": "2026-10-16",
+      "policy": "review-before-activation"
+    }
+  ]
+}
