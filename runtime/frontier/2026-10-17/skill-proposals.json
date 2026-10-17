@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-17",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-thais-stephanie-career-agent-portfolio",
+      "name": "Explore thais-stephanie/career-agent-portfolio",
+      "source": "https://github.com/thais-stephanie/career-agent-portfolio",
+      "problem": "Local-first AI job search platform with 26 job sources, ATS integrations, explainable matching, eligibility checks, application tracking, and evidence-backed resume tailoring. Python, FastAPI, React, TypeScript.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-c-ai-ro-lab-cairo-reference-architecture",
+      "name": "Explore c-ai-ro-lab/cairo-reference-architecture",
+      "source": "https://github.com/c-ai-ro-lab/cairo-reference-architecture",
+      "problem": "Reference architecture for secure, governed AI automation: zero-trust n8n stack, tested intake agent, decision records, and NIST AI RMF / FAIR governance.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rim-19-job_search",
+      "name": "Explore rim-19/job_search",
+      "source": "https://github.com/rim-19/job_search",
+      "problem": "Automated job-search agent \u2014 collects remote dev roles from job APIs, RSS feeds, and ~80 startup boards, scores each against a CV with Gemini (1-10 + summary), dedupes and stores in SQLite, and publishes a GitHub Pages dashboard on a schedule via GitHub Actions.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yrn-dev-operator",
+      "name": "Explore yrn-dev/Operator",
+      "source": "https://github.com/yrn-dev/Operator",
+      "problem": "Terminal AI coding agent \u2014 Autonomous AI Agent for Linux. Supports Alem AI + Ollama. Works with code, research, automation, DevOps, data analysis, and content generation.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mok2026-mokagi",
+      "name": "Explore MOK2026/MOKAGI",
+      "source": "https://github.com/MOK2026/MOKAGI",
+      "problem": "MOKAGI \u2014 Self-hosted multi-agent AI operating system (\u81ea\u8a17\u7ba1\u591a Agent AI \u4f5c\u696d\u7cfb\u7d71, Hong Kong). Run 100+ AI agents with long-term memory and real browser/desktop automation on your own hardware; your data never leaves.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-atmosphere-atmosphere",
+      "name": "Explore Atmosphere/atmosphere",
+      "source": "https://github.com/Atmosphere/atmosphere",
+      "problem": "Portable AI agent runtime for the JVM. One @Agent class runs on Spring AI, LangChain4j, Anthropic, or 9 more behind one SPI. Token streaming, tool calls, human approvals, and governance over WebSocket, SSE, gRPC, or WebTransport/HTTP3. Speaks MCP, A2A, and AG-UI.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sunglasses-dev-sunglasses",
+      "name": "Explore sunglasses-dev/sunglasses",
+      "source": "https://github.com/sunglasses-dev/sunglasses",
+      "problem": "Open source input firewall for AI agents, beta. A local scanner checks text, code, PDFs, images, QR codes, audio and video with 1,569 patterns across 117 categories and reports findings and incomplete scans. A Claude Code hook blocks secret material in tool calls and the paths and hosts your policy lists before tools run.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-john433-max-orbit-ai",
+      "name": "Explore John433-max/ORBIT-AI",
+      "source": "https://github.com/John433-max/ORBIT-AI",
+      "problem": "ORBIT unified educational LLM + agents platform: TinyLM, tools, RAG, web UI, science/math, thinking loop",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-coreplanelabs-switchboard",
+      "name": "Explore coreplanelabs/switchboard",
+      "source": "https://github.com/coreplanelabs/switchboard",
+      "problem": "Mention it in Slack and an agent reviews the PR, ships the fix, or answers the question \u2014 on the model you choose, with its tools running where you decide.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-viknesh2005greatstastrophysist-prog-student-success-signal-desk",
+      "name": "Explore viknesh2005greatstastrophysist-prog/student-success-signal-desk",
+      "source": "https://github.com/viknesh2005greatstastrophysist-prog/student-success-signal-desk",
+      "problem": "AURA: an agentic AI early-warning system for student success. LLM agents (Groq, Gemini, local Qwen) gather evidence, score risk, investigate with tools and draft support plans; a mentor approves every plan. Streamlit + TypeScript + PostgreSQL.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codextde-godmode-bot",
+      "name": "Explore codextde/godmode-bot",
+      "source": "https://github.com/codextde/godmode-bot",
+      "problem": "An AI teammate you can trust to get work done \u2014 Claude Code + browser-use + a secure vault for your logins & 2FA. Persistent agents with memory, routines and delegation. Desktop app (macOS/Windows/Linux) + web dashboard. MIT.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-calmingstorm-odin",
+      "name": "Explore Calmingstorm/Odin",
+      "source": "https://github.com/Calmingstorm/Odin",
+      "problem": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedules jobs and delegates to sub-agents, within per-user host access, a command governor and an audit log. Web management UI. Works with a ChatGPT subscription, OpenAI-compatible APIs or Ollama. Desktop app: Odin Desktop.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-balakumardev-foxpilot",
+      "name": "Explore balakumardev/foxpilot",
+      "source": "https://github.com/balakumardev/foxpilot",
+      "problem": "FoxPilot \u2014 AI browser automation for Firefox via MCP (Firefox extension + MCP server)",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nambok-mentedb",
+      "name": "Explore nambok/mentedb",
+      "source": "https://github.com/nambok/mentedb",
+      "problem": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pyintel-pyintel-mem",
+      "name": "Explore Pyintel/pyintel-mem",
+      "source": "https://github.com/Pyintel/pyintel-mem",
+      "problem": "Sub-millisecond single-file binary vector (SQ8/BQ1 HNSW), BM25 lexical, and temporal knowledge graph memory for local AI agents (.pmem)",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kvmem-kvmem",
+      "name": "Explore kvmem/kvmem",
+      "source": "https://github.com/kvmem/kvmem",
+      "problem": "KVMem virtualizes KV memory across inference backends to make ultra-long-context local AI accessible on limited hardware.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ghalrym-kadan",
+      "name": "Explore ghalrym/Kadan",
+      "source": "https://github.com/ghalrym/Kadan",
+      "problem": "My AI server dashboard allowing me to do local inference from one service rather than having to manage multiple services like ollama / llama.cpp / vllm / comfy ui / FreeToken",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iyulab-lm-supply",
+      "name": "Explore iyulab/lm-supply",
+      "source": "https://github.com/iyulab/lm-supply",
+      "problem": ".NET library for on-demand local AI model inference \u2014 zero bundled models, lazy loading, hardware-aware GPU/CPU selection, 10 task types including embeddings, generation, vision, and audio.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-emiliodavola-sofer",
+      "name": "Explore emiliodavola/sofer",
+      "source": "https://github.com/emiliodavola/sofer",
+      "problem": "Turn raw datasets into documented, profiled, and quality-assessed packages (codebooks, semantic inference, PII detection, validation, and an optional MCP server for AI agents) publishable to Hugging Face Hub or any local directory.",
+      "created_on": "2026-10-17",
+      "policy": "review-before-activation"
+    }
+  ]
+}
