@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-18",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "dyyz1993-xbrowser",
+      "title": "dyyz1993/xbrowser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dyyz1993/xbrowser",
+      "description": "AI Agent-friendly browser automation CLI \u00b7 35+ commands \u00b7 70+ plugins \u00b7 single binary, zero setup \uff5c \u6d4f\u89c8\u5668\u81ea\u52a8\u5316\u547d\u4ee4\u884c\u5de5\u5177\uff0c\u4e3a AI Agent \u800c\u751f",
+      "stars": 4,
+      "updated_at": "2026-10-18T04:29:25Z"
+    },
+    {
+      "id": "lynox-ai-lynox",
+      "title": "lynox-ai/lynox",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lynox-ai/lynox",
+      "description": "Run your business, not your tools \u2014 AI runtime for CRM, workflows, research, monitoring. Self-hosted or managed hosting. Source-available (ELv2).",
+      "stars": 3,
+      "updated_at": "2026-10-18T04:29:23Z"
+    },
+    {
+      "id": "hcipengm-cogneva",
+      "title": "hcipengm/cogneva",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hcipengm/cogneva",
+      "description": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrapping \u00b7 Real-autonomous \u00b7 Omni-evolution",
+      "stars": 32,
+      "updated_at": "2026-10-18T04:27:30Z"
+    },
+    {
+      "id": "yrn-dev-operator",
+      "title": "yrn-dev/Operator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/yrn-dev/Operator",
+      "description": "Terminal AI coding agent \u2014 Autonomous AI Agent for Linux. Supports Alem AI + Ollama. Works with code, research, automation, DevOps, data analysis, and content generation.",
+      "stars": 10,
+      "updated_at": "2026-10-18T04:27:50Z"
+    },
+    {
+      "id": "neomjs-neo-agent-skills",
+      "title": "neomjs/neo-agent-skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/neomjs/neo-agent-skills",
+      "description": "Install the workflow substrate a cross-model AI team actually runs on: ticket intake, PR review gates, lane coordination and guards, versioned as a package. The skills Neo.mjs maintainers load every session \u2014 materialized into your repo, not copied.",
+      "stars": 11,
+      "updated_at": "2026-10-18T04:25:26Z"
+    },
+    {
+      "id": "activeing123-mcptoon",
+      "title": "activeing123/mcptoon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/activeing123/mcptoon",
+      "description": "One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 tokens (-99.2%, measured), schemas stay out of context. One config for Claude Code, Codex, Cursor, every agent. 341KB, pure Python. | \u96f6\u4f9d\u8d56 CLI\uff1a\u7ba1\u6240\u6709 MCP \u5de5\u5177\u4e0e\u6280\u80fd\uff0c\u5de5\u5177\u53d1\u73b0\u7701 99.2% token\u3002",
+      "stars": 281,
+      "updated_at": "2026-10-18T04:29:34Z"
+    },
+    {
+      "id": "substructureai-subs",
+      "title": "substructureai/subs",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/substructureai/subs",
+      "description": "subs is an agent harness for the cloud. It runs an unprivileged agent loop and uses MCP servers for executing tools. Use it locally, remotely and with your team. You can customize everything.",
+      "stars": 13,
+      "updated_at": "2026-10-18T04:29:34Z"
+    },
+    {
+      "id": "drthyang-web-refinement",
+      "title": "drthyang/web-refinement",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/drthyang/web-refinement",
+      "description": "MATERIA \u2014 Rietveld, single-crystal F\u00b2, magnetic-structure and PDF refinement in the browser on one pure-TypeScript engine, with an in-app AI Agent (42 tools; every change approved and undoable; skills read on demand) and a 40-tool MCP server.",
+      "stars": 0,
+      "updated_at": "2026-10-18T04:28:53Z"
+    },
+    {
+      "id": "victorious93-droidcommand-ai",
+      "title": "Victorious93/droidcommand-AI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Victorious93/droidcommand-AI",
+      "description": "Android AI agent hub: JVM-tested tool engine, Forge builds, and fleet IPC to Termux/security companions.",
+      "stars": 0,
+      "updated_at": "2026-10-18T04:28:33Z"
+    },
+    {
+      "id": "calmingstorm-odin",
+      "title": "Calmingstorm/Odin",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Calmingstorm/Odin",
+      "description": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedules jobs and delegates to sub-agents, within per-user host access, a command governor and an audit log. Web management UI. Works with a ChatGPT subscription, OpenAI-compatible APIs or Ollama. Desktop app: Odin Desktop.",
+      "stars": 3,
+      "updated_at": "2026-10-18T04:21:26Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2040,
+      "updated_at": "2026-10-18T04:20:19Z"
+    },
+    {
+      "id": "astrix-kernel-astra-agent-ai",
+      "title": "astrix-kernel/Astra-Agent-AI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/astrix-kernel/Astra-Agent-AI",
+      "description": "\ud83d\udc4b Welcome! Astrix Agent is local-first AI: 1492+ models depending on the provider you use, browser automation, multi-agent planning, long-term memory, workspace manager, 11-tab settings, 5 modes, bilingual ID/EN, image vision. 100% private. Thanks for visiting! Setup in README.",
+      "stars": 2,
+      "updated_at": "2026-10-18T04:19:48Z"
+    },
+    {
+      "id": "sametbasbug-equinox-local",
+      "title": "sametbasbug/equinox-local",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sametbasbug/equinox-local",
+      "description": "Local-first AI workspace for ChatGPT: MCP tunnel, native macOS/Windows control, browser automation, Telegram tasks and signed updates.",
+      "stars": 3,
+      "updated_at": "2026-10-18T04:08:41Z"
+    },
+    {
+      "id": "shdra06-ai-mind-map",
+      "title": "shdra06/ai-mind-map",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shdra06/ai-mind-map",
+      "description": "\ud83e\udde0 MCP Server that reduces AI coding agent token usage by 80-99%. Knowledge graph + persistent memory + smart compression for Claude, Cursor, Copilot, and any MCP-compatible agent.",
+      "stars": 3,
+      "updated_at": "2026-10-18T04:20:49Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-18T04:09:53Z"
+    },
+    {
+      "id": "poweredbypugs-stella-ai-astrology-system",
+      "title": "PoweredbyPugs/Stella-AI-Astrology-System",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PoweredbyPugs/Stella-AI-Astrology-System",
+      "description": "Stella is a single Python MCP server that gives an AI assistant a complete astrological practice: 89 tools spanning ephemeris computation, Hellenistic and Vedic timing techniques, cosmobiology, 9 Star Ki, the I Ching, a Neo4j knowledge graph built from 38 source texts, a three-axis chart reading generator, and a learning memory system.",
+      "stars": 0,
+      "updated_at": "2026-10-18T03:50:57Z"
+    },
+    {
+      "id": "lukehalleran-ai-assistant-framework",
+      "title": "lukehalleran/ai-assistant-framework",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lukehalleran/ai-assistant-framework",
+      "description": "Local-first personal AI agent: persistent multi-collection memory, benchmarked multi-stage RAG with cross-encoder reranking, NetworkX knowledge graph, ReAct tool loop, literature-backed synthesis validation, human-gated self-improvement. FastAPI + React UI.",
+      "stars": 0,
+      "updated_at": "2026-10-18T03:42:46Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-10-18T03:30:43Z"
+    },
+    {
+      "id": "ghalrym-kadan",
+      "title": "ghalrym/Kadan",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ghalrym/Kadan",
+      "description": "My AI server dashboard allowing me to do local inference from one service rather than having to manage multiple services like ollama / llama.cpp / vllm / comfy ui / FreeToken",
+      "stars": 2,
+      "updated_at": "2026-10-18T04:28:53Z"
+    },
+    {
+      "id": "myrgic-cogos",
+      "title": "myrgic/cogos",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/myrgic/cogos",
+      "description": "Local Go daemon that gives AI tools persistent shared workspace state. Context assembly, multi-provider inference routing, hash-chained ledger, MCP server.",
+      "stars": 2,
+      "updated_at": "2026-10-18T04:21:40Z"
+    },
+    {
+      "id": "chezgoulet-phonon",
+      "title": "chezgoulet/phonon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/chezgoulet/phonon",
+      "description": "Old phones as inference servers for local agentic AI.",
+      "stars": 3,
+      "updated_at": "2026-10-18T04:21:35Z"
+    },
+    {
+      "id": "qamotech-aug",
+      "title": "qamotech/aug",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/qamotech/aug",
+      "description": "An interactive guide to AI models, deployment options, prompt workflows, and local inference.",
+      "stars": 0,
+      "updated_at": "2026-10-18T04:13:04Z"
+    },
+    {
+      "id": "tokatlas-tokatlas.github.io",
+      "title": "tokatlas/tokatlas.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tokatlas/tokatlas.github.io",
+      "description": "Token Atlas: source-cited local LLM inference performance, maintained by an AI agent",
+      "stars": 0,
+      "updated_at": "2026-10-18T04:06:57Z"
+    }
+  ]
+}
