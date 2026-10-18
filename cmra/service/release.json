@@ -1,0 +1,11 @@
+{
+  "component": "CMRA Service",
+  "release": "1.4.1",
+  "status": "candidate",
+  "schema_version": 1,
+  "rollback_baseline": "0.9.0",
+  "capabilities": ["sqlite-durable-state", "monotonic-state-version", "durable-checkpoints", "approval-gated-rollback", "compare-and-swap-rollback", "atomic-state-and-audit-transaction", "hash-chained-audit", "integrity-verification"],
+  "network_transport": false,
+  "automatic_rollback": false,
+  "production_promoted": false
+}
