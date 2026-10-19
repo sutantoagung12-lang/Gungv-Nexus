@@ -8,7 +8,7 @@
     "auto_install": false,
     "auto_merge_into_pool": true
   },
-  "count": 1215,
+  "count": 1216,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -9632,7 +9632,22 @@
       "trust": "untrusted",
       "requires_validation": true,
       "integration_mode": "metadata-only"
+    },
+    {
+      "repository": "morluto/rea",
+      "capability": "discovered",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 328407,
+      "forks": 83124,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-10-19T08:59:39Z",
+      "url": "https://github.com/morluto/rea",
+      "score": 1.5,
+      "trust": "untrusted",
+      "requires_validation": true,
+      "integration_mode": "metadata-only"
     }
   ],
-  "last_update": "2026-10-12"
+  "last_update": "2026-10-19"
 }
