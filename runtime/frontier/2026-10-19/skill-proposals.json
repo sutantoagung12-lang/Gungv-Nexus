@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-19",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-keepoak-branch-agent",
+      "name": "Explore KeepOak/Branch-Agent",
+      "source": "https://github.com/KeepOak/Branch-Agent",
+      "problem": "Branch: your own AI agents that actually do the work, on your computer and your phone. Free, open source, easy for anyone.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-daizedong-daily-hotspots",
+      "name": "Explore DaizeDong/daily-hotspots",
+      "source": "https://github.com/DaizeDong/daily-hotspots",
+      "problem": "\u6bcf\u65e5\u524d\u6cbf\u5546\u4e1a\u673a\u4f1a\u96f7\u8fbe: \u591a\u6e90\u91c7\u96c6\u2192\u5206\u7c7b\u8bc4\u5206\u2192\u8de8\u65e5\u53bb\u91cd\u2192Discord \u5206\u7ea7\u63a8\u9001+\u79c1\u6709\u5f52\u6863.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mahmoudmohamedxx1-hue-storypilot",
+      "name": "Explore mahmoudmohamedxx1-hue/storypilot",
+      "source": "https://github.com/mahmoudmohamedxx1-hue/storypilot",
+      "problem": "Hourly AI storytelling pipeline: Google Sheet stories -> cinematic vertical MP4s (keyless: GLM Flash + Edge-TTS + Pollinations + MoviePy) -> YouTube/TikTok/Instagram. Includes the Kimi-style agent web app.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lpalbou-abstractassistant",
+      "name": "Explore lpalbou/AbstractAssistant",
+      "source": "https://github.com/lpalbou/AbstractAssistant",
+      "problem": "Your AI assistant on the Mac menu bar, iPhone and Apple Watch. A thin client of AbstractGateway: talk or type, hands-free voice conversations, automations, and sessions that follow you across devices. Any provider and model, local or cloud.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-xalgorix-xalgorix",
+      "name": "Explore xalgorix/xalgorix",
+      "source": "https://github.com/xalgorix/xalgorix",
+      "problem": "Autonomous AI pentesting agents \u2014 real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-speculcom-ai-agent-guide",
+      "name": "Explore speculcom/ai-agent-guide",
+      "source": "https://github.com/speculcom/ai-agent-guide",
+      "problem": "Agent \u6863\u6848\u5185\u5bb9\u4ed3 \u00b7 34 \u4efd\u6863\u6848\u6309 agents / harness / tools \u4e09\u5206\u533a\uff088 \u7ef4\u5ea6\u56fa\u5b9a\u8bb0\u5f55\u80fd\u529b\u8fb9\u754c\u3001\u8fd0\u884c\u4f4d\u7f6e\u3001\u4ef7\u683c\u4e0e\u5b98\u65b9\u8bc1\u636e\uff1b\u4e0d\u7ed9\u603b\u5206\u6392\u540d\uff0c\u628a\u300c\u672a\u77e5\u300d\u5f53\u4f5c\u5408\u6cd5\u7b54\u6848\uff09",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-reefbarman-agentlink",
+      "name": "Explore reefbarman/agentlink",
+      "source": "https://github.com/reefbarman/agentlink",
+      "problem": "An open-source coding-agent harness for VS Code, with Desktop and CLI previews. Bring your own models, use editor intelligence, review diffs, steer autonomy, and connect tools through MCP.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-srhsoulja-backrooms",
+      "name": "Explore SRHSoulja/backrooms",
+      "source": "https://github.com/SRHSoulja/backrooms",
+      "problem": "A public AI-agent world whose map grows only from corroborated evidence: residents research with read-only tools, findings are judged across independent sources, rooms are built from agreement and retracted by dispute. Runs on a laptop and free-tier models.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-coreplanelabs-switchboard",
+      "name": "Explore coreplanelabs/switchboard",
+      "source": "https://github.com/coreplanelabs/switchboard",
+      "problem": "Mention it in Slack and an agent reviews the PR, ships the fix, or answers the question \u2014 on the model you choose, with its tools running where you decide.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-drthyang-nebula3d",
+      "name": "Explore drthyang/nebula3d",
+      "source": "https://github.com/drthyang/nebula3d",
+      "problem": "NEBULA3D \u2014 3D diffuse-scattering cleanup and 3D-\u0394PDF in Python or entirely in the browser, with NEBULA Pilot: an AI agent (22 tools) that measures, grades and tunes every pipeline stage and writes a measured report, on local or cloud LLMs.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-coderback-windrush",
+      "name": "Explore coderback/Windrush",
+      "source": "https://github.com/coderback/Windrush",
+      "problem": "Windrush is an AI career transition platform that parses CVs, scores AI automation exposure, finds and ranks matching jobs, generates tailored CVs/cover letters, and can auto-apply via browser automation with built-in guardrails and audit logging.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-thintsing-agent-checkin",
+      "name": "Explore thintsing/agent-checkin",
+      "source": "https://github.com/thintsing/agent-checkin",
+      "problem": "\u591a\u5e73\u53f0 AI \u667a\u80fd\u4f53\u6bcf\u65e5\u7b7e\u5230\u81ea\u52a8\u5316 \uff5c \u914d\u65b9\u9a71\u52a8 + CDP\uff1a\u7ad9\u70b9\u77e5\u8bc6\u5916\u7f6e\u4e3a YAML\uff0c\u51ed\u8bc1\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002Automate daily check-ins for WorkBuddy / Qoder CN / Trae CN \u2014 recipe-driven, credentials never leave the browser.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mpawlowski5467-loom",
+      "name": "Explore Mpawlowski5467/Loom",
+      "source": "https://github.com/Mpawlowski5467/Loom",
+      "problem": "A local-first AI memory system with a multi-agent backbone and a visual knowledge graph.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pratibhabharti18-memory-bank",
+      "name": "Explore pratibhabharti18/Memory-Bank",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "problem": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-miniaxolotl-grove",
+      "name": "Explore miniaxolotl/grove",
+      "source": "https://github.com/miniaxolotl/grove",
+      "problem": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-windsander-mebular",
+      "name": "Explore Windsander/Mebular",
+      "source": "https://github.com/Windsander/Mebular",
+      "problem": "The decentralized memory layer for AI agents \u2014 offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-shreeharsh-patil-on-device-llm",
+      "name": "Explore shreeharsh-patil/On-Device-LLM",
+      "source": "https://github.com/shreeharsh-patil/On-Device-LLM",
+      "problem": "A privacy-first Android AI assistant powered by Qwen, Dolphin, and other open-source LLMs. Run AI entirely offline with llama.cpp and LiteRT, multimodal vision, local chat history, and optimized on-device inference. No cloud. No compromises.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sion971-ace-step-studio",
+      "name": "Explore Sion971/ace-step-studio",
+      "source": "https://github.com/Sion971/ace-step-studio",
+      "problem": "\ud83c\udfa7 Open-Source Local AI Music Studio (Linux and Winows Platform) Professional React/Vite + FastAPI GUI for ACE-Step 1.5. Features: Fast LM/DiT inference, Lyrics Generator, Cover/Remix, Stems & Audio Tools. Free forever",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-antsarerad-opti-oignon",
+      "name": "Explore AntsAreRad/opti-oignon",
+      "source": "https://github.com/AntsAreRad/opti-oignon",
+      "problem": "Local-first AI inference platform for LLMs \u2014 private chat, RAG, defense-in-depth security (Daily/Bulbe, encryption at rest, 2FA), on your own hardware. SvelteKit + FastAPI",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-research-center-for-smart-learning-rcsl-rcsl-ai-nexus",
+      "name": "Explore Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus",
+      "source": "https://github.com/Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus",
+      "problem": "Self-hosted LLM gateway and management platform (FastAPI + Next.js) for local model inference, multi-tenant access control, and usage analytics.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dahai80-fusion-gateway",
+      "name": "Explore dahai80/fusion-gateway",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "problem": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "created_on": "2026-10-19",
+      "policy": "review-before-activation"
+    }
+  ]
+}

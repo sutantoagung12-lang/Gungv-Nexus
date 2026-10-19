@@ -1,0 +1,30 @@
+# Daily Frontier — 2026-10-19
+
+Discovered nodes: 25
+
+## Nodes
+- [KeepOak/Branch-Agent](https://github.com/KeepOak/Branch-Agent) — Branch: your own AI agents that actually do the work, on your computer and your phone. Free, open source, easy for anyone.
+- [DaizeDong/daily-hotspots](https://github.com/DaizeDong/daily-hotspots) — 每日前沿商业机会雷达: 多源采集→分类评分→跨日去重→Discord 分级推送+私有归档.
+- [mahmoudmohamedxx1-hue/storypilot](https://github.com/mahmoudmohamedxx1-hue/storypilot) — Hourly AI storytelling pipeline: Google Sheet stories -> cinematic vertical MP4s (keyless: GLM Flash + Edge-TTS + Pollinations + MoviePy) -> YouTube/TikTok/Instagram. Includes the Kimi-style agent web app.
+- [lpalbou/AbstractAssistant](https://github.com/lpalbou/AbstractAssistant) — Your AI assistant on the Mac menu bar, iPhone and Apple Watch. A thin client of AbstractGateway: talk or type, hands-free voice conversations, automations, and sessions that follow you across devices. Any provider and model, local or cloud.
+- [xalgorix/xalgorix](https://github.com/xalgorix/xalgorix) — Autonomous AI pentesting agents — real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.
+- [speculcom/ai-agent-guide](https://github.com/speculcom/ai-agent-guide) — Agent 档案内容仓 · 34 份档案按 agents / harness / tools 三分区（8 维度固定记录能力边界、运行位置、价格与官方证据；不给总分排名，把「未知」当作合法答案）
+- [reefbarman/agentlink](https://github.com/reefbarman/agentlink) — An open-source coding-agent harness for VS Code, with Desktop and CLI previews. Bring your own models, use editor intelligence, review diffs, steer autonomy, and connect tools through MCP.
+- [SRHSoulja/backrooms](https://github.com/SRHSoulja/backrooms) — A public AI-agent world whose map grows only from corroborated evidence: residents research with read-only tools, findings are judged across independent sources, rooms are built from agreement and retracted by dispute. Runs on a laptop and free-tier models.
+- [coreplanelabs/switchboard](https://github.com/coreplanelabs/switchboard) — Mention it in Slack and an agent reviews the PR, ships the fix, or answers the question — on the model you choose, with its tools running where you decide.
+- [drthyang/nebula3d](https://github.com/drthyang/nebula3d) — NEBULA3D — 3D diffuse-scattering cleanup and 3D-ΔPDF in Python or entirely in the browser, with NEBULA Pilot: an AI agent (22 tools) that measures, grades and tunes every pipeline stage and writes a measured report, on local or cloud LLMs.
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — Lightpanda: the headless browser designed for AI and automation
+- [coderback/Windrush](https://github.com/coderback/Windrush) — Windrush is an AI career transition platform that parses CVs, scores AI automation exposure, finds and ranks matching jobs, generates tailored CVs/cover letters, and can auto-apply via browser automation with built-in guardrails and audit logging.
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI
+- [DeviousDevv303/forgeclaw](https://github.com/DeviousDevv303/forgeclaw) — Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.
+- [thintsing/agent-checkin](https://github.com/thintsing/agent-checkin) — 多平台 AI 智能体每日签到自动化 ｜ 配方驱动 + CDP：站点知识外置为 YAML，凭证不出浏览器。Automate daily check-ins for WorkBuddy / Qoder CN / Trae CN — recipe-driven, credentials never leave the browser.
+- [Mpawlowski5467/Loom](https://github.com/Mpawlowski5467/Loom) — A local-first AI memory system with a multi-agent backbone and a visual knowledge graph.
+- [pratibhabharti18/Memory-Bank](https://github.com/pratibhabharti18/Memory-Bank) — AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.
+- [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) — AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.
+- [miniaxolotl/grove](https://github.com/miniaxolotl/grove) — Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.
+- [Windsander/Mebular](https://github.com/Windsander/Mebular) — The decentralized memory layer for AI agents — offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.
+- [shreeharsh-patil/On-Device-LLM](https://github.com/shreeharsh-patil/On-Device-LLM) — A privacy-first Android AI assistant powered by Qwen, Dolphin, and other open-source LLMs. Run AI entirely offline with llama.cpp and LiteRT, multimodal vision, local chat history, and optimized on-device inference. No cloud. No compromises.
+- [Sion971/ace-step-studio](https://github.com/Sion971/ace-step-studio) — 🎧 Open-Source Local AI Music Studio (Linux and Winows Platform) Professional React/Vite + FastAPI GUI for ACE-Step 1.5. Features: Fast LM/DiT inference, Lyrics Generator, Cover/Remix, Stems & Audio Tools. Free forever
+- [AntsAreRad/opti-oignon](https://github.com/AntsAreRad/opti-oignon) — Local-first AI inference platform for LLMs — private chat, RAG, defense-in-depth security (Daily/Bulbe, encryption at rest, 2FA), on your own hardware. SvelteKit + FastAPI
+- [Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus](https://github.com/Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus) — Self-hosted LLM gateway and management platform (FastAPI + Next.js) for local model inference, multi-tenant access control, and usage analytics.
+- [dahai80/fusion-gateway](https://github.com/dahai80/fusion-gateway) — Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.

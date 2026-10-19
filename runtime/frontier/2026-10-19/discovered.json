@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-19",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "keepoak-branch-agent",
+      "title": "KeepOak/Branch-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/KeepOak/Branch-Agent",
+      "description": "Branch: your own AI agents that actually do the work, on your computer and your phone. Free, open source, easy for anyone.",
+      "stars": 1,
+      "updated_at": "2026-10-19T04:37:39Z"
+    },
+    {
+      "id": "daizedong-daily-hotspots",
+      "title": "DaizeDong/daily-hotspots",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DaizeDong/daily-hotspots",
+      "description": "\u6bcf\u65e5\u524d\u6cbf\u5546\u4e1a\u673a\u4f1a\u96f7\u8fbe: \u591a\u6e90\u91c7\u96c6\u2192\u5206\u7c7b\u8bc4\u5206\u2192\u8de8\u65e5\u53bb\u91cd\u2192Discord \u5206\u7ea7\u63a8\u9001+\u79c1\u6709\u5f52\u6863.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:37:29Z"
+    },
+    {
+      "id": "mahmoudmohamedxx1-hue-storypilot",
+      "title": "mahmoudmohamedxx1-hue/storypilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mahmoudmohamedxx1-hue/storypilot",
+      "description": "Hourly AI storytelling pipeline: Google Sheet stories -> cinematic vertical MP4s (keyless: GLM Flash + Edge-TTS + Pollinations + MoviePy) -> YouTube/TikTok/Instagram. Includes the Kimi-style agent web app.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:36:24Z"
+    },
+    {
+      "id": "lpalbou-abstractassistant",
+      "title": "lpalbou/AbstractAssistant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lpalbou/AbstractAssistant",
+      "description": "Your AI assistant on the Mac menu bar, iPhone and Apple Watch. A thin client of AbstractGateway: talk or type, hands-free voice conversations, automations, and sessions that follow you across devices. Any provider and model, local or cloud.",
+      "stars": 3,
+      "updated_at": "2026-10-19T04:35:58Z"
+    },
+    {
+      "id": "xalgorix-xalgorix",
+      "title": "xalgorix/xalgorix",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xalgorix/xalgorix",
+      "description": "Autonomous AI pentesting agents \u2014 real-time reconnaissance, vulnerability detection, and exploitation orchestration. Go + TypeScript.",
+      "stars": 1213,
+      "updated_at": "2026-10-19T04:35:38Z"
+    },
+    {
+      "id": "speculcom-ai-agent-guide",
+      "title": "speculcom/ai-agent-guide",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/speculcom/ai-agent-guide",
+      "description": "Agent \u6863\u6848\u5185\u5bb9\u4ed3 \u00b7 34 \u4efd\u6863\u6848\u6309 agents / harness / tools \u4e09\u5206\u533a\uff088 \u7ef4\u5ea6\u56fa\u5b9a\u8bb0\u5f55\u80fd\u529b\u8fb9\u754c\u3001\u8fd0\u884c\u4f4d\u7f6e\u3001\u4ef7\u683c\u4e0e\u5b98\u65b9\u8bc1\u636e\uff1b\u4e0d\u7ed9\u603b\u5206\u6392\u540d\uff0c\u628a\u300c\u672a\u77e5\u300d\u5f53\u4f5c\u5408\u6cd5\u7b54\u6848\uff09",
+      "stars": 2,
+      "updated_at": "2026-10-19T04:37:53Z"
+    },
+    {
+      "id": "reefbarman-agentlink",
+      "title": "reefbarman/agentlink",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/reefbarman/agentlink",
+      "description": "An open-source coding-agent harness for VS Code, with Desktop and CLI previews. Bring your own models, use editor intelligence, review diffs, steer autonomy, and connect tools through MCP.",
+      "stars": 2,
+      "updated_at": "2026-10-19T04:36:56Z"
+    },
+    {
+      "id": "srhsoulja-backrooms",
+      "title": "SRHSoulja/backrooms",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SRHSoulja/backrooms",
+      "description": "A public AI-agent world whose map grows only from corroborated evidence: residents research with read-only tools, findings are judged across independent sources, rooms are built from agreement and retracted by dispute. Runs on a laptop and free-tier models.",
+      "stars": 1,
+      "updated_at": "2026-10-19T04:36:55Z"
+    },
+    {
+      "id": "coreplanelabs-switchboard",
+      "title": "coreplanelabs/switchboard",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/coreplanelabs/switchboard",
+      "description": "Mention it in Slack and an agent reviews the PR, ships the fix, or answers the question \u2014 on the model you choose, with its tools running where you decide.",
+      "stars": 4,
+      "updated_at": "2026-10-19T04:36:36Z"
+    },
+    {
+      "id": "drthyang-nebula3d",
+      "title": "drthyang/nebula3d",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/drthyang/nebula3d",
+      "description": "NEBULA3D \u2014 3D diffuse-scattering cleanup and 3D-\u0394PDF in Python or entirely in the browser, with NEBULA Pilot: an AI agent (22 tools) that measures, grades and tunes every pipeline stage and writes a measured report, on local or cloud LLMs.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:35:55Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 36692,
+      "updated_at": "2026-10-19T04:35:18Z"
+    },
+    {
+      "id": "coderback-windrush",
+      "title": "coderback/Windrush",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/coderback/Windrush",
+      "description": "Windrush is an AI career transition platform that parses CVs, scores AI automation exposure, finds and ranks matching jobs, generates tailored CVs/cover letters, and can auto-apply via browser automation with built-in guardrails and audit logging.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:25:04Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23225,
+      "updated_at": "2026-10-19T04:28:30Z"
+    },
+    {
+      "id": "deviousdevv303-forgeclaw",
+      "title": "DeviousDevv303/forgeclaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "description": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:19:15Z"
+    },
+    {
+      "id": "thintsing-agent-checkin",
+      "title": "thintsing/agent-checkin",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/thintsing/agent-checkin",
+      "description": "\u591a\u5e73\u53f0 AI \u667a\u80fd\u4f53\u6bcf\u65e5\u7b7e\u5230\u81ea\u52a8\u5316 \uff5c \u914d\u65b9\u9a71\u52a8 + CDP\uff1a\u7ad9\u70b9\u77e5\u8bc6\u5916\u7f6e\u4e3a YAML\uff0c\u51ed\u8bc1\u4e0d\u51fa\u6d4f\u89c8\u5668\u3002Automate daily check-ins for WorkBuddy / Qoder CN / Trae CN \u2014 recipe-driven, credentials never leave the browser.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:12:50Z"
+    },
+    {
+      "id": "mpawlowski5467-loom",
+      "title": "Mpawlowski5467/Loom",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mpawlowski5467/Loom",
+      "description": "A local-first AI memory system with a multi-agent backbone and a visual knowledge graph.",
+      "stars": 2,
+      "updated_at": "2026-10-19T04:24:16Z"
+    },
+    {
+      "id": "pratibhabharti18-memory-bank",
+      "title": "pratibhabharti18/Memory-Bank",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "description": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "stars": 1,
+      "updated_at": "2026-10-19T04:16:52Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-19T04:10:33Z"
+    },
+    {
+      "id": "miniaxolotl-grove",
+      "title": "miniaxolotl/grove",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/miniaxolotl/grove",
+      "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "stars": 1,
+      "updated_at": "2026-10-19T04:09:02Z"
+    },
+    {
+      "id": "windsander-mebular",
+      "title": "Windsander/Mebular",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Windsander/Mebular",
+      "description": "The decentralized memory layer for AI agents \u2014 offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.",
+      "stars": 1,
+      "updated_at": "2026-10-19T03:57:25Z"
+    },
+    {
+      "id": "shreeharsh-patil-on-device-llm",
+      "title": "shreeharsh-patil/On-Device-LLM",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shreeharsh-patil/On-Device-LLM",
+      "description": "A privacy-first Android AI assistant powered by Qwen, Dolphin, and other open-source LLMs. Run AI entirely offline with llama.cpp and LiteRT, multimodal vision, local chat history, and optimized on-device inference. No cloud. No compromises.",
+      "stars": 2,
+      "updated_at": "2026-10-19T04:31:17Z"
+    },
+    {
+      "id": "sion971-ace-step-studio",
+      "title": "Sion971/ace-step-studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Sion971/ace-step-studio",
+      "description": "\ud83c\udfa7 Open-Source Local AI Music Studio (Linux and Winows Platform) Professional React/Vite + FastAPI GUI for ACE-Step 1.5. Features: Fast LM/DiT inference, Lyrics Generator, Cover/Remix, Stems & Audio Tools. Free forever",
+      "stars": 1,
+      "updated_at": "2026-10-19T04:30:25Z"
+    },
+    {
+      "id": "antsarerad-opti-oignon",
+      "title": "AntsAreRad/opti-oignon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AntsAreRad/opti-oignon",
+      "description": "Local-first AI inference platform for LLMs \u2014 private chat, RAG, defense-in-depth security (Daily/Bulbe, encryption at rest, 2FA), on your own hardware. SvelteKit + FastAPI",
+      "stars": 6,
+      "updated_at": "2026-10-19T04:13:43Z"
+    },
+    {
+      "id": "research-center-for-smart-learning-rcsl-rcsl-ai-nexus",
+      "title": "Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus",
+      "description": "Self-hosted LLM gateway and management platform (FastAPI + Next.js) for local model inference, multi-tenant access control, and usage analytics.",
+      "stars": 0,
+      "updated_at": "2026-10-19T04:03:33Z"
+    },
+    {
+      "id": "dahai80-fusion-gateway",
+      "title": "dahai80/fusion-gateway",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "description": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "stars": 2,
+      "updated_at": "2026-10-19T04:00:43Z"
+    }
+  ]
+}
