@@ -1,0 +1,26 @@
+# Daily Frontier — 2026-10-20
+
+Discovered nodes: 21
+
+## Nodes
+- [Hau47087/ai-agent-automation](https://github.com/Hau47087/ai-agent-automation) — Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/
+- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- [DonaldSchwarz4243/multizen-browser](https://github.com/DonaldSchwarz4243/multizen-browser) — Anti-detect browser for AI agents and human operators. Isolated Chromium profiles (cookies, fingerprint, proxy), driven through MCP.
+- [lynox-ai/lynox](https://github.com/lynox-ai/lynox) — Run your business, not your tools — AI runtime for CRM, workflows, research, monitoring. Self-hosted or managed hosting. Source-available (ELv2).
+- [Can393/calfkit-sdk](https://github.com/Can393/calfkit-sdk) — 🐮 Build distributed, event-driven agents
+- [Castillo54/lintlang](https://github.com/Castillo54/lintlang) — Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built for CI.
+- [nikoss20/awsome_kali_MCPServers](https://github.com/nikoss20/awsome_kali_MCPServers) — awsome kali MCPServers is a set of MCP servers tailored for Kali Linux
+- [tunsuy/agtpilot](https://github.com/tunsuy/agtpilot) — A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.
+- [Saber-CC/nodriver-mcp](https://github.com/Saber-CC/nodriver-mcp) — An undetected alternative to chrome-devtools-mcp. Powered by nodriver to bypass anti-bot detection while providing the same MCP browser automation tools for AI coding agents.
+- [DevinoSolutions/stealth-chrome-devtools-mcp](https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp) — Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — Lightpanda: the headless browser designed for AI and automation
+- [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) — AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.
+- [Orchard254/CogniGraph](https://github.com/Orchard254/CogniGraph) — CogniGraph — persistent memory MCP server for AI coding agents. Hybrid search + knowledge graph with self-healing provenance.
+- [PoweredbyPugs/Stella-AI-Astrology-System](https://github.com/PoweredbyPugs/Stella-AI-Astrology-System) — Stella is a single Python MCP server that gives an AI assistant a complete astrological practice: 89 tools spanning ephemeris computation, Hellenistic and Vedic timing techniques, cosmobiology, 9 Star Ki, the I Ching, a Neo4j knowledge graph built from 38 source texts, a three-axis chart reading generator, and a learning memory system.
+- [Windsander/Mebular](https://github.com/Windsander/Mebular) — The decentralized memory layer for AI agents — offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.
+- [miniaxolotl/grove](https://github.com/miniaxolotl/grove) — Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.
+- [Hassan-Butt4356/local-ai-voice-assistant-web](https://github.com/Hassan-Butt4356/local-ai-voice-assistant-web) — A fully local voice assistant with a web UI — speak or type your message, SenseVoice (FunASR) transcribes audio, Ollama generates a response, and Kyutai Pocket TTS speaks it back. Flask backend, browser-based mic recording, 100% offline/local inference.
+- [reaper1067MSX/llm-voice-advisor](https://github.com/reaper1067MSX/llm-voice-advisor) — Real-time Multimodal AI Gaming Voice Advisor & Tactical Co-pilot with VAD, local GPU Whisper STT, Natural TTS, Smart Visual Inference, and dynamic secondary-monitor dashboards.
+- [BlockRunAI/router-core](https://github.com/BlockRunAI/router-core) — Smart LLM router for AI agents — automatic model selection on every request: classify, hard-filter on capability, then rank on task fit, cost, speed and reliability. Deterministic and local, <1ms, no inference call. Powers ClawRouter, Franklin, Hermes and dsh-clawrouter.
+- [alexeyw/knotwork](https://github.com/alexeyw/knotwork) — An AI agent you build, not just prompt. Local-first Android agent with on-device inference (LiteRT-LM), pipelines you assemble yourself, MCP tool calling, and your confirmation before any risky action.
+- [ghalrym/Kadan](https://github.com/ghalrym/Kadan) — My AI server dashboard allowing me to do local inference from one service rather than having to manage multiple services like ollama / llama.cpp / vllm / comfy ui / FreeToken

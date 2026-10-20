@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-20",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-hau47087-ai-agent-automation",
+      "name": "Explore Hau47087/ai-agent-automation",
+      "source": "https://github.com/Hau47087/ai-agent-automation",
+      "problem": "Modular AI agent workflow automation platform with schedulers, tools, and observability. https://vmdeshpande.github.io/ai-automation-platform-website/",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-donaldschwarz4243-multizen-browser",
+      "name": "Explore DonaldSchwarz4243/multizen-browser",
+      "source": "https://github.com/DonaldSchwarz4243/multizen-browser",
+      "problem": "Anti-detect browser for AI agents and human operators. Isolated Chromium profiles (cookies, fingerprint, proxy), driven through MCP.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lynox-ai-lynox",
+      "name": "Explore lynox-ai/lynox",
+      "source": "https://github.com/lynox-ai/lynox",
+      "problem": "Run your business, not your tools \u2014 AI runtime for CRM, workflows, research, monitoring. Self-hosted or managed hosting. Source-available (ELv2).",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-can393-calfkit-sdk",
+      "name": "Explore Can393/calfkit-sdk",
+      "source": "https://github.com/Can393/calfkit-sdk",
+      "problem": "\ud83d\udc2e Build distributed, event-driven agents",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-castillo54-lintlang",
+      "name": "Explore Castillo54/lintlang",
+      "source": "https://github.com/Castillo54/lintlang",
+      "problem": "Static analysis for AI agent configs, tool descriptions, and system prompts \u2014 catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built for CI.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nikoss20-awsome_kali_mcpservers",
+      "name": "Explore nikoss20/awsome_kali_MCPServers",
+      "source": "https://github.com/nikoss20/awsome_kali_MCPServers",
+      "problem": "awsome kali MCPServers is a set of MCP servers tailored for Kali Linux",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tunsuy-agtpilot",
+      "name": "Explore tunsuy/agtpilot",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "problem": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-saber-cc-nodriver-mcp",
+      "name": "Explore Saber-CC/nodriver-mcp",
+      "source": "https://github.com/Saber-CC/nodriver-mcp",
+      "problem": "An undetected alternative to chrome-devtools-mcp. Powered by nodriver to bypass anti-bot detection while providing the same MCP browser automation tools for AI coding agents.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-orchard254-cognigraph",
+      "name": "Explore Orchard254/CogniGraph",
+      "source": "https://github.com/Orchard254/CogniGraph",
+      "problem": "CogniGraph \u2014 persistent memory MCP server for AI coding agents. Hybrid search + knowledge graph with self-healing provenance.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-poweredbypugs-stella-ai-astrology-system",
+      "name": "Explore PoweredbyPugs/Stella-AI-Astrology-System",
+      "source": "https://github.com/PoweredbyPugs/Stella-AI-Astrology-System",
+      "problem": "Stella is a single Python MCP server that gives an AI assistant a complete astrological practice: 89 tools spanning ephemeris computation, Hellenistic and Vedic timing techniques, cosmobiology, 9 Star Ki, the I Ching, a Neo4j knowledge graph built from 38 source texts, a three-axis chart reading generator, and a learning memory system.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-windsander-mebular",
+      "name": "Explore Windsander/Mebular",
+      "source": "https://github.com/Windsander/Mebular",
+      "problem": "The decentralized memory layer for AI agents \u2014 offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-miniaxolotl-grove",
+      "name": "Explore miniaxolotl/grove",
+      "source": "https://github.com/miniaxolotl/grove",
+      "problem": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hassan-butt4356-local-ai-voice-assistant-web",
+      "name": "Explore Hassan-Butt4356/local-ai-voice-assistant-web",
+      "source": "https://github.com/Hassan-Butt4356/local-ai-voice-assistant-web",
+      "problem": "A fully local voice assistant with a web UI \u2014 speak or type your message, SenseVoice (FunASR) transcribes audio, Ollama generates a response, and Kyutai Pocket TTS speaks it back. Flask backend, browser-based mic recording, 100% offline/local inference.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-reaper1067msx-llm-voice-advisor",
+      "name": "Explore reaper1067MSX/llm-voice-advisor",
+      "source": "https://github.com/reaper1067MSX/llm-voice-advisor",
+      "problem": "Real-time Multimodal AI Gaming Voice Advisor & Tactical Co-pilot with VAD, local GPU Whisper STT, Natural TTS, Smart Visual Inference, and dynamic secondary-monitor dashboards.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-blockrunai-router-core",
+      "name": "Explore BlockRunAI/router-core",
+      "source": "https://github.com/BlockRunAI/router-core",
+      "problem": "Smart LLM router for AI agents \u2014 automatic model selection on every request: classify, hard-filter on capability, then rank on task fit, cost, speed and reliability. Deterministic and local, <1ms, no inference call. Powers ClawRouter, Franklin, Hermes and dsh-clawrouter.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-alexeyw-knotwork",
+      "name": "Explore alexeyw/knotwork",
+      "source": "https://github.com/alexeyw/knotwork",
+      "problem": "An AI agent you build, not just prompt. Local-first Android agent with on-device inference (LiteRT-LM), pipelines you assemble yourself, MCP tool calling, and your confirmation before any risky action.",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ghalrym-kadan",
+      "name": "Explore ghalrym/Kadan",
+      "source": "https://github.com/ghalrym/Kadan",
+      "problem": "My AI server dashboard allowing me to do local inference from one service rather than having to manage multiple services like ollama / llama.cpp / vllm / comfy ui / FreeToken",
+      "created_on": "2026-10-20",
+      "policy": "review-before-activation"
+    }
+  ]
+}
