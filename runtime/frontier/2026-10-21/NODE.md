@@ -1,0 +1,30 @@
+# Daily Frontier — 2026-10-21
+
+Discovered nodes: 25
+
+## Nodes
+- [presduterte2028-sketch/dds-agentic-ai](https://github.com/presduterte2028-sketch/dds-agentic-ai) — Shoppee, lazada, tiktok and other online website automation
+- [dmarchak/Agentic_NMAS](https://github.com/dmarchak/Agentic_NMAS) — Python Flask Web server with Anthropic AI Agent for Network Management and Automation
+- [reubennparsons-bot/goldfields-ai-integration](https://github.com/reubennparsons-bot/goldfields-ai-integration) — Case study: the full AI system behind a Melbourne service business. Instant quotes, AI receptionist, ops dashboard, franchisee app, background agents, self-monitoring.
+- [Dicklesworthstone/frankenterm](https://github.com/Dicklesworthstone/frankenterm) — Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm
+- [LeahyCC/kungfu-kanban](https://github.com/LeahyCC/kungfu-kanban) — Local-first kanban board where Claude Code agents work your cards — dependency chains with merge gates, an AI manager that reviews real diffs and merges green PRs, group lanes, CI-gated. One runtime dependency.
+- [agimx-ai/motusai-seed](https://github.com/agimx-ai/motusai-seed) — An extensible desktop AI workspace that connects models and agents to local files, applications, and system tools through secure, installable plugins.
+- [product-on-purpose/thinking-framework-skills](https://github.com/product-on-purpose/thinking-framework-skills) — Evidence-graded, agent-executable thinking-method skills - 63 frameworks reduced to their working mechanism, honestly graded, and producing a concrete artifact. 63 frameworks + 4 tools + 9 recipes for Claude Code, Codex, and other AI agents. Advanced (Gold) tier.
+- [abdulm-ai/agent-harness](https://github.com/abdulm-ai/agent-harness) — A small, readable agent loop in TypeScript: typed tools, idempotent side effects, approval gates, budgets, validated output, confidence routing, tracing and replay.
+- [DustyStudy/ai-agent-security-toolkit](https://github.com/DustyStudy/ai-agent-security-toolkit) — Fuzz, contain, validate and audit LLM agents: prompt-injection fuzzer, tool-call allowlist/sandbox with taint tracking, output validation + tamper-evident audit log, and a STRIDE-for-agents threat model generator.
+- [tenuo-ai/tenuo](https://github.com/tenuo-ai/tenuo) — Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegation hop, and produce signed evidence of what was allowed or denied.
+- [tunsuy/agtpilot](https://github.com/tunsuy/agtpilot) — A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.
+- [autoyou-ai/AutoYou-Server](https://github.com/autoyou-ai/AutoYou-Server) — Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over WebRTC, and run models, agents and web apps on hardware you control. Source-available. Your own AI Automation software, with native build instructions for macOS, Windows, WSL (Ubuntu), and Docker. iOS, Android, Store Apps separate
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) — Lightpanda: the headless browser designed for AI and automation
+- [dyyz1993/xbrowser](https://github.com/dyyz1993/xbrowser) — AI Agent-friendly browser automation CLI · 35+ commands · 70+ plugins · single binary, zero setup ｜ 浏览器自动化命令行工具，为 AI Agent 而生
+- [Manuelgr928/rusty-beaker](https://github.com/Manuelgr928/rusty-beaker) — ⚡ RustyClaw 2026 — AI CLI for RAG Agents, Voice Cloning & Browser Automation
+- [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) — AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.
+- [iberi22/xavier](https://github.com/iberi22/xavier) — Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context
+- [mrkinglollipop/Khipu](https://github.com/mrkinglollipop/Khipu) — Persistent, cross-session memory for AI coding agents. Mac app and CLI, PostgreSQL 19 with pgvector, a knowledge graph and per-harness hooks. AGPL-3.0.
+- [kmagwenzi/ai-suplex](https://github.com/kmagwenzi/ai-suplex) — File-first self-improving execution framework for AI agents — shared agent memory, 3lm CLI, knowledge graph. Free & open source (MIT).
+- [taeyun16/aidememo](https://github.com/taeyun16/aidememo) — Local-first memory for coding agents: typed facts, knowledge graphs, temporal history, MCP, SDKs, and CLI in one Rust binary.
+- [VitaminDB/synthos](https://github.com/VitaminDB/synthos) — Local AI desktop studio in Rust: agentic chat, notes workspace, node editor for image/video/music/speech, code editor — on the native synaptix engine, any NVIDIA sm_80+ GPU (native on Blackwell). Models from .syn bundles (NVFP4/MXFP8/SQ quants) or GGUF. No Python, no torch, no cloud.
+- [kobaltgit/photocraft-companion](https://github.com/kobaltgit/photocraft-companion) — AI-powered companion & extensible plugin ecosystem for PhotoCraft graphics editor: local DirectML GPU inference, In-Place background removal, floating egui toolstrip & .pcpl packages.
+- [1bit-MONSTER/engine](https://github.com/1bit-MONSTER/engine) — 1bit engine: local LLM inference for AMD Ryzen AI (Strix Halo) inside Lemonade. HRX with our Loom kernels on the Radeon iGPU, plus the XDNA 2 NPU; OpenAI-compatible API. Runs Qwen3.8, Zyphra ZAYA1, ternary Bonsai.
+- [myrgic/cogos](https://github.com/myrgic/cogos) — Local Go daemon that gives AI tools persistent shared workspace state. Context assembly, multi-provider inference routing, hash-chained ledger, MCP server.
+- [cluaiz/cluaiz-app](https://github.com/cluaiz/cluaiz-app) — About An open-source, local AI inference Cluaiz App to execute neural models directly on physical edge workstations

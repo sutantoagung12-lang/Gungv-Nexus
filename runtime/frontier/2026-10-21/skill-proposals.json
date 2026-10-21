@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-21",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-presduterte2028-sketch-dds-agentic-ai",
+      "name": "Explore presduterte2028-sketch/dds-agentic-ai",
+      "source": "https://github.com/presduterte2028-sketch/dds-agentic-ai",
+      "problem": "Shoppee, lazada, tiktok and other online website automation",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dmarchak-agentic_nmas",
+      "name": "Explore dmarchak/Agentic_NMAS",
+      "source": "https://github.com/dmarchak/Agentic_NMAS",
+      "problem": "Python Flask Web server with Anthropic AI Agent for Network Management and Automation",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-reubennparsons-bot-goldfields-ai-integration",
+      "name": "Explore reubennparsons-bot/goldfields-ai-integration",
+      "source": "https://github.com/reubennparsons-bot/goldfields-ai-integration",
+      "problem": "Case study: the full AI system behind a Melbourne service business. Instant quotes, AI receptionist, ops dashboard, franchisee app, background agents, self-monitoring.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dicklesworthstone-frankenterm",
+      "name": "Explore Dicklesworthstone/frankenterm",
+      "source": "https://github.com/Dicklesworthstone/frankenterm",
+      "problem": "Terminal hypervisor for AI agent swarms: real-time pane capture, state-machine pattern detection, and a JSON API for coordinating fleets of coding agents across WezTerm",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leahycc-kungfu-kanban",
+      "name": "Explore LeahyCC/kungfu-kanban",
+      "source": "https://github.com/LeahyCC/kungfu-kanban",
+      "problem": "Local-first kanban board where Claude Code agents work your cards \u2014 dependency chains with merge gates, an AI manager that reviews real diffs and merges green PRs, group lanes, CI-gated. One runtime dependency.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-agimx-ai-motusai-seed",
+      "name": "Explore agimx-ai/motusai-seed",
+      "source": "https://github.com/agimx-ai/motusai-seed",
+      "problem": "An extensible desktop AI workspace that connects models and agents to local files, applications, and system tools through secure, installable plugins.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-product-on-purpose-thinking-framework-skills",
+      "name": "Explore product-on-purpose/thinking-framework-skills",
+      "source": "https://github.com/product-on-purpose/thinking-framework-skills",
+      "problem": "Evidence-graded, agent-executable thinking-method skills - 63 frameworks reduced to their working mechanism, honestly graded, and producing a concrete artifact. 63 frameworks + 4 tools + 9 recipes for Claude Code, Codex, and other AI agents. Advanced (Gold) tier.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-abdulm-ai-agent-harness",
+      "name": "Explore abdulm-ai/agent-harness",
+      "source": "https://github.com/abdulm-ai/agent-harness",
+      "problem": "A small, readable agent loop in TypeScript: typed tools, idempotent side effects, approval gates, budgets, validated output, confidence routing, tracing and replay.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dustystudy-ai-agent-security-toolkit",
+      "name": "Explore DustyStudy/ai-agent-security-toolkit",
+      "source": "https://github.com/DustyStudy/ai-agent-security-toolkit",
+      "problem": "Fuzz, contain, validate and audit LLM agents: prompt-injection fuzzer, tool-call allowlist/sandbox with taint tracking, output validation + tamper-evident audit log, and a STRIDE-for-agents threat model generator.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tenuo-ai-tenuo",
+      "name": "Explore tenuo-ai/tenuo",
+      "source": "https://github.com/tenuo-ai/tenuo",
+      "problem": "Task-scoped authorization for AI agents. Cryptographic warrants constrain tools and arguments, prevent privilege escalation at every delegation hop, and produce signed evidence of what was allowed or denied.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tunsuy-agtpilot",
+      "name": "Explore tunsuy/agtpilot",
+      "source": "https://github.com/tunsuy/agtpilot",
+      "problem": "A pluggable, autonomous personal AI agent with browser automation, sandbox execution, and Generative UI.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-autoyou-ai-autoyou-server",
+      "name": "Explore autoyou-ai/AutoYou-Server",
+      "source": "https://github.com/autoyou-ai/AutoYou-Server",
+      "problem": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over WebRTC, and run models, agents and web apps on hardware you control. Source-available. Your own AI Automation software, with native build instructions for macOS, Windows, WSL (Ubuntu), and Docker. iOS, Android, Store Apps separate",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dyyz1993-xbrowser",
+      "name": "Explore dyyz1993/xbrowser",
+      "source": "https://github.com/dyyz1993/xbrowser",
+      "problem": "AI Agent-friendly browser automation CLI \u00b7 35+ commands \u00b7 70+ plugins \u00b7 single binary, zero setup \uff5c \u6d4f\u89c8\u5668\u81ea\u52a8\u5316\u547d\u4ee4\u884c\u5de5\u5177\uff0c\u4e3a AI Agent \u800c\u751f",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manuelgr928-rusty-beaker",
+      "name": "Explore Manuelgr928/rusty-beaker",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "problem": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrkinglollipop-khipu",
+      "name": "Explore mrkinglollipop/Khipu",
+      "source": "https://github.com/mrkinglollipop/Khipu",
+      "problem": "Persistent, cross-session memory for AI coding agents. Mac app and CLI, PostgreSQL 19 with pgvector, a knowledge graph and per-harness hooks. AGPL-3.0.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kmagwenzi-ai-suplex",
+      "name": "Explore kmagwenzi/ai-suplex",
+      "source": "https://github.com/kmagwenzi/ai-suplex",
+      "problem": "File-first self-improving execution framework for AI agents \u2014 shared agent memory, 3lm CLI, knowledge graph. Free & open source (MIT).",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-taeyun16-aidememo",
+      "name": "Explore taeyun16/aidememo",
+      "source": "https://github.com/taeyun16/aidememo",
+      "problem": "Local-first memory for coding agents: typed facts, knowledge graphs, temporal history, MCP, SDKs, and CLI in one Rust binary.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vitamindb-synthos",
+      "name": "Explore VitaminDB/synthos",
+      "source": "https://github.com/VitaminDB/synthos",
+      "problem": "Local AI desktop studio in Rust: agentic chat, notes workspace, node editor for image/video/music/speech, code editor \u2014 on the native synaptix engine, any NVIDIA sm_80+ GPU (native on Blackwell). Models from .syn bundles (NVFP4/MXFP8/SQ quants) or GGUF. No Python, no torch, no cloud.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kobaltgit-photocraft-companion",
+      "name": "Explore kobaltgit/photocraft-companion",
+      "source": "https://github.com/kobaltgit/photocraft-companion",
+      "problem": "AI-powered companion & extensible plugin ecosystem for PhotoCraft graphics editor: local DirectML GPU inference, In-Place background removal, floating egui toolstrip & .pcpl packages.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "1bit engine: local LLM inference for AMD Ryzen AI (Strix Halo) inside Lemonade. HRX with our Loom kernels on the Radeon iGPU, plus the XDNA 2 NPU; OpenAI-compatible API. Runs Qwen3.8, Zyphra ZAYA1, ternary Bonsai.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-myrgic-cogos",
+      "name": "Explore myrgic/cogos",
+      "source": "https://github.com/myrgic/cogos",
+      "problem": "Local Go daemon that gives AI tools persistent shared workspace state. Context assembly, multi-provider inference routing, hash-chained ledger, MCP server.",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cluaiz-cluaiz-app",
+      "name": "Explore cluaiz/cluaiz-app",
+      "source": "https://github.com/cluaiz/cluaiz-app",
+      "problem": "About An open-source, local AI inference Cluaiz App to execute neural models directly on physical edge workstations",
+      "created_on": "2026-10-21",
+      "policy": "review-before-activation"
+    }
+  ]
+}
