@@ -1,0 +1,236 @@
+{
+  "date": "2026-10-22",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "personalclaw-personalclaw",
+      "title": "PersonalClaw/PersonalClaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PersonalClaw/PersonalClaw",
+      "description": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, skills, automation, MCP in both directions, and a permission-gated app platform. Local-first, provider-agnostic, MIT.",
+      "stars": 7,
+      "updated_at": "2026-10-22T04:40:59Z"
+    },
+    {
+      "id": "rim-19-job_search",
+      "title": "rim-19/job_search",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rim-19/job_search",
+      "description": "Automated job-search agent \u2014 collects remote dev roles from job APIs, RSS feeds, and ~80 startup boards, scores each against a CV with Gemini (1-10 + summary), dedupes and stores in SQLite, and publishes a GitHub Pages dashboard on a schedule via GitHub Actions.",
+      "stars": 0,
+      "updated_at": "2026-10-22T04:39:50Z"
+    },
+    {
+      "id": "hcipengm-cogneva",
+      "title": "hcipengm/cogneva",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hcipengm/cogneva",
+      "description": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrapping \u00b7 Real-autonomous \u00b7 Omni-evolution",
+      "stars": 32,
+      "updated_at": "2026-10-22T04:38:45Z"
+    },
+    {
+      "id": "gyorgysh-tokenstat",
+      "title": "gyorgysh/tokenstat",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/gyorgysh/tokenstat",
+      "description": "A local-first AI workstation for managing AI tools, agents, machines, workspaces, terminals, tasks, workflows, automations, and usage. Cross-platform desktop and mobile apps with remote access, MCP, and unified AI usage analytics.",
+      "stars": 4,
+      "updated_at": "2026-10-22T04:37:08Z"
+    },
+    {
+      "id": "alexeyw-knotwork",
+      "title": "alexeyw/knotwork",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/alexeyw/knotwork",
+      "description": "An AI agent you build, not just prompt. Local-first Android agent with on-device inference (LiteRT-LM), pipelines you assemble yourself, MCP tool calling, and your confirmation before any risky action.",
+      "stars": 9,
+      "updated_at": "2026-10-22T04:36:44Z"
+    },
+    {
+      "id": "open1s-bos",
+      "title": "open1s/bos",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/open1s/bos",
+      "description": "AI agent framework with multi-language bindings. Agents, tools, bus, MCP, skills \u2014 in Rust, Python & JavaScript.",
+      "stars": 1,
+      "updated_at": "2026-10-22T04:39:59Z"
+    },
+    {
+      "id": "bedah-kym-kazi-core",
+      "title": "bedah-kym/kazi-core",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bedah-kym/kazi-core",
+      "description": "Kazi Core is a self-hostable, open-source agentic engine. Plug in your own tools, run on your own infrastructure, and keep full control of your data.",
+      "stars": 2,
+      "updated_at": "2026-10-22T04:39:51Z"
+    },
+    {
+      "id": "tuskira-ai-agent-gateway",
+      "title": "Tuskira/ai-agent-gateway",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tuskira/ai-agent-gateway",
+      "description": "AI Agent Gateway - an open-source gateway that secures, governs and observes AI agents' MCP tool calls and LLM traffic",
+      "stars": 81,
+      "updated_at": "2026-10-22T04:39:10Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-10-22T04:38:58Z"
+    },
+    {
+      "id": "manuelgr928-rusty-beaker",
+      "title": "Manuelgr928/rusty-beaker",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "stars": 0,
+      "updated_at": "2026-10-22T04:28:27Z"
+    },
+    {
+      "id": "dyyz1993-xbrowser",
+      "title": "dyyz1993/xbrowser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dyyz1993/xbrowser",
+      "description": "AI Agent-friendly browser automation CLI \u00b7 35+ commands \u00b7 70+ plugins \u00b7 single binary, zero setup \uff5c \u6d4f\u89c8\u5668\u81ea\u52a8\u5316\u547d\u4ee4\u884c\u5de5\u5177\uff0c\u4e3a AI Agent \u800c\u751f",
+      "stars": 3,
+      "updated_at": "2026-10-22T04:27:38Z"
+    },
+    {
+      "id": "scszcoder-ecan.ai",
+      "title": "scszcoder/eCan.ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "description": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "stars": 22,
+      "updated_at": "2026-10-22T04:25:15Z"
+    },
+    {
+      "id": "deviousdevv303-forgeclaw",
+      "title": "DeviousDevv303/forgeclaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "description": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "stars": 0,
+      "updated_at": "2026-10-22T04:23:07Z"
+    },
+    {
+      "id": "pow505-tobub",
+      "title": "pow505/tobub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pow505/tobub",
+      "description": "local browser automation runtime with a built-in Agent harness",
+      "stars": 34,
+      "updated_at": "2026-10-22T04:13:33Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 5,
+      "updated_at": "2026-10-22T04:40:28Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 505,
+      "updated_at": "2026-10-22T04:37:36Z"
+    },
+    {
+      "id": "pratibhabharti18-memory-bank",
+      "title": "pratibhabharti18/Memory-Bank",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "description": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "stars": 1,
+      "updated_at": "2026-10-22T04:25:17Z"
+    },
+    {
+      "id": "aitherium-awdk",
+      "title": "Aitherium/awdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Aitherium/awdk",
+      "description": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "stars": 11,
+      "updated_at": "2026-10-22T04:14:44Z"
+    },
+    {
+      "id": "miniaxolotl-grove",
+      "title": "miniaxolotl/grove",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/miniaxolotl/grove",
+      "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "stars": 1,
+      "updated_at": "2026-10-22T03:58:29Z"
+    },
+    {
+      "id": "camponggogo-suay",
+      "title": "camponggogo/suay",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/camponggogo/suay",
+      "description": "Distributed AI compute for local networks. Pool idle CPU/GPU resources, share LLM inference workloads, and centrally manage native AI services across devices.",
+      "stars": 1,
+      "updated_at": "2026-10-22T04:41:10Z"
+    },
+    {
+      "id": "syntropyai-hq-syntropy",
+      "title": "syntropyai-hq/syntropy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "description": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "stars": 2,
+      "updated_at": "2026-10-22T04:38:07Z"
+    },
+    {
+      "id": "v1smu21-openzen",
+      "title": "V1sMu21/OpenZen",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/V1sMu21/OpenZen",
+      "description": "A fully-local AI agent that lives on your Mac \u2014 local inference (oMLX / LM Studio / Ollama), memory that compounds across sessions, quality-gated delivery, and a celadon desktop. No cloud, no telemetry.",
+      "stars": 0,
+      "updated_at": "2026-10-22T04:31:13Z"
+    },
+    {
+      "id": "research-center-for-smart-learning-rcsl-rcsl-ai-nexus",
+      "title": "Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Research-Center-for-Smart-Learning-RCSL/RCSL-AI-Nexus",
+      "description": "Self-hosted LLM gateway and management platform (FastAPI + Next.js) for local model inference, multi-tenant access control, and usage analytics.",
+      "stars": 0,
+      "updated_at": "2026-10-22T04:29:15Z"
+    }
+  ]
+}
