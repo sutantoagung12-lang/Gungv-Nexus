@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-23",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-mobiumdev-mobium",
+      "name": "Explore mobiumdev/mobium",
+      "source": "https://github.com/mobiumdev/mobium",
+      "problem": "Mobile app automation for AI agents and people: Android emulators and phones, iOS simulators and iPhones, and Fire TV, driven from one Go binary through a CLI, an MCP server and five clients.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lynox-ai-lynox",
+      "name": "Explore lynox-ai/lynox",
+      "source": "https://github.com/lynox-ai/lynox",
+      "problem": "Run your business, not your tools \u2014 AI runtime for CRM, workflows, research, monitoring. Self-hosted or managed hosting. Source-available (ELv2).",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manishiitg-agentworks",
+      "name": "Explore manishiitg/agentworks",
+      "source": "https://github.com/manishiitg/agentworks",
+      "problem": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-oblien-mindwire",
+      "name": "Explore oblien/mindwire",
+      "source": "https://github.com/oblien/mindwire",
+      "problem": "Ship AI products powered by the best harnesses without building another agent loop",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-flashmind-labs-flashmind",
+      "name": "Explore flashmind-labs/flashmind",
+      "source": "https://github.com/flashmind-labs/flashmind",
+      "problem": "AI agent framework in Rust \u2014 streaming LLM providers, 70+ tools, vector memory, multi-agent orchestration, and MCP support",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opendatalab-sciverse-agent-tools",
+      "name": "Explore opendatalab/Sciverse-Agent-Tools",
+      "source": "https://github.com/opendatalab/Sciverse-Agent-Tools",
+      "problem": "Standardized tool schemas and SDKs that expose Sciverse Open Platform retrieval capabilities to LLM agents.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-john433-max-orbit-ai",
+      "name": "Explore John433-max/ORBIT-AI",
+      "source": "https://github.com/John433-max/ORBIT-AI",
+      "problem": "ORBIT unified educational LLM + agents platform: TinyLM, tools, RAG, web UI, science/math, thinking loop",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-axisvela-praxo-core",
+      "name": "Explore axisvela/praxo-core",
+      "source": "https://github.com/axisvela/praxo-core",
+      "problem": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugins, sandboxing, and policy.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-aside",
+      "name": "Explore api-evangelist/aside",
+      "source": "https://github.com/api-evangelist/aside",
+      "problem": "Aside \u2014 independent third-party profile of a public API surface, by API Evangelist. Aside is an AI-powered browser from a Y Combinator (Fall 2025) startup that runs an autonomous browser agent to complete real work across the logged-in websites you already use \u2014 email, dashboards, internal tools, documents, and spreadsheets \u2014 without relying on per",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manuelgr928-rusty-beaker",
+      "name": "Explore Manuelgr928/rusty-beaker",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "problem": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrkinglollipop-khipu",
+      "name": "Explore mrkinglollipop/Khipu",
+      "source": "https://github.com/mrkinglollipop/Khipu",
+      "problem": "Persistent, cross-session memory for AI coding agents. Mac app and CLI, PostgreSQL 19 with pgvector, a knowledge graph and per-harness hooks. AGPL-3.0.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-windsander-mebular",
+      "name": "Explore Windsander/Mebular",
+      "source": "https://github.com/Windsander/Mebular",
+      "problem": "The decentralized memory layer for AI agents \u2014 offline-first, signed knowledge graph with validity & provenance, P2P sync across every device you own. MCP tools.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-caura-ai-caura",
+      "name": "Explore caura-ai/caura",
+      "source": "https://github.com/caura-ai/caura",
+      "problem": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-syntropyai-hq-syntropy",
+      "name": "Explore syntropyai-hq/syntropy",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "problem": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hrabanazviking-runeforgeai-project-aesir",
+      "name": "Explore hrabanazviking/RuneForgeAI-Project-Aesir",
+      "source": "https://github.com/hrabanazviking/RuneForgeAI-Project-Aesir",
+      "problem": "Bare-metal Mojo inference engine designed for local sovereignty. Features zero-copy GGUF parsing, PagedAttention KV caching, and a stateless sampler. Optimized for consumer hardware, it eliminates cloud dependency and bloat to deliver high-performance, private AI directly on the edge.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nvidia-local-ai-inference-recipes",
+      "name": "Explore NVIDIA/local-ai-inference-recipes",
+      "source": "https://github.com/NVIDIA/local-ai-inference-recipes",
+      "problem": "NVIDIA\u2019s latest recommended recipes for running models on NVIDIA local hardware",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-frostyautumnleaf-autumn-natter",
+      "name": "Explore frostyautumnleaf/autumn-natter",
+      "source": "https://github.com/frostyautumnleaf/autumn-natter",
+      "problem": "A cozy LLM natter. Powered by Rust and Tauri. Fully local.",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sion971-ace-step-studio",
+      "name": "Explore Sion971/ace-step-studio",
+      "source": "https://github.com/Sion971/ace-step-studio",
+      "problem": "\ud83c\udfa7 Open-Source Local AI Music Studio (Linux and Winows Platform) Professional React/Vite + FastAPI GUI for ACE-Step 1.5. Features: Fast LM/DiT inference, Lyrics Generator, Cover/Remix, Stems & Audio Tools. Free forever",
+      "created_on": "2026-10-23",
+      "policy": "review-before-activation"
+    }
+  ]
+}
