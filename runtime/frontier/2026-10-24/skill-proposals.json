@@ -1,0 +1,182 @@
+{
+  "date": "2026-10-24",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-viqto0r-zames_pro",
+      "name": "Explore Viqto0r/zames_pro",
+      "source": "https://github.com/Viqto0r/zames_pro",
+      "problem": "Terminal coding agent   that drives chat.deepseek.com or chat.qwen.ai through Playwright \u2014 no API   key required. Reads/edits files, runs commands, commits   to git.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-itkadr-git-myrmidon",
+      "name": "Explore itkadr-git/myrmidon",
+      "source": "https://github.com/itkadr-git/myrmidon",
+      "problem": "Self-hosted orchestration platform for AI agents: a task board where agents pick up work, run it in isolated containers with their own model, keys and memory, and ask a human only where a decision needs one.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pironjulien-nexusandroid",
+      "name": "Explore pironjulien/NexusAndroid",
+      "source": "https://github.com/pironjulien/NexusAndroid",
+      "problem": "Android computer use for AI agents over plain ADB: one MCP server shared by Claude Code, Codex and Antigravity. No root, no app on the phone.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jazzpher-grok-bot",
+      "name": "Explore jazzpher/grok-bot",
+      "source": "https://github.com/jazzpher/grok-bot",
+      "problem": "Local, tool-using AI agent with web UI, CLI and Telegram: long-term memory, sub-agents, scheduled automations, MCP tools, sandboxed shell with approvals. Runs on free-tier providers.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bedah-kym-kazi-core",
+      "name": "Explore bedah-kym/kazi-core",
+      "source": "https://github.com/bedah-kym/kazi-core",
+      "problem": "Kazi Core is a self-hostable, open-source agentic engine. Plug in your own tools, run on your own infrastructure, and keep full control of your data.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cmcoffee-gohort",
+      "name": "Explore cmcoffee/gohort",
+      "source": "https://github.com/cmcoffee/gohort",
+      "problem": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists and build the tools, agents and apps they lack, with sandboxed tools and credentials the model never sees.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-xiweicheng-ai-helper",
+      "name": "Explore xiweicheng/ai-helper",
+      "source": "https://github.com/xiweicheng/ai-helper",
+      "problem": "LLM-powered browser extension that actually operates web pages \u2014 clicks, fills forms, uploads files, runs commands, extends via MCP. ReAct loop \u00b7 40+ tools \u00b7 multi-agent. | \u8ba9\u5927\u6a21\u578b\u4eb2\u624b\u64cd\u4f5c\u7f51\u9875\u7684\u5f00\u6e90\u6d4f\u89c8\u5668\u63d2\u4ef6\uff1aReAct \u63a8\u7406\u5faa\u73af \u00b7 40+ \u5185\u7f6e\u5de5\u5177 \u00b7 MCP \u6269\u5c55 \u00b7 \u591a\u667a\u80fd\u4f53\u534f\u4f5c\u3002",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jiamingze-adex",
+      "name": "Explore jiamingze/Adex",
+      "source": "https://github.com/jiamingze/Adex",
+      "problem": "Self-hosted, multi-user AI assistant for Web & iOS: editable memory, durable scheduled tasks, daily planning, notes and approval-based browser actions. Java / Python / React. \u591a\u7528\u6237\u4e2a\u4eba\u667a\u80fd\u52a9\u624b\u3002",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manuelgr928-rusty-beaker",
+      "name": "Explore Manuelgr928/rusty-beaker",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "problem": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-isyyyue-dsh-ai-memory",
+      "name": "Explore Isyyyue/dsh-ai-memory",
+      "source": "https://github.com/Isyyyue/dsh-ai-memory",
+      "problem": "\u7ed9 DSH \u91cc\u7684 AI \u4e00\u5c42\u81ea\u5df1\u7684\u5224\u65ad\u8bb0\u5fc6\u3002\u5224\u65ad\u8282\u70b9 + \u786e\u5b9a\u6027\u53d6\u4ee3\uff08supersede\uff09+ \u53cc\u65f6\u6001\u8d26\u672c + \u53cc\u94fe\uff0c\u89c4\u5219\u4e0e\u4eba\u683c\u5206\u5f00\u6cbb\u7406\uff0c\u56fe\u8c31\u4f5c\u53ef\u89e3\u91ca\u6027\u754c\u9762\u3002 - Persistent judgment memory & self-evolving personality for AI agents (bi-temporal ledger, deterministic supersession, knowledge graph).",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liminode-agent-memory-cpp",
+      "name": "Explore LimiNode/agent-memory-cpp",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "problem": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tobs-code-loci-mcp",
+      "name": "Explore tobs-code/loci-mcp",
+      "source": "https://github.com/tobs-code/loci-mcp",
+      "problem": "MCP server that gives AI agents a persistent memory: hybrid vector + full-text retrieval and a knowledge graph, backed by PostgreSQL (pgvector + Apache AGE).",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-zep",
+      "name": "Explore api-evangelist/zep",
+      "source": "https://github.com/api-evangelist/zep",
+      "problem": "Zep \u2014 independent third-party profile of a public API surface, by API Evangelist. Zep is a context engineering and agent memory platform that assembles relevant context from chat history, business data, and user interactions for AI agents. It builds a temporal knowledge graph per user that evolves as new facts arrive, automatically extracts entitie",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hrabanazviking-runeforgeai-project-aesir",
+      "name": "Explore hrabanazviking/RuneForgeAI-Project-Aesir",
+      "source": "https://github.com/hrabanazviking/RuneForgeAI-Project-Aesir",
+      "problem": "Bare-metal Mojo inference engine designed for local sovereignty. Features zero-copy GGUF parsing, PagedAttention KV caching, and a stateless sampler. Optimized for consumer hardware, it eliminates cloud dependency and bloat to deliver high-performance, private AI directly on the edge.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sistema-parrudo-aios-one",
+      "name": "Explore Sistema-Parrudo/aios-one",
+      "source": "https://github.com/Sistema-Parrudo/aios-one",
+      "problem": "AIOS-ONE \u2014 Dedicated Single-Agent Operating System & Runtime with Frontier LLM Routing and Local Llama/Qwen Inference",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-locketkeyllc-scaffold-engine",
+      "name": "Explore LocketKeyLLC/scaffold-engine",
+      "source": "https://github.com/LocketKeyLLC/scaffold-engine",
+      "problem": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each with verification and auto-retry, and compiles the result. 100% on your hardware: Ollama inference, RAG with Milvus vector search, Postgres state, SearXNG search. FastAPI + Docker. No cloud calls unless you opt in.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-marianvid-ai-lab",
+      "name": "Explore marianvid/ai-lab",
+      "source": "https://github.com/marianvid/ai-lab",
+      "problem": "A manager for local inference engines: llama.cpp and vLLM, with measured load and unload. Work in progress, personal use.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-retro-downfall-retrodownfall.arcanum",
+      "name": "Explore Retro-Downfall/RetroDownfall.Arcanum",
+      "source": "https://github.com/Retro-Downfall/RetroDownfall.Arcanum",
+      "problem": "Arcanum \u2014 .NET 10 local-first AI assistant and inference harness (Native AOT CLI + Avalonia Compendium config editor). Collaborator privs can be obtained via submission at retrodownfall.com.",
+      "created_on": "2026-10-24",
+      "policy": "review-before-activation"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-24",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "viqto0r-zames_pro",
+      "title": "Viqto0r/zames_pro",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Viqto0r/zames_pro",
+      "description": "Terminal coding agent   that drives chat.deepseek.com or chat.qwen.ai through Playwright \u2014 no API   key required. Reads/edits files, runs commands, commits   to git.",
+      "stars": 4,
+      "updated_at": "2026-10-24T04:32:47Z"
+    },
+    {
+      "id": "itkadr-git-myrmidon",
+      "title": "itkadr-git/myrmidon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/itkadr-git/myrmidon",
+      "description": "Self-hosted orchestration platform for AI agents: a task board where agents pick up work, run it in isolated containers with their own model, keys and memory, and ask a human only where a decision needs one.",
+      "stars": 0,
+      "updated_at": "2026-10-24T04:31:18Z"
+    },
+    {
+      "id": "pironjulien-nexusandroid",
+      "title": "pironjulien/NexusAndroid",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pironjulien/NexusAndroid",
+      "description": "Android computer use for AI agents over plain ADB: one MCP server shared by Claude Code, Codex and Antigravity. No root, no app on the phone.",
+      "stars": 1,
+      "updated_at": "2026-10-24T04:30:12Z"
+    },
+    {
+      "id": "devinosolutions-stealth-chrome-devtools-mcp",
+      "title": "DevinoSolutions/stealth-chrome-devtools-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "description": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "stars": 29,
+      "updated_at": "2026-10-24T04:29:16Z"
+    },
+    {
+      "id": "jazzpher-grok-bot",
+      "title": "jazzpher/grok-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jazzpher/grok-bot",
+      "description": "Local, tool-using AI agent with web UI, CLI and Telegram: long-term memory, sub-agents, scheduled automations, MCP tools, sandboxed shell with approvals. Runs on free-tier providers.",
+      "stars": 0,
+      "updated_at": "2026-10-24T04:28:33Z"
+    },
+    {
+      "id": "bedah-kym-kazi-core",
+      "title": "bedah-kym/kazi-core",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bedah-kym/kazi-core",
+      "description": "Kazi Core is a self-hostable, open-source agentic engine. Plug in your own tools, run on your own infrastructure, and keep full control of your data.",
+      "stars": 2,
+      "updated_at": "2026-10-24T04:32:47Z"
+    },
+    {
+      "id": "cmcoffee-gohort",
+      "title": "cmcoffee/gohort",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cmcoffee/gohort",
+      "description": "Your agent has agents. A self-hosted, local-first AI agent platform in one Go binary: agents hand work to specialists and build the tools, agents and apps they lack, with sandboxed tools and credentials the model never sees.",
+      "stars": 3,
+      "updated_at": "2026-10-24T04:29:30Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-10-24T04:29:05Z"
+    },
+    {
+      "id": "xiweicheng-ai-helper",
+      "title": "xiweicheng/ai-helper",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xiweicheng/ai-helper",
+      "description": "LLM-powered browser extension that actually operates web pages \u2014 clicks, fills forms, uploads files, runs commands, extends via MCP. ReAct loop \u00b7 40+ tools \u00b7 multi-agent. | \u8ba9\u5927\u6a21\u578b\u4eb2\u624b\u64cd\u4f5c\u7f51\u9875\u7684\u5f00\u6e90\u6d4f\u89c8\u5668\u63d2\u4ef6\uff1aReAct \u63a8\u7406\u5faa\u73af \u00b7 40+ \u5185\u7f6e\u5de5\u5177 \u00b7 MCP \u6269\u5c55 \u00b7 \u591a\u667a\u80fd\u4f53\u534f\u4f5c\u3002",
+      "stars": 13,
+      "updated_at": "2026-10-24T04:28:03Z"
+    },
+    {
+      "id": "deviousdevv303-forgeclaw",
+      "title": "DeviousDevv303/forgeclaw",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "description": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "stars": 0,
+      "updated_at": "2026-10-24T04:17:28Z"
+    },
+    {
+      "id": "jiamingze-adex",
+      "title": "jiamingze/Adex",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jiamingze/Adex",
+      "description": "Self-hosted, multi-user AI assistant for Web & iOS: editable memory, durable scheduled tasks, daily planning, notes and approval-based browser actions. Java / Python / React. \u591a\u7528\u6237\u4e2a\u4eba\u667a\u80fd\u52a9\u624b\u3002",
+      "stars": 1,
+      "updated_at": "2026-10-24T04:17:20Z"
+    },
+    {
+      "id": "manuelgr928-rusty-beaker",
+      "title": "Manuelgr928/rusty-beaker",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "description": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "stars": 0,
+      "updated_at": "2026-10-24T04:16:30Z"
+    },
+    {
+      "id": "isyyyue-dsh-ai-memory",
+      "title": "Isyyyue/dsh-ai-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Isyyyue/dsh-ai-memory",
+      "description": "\u7ed9 DSH \u91cc\u7684 AI \u4e00\u5c42\u81ea\u5df1\u7684\u5224\u65ad\u8bb0\u5fc6\u3002\u5224\u65ad\u8282\u70b9 + \u786e\u5b9a\u6027\u53d6\u4ee3\uff08supersede\uff09+ \u53cc\u65f6\u6001\u8d26\u672c + \u53cc\u94fe\uff0c\u89c4\u5219\u4e0e\u4eba\u683c\u5206\u5f00\u6cbb\u7406\uff0c\u56fe\u8c31\u4f5c\u53ef\u89e3\u91ca\u6027\u754c\u9762\u3002 - Persistent judgment memory & self-evolving personality for AI agents (bi-temporal ledger, deterministic supersession, knowledge graph).",
+      "stars": 3,
+      "updated_at": "2026-10-24T04:28:54Z"
+    },
+    {
+      "id": "liminode-agent-memory-cpp",
+      "title": "LimiNode/agent-memory-cpp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "description": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "stars": 1,
+      "updated_at": "2026-10-24T04:25:34Z"
+    },
+    {
+      "id": "iberi22-xavier",
+      "title": "iberi22/xavier",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iberi22/xavier",
+      "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "stars": 1,
+      "updated_at": "2026-10-24T04:23:56Z"
+    },
+    {
+      "id": "tobs-code-loci-mcp",
+      "title": "tobs-code/loci-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tobs-code/loci-mcp",
+      "description": "MCP server that gives AI agents a persistent memory: hybrid vector + full-text retrieval and a knowledge graph, backed by PostgreSQL (pgvector + Apache AGE).",
+      "stars": 0,
+      "updated_at": "2026-10-24T03:59:32Z"
+    },
+    {
+      "id": "api-evangelist-zep",
+      "title": "api-evangelist/zep",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/api-evangelist/zep",
+      "description": "Zep \u2014 independent third-party profile of a public API surface, by API Evangelist. Zep is a context engineering and agent memory platform that assembles relevant context from chat history, business data, and user interactions for AI agents. It builds a temporal knowledge graph per user that evolves as new facts arrive, automatically extracts entitie",
+      "stars": 0,
+      "updated_at": "2026-10-24T03:04:38Z"
+    },
+    {
+      "id": "hrabanazviking-runeforgeai-project-aesir",
+      "title": "hrabanazviking/RuneForgeAI-Project-Aesir",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hrabanazviking/RuneForgeAI-Project-Aesir",
+      "description": "Bare-metal Mojo inference engine designed for local sovereignty. Features zero-copy GGUF parsing, PagedAttention KV caching, and a stateless sampler. Optimized for consumer hardware, it eliminates cloud dependency and bloat to deliver high-performance, private AI directly on the edge.",
+      "stars": 1,
+      "updated_at": "2026-10-24T04:25:48Z"
+    },
+    {
+      "id": "sistema-parrudo-aios-one",
+      "title": "Sistema-Parrudo/aios-one",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Sistema-Parrudo/aios-one",
+      "description": "AIOS-ONE \u2014 Dedicated Single-Agent Operating System & Runtime with Frontier LLM Routing and Local Llama/Qwen Inference",
+      "stars": 0,
+      "updated_at": "2026-10-24T04:24:32Z"
+    },
+    {
+      "id": "locketkeyllc-scaffold-engine",
+      "title": "LocketKeyLLC/scaffold-engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LocketKeyLLC/scaffold-engine",
+      "description": "Self-hosted AI agent engine for local LLMs. Give it an idea \u2014 it researches the web, plans a DAG of steps, executes each with verification and auto-retry, and compiles the result. 100% on your hardware: Ollama inference, RAG with Milvus vector search, Postgres state, SearXNG search. FastAPI + Docker. No cloud calls unless you opt in.",
+      "stars": 0,
+      "updated_at": "2026-10-24T04:22:43Z"
+    },
+    {
+      "id": "marianvid-ai-lab",
+      "title": "marianvid/ai-lab",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/marianvid/ai-lab",
+      "description": "A manager for local inference engines: llama.cpp and vLLM, with measured load and unload. Work in progress, personal use.",
+      "stars": 1,
+      "updated_at": "2026-10-24T04:20:01Z"
+    },
+    {
+      "id": "retro-downfall-retrodownfall.arcanum",
+      "title": "Retro-Downfall/RetroDownfall.Arcanum",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Retro-Downfall/RetroDownfall.Arcanum",
+      "description": "Arcanum \u2014 .NET 10 local-first AI assistant and inference harness (Native AOT CLI + Avalonia Compendium config editor). Collaborator privs can be obtained via submission at retrodownfall.com.",
+      "stars": 2,
+      "updated_at": "2026-10-24T04:02:12Z"
+    }
+  ]
+}
