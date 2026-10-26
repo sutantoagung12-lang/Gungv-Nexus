@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-10-19T08:59:50.564167+00:00",
+  "generated_at": "2026-10-26T09:02:36.969874+00:00",
   "source": "GitHub Search API",
   "status": "integrated-metadata-only",
   "added_to_capability_pool": 1,
@@ -98,16 +98,16 @@
   "error": null,
   "candidates": [
     {
-      "repository": "morluto/rea",
+      "repository": "github/spec-kit",
       "capability": "discovered",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "stars": 328407,
-      "forks": 83124,
-      "language": "TypeScript",
+      "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+      "stars": 142936,
+      "forks": 12807,
+      "language": "Python",
       "license": "MIT",
-      "updated_at": "2026-10-19T08:59:39Z",
-      "url": "https://github.com/morluto/rea",
-      "score": 1.5,
+      "updated_at": "2026-10-26T08:52:48Z",
+      "url": "https://github.com/github/spec-kit",
+      "score": 1.410087,
       "trust": "untrusted",
       "requires_validation": true
     }

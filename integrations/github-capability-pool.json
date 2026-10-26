@@ -8,7 +8,7 @@
     "auto_install": false,
     "auto_merge_into_pool": true
   },
-  "count": 1216,
+  "count": 1217,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -9647,7 +9647,22 @@
       "trust": "untrusted",
       "requires_validation": true,
       "integration_mode": "metadata-only"
+    },
+    {
+      "repository": "github/spec-kit",
+      "capability": "discovered",
+      "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
+      "stars": 142936,
+      "forks": 12807,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-10-26T08:52:48Z",
+      "url": "https://github.com/github/spec-kit",
+      "score": 1.410087,
+      "trust": "untrusted",
+      "requires_validation": true,
+      "integration_mode": "metadata-only"
     }
   ],
-  "last_update": "2026-10-19"
+  "last_update": "2026-10-26"
 }
