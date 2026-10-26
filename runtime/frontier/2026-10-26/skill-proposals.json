@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-26",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-openswe-muse-bot",
+      "name": "Explore OpenSWE/muse-bot",
+      "source": "https://github.com/OpenSWE/muse-bot",
+      "problem": "CLI for your personal muse.ai agent: chat, side chats, feed, goals, ideas and sessions from the terminal",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-instalily",
+      "name": "Explore api-evangelist/instalily",
+      "source": "https://github.com/api-evangelist/instalily",
+      "problem": "Instalily \u2014 independent third-party profile of a public API surface, by API Evangelist. InstaLILY builds Lily, an AI \"Forward Deployed Engineer\" for the physical and regulated economy. Lily learns how an enterprise operates, builds custom software agents for high-friction operational work such as quoting, routing, field service, and approvals, and",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-instabase",
+      "name": "Explore api-evangelist/instabase",
+      "source": "https://github.com/api-evangelist/instabase",
+      "problem": "Instabase \u2014 independent third-party profile of a public API surface, by API Evangelist. Instabase is an agentic automation platform that transforms complex, document-heavy workflows using AI. Its AI Hub product uses large language models and packet-aware AI agents to extract, classify, validate, and reason over unstructured document packets (PDFs,",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-adnin1-inshatech-jarvis-agi",
+      "name": "Explore Adnin1/inshatech-jarvis-agi",
+      "source": "https://github.com/Adnin1/inshatech-jarvis-agi",
+      "problem": "\u26a1 J.A.R.V.I.S. & U.L.T.R.O.N. \u2014 Autonomous AGI Agent Swarm, Desktop OS Automation & AI Engineering Hub by Mahin Khan",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-linura-org-linura",
+      "name": "Explore linura-org/linura",
+      "source": "https://github.com/linura-org/linura",
+      "problem": "Linura \u2014 The intelligent system layer for Linux, AI agents, containers, and VMs.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ai-solutions-sk-awesome-ai-coding-tools",
+      "name": "Explore ai-solutions-sk/awesome-ai-coding-tools",
+      "source": "https://github.com/ai-solutions-sk/awesome-ai-coding-tools",
+      "problem": "A curated list of AI coding tools \u2014 editors, agents and IDE plugins \u2014 with prices verified against each vendor's own pricing page and re-checked monthly.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-thesyart-emperor-agent",
+      "name": "Explore TheSyart/emperor-agent",
+      "source": "https://github.com/TheSyart/emperor-agent",
+      "problem": "Local Emperor-style AI agent with Vue WebUI, multi-provider LLMs, streaming chat, tools, skills, memory, and token telemetry.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-reefbarman-agentlink",
+      "name": "Explore reefbarman/agentlink",
+      "source": "https://github.com/reefbarman/agentlink",
+      "problem": "An open-source coding-agent harness for VS Code, with Desktop and CLI previews. Bring your own models, use editor intelligence, review diffs, steer autonomy, and connect tools through MCP.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-arulvelk-procurement-code-agent",
+      "name": "Explore arulvelk/procurement-code-agent",
+      "source": "https://github.com/arulvelk/procurement-code-agent",
+      "problem": "Typed tool contracts, idempotent writes, and an eval suite that changed the design. MCP server, FastAPI service, and batch agent in Python.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-deviousdevv303-forgeclaw",
+      "name": "Explore DeviousDevv303/forgeclaw",
+      "source": "https://github.com/DeviousDevv303/forgeclaw",
+      "problem": "Operator-controlled AI development and automation console with provider-backed agents, GitHub operations, browser automation, and failure visibility.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dario2003-droid-opencode-browser-automator",
+      "name": "Explore Dario2003-droid/opencode-browser-automator",
+      "source": "https://github.com/Dario2003-droid/opencode-browser-automator",
+      "problem": "Autonomous Web Agent Toolkit 2026 - AI Browser Automation for Testing & Scraping",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-h-company",
+      "name": "Explore api-evangelist/h-company",
+      "source": "https://github.com/api-evangelist/h-company",
+      "problem": "H Company \u2014 independent third-party profile of a public API surface, by API Evangelist. H Company (hcompany.ai) is a Paris-based AI lab, backed by Accel and Creandum, that builds the Holo family of vision-language models and a Computer-Use Agents platform for automating work on browsers and desktops.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-secwork-hub-ai-automation-prompt-pack",
+      "name": "Explore secwork-hub/ai-automation-prompt-pack",
+      "source": "https://github.com/secwork-hub/ai-automation-prompt-pack",
+      "problem": "Production-oriented prompt pack for **agentic automation** workflows: browser/CD",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-hyper-4",
+      "name": "Explore api-evangelist/hyper-4",
+      "source": "https://github.com/api-evangelist/hyper-4",
+      "problem": "Hyper 4 \u2014 independent third-party profile of a public API surface, by API Evangelist. Hyper (heyhyper.ai) is a Y Combinator-backed startup building \"the self-driving company brain\" \u2014 a knowledge-management platform that assembles a centralized, self-maintaining knowledge graph from a team's emails, Slack, GitHub, calendars, and other work sources,",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-eder-labs",
+      "name": "Explore api-evangelist/eder-labs",
+      "source": "https://github.com/api-evangelist/eder-labs",
+      "problem": "Eder Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. Eder Labs builds infrastructure for using personal data in safer, more human ways. Its current focus is Persona, an open-source (MIT) user-memory system for AI agents that turns a person's digital footprint into a Graph-Vector hybrid personal knowledge graph (Ne",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pratibhabharti18-memory-bank",
+      "name": "Explore pratibhabharti18/Memory-Bank",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "problem": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iyulab-lm-supply",
+      "name": "Explore iyulab/lm-supply",
+      "source": "https://github.com/iyulab/lm-supply",
+      "problem": ".NET library for on-demand local AI model inference \u2014 zero bundled models, lazy loading, hardware-aware GPU/CPU selection, 10 task types including embeddings, generation, vision, and audio.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-himanshu748-omnidev",
+      "name": "Explore himanshu748/omnidev",
+      "source": "https://github.com/himanshu748/omnidev",
+      "problem": "Native macOS AI assistant for file and screenshot search, cited answers, code edits and tests. Local Ollama inference; optional cloud provider.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-byungwoongyoo-cwi-learning-lab",
+      "name": "Explore ByungwoongYoo/cwi-learning-lab",
+      "source": "https://github.com/ByungwoongYoo/cwi-learning-lab",
+      "problem": "AI-assisted local CPU experiments: fixed-model inference and tiny PyTorch checkpoint restart. Honest limitations; no hosted demo.",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-buffbot88-ashatneuralhost",
+      "name": "Explore buffbot88/AshatNeuralHost",
+      "source": "https://github.com/buffbot88/AshatNeuralHost",
+      "problem": "Rust Local AI LLM Inference",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-recursiveintell-esp32-reusable",
+      "name": "Explore RecursiveIntell/esp32-reusable",
+      "source": "https://github.com/RecursiveIntell/esp32-reusable",
+      "problem": "8 no_std Rust crates on crates.io for ESP32/S3 physical-AI endpoints: sensor policy, local-language receipts, proof/routing, tiered payloads, display drivers, embedded inference (int4, KV cache, RNN, compressed attention)",
+      "created_on": "2026-10-26",
+      "policy": "review-before-activation"
+    }
+  ]
+}
