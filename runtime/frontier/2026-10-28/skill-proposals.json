@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-28",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-albertovillaosorno-protonmail-ai",
+      "name": "Explore albertovillaosorno/protonmail-ai",
+      "source": "https://github.com/albertovillaosorno/protonmail-ai",
+      "problem": "Security-first Proton Mail automation for AI agents \u2014 direct QR session-fork auth, local-first Rust CLI + MCP, least-privilege tools, and auditable sessions.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pauloflp-agentrix",
+      "name": "Explore pauloflp/Agentrix",
+      "source": "https://github.com/pauloflp/Agentrix",
+      "problem": "Seven free local developer tools: CSV/JSONL validation, .env contracts, JSON diff, UTM auditing, visual CSV mapping and staged-file checks. Plus 15 AI agent skills and free SaaS templates.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aspasskiy-gogogot",
+      "name": "Explore aspasskiy/GoGogot",
+      "source": "https://github.com/aspasskiy/GoGogot",
+      "problem": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rudra496-nexus-agent",
+      "name": "Explore rudra496/nexus-agent",
+      "source": "https://github.com/rudra496/nexus-agent",
+      "problem": "\u26a1 Nexus Agent \u2014 Zero-config, self-evolving local AI agent framework. Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollama.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-portyu9-qa-automation-ai-agent-evals",
+      "name": "Explore portyu9/qa-automation-ai-agent-evals",
+      "source": "https://github.com/portyu9/qa-automation-ai-agent-evals",
+      "problem": "A provider-neutral quality-engineering framework for evaluating autonomous agents by observable outcomes, side effects, authority boundaries, approval intent, adversarial conditions, verified evaluation preconditions, protocol state, authorization behavior, reliability, and reproducible evidence\u2014not by persuasive final prose.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-daniel3303-equibles",
+      "name": "Explore daniel3303/Equibles",
+      "source": "https://github.com/daniel3303/Equibles",
+      "problem": "Self-hosted, open-source financial data MCP server for AI agents \u2014 SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gholls-mcp-hub",
+      "name": "Explore Gholls/mcp-hub",
+      "source": "https://github.com/Gholls/mcp-hub",
+      "problem": "Interactive micro-tools for humans and AI agents \u2014 a reference implementation of MCP Apps (SEP-1865) UI cards over Streamable HTTP MCP.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-apu1k-simple-ai-agent",
+      "name": "Explore apu1k/simple-ai-agent",
+      "source": "https://github.com/apu1k/simple-ai-agent",
+      "problem": "",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-e13ven-arch-reharness",
+      "name": "Explore e13ven-arch/reharness",
+      "source": "https://github.com/e13ven-arch/reharness",
+      "problem": "Self-improving LLM agent harness, bounded recursive self-improvement: a Revision Session reads the agent's own returned run, rewrites its tools, hooks, skills and prompts, and proves the change with a Live Probe on the same request. Per-task adoption, no answers shown. Measured on AutomationBench.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-siddsachar-row-bot",
+      "name": "Explore siddsachar/row-bot",
+      "source": "https://github.com/siddsachar/row-bot",
+      "problem": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citrolabs-ego-lite",
+      "name": "Explore citrolabs/ego-lite",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "problem": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tencent-browserskill",
+      "name": "Explore Tencent/BrowserSkill",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "problem": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lukehalleran-ai-assistant-framework",
+      "name": "Explore lukehalleran/ai-assistant-framework",
+      "source": "https://github.com/lukehalleran/ai-assistant-framework",
+      "problem": "Local-first personal AI agent: persistent multi-collection memory, benchmarked multi-stage RAG with cross-encoder reranking, NetworkX knowledge graph, ReAct tool loop, literature-backed synthesis validation, human-gated self-improvement. FastAPI + React UI.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jiay-77-palimpsest",
+      "name": "Explore JiaY-77/Palimpsest",
+      "source": "https://github.com/JiaY-77/Palimpsest",
+      "problem": "Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval for AI agents.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pratibhabharti18-memory-bank",
+      "name": "Explore pratibhabharti18/Memory-Bank",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "problem": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-origintrail-dkg",
+      "name": "Explore OriginTrail/dkg",
+      "source": "https://github.com/OriginTrail/dkg",
+      "problem": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory \u2014 enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-qaisermehdi3-coder-qvunex",
+      "name": "Explore qaisermehdi3-coder/qvunex",
+      "source": "https://github.com/qaisermehdi3-coder/qvunex",
+      "problem": "Measure what your AI inference actually costs. Local only, no dependencies.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-syntropyai-hq-syntropy",
+      "name": "Explore syntropyai-hq/syntropy",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "problem": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sabiudardai-hue-abul-research-ai",
+      "name": "Explore sabiudardai-hue/abul-research-ai",
+      "source": "https://github.com/sabiudardai-hue/abul-research-ai",
+      "problem": "An offline-first Android AI research assistant combining local inference and knowledge retrieval, designed for private, on-device research without network access.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dalejohn-dev-nipahut-ai-transcriber",
+      "name": "Explore DaleJohn-Dev/Nipahut-AI-Transcriber",
+      "source": "https://github.com/DaleJohn-Dev/Nipahut-AI-Transcriber",
+      "problem": "Offline Windows desktop transcription, speaker diarization, and multilingual meeting review. Open source, local inference, downloadable models.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-da3m0-wolf",
+      "name": "Explore DA3M0/wolf",
+      "source": "https://github.com/DA3M0/wolf",
+      "problem": "High-performance local LLM inference gateway in Rust. Ultra-lightweight , zero-dependency, with Token-level KV cache. Your local Agent's ultimate backend.",
+      "created_on": "2026-10-28",
+      "policy": "review-before-activation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# Daily Frontier — 2026-10-28
+
+Discovered nodes: 25
+
+## Nodes
+- [albertovillaosorno/protonmail-ai](https://github.com/albertovillaosorno/protonmail-ai) — Security-first Proton Mail automation for AI agents — direct QR session-fork auth, local-first Rust CLI + MCP, least-privilege tools, and auditable sessions.
+- [pauloflp/Agentrix](https://github.com/pauloflp/Agentrix) — Seven free local developer tools: CSV/JSONL validation, .env contracts, JSON diff, UTM auditing, visual CSV mapping and staged-file checks. Plus 15 AI agent skills and free SaaS templates.
+- [aspasskiy/GoGogot](https://github.com/aspasskiy/GoGogot) — Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.
+- [rudra496/nexus-agent](https://github.com/rudra496/nexus-agent) — ⚡ Nexus Agent — Zero-config, self-evolving local AI agent framework. Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollama.
+- [portyu9/qa-automation-ai-agent-evals](https://github.com/portyu9/qa-automation-ai-agent-evals) — A provider-neutral quality-engineering framework for evaluating autonomous agents by observable outcomes, side effects, authority boundaries, approval intent, adversarial conditions, verified evaluation preconditions, protocol state, authorization behavior, reliability, and reproducible evidence—not by persuasive final prose.
+- [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) — A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.
+- [daniel3303/Equibles](https://github.com/daniel3303/Equibles) — Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.
+- [Gholls/mcp-hub](https://github.com/Gholls/mcp-hub) — Interactive micro-tools for humans and AI agents — a reference implementation of MCP Apps (SEP-1865) UI cards over Streamable HTTP MCP.
+- [apu1k/simple-ai-agent](https://github.com/apu1k/simple-ai-agent) — 
+- [e13ven-arch/reharness](https://github.com/e13ven-arch/reharness) — Self-improving LLM agent harness, bounded recursive self-improvement: a Revision Session reads the agent's own returned run, rewrites its tools, hooks, skills and prompts, and proves the change with a Live Probe on the same request. Per-task adoption, no answers shown. Measured on AutomationBench.
+- [nottelabs/notte](https://github.com/nottelabs/notte) — Cloud browser infrastructure and web automation platform for your AI and coding agents
+- [siddsachar/row-bot](https://github.com/siddsachar/row-bot) — Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- [The-AI-Alliance/semiont](https://github.com/The-AI-Alliance/semiont) — Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.
+- [lukehalleran/ai-assistant-framework](https://github.com/lukehalleran/ai-assistant-framework) — Local-first personal AI agent: persistent multi-collection memory, benchmarked multi-stage RAG with cross-encoder reranking, NetworkX knowledge graph, ReAct tool loop, literature-backed synthesis validation, human-gated self-improvement. FastAPI + React UI.
+- [JiaY-77/Palimpsest](https://github.com/JiaY-77/Palimpsest) — Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval for AI agents.
+- [pratibhabharti18/Memory-Bank](https://github.com/pratibhabharti18/Memory-Bank) — AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.
+- [OriginTrail/dkg](https://github.com/OriginTrail/dkg) — OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory — enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.
+- [qaisermehdi3-coder/qvunex](https://github.com/qaisermehdi3-coder/qvunex) — Measure what your AI inference actually costs. Local only, no dependencies.
+- [syntropyai-hq/syntropy](https://github.com/syntropyai-hq/syntropy) — Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads
+- [sabiudardai-hue/abul-research-ai](https://github.com/sabiudardai-hue/abul-research-ai) — An offline-first Android AI research assistant combining local inference and knowledge retrieval, designed for private, on-device research without network access.
+- [DaleJohn-Dev/Nipahut-AI-Transcriber](https://github.com/DaleJohn-Dev/Nipahut-AI-Transcriber) — Offline Windows desktop transcription, speaker diarization, and multilingual meeting review. Open source, local inference, downloadable models.
+- [DA3M0/wolf](https://github.com/DA3M0/wolf) — High-performance local LLM inference gateway in Rust. Ultra-lightweight , zero-dependency, with Token-level KV cache. Your local Agent's ultimate backend.

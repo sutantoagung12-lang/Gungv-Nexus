@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-28",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "albertovillaosorno-protonmail-ai",
+      "title": "albertovillaosorno/protonmail-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/albertovillaosorno/protonmail-ai",
+      "description": "Security-first Proton Mail automation for AI agents \u2014 direct QR session-fork auth, local-first Rust CLI + MCP, least-privilege tools, and auditable sessions.",
+      "stars": 0,
+      "updated_at": "2026-10-28T05:39:20Z"
+    },
+    {
+      "id": "pauloflp-agentrix",
+      "title": "pauloflp/Agentrix",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pauloflp/Agentrix",
+      "description": "Seven free local developer tools: CSV/JSONL validation, .env contracts, JSON diff, UTM auditing, visual CSV mapping and staged-file checks. Plus 15 AI agent skills and free SaaS templates.",
+      "stars": 0,
+      "updated_at": "2026-10-28T05:39:15Z"
+    },
+    {
+      "id": "aspasskiy-gogogot",
+      "title": "aspasskiy/GoGogot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/aspasskiy/GoGogot",
+      "description": "Lightweight self-hosted AI agent. Open-source OpenClaw alternative in Go.",
+      "stars": 263,
+      "updated_at": "2026-10-28T05:38:22Z"
+    },
+    {
+      "id": "rudra496-nexus-agent",
+      "title": "rudra496/nexus-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rudra496/nexus-agent",
+      "description": "\u26a1 Nexus Agent \u2014 Zero-config, self-evolving local AI agent framework. Multi-agent orchestration, GraphRAG, IDE integration. Runs 100% local with Ollama.",
+      "stars": 6,
+      "updated_at": "2026-10-28T05:36:54Z"
+    },
+    {
+      "id": "portyu9-qa-automation-ai-agent-evals",
+      "title": "portyu9/qa-automation-ai-agent-evals",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/portyu9/qa-automation-ai-agent-evals",
+      "description": "A provider-neutral quality-engineering framework for evaluating autonomous agents by observable outcomes, side effects, authority boundaries, approval intent, adversarial conditions, verified evaluation preconditions, protocol state, authorization behavior, reliability, and reproducible evidence\u2014not by persuasive final prose.",
+      "stars": 76,
+      "updated_at": "2026-10-28T05:36:48Z"
+    },
+    {
+      "id": "prime-radiant-inc-evener",
+      "title": "prime-radiant-inc/evener",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 186,
+      "updated_at": "2026-10-28T05:39:09Z"
+    },
+    {
+      "id": "daniel3303-equibles",
+      "title": "daniel3303/Equibles",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/daniel3303/Equibles",
+      "description": "Self-hosted, open-source financial data MCP server for AI agents \u2014 SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equibles Cloud adds earnings call transcripts, live quotes, options chains with Greeks, guidance and a screener.",
+      "stars": 240,
+      "updated_at": "2026-10-28T05:38:41Z"
+    },
+    {
+      "id": "gholls-mcp-hub",
+      "title": "Gholls/mcp-hub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Gholls/mcp-hub",
+      "description": "Interactive micro-tools for humans and AI agents \u2014 a reference implementation of MCP Apps (SEP-1865) UI cards over Streamable HTTP MCP.",
+      "stars": 1,
+      "updated_at": "2026-10-28T05:37:47Z"
+    },
+    {
+      "id": "apu1k-simple-ai-agent",
+      "title": "apu1k/simple-ai-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/apu1k/simple-ai-agent",
+      "description": "",
+      "stars": 1,
+      "updated_at": "2026-10-28T05:37:27Z"
+    },
+    {
+      "id": "e13ven-arch-reharness",
+      "title": "e13ven-arch/reharness",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/e13ven-arch/reharness",
+      "description": "Self-improving LLM agent harness, bounded recursive self-improvement: a Revision Session reads the agent's own returned run, rewrites its tools, hooks, skills and prompts, and proves the change with a Live Probe on the same request. Per-task adoption, no answers shown. Measured on AutomationBench.",
+      "stars": 6,
+      "updated_at": "2026-10-28T05:36:40Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2047,
+      "updated_at": "2026-10-28T05:35:46Z"
+    },
+    {
+      "id": "siddsachar-row-bot",
+      "title": "siddsachar/row-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/siddsachar/row-bot",
+      "description": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
+      "stars": 1673,
+      "updated_at": "2026-10-28T05:31:30Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23288,
+      "updated_at": "2026-10-28T05:09:10Z"
+    },
+    {
+      "id": "citrolabs-ego-lite",
+      "title": "citrolabs/ego-lite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 20210,
+      "updated_at": "2026-10-28T05:34:05Z"
+    },
+    {
+      "id": "tencent-browserskill",
+      "title": "Tencent/BrowserSkill",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": 9704,
+      "updated_at": "2026-10-28T05:19:19Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-10-28T05:38:56Z"
+    },
+    {
+      "id": "lukehalleran-ai-assistant-framework",
+      "title": "lukehalleran/ai-assistant-framework",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lukehalleran/ai-assistant-framework",
+      "description": "Local-first personal AI agent: persistent multi-collection memory, benchmarked multi-stage RAG with cross-encoder reranking, NetworkX knowledge graph, ReAct tool loop, literature-backed synthesis validation, human-gated self-improvement. FastAPI + React UI.",
+      "stars": 0,
+      "updated_at": "2026-10-28T05:06:36Z"
+    },
+    {
+      "id": "jiay-77-palimpsest",
+      "title": "JiaY-77/Palimpsest",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JiaY-77/Palimpsest",
+      "description": "Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval for AI agents.",
+      "stars": 7,
+      "updated_at": "2026-10-28T04:33:42Z"
+    },
+    {
+      "id": "pratibhabharti18-memory-bank",
+      "title": "pratibhabharti18/Memory-Bank",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "description": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "stars": 1,
+      "updated_at": "2026-10-28T04:27:26Z"
+    },
+    {
+      "id": "origintrail-dkg",
+      "title": "OriginTrail/dkg",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/OriginTrail/dkg",
+      "description": "OriginTrail Decentralized Knowledge Graph (DKG) is a decentralized knowledge infrastructure for multi-agent AI memory \u2014 enabling agents to publish, verify, and query shared knowledge as cryptographically verifiable graph assets across a peer-to-peer network.",
+      "stars": 141,
+      "updated_at": "2026-10-28T04:24:39Z"
+    },
+    {
+      "id": "qaisermehdi3-coder-qvunex",
+      "title": "qaisermehdi3-coder/qvunex",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/qaisermehdi3-coder/qvunex",
+      "description": "Measure what your AI inference actually costs. Local only, no dependencies.",
+      "stars": 1,
+      "updated_at": "2026-10-28T05:39:08Z"
+    },
+    {
+      "id": "syntropyai-hq-syntropy",
+      "title": "syntropyai-hq/syntropy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "description": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "stars": 3,
+      "updated_at": "2026-10-28T05:31:31Z"
+    },
+    {
+      "id": "sabiudardai-hue-abul-research-ai",
+      "title": "sabiudardai-hue/abul-research-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sabiudardai-hue/abul-research-ai",
+      "description": "An offline-first Android AI research assistant combining local inference and knowledge retrieval, designed for private, on-device research without network access.",
+      "stars": 0,
+      "updated_at": "2026-10-28T05:28:51Z"
+    },
+    {
+      "id": "dalejohn-dev-nipahut-ai-transcriber",
+      "title": "DaleJohn-Dev/Nipahut-AI-Transcriber",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DaleJohn-Dev/Nipahut-AI-Transcriber",
+      "description": "Offline Windows desktop transcription, speaker diarization, and multilingual meeting review. Open source, local inference, downloadable models.",
+      "stars": 0,
+      "updated_at": "2026-10-28T05:27:25Z"
+    },
+    {
+      "id": "da3m0-wolf",
+      "title": "DA3M0/wolf",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DA3M0/wolf",
+      "description": "High-performance local LLM inference gateway in Rust. Ultra-lightweight , zero-dependency, with Token-level KV cache. Your local Agent's ultimate backend.",
+      "stars": 4,
+      "updated_at": "2026-10-28T05:21:14Z"
+    }
+  ]
+}
