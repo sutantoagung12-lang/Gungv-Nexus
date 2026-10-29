@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-29",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "hot-dev-hot",
+      "title": "hot-dev/hot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hot-dev/hot",
+      "description": "Hot Dev: Hot Language and AI Workflow/Agents Platform",
+      "stars": 7,
+      "updated_at": "2026-10-29T05:45:19Z"
+    },
+    {
+      "id": "vinta-hal-9000",
+      "title": "vinta/hal-9000",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vinta/hal-9000",
+      "description": "Opinionated AI coding agent and dev environment automation for macOS",
+      "stars": 142,
+      "updated_at": "2026-10-29T05:43:44Z"
+    },
+    {
+      "id": "manishiitg-agentworks",
+      "title": "manishiitg/agentworks",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/manishiitg/agentworks",
+      "description": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "stars": 16,
+      "updated_at": "2026-10-29T05:43:26Z"
+    },
+    {
+      "id": "slashman413-cowork",
+      "title": "slashman413/cowork",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/slashman413/cowork",
+      "description": "Multi-Agent Cowork MCP Server \u2014 cross-platform AI agent coordination with Web UI Dashboard. Ships as Cowork Pro on Gumroad.",
+      "stars": 1,
+      "updated_at": "2026-10-29T05:43:11Z"
+    },
+    {
+      "id": "hcipengm-cogneva",
+      "title": "hcipengm/cogneva",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hcipengm/cogneva",
+      "description": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrapping \u00b7 Real-autonomous \u00b7 Omni-evolution",
+      "stars": 34,
+      "updated_at": "2026-10-29T05:43:06Z"
+    },
+    {
+      "id": "squirrelscan-squirrelscan",
+      "title": "squirrelscan/squirrelscan",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/squirrelscan/squirrelscan",
+      "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+      "stars": 299,
+      "updated_at": "2026-10-29T05:45:24Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-10-29T05:45:23Z"
+    },
+    {
+      "id": "afriemann-lsp-mcp",
+      "title": "afriemann/lsp-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/afriemann/lsp-mcp",
+      "description": "MCP server exposing LSP-backed code navigation and editing tools to LLM agents",
+      "stars": 1,
+      "updated_at": "2026-10-29T05:45:24Z"
+    },
+    {
+      "id": "kspavankrishna-vibe-code",
+      "title": "kspavankrishna/VIBE-CODE",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kspavankrishna/VIBE-CODE",
+      "description": "Production ready code and utilities for LLM systems, MCP and agent tooling, token and cost control, streaming, data pipelines and multi language DevOps. Quality code you can fork and use immediately. One new entry every day, each in its own folder with a full README.",
+      "stars": 0,
+      "updated_at": "2026-10-29T05:45:21Z"
+    },
+    {
+      "id": "nuguardai-nuguard",
+      "title": "NuGuardAI/nuguard",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NuGuardAI/nuguard",
+      "description": "AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles vulnerability assessment, SBOM generation, and static analysis.",
+      "stars": 67,
+      "updated_at": "2026-10-29T05:45:07Z"
+    },
+    {
+      "id": "gynsus-tabreach",
+      "title": "gynsus/tabreach",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/gynsus/tabreach",
+      "description": "Local-first AI outreach browser for research, personalised outreach, email and browser automation with human-in-the-loop control.",
+      "stars": 0,
+      "updated_at": "2026-10-29T05:44:52Z"
+    },
+    {
+      "id": "raghavpillai-openteam",
+      "title": "raghavpillai/openteam",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/raghavpillai/openteam",
+      "description": "Self-hosted AI agents with persistent memory, browser and computer access, and scheduled workflows.",
+      "stars": 21,
+      "updated_at": "2026-10-29T05:39:29Z"
+    },
+    {
+      "id": "devinosolutions-stealth-chrome-devtools-mcp",
+      "title": "DevinoSolutions/stealth-chrome-devtools-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "description": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "stars": 30,
+      "updated_at": "2026-10-29T05:37:27Z"
+    },
+    {
+      "id": "glittering-ai-browser",
+      "title": "Glittering/ai-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Glittering/ai-browser",
+      "description": "AI-native browser \u2014 renders pixels for humans, structured semantic tree API for agents. No screenshots, no OCR, no coordinate guessing.",
+      "stars": 5,
+      "updated_at": "2026-10-29T05:30:02Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 37132,
+      "updated_at": "2026-10-29T05:45:00Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2053,
+      "updated_at": "2026-10-29T05:37:24Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-10-29T05:26:58Z"
+    },
+    {
+      "id": "studio-moser-advisaur-mcp",
+      "title": "Studio-Moser/Advisaur-MCP",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Studio-Moser/Advisaur-MCP",
+      "description": "The knowledge-graph memory server for AI tools. Mem0-grade intelligence. Engram-grade simplicity.",
+      "stars": 0,
+      "updated_at": "2026-10-29T05:23:36Z"
+    },
+    {
+      "id": "pratibhabharti18-memory-bank",
+      "title": "pratibhabharti18/Memory-Bank",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "description": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "stars": 1,
+      "updated_at": "2026-10-29T05:08:11Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-10-29T04:47:16Z"
+    },
+    {
+      "id": "dahai80-fusion-gateway",
+      "title": "dahai80/fusion-gateway",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "description": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "stars": 2,
+      "updated_at": "2026-10-29T05:37:16Z"
+    },
+    {
+      "id": "viviberi-oneclick-ai-cover",
+      "title": "ViviBeri/OneClick-AI-Cover",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ViviBeri/OneClick-AI-Cover",
+      "description": "A free, open-source, Windows-first AI singing cover creator with vocal separation, voice conversion (RVC), instrumental mixing, and WAV/MP3 export \u2014 designed for local processing without paid APIs or cloud inference.",
+      "stars": 0,
+      "updated_at": "2026-10-29T05:27:50Z"
+    },
+    {
+      "id": "mmogr-gglib",
+      "title": "mmogr/gglib",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mmogr/gglib",
+      "description": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "stars": 1,
+      "updated_at": "2026-10-29T05:16:30Z"
+    },
+    {
+      "id": "seanhogg-builderforce-inference",
+      "title": "SeanHogg/builderforce-inference",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SeanHogg/builderforce-inference",
+      "description": "Synapse: a local AI runtime and desktop app - run LLMs on your own machine, private memory, MCP connectors, agents. No Ollama required.",
+      "stars": 0,
+      "updated_at": "2026-10-29T04:58:40Z"
+    },
+    {
+      "id": "writchcraft-grimoire-ai",
+      "title": "writchcraft/grimoire-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/writchcraft/grimoire-ai",
+      "description": "Self-hosted local AI assistant for homelabs, with native GGUF inference, RAG, log analysis, incident summaries, and infrastructure-aware troubleshooting.",
+      "stars": 0,
+      "updated_at": "2026-10-29T04:25:19Z"
+    }
+  ]
+}

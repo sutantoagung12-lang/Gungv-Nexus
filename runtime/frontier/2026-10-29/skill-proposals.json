@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-29",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-hot-dev-hot",
+      "name": "Explore hot-dev/hot",
+      "source": "https://github.com/hot-dev/hot",
+      "problem": "Hot Dev: Hot Language and AI Workflow/Agents Platform",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vinta-hal-9000",
+      "name": "Explore vinta/hal-9000",
+      "source": "https://github.com/vinta/hal-9000",
+      "problem": "Opinionated AI coding agent and dev environment automation for macOS",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manishiitg-agentworks",
+      "name": "Explore manishiitg/agentworks",
+      "source": "https://github.com/manishiitg/agentworks",
+      "problem": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-slashman413-cowork",
+      "name": "Explore slashman413/cowork",
+      "source": "https://github.com/slashman413/cowork",
+      "problem": "Multi-Agent Cowork MCP Server \u2014 cross-platform AI agent coordination with Web UI Dashboard. Ships as Cowork Pro on Gumroad.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hcipengm-cogneva",
+      "name": "Explore hcipengm/cogneva",
+      "source": "https://github.com/hcipengm/cogneva",
+      "problem": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrapping \u00b7 Real-autonomous \u00b7 Omni-evolution",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-squirrelscan-squirrelscan",
+      "name": "Explore squirrelscan/squirrelscan",
+      "source": "https://github.com/squirrelscan/squirrelscan",
+      "problem": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-afriemann-lsp-mcp",
+      "name": "Explore afriemann/lsp-mcp",
+      "source": "https://github.com/afriemann/lsp-mcp",
+      "problem": "MCP server exposing LSP-backed code navigation and editing tools to LLM agents",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kspavankrishna-vibe-code",
+      "name": "Explore kspavankrishna/VIBE-CODE",
+      "source": "https://github.com/kspavankrishna/VIBE-CODE",
+      "problem": "Production ready code and utilities for LLM systems, MCP and agent tooling, token and cost control, streaming, data pipelines and multi language DevOps. Quality code you can fork and use immediately. One new entry every day, each in its own folder with a full README.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nuguardai-nuguard",
+      "name": "Explore NuGuardAI/nuguard",
+      "source": "https://github.com/NuGuardAI/nuguard",
+      "problem": "AI red-teaming tool and LLM security framework to evaluate agentic AI applications. Tests prompt injections, handles vulnerability assessment, SBOM generation, and static analysis.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gynsus-tabreach",
+      "name": "Explore gynsus/tabreach",
+      "source": "https://github.com/gynsus/tabreach",
+      "problem": "Local-first AI outreach browser for research, personalised outreach, email and browser automation with human-in-the-loop control.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-raghavpillai-openteam",
+      "name": "Explore raghavpillai/openteam",
+      "source": "https://github.com/raghavpillai/openteam",
+      "problem": "Self-hosted AI agents with persistent memory, browser and computer access, and scheduled workflows.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-glittering-ai-browser",
+      "name": "Explore Glittering/ai-browser",
+      "source": "https://github.com/Glittering/ai-browser",
+      "problem": "AI-native browser \u2014 renders pixels for humans, structured semantic tree API for agents. No screenshots, no OCR, no coordinate guessing.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-studio-moser-advisaur-mcp",
+      "name": "Explore Studio-Moser/Advisaur-MCP",
+      "source": "https://github.com/Studio-Moser/Advisaur-MCP",
+      "problem": "The knowledge-graph memory server for AI tools. Mem0-grade intelligence. Engram-grade simplicity.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pratibhabharti18-memory-bank",
+      "name": "Explore pratibhabharti18/Memory-Bank",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "problem": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dahai80-fusion-gateway",
+      "name": "Explore dahai80/fusion-gateway",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "problem": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-viviberi-oneclick-ai-cover",
+      "name": "Explore ViviBeri/OneClick-AI-Cover",
+      "source": "https://github.com/ViviBeri/OneClick-AI-Cover",
+      "problem": "A free, open-source, Windows-first AI singing cover creator with vocal separation, voice conversion (RVC), instrumental mixing, and WAV/MP3 export \u2014 designed for local processing without paid APIs or cloud inference.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mmogr-gglib",
+      "name": "Explore mmogr/gglib",
+      "source": "https://github.com/mmogr/gglib",
+      "problem": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-seanhogg-builderforce-inference",
+      "name": "Explore SeanHogg/builderforce-inference",
+      "source": "https://github.com/SeanHogg/builderforce-inference",
+      "problem": "Synapse: a local AI runtime and desktop app - run LLMs on your own machine, private memory, MCP connectors, agents. No Ollama required.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-writchcraft-grimoire-ai",
+      "name": "Explore writchcraft/grimoire-ai",
+      "source": "https://github.com/writchcraft/grimoire-ai",
+      "problem": "Self-hosted local AI assistant for homelabs, with native GGUF inference, RAG, log analysis, incident summaries, and infrastructure-aware troubleshooting.",
+      "created_on": "2026-10-29",
+      "policy": "review-before-activation"
+    }
+  ]
+}
