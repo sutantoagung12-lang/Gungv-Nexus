@@ -1,0 +1,206 @@
+{
+  "date": "2026-10-30",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-dcc-mcp-dcc-mcp-nuke",
+      "name": "Explore dcc-mcp/dcc-mcp-nuke",
+      "source": "https://github.com/dcc-mcp/dcc-mcp-nuke",
+      "problem": "Foundry Nuke MCP adapter for AI agents to inspect and author compositing node graphs and layered AOV workflows, with host-specific discovery in the DCC-MCP ecosystem.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-edoardodevelop-easyisland",
+      "name": "Explore EdoardoDevelop/easyisland",
+      "source": "https://github.com/EdoardoDevelop/easyisland",
+      "problem": "Your personal AI agent on Windows. It works for you on your PC: runs your flows on its own, carries goals forward over days, remembers what matters, and keeps every coding agent in one animated island, with your approval for anything that counts. Local-first, no telemetry.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harryworld-remote-ios-agent",
+      "name": "Explore harryworld/remote-ios-agent",
+      "source": "https://github.com/harryworld/remote-ios-agent",
+      "problem": "Linux-first remote physical iPhone development and evidence-driven automation for AI agents",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ihsanulhaq077-agenticwhats",
+      "name": "Explore Ihsanulhaq077/AgenticWhats",
+      "source": "https://github.com/Ihsanulhaq077/AgenticWhats",
+      "problem": "AgenticWhats - Multi-Tenant WhatsApp AI Automation Platform",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-alexmah123-dotasset-unity",
+      "name": "Explore AlexMah123/dotasset-unity",
+      "source": "https://github.com/AlexMah123/dotasset-unity",
+      "problem": "DotAsset for Unity: export, create, edit, migrate and audit Unity assets from the command line, editor open or closed. Built for scripts and AI agents.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dingye233-wechat-group-agent",
+      "name": "Explore Dingye233/wechat-group-agent",
+      "source": "https://github.com/Dingye233/wechat-group-agent",
+      "problem": "A group-chat agent: persona replies, long-term memory, Bilibili tools, meme stickers, self-written skills and scheduled tasks",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-axisvela-praxo-core",
+      "name": "Explore axisvela/praxo-core",
+      "source": "https://github.com/axisvela/praxo-core",
+      "problem": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugins, sandboxing, and policy.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pierre-meyer1997-fastmcp-mcp-tool-hub",
+      "name": "Explore pierre-meyer1997/fastmcp-mcp-tool-hub",
+      "source": "https://github.com/pierre-meyer1997/fastmcp-mcp-tool-hub",
+      "problem": "FastMCP: a Python framework for building high-performance Model Context Protocol servers that connect agents and LLMs with tools, prompts, resources, local data, and scripts.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kohaku-lab-kohakuterrarium",
+      "name": "Explore Kohaku-Lab/KohakuTerrarium",
+      "source": "https://github.com/Kohaku-Lab/KohakuTerrarium",
+      "problem": "KohakuTerrarium is a general-purpose AI agent framework and batteries-included app for building, running, and composing self-contained agents and multi-agent teams, with built-in tools, sub-agents, persistent sessions, TUI, and web UI.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mghasemi19-agent_ai-hands-on-tutorial",
+      "name": "Explore mghasemi19/Agent_AI-Hands-on-Tutorial",
+      "source": "https://github.com/mghasemi19/Agent_AI-Hands-on-Tutorial",
+      "problem": "Hands-on tutorials and example projects for building agentic LLM-based agents, tool integrations, and MCP-backed research assistants.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dario2003-droid-opencode-browser-automator",
+      "name": "Explore Dario2003-droid/opencode-browser-automator",
+      "source": "https://github.com/Dario2003-droid/opencode-browser-automator",
+      "problem": "Autonomous Web Agent Toolkit 2026 - AI Browser Automation for Testing & Scraping",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tort1k558-camouflow",
+      "name": "Explore Tort1k558/Camouflow",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "problem": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Powered by Camoufox and CloakBrowser; Glint, our own Chromium engine, is in development.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-siddsachar-row-bot",
+      "name": "Explore siddsachar/row-bot",
+      "source": "https://github.com/siddsachar/row-bot",
+      "problem": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pratibhabharti18-memory-bank",
+      "name": "Explore pratibhabharti18/Memory-Bank",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "problem": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nvdigitalsolutions-nvoos-content-graph-ai",
+      "name": "Explore nvdigitalsolutions/nvoos-content-graph-ai",
+      "source": "https://github.com/nvdigitalsolutions/nvoos-content-graph-ai",
+      "problem": "AI chat assistant addon for NV oOS Content Graph \u2014 adds conversational AI with 13 provider backends, SSE streaming, tool-calling loop, 13 AI-powered tools, embeddings, RAG, and agent memory to the knowledge graph.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cipher208-a-memory",
+      "name": "Explore Cipher208/a-memory",
+      "source": "https://github.com/Cipher208/a-memory",
+      "problem": "a-memory: 4-tier AI agent memory in plain SQLite \u2014 5 MCP primitives, hybrid FTS5+binary search, knowledge graphs, envelope encryption. Local-only.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harshkumarg007-prerna",
+      "name": "Explore HarshkumarG007/PRERNA",
+      "source": "https://github.com/HarshkumarG007/PRERNA",
+      "problem": "Local-first desktop platform for adolescent self-discovery, career exploration, wellbeing support, and AI-assisted guidance. Built with React, Rust/Tauri, encrypted local storage, and optional local LLM inference, with privacy, transparency, and human-gated safety at its core.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bisand-kvad",
+      "name": "Explore bisand/kvad",
+      "source": "https://github.com/bisand/kvad",
+      "problem": "Local AI for Apple silicon, written from the arithmetic up: an LLM, image and video inference engine in Rust with Metal kernels for the M5, a web UI, a terminal app and an OpenAI-compatible API.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rybo30-ghostdrive_7",
+      "name": "Explore rybo30/ghostdrive_7",
+      "source": "https://github.com/rybo30/ghostdrive_7",
+      "problem": "Encrypted data and local AI inference. Multi-model reasoning and deployable AI agents.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dahai80-fusion-gateway",
+      "name": "Explore dahai80/fusion-gateway",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "problem": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-thekevinc-akubot",
+      "name": "Explore thekevinc/akubot",
+      "source": "https://github.com/thekevinc/akubot",
+      "problem": "A local Discord AI double with mention replies, private storage, and containerized inference",
+      "created_on": "2026-10-30",
+      "policy": "review-before-activation"
+    }
+  ]
+}
