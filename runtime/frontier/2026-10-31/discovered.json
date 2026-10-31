@@ -1,0 +1,246 @@
+{
+  "date": "2026-10-31",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "fahthiz-oasis",
+      "title": "FAHTHIZ/oasis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/FAHTHIZ/oasis",
+      "description": "Open-source AI coding agent and developer workspace with multi-provider models, MCP tools, Agent Skills, hooks, memory, automation, and subagents.",
+      "stars": 5,
+      "updated_at": "2026-10-31T05:37:42Z"
+    },
+    {
+      "id": "nathapp-io-nax",
+      "title": "nathapp-io/nax",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nathapp-io/nax",
+      "description": "AI Coding Agent Orchestrator \u2014 loops until done",
+      "stars": 2,
+      "updated_at": "2026-10-31T05:37:33Z"
+    },
+    {
+      "id": "nyashadzashetinotendandiripo-dot-zerothe-ai",
+      "title": "nyashadzashetinotendandiripo-dot/zerothe-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nyashadzashetinotendandiripo-dot/zerothe-ai",
+      "description": "ZerotheBot - open-source AI agent automation bot (MIT). Site: https://zerothe-ai-site.pages.dev",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:37:04Z"
+    },
+    {
+      "id": "hcipengm-cogneva",
+      "title": "hcipengm/cogneva",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hcipengm/cogneva",
+      "description": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrapping \u00b7 Real-autonomous \u00b7 Omni-evolution",
+      "stars": 34,
+      "updated_at": "2026-10-31T05:36:18Z"
+    },
+    {
+      "id": "samadalam481470sa-cmd-autonomous-agentic-ai-codebase",
+      "title": "samadalam481470sa-cmd/Autonomous-Agentic-AI-Codebase",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/samadalam481470sa-cmd/Autonomous-Agentic-AI-Codebase",
+      "description": "Aetherion OmniForge AI is an enterprise-grade autonomous multi-agent AI engineering platform that plans, codes, tests, debugs, and builds full-stack applications, dashboards, and automation workflows. Built with React, TypeScript, Rust, Python, Go, PostgreSQL, Redis, Docker, and Kubernetes, featuring secure tool execution, LLM orchestration etc.",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:34:34Z"
+    },
+    {
+      "id": "rahulsanecdote-forge",
+      "title": "Rahulsanecdote/Forge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Rahulsanecdote/Forge",
+      "description": "Self-hostable, provider-agnostic agent runtime with a typed tool system and per-client context isolation. Runs fully offline against Ollama. MIT.",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:37:18Z"
+    },
+    {
+      "id": "jmagly-aiwg",
+      "title": "jmagly/aiwg",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jmagly/aiwg",
+      "description": "Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Codex, Copilot, Cursor and more, plus SDLC workflows, session memory, and Jev decision support that offloads bounded LLM decisions to save tokens.",
+      "stars": 227,
+      "updated_at": "2026-10-31T05:37:15Z"
+    },
+    {
+      "id": "dflippojr-agent-harness",
+      "title": "dflippojr/agent-harness",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dflippojr/agent-harness",
+      "description": "Local-LLM agent harness for a home server: sandboxed agent sessions, phone approvals via ntfy, git branch review, homelab tools",
+      "stars": 3,
+      "updated_at": "2026-10-31T05:36:47Z"
+    },
+    {
+      "id": "josellanos95-helpdesk-agent-orchestrator",
+      "title": "josellanos95/helpdesk-agent-orchestrator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/josellanos95/helpdesk-agent-orchestrator",
+      "description": "Multi-tenant AI agent orchestrator for IT helpdesk support \u2014 tool use, Redis-coordinated session state, idempotent execution, and human-in-the-loop escalation. FastAPI + OpenAI.",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:36:24Z"
+    },
+    {
+      "id": "siddsachar-row-bot",
+      "title": "siddsachar/row-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/siddsachar/row-bot",
+      "description": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
+      "stars": 1678,
+      "updated_at": "2026-10-31T05:34:02Z"
+    },
+    {
+      "id": "tort1k558-camouflow",
+      "title": "Tort1k558/Camouflow",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "description": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Powered by Camoufox and CloakBrowser; Glint, our own Chromium engine, is in development.",
+      "stars": 60,
+      "updated_at": "2026-10-31T05:28:39Z"
+    },
+    {
+      "id": "nikolaybotev-local-skills",
+      "title": "nikolaybotev/local-skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nikolaybotev/local-skills",
+      "description": "Reusable skills for local AI agents \u2014 browser automation, document processing, and more",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:27:22Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23317,
+      "updated_at": "2026-10-31T05:26:13Z"
+    },
+    {
+      "id": "parksben-opensider",
+      "title": "parksben/opensider",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/parksben/opensider",
+      "description": "A browser extension that drives local Agent CLIs that speak ACP from within your browser for web information gathering, web automation, and more. \u4e00\u4e2a\u6d4f\u89c8\u5668\u6269\u5c55\u7a0b\u5e8f\uff0c\u652f\u6301\u5728\u6d4f\u89c8\u5668\u4e2d\u9a71\u52a8\u672c\u5730 AI Agent \u8fdb\u884c\u7f51\u9875\u4fe1\u606f\u91c7\u96c6\u3001\u7f51\u9875\u81ea\u52a8\u5316\u64cd\u4f5c\u7b49\u5de5\u4f5c\u3002",
+      "stars": 17,
+      "updated_at": "2026-10-31T05:20:06Z"
+    },
+    {
+      "id": "mrpeppersdev-agent-infrastructure-landscape",
+      "title": "MrPeppersDev/agent-infrastructure-landscape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "stars": 7,
+      "updated_at": "2026-10-31T05:35:43Z"
+    },
+    {
+      "id": "roshanrameshhub-agentforge",
+      "title": "Roshanrameshhub/AgentForge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Roshanrameshhub/AgentForge",
+      "description": "Build autonomous AI workflows with multi-agent orchestration, intelligent routing, hybrid RAG, knowledge graphs, MCP tools, persistent memory, and human-in-the-loop execution.",
+      "stars": 8,
+      "updated_at": "2026-10-31T05:19:32Z"
+    },
+    {
+      "id": "liminode-agent-memory-cpp",
+      "title": "LimiNode/agent-memory-cpp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "description": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "stars": 2,
+      "updated_at": "2026-10-31T05:13:26Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-10-31T05:04:57Z"
+    },
+    {
+      "id": "phaseyon-tacit",
+      "title": "PhaseYon/tacit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PhaseYon/tacit",
+      "description": "Your team\u2019s memory, wired into every AI tool. Syncs Slack, GitHub & Notion into a permission-aware knowledge graph, searchable via hybrid GraphRAG and exposed to Claude & Cursor over MCP.",
+      "stars": 0,
+      "updated_at": "2026-10-31T04:30:53Z"
+    },
+    {
+      "id": "ghalrym-kadan",
+      "title": "ghalrym/Kadan",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ghalrym/Kadan",
+      "description": "My AI server dashboard allowing me to do local inference from one service rather than having to manage multiple services like ollama / llama.cpp / vllm / comfy ui / FreeToken",
+      "stars": 3,
+      "updated_at": "2026-10-31T05:34:49Z"
+    },
+    {
+      "id": "adityavermacode-isol8",
+      "title": "AdityaVermaCode/isol8",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AdityaVermaCode/isol8",
+      "description": "AI-powered security governance gateway for autonomous AI agents. Evaluate agent actions against security policies, detect risky operations, and enforce ALLOW, DENY, or human approval decisions using local LLM inference.",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:30:34Z"
+    },
+    {
+      "id": "antsarerad-opti-oignon",
+      "title": "AntsAreRad/opti-oignon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AntsAreRad/opti-oignon",
+      "description": "Local-first AI inference platform for LLMs \u2014 private chat, RAG, defense-in-depth security (Daily/Bulbe, encryption at rest, 2FA), on your own hardware. SvelteKit + FastAPI",
+      "stars": 6,
+      "updated_at": "2026-10-31T05:28:58Z"
+    },
+    {
+      "id": "nilsfournier1960-ash4d-kubernetes-ai-hub",
+      "title": "nilsfournier1960/ash4d-kubernetes-ai-hub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nilsfournier1960/ash4d-kubernetes-ai-hub",
+      "description": "Self-hosted private AI stack for k3s Kubernetes with local Qwen3 inference, retrieval-augmented generation, agent tooling, and GPU-backed services in one GitOps-managed environment.",
+      "stars": 0,
+      "updated_at": "2026-10-31T05:25:56Z"
+    },
+    {
+      "id": "syntropyai-hq-syntropy",
+      "title": "syntropyai-hq/syntropy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "description": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "stars": 3,
+      "updated_at": "2026-10-31T05:16:42Z"
+    }
+  ]
+}
