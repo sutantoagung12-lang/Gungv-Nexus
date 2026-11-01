@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-01",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-api-evangelist-tabtabtab",
+      "name": "Explore api-evangelist/tabtabtab",
+      "source": "https://github.com/api-evangelist/tabtabtab",
+      "problem": "TabTabTab \u2014 independent third-party profile of a public API surface, by API Evangelist. TabTabTab runs coding agents in the background, triggered by webhooks, schedules, Slack, or direct requests. You wire up a trigger once and work comes back to you: code changes arrive as pull requests you can verify before you merge, while ops and data-analysis",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-personalclaw-personalclaw",
+      "name": "Explore PersonalClaw/PersonalClaw",
+      "source": "https://github.com/PersonalClaw/PersonalClaw",
+      "problem": "Your self-hosted personal AI agent \u2014 an agentic OS for one person: chat, autonomous goal loops, memory, knowledge base, skills, automation, MCP in both directions, and a permission-gated app platform. Local-first, provider-agnostic, MIT.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manishiitg-agentworks",
+      "name": "Explore manishiitg/agentworks",
+      "source": "https://github.com/manishiitg/agentworks",
+      "problem": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ahmadrosid-nakama",
+      "name": "Explore ahmadrosid/nakama",
+      "source": "https://github.com/ahmadrosid/nakama",
+      "problem": "The AI workspace where teams share agents, skills and automations that the whole company builds on.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mustcodeal-seleniumbase-rs",
+      "name": "Explore MustCodeAl/seleniumbase-rs",
+      "source": "https://github.com/MustCodeAl/seleniumbase-rs",
+      "problem": "SeleniumBase for Rust (unofficial port): browser automation and testing with the SeleniumBase API, a driverless Chrome DevTools engine, stealth mode, and an MCP server for AI agents.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-wenyan0315-facta",
+      "name": "Explore Wenyan0315/facta",
+      "source": "https://github.com/Wenyan0315/facta",
+      "problem": "Personal AI agent built from scratch \u2014 LLM layer, RAG knowledge base, tool calling loop. No frameworks, learn by building.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-axisvela-praxo-core",
+      "name": "Explore axisvela/praxo-core",
+      "source": "https://github.com/axisvela/praxo-core",
+      "problem": "MIT-licensed agent framework for the AxisVela ecosystem: governed agent loop, model/tool/memory/event primitives, plugins, sandboxing, and policy.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-wmentor-go-magnetar",
+      "name": "Explore wmentor/go-magnetar",
+      "source": "https://github.com/wmentor/go-magnetar",
+      "problem": "An AI chat agent (harness) with integrated tools, skills and an optional knowledge base. Chat with any OpenAI-compatible LLM, use built-in integrations (web search, Confluence, JIRA, GitHub, GitLab and more), index documents and web pages into a local vector database (RAG), and get answers grounded in your own content.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-raullenchai-rapid-mlx",
+      "name": "Explore raullenchai/Rapid-MLX",
+      "source": "https://github.com/raullenchai/Rapid-MLX",
+      "problem": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4\u00d7 faster than Apple's MLX (mlx-lm) on the same weights.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fiizam-clickspec",
+      "name": "Explore fiizam/clickspec",
+      "source": "https://github.com/fiizam/clickspec",
+      "problem": "Record live browser interactions and generate maintainable Playwright E2E tests with smart assertions using AI.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-calmingstorm-odin",
+      "name": "Explore Calmingstorm/Odin",
+      "source": "https://github.com/Calmingstorm/Odin",
+      "problem": "Self-hosted AI execution agent for Discord: runs shell commands and edits files on your hosts, drives browsers, schedules jobs and delegates to sub-agents, within per-user host access, a command governor and an audit log. Web management UI. Works with a ChatGPT subscription, OpenAI-compatible APIs or Ollama. Desktop app: Odin Desktop.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-siddsachar-row-bot",
+      "name": "Explore siddsachar/row-bot",
+      "source": "https://github.com/siddsachar/row-bot",
+      "problem": "Row-Bot - Personal AI Sovereignty. A local-first AI assistant with integrated tools, a personal knowledge graph, voice, vision, shell, browser automation, scheduled tasks, health tracking, and messaging channels. Run locally via Ollama or add opt-in cloud models. Your data stays on your machine.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tort1k558-camouflow",
+      "name": "Explore Tort1k558/Camouflow",
+      "source": "https://github.com/Tort1k558/Camouflow",
+      "problem": "Local-first anti-detect browser workspace: isolated profiles, AI agents, visual automation, Record & Replay, proxies and team workflows. Powered by Camoufox and CloakBrowser; Glint, our own Chromium engine, is in development.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opok-ops-mindforge",
+      "name": "Explore opok-ops/MindForge",
+      "source": "https://github.com/opok-ops/MindForge",
+      "problem": "Production-grade lifelong memory for AI agents \u2014 4-tier memory, knowledge graph, E2EE, federated P2P, MCP server.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iberi22-xavier",
+      "name": "Explore iberi22/xavier",
+      "source": "https://github.com/iberi22/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sunormesky-max-epicode",
+      "name": "Explore sunormesky-max/epicode",
+      "source": "https://github.com/sunormesky-max/epicode",
+      "problem": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-praveenkumarkunwar2007-hash-docmind",
+      "name": "Explore praveenkumarkunwar2007-hash/DocMind",
+      "source": "https://github.com/praveenkumarkunwar2007-hash/DocMind",
+      "problem": "DocMind AI is a private, local-first RAG document assistant built with FastAPI and SQLite. It parses multi-format files (PDF, DOCX, TXT, MD), performs overlapping chunking, and executes keyword-scored passage retrieval to drive contextual Q&A, multi-doc summarization, and comparative analysis via local Ollama (Qwen 2.5) LLM inference.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-k-ramakrishnan-college-of-technology-gemma-ghost-memory",
+      "name": "Explore K-Ramakrishnan-College-of-Technology/gemma-ghost-memory",
+      "source": "https://github.com/K-Ramakrishnan-College-of-Technology/gemma-ghost-memory",
+      "problem": "\ud83c\udf38 Preserve memories, author tribute literature, and light virtual Ofrenda candles powered by Google Gemma AI (Ollama local inference), React 19, and SQLite.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opentail-net-opentail.stingray",
+      "name": "Explore opentail-net/OpenTail.Stingray",
+      "source": "https://github.com/opentail-net/OpenTail.Stingray",
+      "problem": "Local AI, native to .NET. Run language models, vision, speech, and generative AI directly in your C# applications. No Python. No external inference server. CPU or GPU. Open source, built for NativeAOT.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mgc2375-lai",
+      "name": "Explore mgc2375/lai",
+      "source": "https://github.com/mgc2375/lai",
+      "problem": "local AI agent made for pentesting running on live usb boot of parrot OS for GGUF models: tiny CLI, minimal llama.cpp engine, shell tools and MCP. It\u2019s designed to be memory optimised whilst maintaining abilities in tool calling. With majority of the method choice inference in LLM not needed due to MCP tools and templates. 1 cmd install and config",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harshkumarg007-prerna",
+      "name": "Explore HarshkumarG007/PRERNA",
+      "source": "https://github.com/HarshkumarG007/PRERNA",
+      "problem": "Local-first desktop platform for adolescent self-discovery, career exploration, wellbeing support, and AI-assisted guidance. Built with React, Rust/Tauri, encrypted local storage, and optional local LLM inference, with privacy, transparency, and human-gated safety at its core.",
+      "created_on": "2026-11-01",
+      "policy": "review-before-activation"
+    }
+  ]
+}
