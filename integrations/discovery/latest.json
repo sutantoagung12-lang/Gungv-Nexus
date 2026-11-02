@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-10-26T09:02:36.969874+00:00",
+  "generated_at": "2026-11-02T11:18:23.525996+00:00",
   "source": "GitHub Search API",
   "status": "integrated-metadata-only",
   "added_to_capability_pool": 1,
@@ -98,16 +98,16 @@
   "error": null,
   "candidates": [
     {
-      "repository": "github/spec-kit",
+      "repository": "paperclipai/paperclip",
       "capability": "discovered",
-      "description": "\ud83d\udcab Toolkit to help you get started with SDD or any other process!",
-      "stars": 142936,
-      "forks": 12807,
-      "language": "Python",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 110077,
+      "forks": 18244,
+      "language": "TypeScript",
       "license": "MIT",
-      "updated_at": "2026-10-26T08:52:48Z",
-      "url": "https://github.com/github/spec-kit",
-      "score": 1.410087,
+      "updated_at": "2026-11-02T11:18:04Z",
+      "url": "https://github.com/paperclipai/paperclip",
+      "score": 1.47805,
       "trust": "untrusted",
       "requires_validation": true
     }

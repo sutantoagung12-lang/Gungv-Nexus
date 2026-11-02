@@ -8,7 +8,7 @@
     "auto_install": false,
     "auto_merge_into_pool": true
   },
-  "count": 1217,
+  "count": 1218,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -9662,7 +9662,22 @@
       "trust": "untrusted",
       "requires_validation": true,
       "integration_mode": "metadata-only"
+    },
+    {
+      "repository": "paperclipai/paperclip",
+      "capability": "discovered",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 110077,
+      "forks": 18244,
+      "language": "TypeScript",
+      "license": "MIT",
+      "updated_at": "2026-11-02T11:18:04Z",
+      "url": "https://github.com/paperclipai/paperclip",
+      "score": 1.47805,
+      "trust": "untrusted",
+      "requires_validation": true,
+      "integration_mode": "metadata-only"
     }
   ],
-  "last_update": "2026-10-26"
+  "last_update": "2026-11-02"
 }
