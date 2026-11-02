@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-02",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-albertovillaosorno-protonmail-ai",
+      "name": "Explore albertovillaosorno/protonmail-ai",
+      "source": "https://github.com/albertovillaosorno/protonmail-ai",
+      "problem": "Security-first Proton Mail automation for AI agents \u2014 direct QR session-fork auth, local-first Rust CLI + MCP, least-privilege tools, and auditable sessions.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manishiitg-agentworks",
+      "name": "Explore manishiitg/agentworks",
+      "source": "https://github.com/manishiitg/agentworks",
+      "problem": "AgentWorks: AI agents that own the work. Goals that chase a metric, and Crews your team asks from Claude, ChatGPT or Cursor. Open source.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dev-samar-agentic-ap-workforce",
+      "name": "Explore dev-samar/agentic-ap-workforce",
+      "source": "https://github.com/dev-samar/agentic-ap-workforce",
+      "problem": "Autonomous multi-tenant agentic ai workforce for retail email parsing and enterprise AP automation",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-whydiriki700-yuki-ai",
+      "name": "Explore Whydiriki700/yuki-ai",
+      "source": "https://github.com/Whydiriki700/yuki-ai",
+      "problem": "Yuki.ai: the AI agent who can say no to her boss. A managed AI chief of staff with an enforced founder contract, an enemy critic gate, and a public failure ledger.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-flashmind-labs-flashmind",
+      "name": "Explore flashmind-labs/flashmind",
+      "source": "https://github.com/flashmind-labs/flashmind",
+      "problem": "AI agent framework in Rust \u2014 streaming LLM providers, 70+ tools, vector memory, multi-agent orchestration, and MCP support",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harshdubey23-abhed",
+      "name": "Explore HarshDubey23/abhed",
+      "source": "https://github.com/HarshDubey23/abhed",
+      "problem": "Abhed: AI Agent Governance Gateway \u2014 policy enforcement gate for LLM tool calls with human-in-the-loop approval & cryptographic signed ledger (Kavach OS)",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-philpaz-recusal",
+      "name": "Explore philpaz/recusal",
+      "source": "https://github.com/philpaz/recusal",
+      "problem": "Deterministic governance for AI agent tool calls in Claude Code, MCP, LangGraph, or any agent loop. Pin approved capabilities, detect drift, and refuse unsafe or unapproved actions before execution. No model in the decision path.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-amit171ku-pc-agent",
+      "name": "Explore amit171ku/PC-AGENT",
+      "source": "https://github.com/amit171ku/PC-AGENT",
+      "problem": "Local AI desktop agent powered by Groq with web browsing, sandboxed file management, Office automation, and automatic multi-model fallback.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manuelgr928-rusty-beaker",
+      "name": "Explore Manuelgr928/rusty-beaker",
+      "source": "https://github.com/Manuelgr928/rusty-beaker",
+      "problem": "\u26a1 RustyClaw 2026 \u2014 AI CLI for RAG Agents, Voice Cloning & Browser Automation",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tthanh2k6-tthanh2k6",
+      "name": "Explore Tthanh2k6/Tthanh2k6",
+      "source": "https://github.com/Tthanh2k6/Tthanh2k6",
+      "problem": "Trung Thanh Tran \u2014 Web Scraping, Browser Automation, Full-Stack & AI Developer",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citrolabs-ego-lite",
+      "name": "Explore citrolabs/ego-lite",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "problem": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mrpeppersdev-agent-infrastructure-landscape",
+      "name": "Explore MrPeppersDev/agent-infrastructure-landscape",
+      "source": "https://github.com/MrPeppersDev/agent-infrastructure-landscape",
+      "problem": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, agent frameworks, runtimes, vector stores, knowledge graphs, MCP servers, benchmarks. Searchable with typed edges, lineages, citations.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mansi-pandey17-hindsight-the-institutional-amnesia-problem",
+      "name": "Explore mansi-pandey17/HindSight-The-Institutional-Amnesia-Problem",
+      "source": "https://github.com/mansi-pandey17/HindSight-The-Institutional-Amnesia-Problem",
+      "problem": "HindSight is an AI-powered delivery memory system using RAG, LLMs, vector databases, and knowledge graphs to preserve engineering knowledge, answer architectural questions, visualize project relationships, analyze code impact, automate PR checks, and identify knowledge gaps.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fwnivaen-jarvis",
+      "name": "Explore fwnivaen/Jarvis",
+      "source": "https://github.com/fwnivaen/Jarvis",
+      "problem": "Personal AI assistant with a 3D knowledge graph, voice, bounded multi-agent collaboration, hybrid memory and native macOS tools.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dlealvilla-local-ai-stack",
+      "name": "Explore dlealvilla/local-ai-stack",
+      "source": "https://github.com/dlealvilla/local-ai-stack",
+      "problem": "\ud83d\udda5\ufe0f Local AI Stack: run private AI on your own GPU servers. Model discovery, capacity planning, fast local inference, a secure gateway, and admin and workspace UIs.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-viviberi-oneclick-ai-cover",
+      "name": "Explore ViviBeri/OneClick-AI-Cover",
+      "source": "https://github.com/ViviBeri/OneClick-AI-Cover",
+      "problem": "A free, open-source, Windows-first AI singing cover creator with vocal separation, voice conversion (RVC), instrumental mixing, and WAV/MP3 export \u2014 designed for local processing without paid APIs or cloud inference.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sev7enita-nodelift",
+      "name": "Explore sev7enITA/NodeLift",
+      "source": "https://github.com/sev7enITA/NodeLift",
+      "problem": "Local AI collaboration across personal devices. Measured inference, native companions, and reproducible benchmarks.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jonathanprogram2-cloudforge-ai",
+      "name": "Explore jonathanprogram2/CloudForge-AI",
+      "source": "https://github.com/jonathanprogram2/CloudForge-AI",
+      "problem": "Local-first AI inference and MLOps platform featuring LLM benchmarking, FastAPI, React, PostgreSQL, Docker, Prometheus, Grafana, and automated CI/CD.",
+      "created_on": "2026-11-02",
+      "policy": "review-before-activation"
+    }
+  ]
+}
