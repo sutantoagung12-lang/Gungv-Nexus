@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-03",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-miozilla-antigravitypomodoro",
+      "name": "Explore miozilla/antigravitypomodoro",
+      "source": "https://github.com/miozilla/antigravitypomodoro",
+      "problem": "antigravitypomodoro :earth_africa::astronaut: : | Pomodoro Project |  Google Antigravity, AI agents Orchestration, Slash Command, Agent Skills, Model Context Protocol (MCP) Servers Integration |",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-saadalilabs-saadai-labs",
+      "name": "Explore SaadAliLabs/SaadAI-Labs",
+      "source": "https://github.com/SaadAliLabs/SaadAI-Labs",
+      "problem": "Ai Automation System, agents, skill and more",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kishan-033-code-canvas",
+      "name": "Explore Kishan-033/code-canvas",
+      "source": "https://github.com/Kishan-033/code-canvas",
+      "problem": "A modern, responsive business website for Code Canvas, showcasing website development, AI agent development, and business automation solutions",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ldbumble-taskuary",
+      "name": "Explore ldbumble/taskuary",
+      "source": "https://github.com/ldbumble/taskuary",
+      "problem": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-erature-hub-cybara",
+      "name": "Explore erature-hub/cybara",
+      "source": "https://github.com/erature-hub/cybara",
+      "problem": "Cybara - Your agents. Your tools. Your runtime. Harness the power of AI",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bobmatnyc-trusty-tools",
+      "name": "Explore bobmatnyc/trusty-tools",
+      "source": "https://github.com/bobmatnyc/trusty-tools",
+      "problem": "Unified Rust workspace for the trusty-* AI developer-tooling ecosystem: hybrid code search, memory palace, code analysis, PR review, and the MPM multi-agent platform \u2014 MCP servers, daemons & CLIs.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nimblebraininc-nimblebrain",
+      "name": "Explore NimbleBrainInc/nimblebrain",
+      "source": "https://github.com/NimbleBrainInc/nimblebrain",
+      "problem": "Self-hosted platform for MCP Apps and agent automations \u2014 tools, interactive UIs, scheduled runs, multi-agent delegation.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-raullenchai-rapid-mlx",
+      "name": "Explore raullenchai/Rapid-MLX",
+      "source": "https://github.com/raullenchai/Rapid-MLX",
+      "problem": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4\u00d7 faster than Apple's MLX (mlx-lm) on the same weights.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-minimalone-lobe-forge",
+      "name": "Explore MinimalOne/lobe-forge",
+      "source": "https://github.com/MinimalOne/lobe-forge",
+      "problem": "A second brain your AI tools share: Git-backed LLM wikis that Claude, Codex, Gemini CLI, Antigravity, Cursor and agents like OpenClaw and Hermes read and write over MCP. Run locally or self-host lobe-server.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tencent-browserskill",
+      "name": "Explore Tencent/BrowserSkill",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "problem": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rokib16x-jobsidekick",
+      "name": "Explore rokib16x/jobsidekick",
+      "source": "https://github.com/rokib16x/jobsidekick",
+      "problem": "Your job-search sidekick: finds remote jobs, scores them against your CV with Claude, and fills applications with an AI browser agent. You approve every submit.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hamzavaid-rovdo",
+      "name": "Explore hamzavaid/Rovdo",
+      "source": "https://github.com/hamzavaid/Rovdo",
+      "problem": "Open-source multi-agent AI automation platform for browser and desktop workflows with bring-your-own-model support.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citrolabs-ego-lite",
+      "name": "Explore citrolabs/ego-lite",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "problem": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-velantrian-scout-bot",
+      "name": "Explore velantrian/Scout-Bot",
+      "source": "https://github.com/velantrian/Scout-Bot",
+      "problem": "Scout Bot \u2014 scans public GitHub repos, filters for projects matching Velantrim's interests (AI memory, knowledge graphs, local-first, open source), and proposes collaboration only after explicit user confirmation. No auto-consent.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-studio-moser-advisaur-mcp",
+      "name": "Explore Studio-Moser/Advisaur-MCP",
+      "source": "https://github.com/Studio-Moser/Advisaur-MCP",
+      "problem": "The knowledge-graph memory server for AI tools. Mem0-grade intelligence. Engram-grade simplicity.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1nc0gn30-neuro-memory-daemon",
+      "name": "Explore 1nc0gn30/neuro-memory-daemon",
+      "source": "https://github.com/1nc0gn30/neuro-memory-daemon",
+      "problem": "Neuro-Memory Studio \u2014 Persistent Episodic & Semantic Knowledge Graph Memory Visualizer for AI Agents. Free and open source.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-haiwen-yin-ai-agent-infra-with-db-community-edition",
+      "name": "Explore Haiwen-Yin/AI-Agent-Infra-with-DB-Community-Edition",
+      "source": "https://github.com/Haiwen-Yin/AI-Agent-Infra-with-DB-Community-Edition",
+      "problem": "Chuanxu is an open-source AI agent management and collaboration platform with a choice of Oracle, PostgreSQL or YashanDB. It manages agents, tasks, collaboration gates, knowledge, memory, property graphs, permissions and audit records as database entities, with MCP, A2A and DB4A2A integration.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nickmonrad-kernel-ai-assistant",
+      "name": "Explore NickMonrad/kernel-ai-assistant",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "problem": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-solarseq-owlet-local-ai-discord-bot",
+      "name": "Explore SolarSeq/owlet-local-ai-discord-bot",
+      "source": "https://github.com/SolarSeq/owlet-local-ai-discord-bot",
+      "problem": "Dockerized Discord bot using local AI inference through llama.cpp.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sushil-meher-agentic-chatbot",
+      "name": "Explore Sushil-Meher/Agentic-Chatbot",
+      "source": "https://github.com/Sushil-Meher/Agentic-Chatbot",
+      "problem": "An Agentic AI chatbot built with Ollama, LangChain, and LangGraph, featuring local LLM inference, stateful workflows, tool calling, and intelligent task execution.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hengyangds-aigw-cli",
+      "name": "Explore HengYangDS/aigw-cli",
+      "source": "https://github.com/HengYangDS/aigw-cli",
+      "problem": "Local control plane for AI provider accounts, credentials, model routes, and explicit client bindings, with guarded native configuration and real inference checks.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-harshsanket-triageai",
+      "name": "Explore Harshsanket/TriageAI",
+      "source": "https://github.com/Harshsanket/TriageAI",
+      "problem": "A modular, self-hosted AI automation platform focused on extensibility, local inference, and transparent decision-making.",
+      "created_on": "2026-11-03",
+      "policy": "review-before-activation"
+    }
+  ]
+}

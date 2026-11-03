@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-03",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "miozilla-antigravitypomodoro",
+      "title": "miozilla/antigravitypomodoro",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/miozilla/antigravitypomodoro",
+      "description": "antigravitypomodoro :earth_africa::astronaut: : | Pomodoro Project |  Google Antigravity, AI agents Orchestration, Slash Command, Agent Skills, Model Context Protocol (MCP) Servers Integration |",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:44:02Z"
+    },
+    {
+      "id": "saadalilabs-saadai-labs",
+      "title": "SaadAliLabs/SaadAI-Labs",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SaadAliLabs/SaadAI-Labs",
+      "description": "Ai Automation System, agents, skill and more",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:43:32Z"
+    },
+    {
+      "id": "kishan-033-code-canvas",
+      "title": "Kishan-033/code-canvas",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Kishan-033/code-canvas",
+      "description": "A modern, responsive business website for Code Canvas, showcasing website development, AI agent development, and business automation solutions",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:43:32Z"
+    },
+    {
+      "id": "ldbumble-taskuary",
+      "title": "ldbumble/taskuary",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ldbumble/taskuary",
+      "description": "Your work, already underway. A personal AI assistant for your job: mail, chats and tickets become tasks, the agents you already use (Claude Code, Codex, Gemini) do the work, and nothing goes out until you approve. Open source, runs on your machine.",
+      "stars": 144,
+      "updated_at": "2026-11-03T06:43:23Z"
+    },
+    {
+      "id": "erature-hub-cybara",
+      "title": "erature-hub/cybara",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/erature-hub/cybara",
+      "description": "Cybara - Your agents. Your tools. Your runtime. Harness the power of AI",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:42:54Z"
+    },
+    {
+      "id": "bobmatnyc-trusty-tools",
+      "title": "bobmatnyc/trusty-tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bobmatnyc/trusty-tools",
+      "description": "Unified Rust workspace for the trusty-* AI developer-tooling ecosystem: hybrid code search, memory palace, code analysis, PR review, and the MPM multi-agent platform \u2014 MCP servers, daemons & CLIs.",
+      "stars": 22,
+      "updated_at": "2026-11-03T06:43:02Z"
+    },
+    {
+      "id": "nimblebraininc-nimblebrain",
+      "title": "NimbleBrainInc/nimblebrain",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NimbleBrainInc/nimblebrain",
+      "description": "Self-hosted platform for MCP Apps and agent automations \u2014 tools, interactive UIs, scheduled runs, multi-agent delegation.",
+      "stars": 28,
+      "updated_at": "2026-11-03T06:43:00Z"
+    },
+    {
+      "id": "raullenchai-rapid-mlx",
+      "title": "raullenchai/Rapid-MLX",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/raullenchai/Rapid-MLX",
+      "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4\u00d7 faster than Apple's MLX (mlx-lm) on the same weights.",
+      "stars": 4094,
+      "updated_at": "2026-11-03T06:42:26Z"
+    },
+    {
+      "id": "minimalone-lobe-forge",
+      "title": "MinimalOne/lobe-forge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MinimalOne/lobe-forge",
+      "description": "A second brain your AI tools share: Git-backed LLM wikis that Claude, Codex, Gemini CLI, Antigravity, Cursor and agents like OpenClaw and Hermes read and write over MCP. Run locally or self-host lobe-server.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:42:11Z"
+    },
+    {
+      "id": "tencent-browserskill",
+      "title": "Tencent/BrowserSkill",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": 9947,
+      "updated_at": "2026-11-03T06:39:31Z"
+    },
+    {
+      "id": "vercel-labs-agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 45317,
+      "updated_at": "2026-11-03T06:44:01Z"
+    },
+    {
+      "id": "rokib16x-jobsidekick",
+      "title": "rokib16x/jobsidekick",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rokib16x/jobsidekick",
+      "description": "Your job-search sidekick: finds remote jobs, scores them against your CV with Claude, and fills applications with an AI browser agent. You approve every submit.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:38:33Z"
+    },
+    {
+      "id": "hamzavaid-rovdo",
+      "title": "hamzavaid/Rovdo",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hamzavaid/Rovdo",
+      "description": "Open-source multi-agent AI automation platform for browser and desktop workflows with bring-your-own-model support.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:37:58Z"
+    },
+    {
+      "id": "citrolabs-ego-lite",
+      "title": "citrolabs/ego-lite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 21398,
+      "updated_at": "2026-11-03T06:38:57Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-11-03T06:35:44Z"
+    },
+    {
+      "id": "velantrian-scout-bot",
+      "title": "velantrian/Scout-Bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/velantrian/Scout-Bot",
+      "description": "Scout Bot \u2014 scans public GitHub repos, filters for projects matching Velantrim's interests (AI memory, knowledge graphs, local-first, open source), and proposes collaboration only after explicit user confirmation. No auto-consent.",
+      "stars": 1,
+      "updated_at": "2026-11-03T06:35:38Z"
+    },
+    {
+      "id": "studio-moser-advisaur-mcp",
+      "title": "Studio-Moser/Advisaur-MCP",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Studio-Moser/Advisaur-MCP",
+      "description": "The knowledge-graph memory server for AI tools. Mem0-grade intelligence. Engram-grade simplicity.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:23:58Z"
+    },
+    {
+      "id": "1nc0gn30-neuro-memory-daemon",
+      "title": "1nc0gn30/neuro-memory-daemon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1nc0gn30/neuro-memory-daemon",
+      "description": "Neuro-Memory Studio \u2014 Persistent Episodic & Semantic Knowledge Graph Memory Visualizer for AI Agents. Free and open source.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:17:22Z"
+    },
+    {
+      "id": "haiwen-yin-ai-agent-infra-with-db-community-edition",
+      "title": "Haiwen-Yin/AI-Agent-Infra-with-DB-Community-Edition",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Haiwen-Yin/AI-Agent-Infra-with-DB-Community-Edition",
+      "description": "Chuanxu is an open-source AI agent management and collaboration platform with a choice of Oracle, PostgreSQL or YashanDB. It manages agents, tasks, collaboration gates, knowledge, memory, property graphs, permissions and audit records as database entities, with MCP, A2A and DB4A2A integration.",
+      "stars": 23,
+      "updated_at": "2026-11-03T05:59:15Z"
+    },
+    {
+      "id": "nickmonrad-kernel-ai-assistant",
+      "title": "NickMonrad/kernel-ai-assistant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "description": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "stars": 34,
+      "updated_at": "2026-11-03T06:42:25Z"
+    },
+    {
+      "id": "solarseq-owlet-local-ai-discord-bot",
+      "title": "SolarSeq/owlet-local-ai-discord-bot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SolarSeq/owlet-local-ai-discord-bot",
+      "description": "Dockerized Discord bot using local AI inference through llama.cpp.",
+      "stars": 1,
+      "updated_at": "2026-11-03T06:40:17Z"
+    },
+    {
+      "id": "sushil-meher-agentic-chatbot",
+      "title": "Sushil-Meher/Agentic-Chatbot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Sushil-Meher/Agentic-Chatbot",
+      "description": "An Agentic AI chatbot built with Ollama, LangChain, and LangGraph, featuring local LLM inference, stateful workflows, tool calling, and intelligent task execution.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:36:15Z"
+    },
+    {
+      "id": "hengyangds-aigw-cli",
+      "title": "HengYangDS/aigw-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/HengYangDS/aigw-cli",
+      "description": "Local control plane for AI provider accounts, credentials, model routes, and explicit client bindings, with guarded native configuration and real inference checks.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:28:25Z"
+    },
+    {
+      "id": "harshsanket-triageai",
+      "title": "Harshsanket/TriageAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Harshsanket/TriageAI",
+      "description": "A modular, self-hosted AI automation platform focused on extensibility, local inference, and transparent decision-making.",
+      "stars": 0,
+      "updated_at": "2026-11-03T06:26:05Z"
+    }
+  ]
+}
