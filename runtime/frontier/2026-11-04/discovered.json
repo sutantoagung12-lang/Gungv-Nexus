@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-04",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "ahaduzzamankhan-aicrawl",
+      "title": "Ahaduzzamankhan/aicrawl",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ahaduzzamankhan/aicrawl",
+      "description": "AI-native web crawler and structured data extraction engine - one Rust binary with CLI, embedded dashboard, REST API and MCP server for AI agents.",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:15:20Z"
+    },
+    {
+      "id": "hcipengm-cogneva",
+      "title": "hcipengm/cogneva",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hcipengm/cogneva",
+      "description": "Distributed AI multi-agent autonomous system \u2014 digital employees for long-horizon tasks, running 24\u00d77 \u2014 Meta-bootstrapping \u00b7 Real-autonomous \u00b7 Omni-evolution",
+      "stars": 36,
+      "updated_at": "2026-11-04T06:15:15Z"
+    },
+    {
+      "id": "callstack-agent-device",
+      "title": "callstack/agent-device",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/callstack/agent-device",
+      "description": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+      "stars": 5259,
+      "updated_at": "2026-11-04T06:15:08Z"
+    },
+    {
+      "id": "kiexpert-wkappbot-sdk",
+      "title": "kiexpert/wkappbot-sdk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kiexpert/wkappbot-sdk",
+      "description": "Computer Use, App Use, AppBot \u2014 give AI agents real eyes and hands on Windows. Open-source RPA where humans, the app ecosystem, and AI share one keyboard. Focusless. Self-healing. Multi-AI.",
+      "stars": 6,
+      "updated_at": "2026-11-04T06:14:53Z"
+    },
+    {
+      "id": "suyash-acharya-369-promptandpixel",
+      "title": "suyash-acharya-369/PromptANDPixel",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/suyash-acharya-369/PromptANDPixel",
+      "description": "PromptAndPixel.in - Next-generation studio combining Agentic AI Automation with Bespoke Web Design & Engineering.",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:14:43Z"
+    },
+    {
+      "id": "itamaker-skills",
+      "title": "itamaker/skills",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/itamaker/skills",
+      "description": "Agent skills for Claude Code, Codex and other agents: LLM agent tooling and evaluation, web page export, a cloud browser, Go workspaces.",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:14:24Z"
+    },
+    {
+      "id": "sunglasses-dev-sunglasses",
+      "title": "sunglasses-dev/sunglasses",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sunglasses-dev/sunglasses",
+      "description": "Open source input firewall for AI agents, beta. A local scanner checks text, code, PDFs, images, QR codes, audio and video with 1,583 patterns across 117 categories and reports findings and incomplete scans. A Claude Code hook blocks secret material in tool calls and the paths and hosts your policy lists before tools run.",
+      "stars": 11,
+      "updated_at": "2026-11-04T06:14:24Z"
+    },
+    {
+      "id": "hleliofficiel-exaaiagent",
+      "title": "hleliofficiel/ExaAiAgent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hleliofficiel/ExaAiAgent",
+      "description": "ExaAiAgent \u2014 Advanced AI-powered penetration testing framework with Docker sandbox, multi-agent workflows, and 50+ integrated cybersecurity tools.",
+      "stars": 13,
+      "updated_at": "2026-11-04T06:13:44Z"
+    },
+    {
+      "id": "xinbetween-flowlight",
+      "title": "xinbetween/flowlight",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xinbetween/flowlight",
+      "description": "Native macOS network monitor: every app's traffic to every domain, plus AI agent oversight with per-agent allowlists and tool/MCP server attribution. Free, open source (GPL-3.0), no telemetry.",
+      "stars": 11,
+      "updated_at": "2026-11-04T06:13:27Z"
+    },
+    {
+      "id": "lethanhdat04-ai_customer_support",
+      "title": "lethanhdat04/AI_Customer_Support",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lethanhdat04/AI_Customer_Support",
+      "description": "RAG + tool-use customer support agent: hybrid retrieval, streaming embeddable widget, admin dashboard, Langfuse tracing and an eval harness.",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:13:17Z"
+    },
+    {
+      "id": "monoes-mono-agent-src",
+      "title": "monoes/mono-agent-src",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/monoes/mono-agent-src",
+      "description": "Mono-agent engine \u2014 workflow automation with social platforms, AI services, and browser automation",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:11:37Z"
+    },
+    {
+      "id": "jackeydou-owls",
+      "title": "jackeydou/Owls",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jackeydou/Owls",
+      "description": "A desktop AI agent app built on the Pi SDK, with plugins, browser automation, computer use, multi-agent collaboration, and extensible tools.",
+      "stars": 5,
+      "updated_at": "2026-11-04T06:01:49Z"
+    },
+    {
+      "id": "kaiso-666-aistudio-proxy-api",
+      "title": "Kaiso-666/aistudio-proxy-api",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Kaiso-666/aistudio-proxy-api",
+      "description": "Hardened fork of AIstudioProxyAPI: persistent agent sessions, context rotation at the model ceiling, stealth-verified browser automation, and OpenAI-compatible serving from AI Studio.",
+      "stars": 1,
+      "updated_at": "2026-11-04T06:03:26Z"
+    },
+    {
+      "id": "aba-ada-sam-worker-buddy",
+      "title": "aba-ada-sam/worker-buddy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/aba-ada-sam/worker-buddy",
+      "description": "AI desktop agent with WhatsApp-style chat UI \u2014 browser automation via Claude + browser-use",
+      "stars": 0,
+      "updated_at": "2026-11-04T05:54:54Z"
+    },
+    {
+      "id": "elk-alter-velvet",
+      "title": "elk-alter/velvet",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/elk-alter/velvet",
+      "description": "A local-first video library, co-built with AI. Thoughtful browsing, metadata automation, and film/version/part management.",
+      "stars": 0,
+      "updated_at": "2026-11-04T05:51:47Z"
+    },
+    {
+      "id": "dieron-mygraph",
+      "title": "dieron/mygraph",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dieron/mygraph",
+      "description": "Built by AI, for AI: a knowledge graph that agents use as long-term memory, where every fact cites its evidence. MCP and REST, one Rust binary.",
+      "stars": 1,
+      "updated_at": "2026-11-04T06:14:09Z"
+    },
+    {
+      "id": "swapnildahiphale-opensre",
+      "title": "swapnildahiphale/OpenSRE",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/swapnildahiphale/OpenSRE",
+      "description": "OpenSRE \u2014 the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in",
+      "stars": 174,
+      "updated_at": "2026-11-04T06:09:39Z"
+    },
+    {
+      "id": "datashaman-agent-context",
+      "title": "datashaman/agent-context",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/datashaman/agent-context",
+      "description": "Local MCP context server for AI agents: persistent memory, sourced knowledge graphs, full-text search, and rule-based inference with SQLite and clingo.",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:02:34Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 553,
+      "updated_at": "2026-11-04T05:49:21Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-11-04T05:33:15Z"
+    },
+    {
+      "id": "mycellios-mycellios",
+      "title": "Mycellios/mycellios",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mycellios/mycellios",
+      "description": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "stars": 2,
+      "updated_at": "2026-11-04T06:05:53Z"
+    },
+    {
+      "id": "silentflame-adalat_ai_assignment",
+      "title": "SilentFlame/Adalat_ai_assignment",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SilentFlame/Adalat_ai_assignment",
+      "description": "IndicXlit courtroom transliteration runtime (local inference + model registry)",
+      "stars": 0,
+      "updated_at": "2026-11-04T06:05:23Z"
+    },
+    {
+      "id": "sev7enita-nodelift",
+      "title": "sev7enITA/NodeLift",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sev7enITA/NodeLift",
+      "description": "Local AI collaboration across personal devices. Measured inference, native companions, and reproducible benchmarks.",
+      "stars": 1,
+      "updated_at": "2026-11-04T06:01:00Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "stars": 6,
+      "updated_at": "2026-11-04T05:53:32Z"
+    }
+  ]
+}
