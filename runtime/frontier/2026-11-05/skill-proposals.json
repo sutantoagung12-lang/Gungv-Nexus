@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-05",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-wecode-ai-wegent",
+      "name": "Explore wecode-ai/Wegent",
+      "source": "https://github.com/wecode-ai/Wegent",
+      "problem": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nightgauge-nightgauge",
+      "name": "Explore nightgauge/nightgauge",
+      "source": "https://github.com/nightgauge/nightgauge",
+      "problem": "Open-source autonomous software factory. Runs your GitHub backlog through coding agents behind deterministic gates, budgets and failure recovery, then verifies every merge on main. Self-hosted; Claude Code first.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sint-ai-sint-protocol",
+      "name": "Explore sint-ai/sint-protocol",
+      "source": "https://github.com/sint-ai/sint-protocol",
+      "problem": "Open-source runtime security and governance for AI agents, MCP tools, robotics, industrial automation, and physical AI.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-autoyou-ai-autoyou-server",
+      "name": "Explore autoyou-ai/AutoYou-Server",
+      "source": "https://github.com/autoyou-ai/AutoYou-Server",
+      "problem": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over WebRTC, and run models, agents and web apps on hardware you control. Source-available. Your own AI Automation software, with native build instructions for macOS, Windows, WSL (Ubuntu), and Docker. iOS, Android, Store Apps separate",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kanjariyaraj-opencode-skills-hub",
+      "name": "Explore kanjariyaraj/opencode-skills-hub",
+      "source": "https://github.com/kanjariyaraj/opencode-skills-hub",
+      "problem": "A comprehensive open-source hub of AI coding skills, specialized agents, plugins, MCP servers, automation workflows, and developer tools for OpenCode.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sunil-bodeddula-pro-tokentrail",
+      "name": "Explore sunil-bodeddula-pro/tokentrail",
+      "source": "https://github.com/sunil-bodeddula-pro/tokentrail",
+      "problem": "Local-first observability for AI agents: tokens, tools, skills, health and shipped code, in a durable JSON store with optional gs:// / s3:// mirrors and a zero-dependency dashboard.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-reefbarman-agentlink",
+      "name": "Explore reefbarman/agentlink",
+      "source": "https://github.com/reefbarman/agentlink",
+      "problem": "An open-source coding-agent harness for VS Code, with Desktop and CLI previews. Bring your own models, use editor intelligence, review diffs, steer autonomy, and connect tools through MCP.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kongfangxun-sofagent",
+      "name": "Explore KongFangXun/sofagent",
+      "source": "https://github.com/KongFangXun/sofagent",
+      "problem": "sofagent is an open-source FDE Harness for AI coding agents \u2014 on entry, write your business judgment into files (workflows, ontology, AI nodes); after departure, audit every change against them. 28 codified audit rules, tamper-evident chain, snapshots, and an MCP toolset (104 tools, 12 plugins). Everything can be FDEing.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bigduu-bamboo-agent",
+      "name": "Explore bigduu/Bamboo-agent",
+      "source": "https://github.com/bigduu/Bamboo-agent",
+      "problem": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assembly over HTTP, SSE, and WebSocket.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-feder-cr-jobs_applier_ai_agent_aihawk",
+      "name": "Explore feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "source": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "problem": "Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-homebrew-browser",
+      "name": "Explore lightpanda-io/homebrew-browser",
+      "source": "https://github.com/lightpanda-io/homebrew-browser",
+      "problem": "Homebrew tap for Lightpanda, a headless browser for AI agents and automation.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyfireitdiy-jarvis",
+      "name": "Explore skyfireitdiy/Jarvis",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "problem": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-guyvolvo-oceanofjobs",
+      "name": "Explore guyvolvo/oceanofjobs",
+      "source": "https://github.com/guyvolvo/oceanofjobs",
+      "problem": "Automate and simplify your job search using the Ocean of Jobs platform using either the blazing fast global job board or the variety of job automation tools such as a REST API, an MCP server a browser extension to automatically apply to job applications with custom AI agents tailored to your needs",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-southwest-ai-labs-xavier",
+      "name": "Explore southwest-ai-labs/xavier",
+      "source": "https://github.com/southwest-ai-labs/xavier",
+      "problem": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-blysspeak-aurelius",
+      "name": "Explore Blysspeak/aurelius",
+      "source": "https://github.com/Blysspeak/aurelius",
+      "problem": "Self-hosted knowledge graph memory for developers and AI agents. MCP server, interactive graph UI, automatic indexing.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dnacenta-recall-echo",
+      "name": "Explore dnacenta/recall-echo",
+      "source": "https://github.com/dnacenta/recall-echo",
+      "problem": "Persistent four-layer memory for AI coding agents: knowledge graph with Bayesian confidence, queried over MCP. Install with cargo install recall-echo --locked.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-21sean-grapevineos",
+      "name": "Explore 21sean/GrapevineOS",
+      "source": "https://github.com/21sean/GrapevineOS",
+      "problem": "Agentic Local-Events Platform. AI-powered discovery with LLM ranking, RAG over live event feeds, geospatial intelligence, and real-time 3D map inference for what locals actually go to.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-qaisermehdi3-coder-qvunex",
+      "name": "Explore qaisermehdi3-coder/qvunex",
+      "source": "https://github.com/qaisermehdi3-coder/qvunex",
+      "problem": "Measure what your AI inference actually costs. Local only, no dependencies.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kvmem-kvmem",
+      "name": "Explore kvmem/kvmem",
+      "source": "https://github.com/kvmem/kvmem",
+      "problem": "KVMem virtualizes KV memory across inference backends to make ultra-long-context local AI accessible on limited hardware.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mycellios-mycellios",
+      "name": "Explore Mycellios/mycellios",
+      "source": "https://github.com/Mycellios/mycellios",
+      "problem": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "created_on": "2026-11-05",
+      "policy": "review-before-activation"
+    }
+  ]
+}

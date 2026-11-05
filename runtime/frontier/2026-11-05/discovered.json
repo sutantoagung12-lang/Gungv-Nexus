@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-05",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "wecode-ai-wegent",
+      "title": "wecode-ai/Wegent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/wecode-ai/Wegent",
+      "description": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
+      "stars": 882,
+      "updated_at": "2026-11-05T06:42:00Z"
+    },
+    {
+      "id": "nightgauge-nightgauge",
+      "title": "nightgauge/nightgauge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nightgauge/nightgauge",
+      "description": "Open-source autonomous software factory. Runs your GitHub backlog through coding agents behind deterministic gates, budgets and failure recovery, then verifies every merge on main. Self-hosted; Claude Code first.",
+      "stars": 8,
+      "updated_at": "2026-11-05T06:41:54Z"
+    },
+    {
+      "id": "sint-ai-sint-protocol",
+      "title": "sint-ai/sint-protocol",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sint-ai/sint-protocol",
+      "description": "Open-source runtime security and governance for AI agents, MCP tools, robotics, industrial automation, and physical AI.",
+      "stars": 15,
+      "updated_at": "2026-11-05T06:41:13Z"
+    },
+    {
+      "id": "autoyou-ai-autoyou-server",
+      "title": "autoyou-ai/AutoYou-Server",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/autoyou-ai/AutoYou-Server",
+      "description": "Self-hosted AI server and agent framework. Pair your phone, browser or desktop with your own computer peer to peer over WebRTC, and run models, agents and web apps on hardware you control. Source-available. Your own AI Automation software, with native build instructions for macOS, Windows, WSL (Ubuntu), and Docker. iOS, Android, Store Apps separate",
+      "stars": 2,
+      "updated_at": "2026-11-05T06:41:08Z"
+    },
+    {
+      "id": "kanjariyaraj-opencode-skills-hub",
+      "title": "kanjariyaraj/opencode-skills-hub",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kanjariyaraj/opencode-skills-hub",
+      "description": "A comprehensive open-source hub of AI coding skills, specialized agents, plugins, MCP servers, automation workflows, and developer tools for OpenCode.",
+      "stars": 0,
+      "updated_at": "2026-11-05T06:41:04Z"
+    },
+    {
+      "id": "sunil-bodeddula-pro-tokentrail",
+      "title": "sunil-bodeddula-pro/tokentrail",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sunil-bodeddula-pro/tokentrail",
+      "description": "Local-first observability for AI agents: tokens, tools, skills, health and shipped code, in a durable JSON store with optional gs:// / s3:// mirrors and a zero-dependency dashboard.",
+      "stars": 0,
+      "updated_at": "2026-11-05T06:40:10Z"
+    },
+    {
+      "id": "reefbarman-agentlink",
+      "title": "reefbarman/agentlink",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/reefbarman/agentlink",
+      "description": "An open-source coding-agent harness for VS Code, with Desktop and CLI previews. Bring your own models, use editor intelligence, review diffs, steer autonomy, and connect tools through MCP.",
+      "stars": 2,
+      "updated_at": "2026-11-05T06:39:46Z"
+    },
+    {
+      "id": "kongfangxun-sofagent",
+      "title": "KongFangXun/sofagent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/KongFangXun/sofagent",
+      "description": "sofagent is an open-source FDE Harness for AI coding agents \u2014 on entry, write your business judgment into files (workflows, ontology, AI nodes); after departure, audit every change against them. 28 codified audit rules, tamper-evident chain, snapshots, and an MCP toolset (104 tools, 12 plugins). Everything can be FDEing.",
+      "stars": 55,
+      "updated_at": "2026-11-05T06:39:14Z"
+    },
+    {
+      "id": "f-o-x11-dreaming-press",
+      "title": "f-o-x11/dreaming-press",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "description": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "stars": 3,
+      "updated_at": "2026-11-05T06:38:06Z"
+    },
+    {
+      "id": "bigduu-bamboo-agent",
+      "title": "bigduu/Bamboo-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bigduu/Bamboo-agent",
+      "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedules, and context assembly over HTTP, SSE, and WebSocket.",
+      "stars": 23,
+      "updated_at": "2026-11-05T06:37:17Z"
+    },
+    {
+      "id": "feder-cr-jobs_applier_ai_agent_aihawk",
+      "title": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk",
+      "description": "Give it your resume, get the jobs that fit, select them and apply. Runs in your terminal, with a browser you can watch.",
+      "stars": 32387,
+      "updated_at": "2026-11-05T06:29:53Z"
+    },
+    {
+      "id": "lightpanda-io-homebrew-browser",
+      "title": "lightpanda-io/homebrew-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/homebrew-browser",
+      "description": "Homebrew tap for Lightpanda, a headless browser for AI agents and automation.",
+      "stars": 7,
+      "updated_at": "2026-11-05T06:28:51Z"
+    },
+    {
+      "id": "skyfireitdiy-jarvis",
+      "title": "skyfireitdiy/Jarvis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "description": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "stars": 154,
+      "updated_at": "2026-11-05T06:27:33Z"
+    },
+    {
+      "id": "guyvolvo-oceanofjobs",
+      "title": "guyvolvo/oceanofjobs",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/guyvolvo/oceanofjobs",
+      "description": "Automate and simplify your job search using the Ocean of Jobs platform using either the blazing fast global job board or the variety of job automation tools such as a REST API, an MCP server a browser extension to automatically apply to job applications with custom AI agents tailored to your needs",
+      "stars": 2,
+      "updated_at": "2026-11-05T06:26:21Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-11-05T06:31:00Z"
+    },
+    {
+      "id": "southwest-ai-labs-xavier",
+      "title": "southwest-ai-labs/xavier",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/southwest-ai-labs/xavier",
+      "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "stars": 1,
+      "updated_at": "2026-11-05T06:27:22Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2083,
+      "updated_at": "2026-11-05T06:41:05Z"
+    },
+    {
+      "id": "blysspeak-aurelius",
+      "title": "Blysspeak/aurelius",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Blysspeak/aurelius",
+      "description": "Self-hosted knowledge graph memory for developers and AI agents. MCP server, interactive graph UI, automatic indexing.",
+      "stars": 0,
+      "updated_at": "2026-11-05T06:09:19Z"
+    },
+    {
+      "id": "dnacenta-recall-echo",
+      "title": "dnacenta/recall-echo",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dnacenta/recall-echo",
+      "description": "Persistent four-layer memory for AI coding agents: knowledge graph with Bayesian confidence, queried over MCP. Install with cargo install recall-echo --locked.",
+      "stars": 0,
+      "updated_at": "2026-11-05T06:06:06Z"
+    },
+    {
+      "id": "21sean-grapevineos",
+      "title": "21sean/GrapevineOS",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/21sean/GrapevineOS",
+      "description": "Agentic Local-Events Platform. AI-powered discovery with LLM ranking, RAG over live event feeds, geospatial intelligence, and real-time 3D map inference for what locals actually go to.",
+      "stars": 1,
+      "updated_at": "2026-11-05T06:39:14Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 145090,
+      "updated_at": "2026-11-05T06:36:43Z"
+    },
+    {
+      "id": "qaisermehdi3-coder-qvunex",
+      "title": "qaisermehdi3-coder/qvunex",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/qaisermehdi3-coder/qvunex",
+      "description": "Measure what your AI inference actually costs. Local only, no dependencies.",
+      "stars": 1,
+      "updated_at": "2026-11-05T06:22:08Z"
+    },
+    {
+      "id": "kvmem-kvmem",
+      "title": "kvmem/kvmem",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kvmem/kvmem",
+      "description": "KVMem virtualizes KV memory across inference backends to make ultra-long-context local AI accessible on limited hardware.",
+      "stars": 1256,
+      "updated_at": "2026-11-05T06:21:27Z"
+    },
+    {
+      "id": "mycellios-mycellios",
+      "title": "Mycellios/mycellios",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mycellios/mycellios",
+      "description": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "stars": 2,
+      "updated_at": "2026-11-05T06:11:54Z"
+    }
+  ]
+}
