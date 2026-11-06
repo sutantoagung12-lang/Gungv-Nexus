@@ -1,0 +1,1 @@
+"""CMRA service-layer contracts."""
