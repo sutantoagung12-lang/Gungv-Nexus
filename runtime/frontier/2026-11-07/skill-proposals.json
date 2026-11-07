@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-07",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-vb2250158-rabiroute",
+      "name": "Explore vb2250158/RabiRoute",
+      "source": "https://github.com/vb2250158/RabiRoute",
+      "problem": "Self-hosted message gateway for AI agents: Codex, QQ, WeChat/WeCom, Feishu, smart devices and desktop automation. | AI \u6d88\u606f\u7f51\u5173\uff1a\u8fde\u63a5\u804a\u5929\u3001\u667a\u80fd\u8bbe\u5907\u4e0e Agent\uff0c\u652f\u6301\u5b9a\u65f6\u4efb\u52a1\u548c\u89d2\u8272\u4e0a\u4e0b\u6587\u3002",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yizhisong-friestrader",
+      "name": "Explore YizhiSong/FriesTrader",
+      "source": "https://github.com/YizhiSong/FriesTrader",
+      "problem": "Robinhood Agentic Trading agent \u2014 a fully automated AI trading bot placing real orders through Robinhood's Agentic Trading MCP, under mechanical, auditable risk rules the model cannot override. Able to run unattended on Claude Pro, no metered API spend. Not financial advice.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-josssphzhou-poki",
+      "name": "Explore JosssphZhou/poki",
+      "source": "https://github.com/JosssphZhou/poki",
+      "problem": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tuanductran-soulmap-ai",
+      "name": "Explore tuanductran/soulmap-ai",
+      "source": "https://github.com/tuanductran/soulmap-ai",
+      "problem": "SoulMap AI: a content-first reflective companion with a curated Markdown knowledge base, Python detectors, and tooling to validate and bundle agent-ready skills.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lukifer23-siconnect",
+      "name": "Explore lukifer23/SIConnect",
+      "source": "https://github.com/lukifer23/SIConnect",
+      "problem": "Native Android device-control and automation platform: lets authorized AI agents operate your own phone over MCP, with an on-device policy engine, approvals, Shizuku-backed shell execution, and deterministic skills.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devanshuneu-overhear",
+      "name": "Explore DevanshuNEU/overhear",
+      "source": "https://github.com/DevanshuNEU/overhear",
+      "problem": "AI QA analyst for voice agents: grades every call a Retell scheduling agent takes. Code checks the call log (identity, bookings, tool calls), an LLM-as-a-judge checks what the agent said against the real slots. 39-call golden dataset, 23/23 planted failures caught.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-wmentor-go-magnetar",
+      "name": "Explore wmentor/go-magnetar",
+      "source": "https://github.com/wmentor/go-magnetar",
+      "problem": "An AI chat agent (harness) with integrated tools, skills and an optional knowledge base. Chat with any OpenAI-compatible LLM, use built-in integrations (web search, Confluence, JIRA, GitHub, GitLab and more), index documents and web pages into a local vector database (RAG), and get answers grounded in your own content.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-faims-fieldmark-agent-tools",
+      "name": "Explore FAIMS/fieldmark-agent-tools",
+      "source": "https://github.com/FAIMS/fieldmark-agent-tools",
+      "problem": "LLM agent tooling for Fieldmark: notebook creation and field documentation skills",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ricardo-m-l-metis",
+      "name": "Explore Ricardo-M-L/metis",
+      "source": "https://github.com/Ricardo-M-L/metis",
+      "problem": "Metis \u2014 a Go agent CLI: streaming agent loop, 16 built-in tools, multi-provider LLM, multi-tier memory, TUI, ACP server.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tgyd-helige-pi",
+      "name": "Explore TGYD-helige/pi",
+      "source": "https://github.com/TGYD-helige/pi",
+      "problem": "Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-callable tools via MCP \u2014 covering IM workspace integrations (Lark, DingTalk, WeCom), browser & computer automation, persistent memory, telemetry, task scheduling, image generation, web access, security policies, and more.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-adharshramu12-project-delta",
+      "name": "Explore adharshramu12/Project-Delta",
+      "source": "https://github.com/adharshramu12/Project-Delta",
+      "problem": "Project - Delta :  An open-source personal AI agent for Windows. Controls your PC and browser, verifies every task, and works from Telegram. Runs on Codex, Claude Code, Cline, NVIDIA NIM, Groq, DeepSeek or local models.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lightpanda-io-browser",
+      "name": "Explore lightpanda-io/browser",
+      "source": "https://github.com/lightpanda-io/browser",
+      "problem": "Lightpanda: the headless browser designed for AI and automation",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-onsager-ai-dev-skills",
+      "name": "Explore onsager-ai/dev-skills",
+      "source": "https://github.com/onsager-ai/dev-skills",
+      "problem": "Cross-repo engineering-methodology skills shared across onsager-ai and codervisor projects (dev-process, CI triage, planning DAG, browser automation, etc.)",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liliang-cn-cortexdb",
+      "name": "Explore liliang-cn/cortexdb",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "problem": "Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning\u2014all in one SQLite file.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cheney-enterprises-mnemos",
+      "name": "Explore cheney-enterprises/mnemos",
+      "source": "https://github.com/cheney-enterprises/mnemos",
+      "problem": "Cognitive architecture for persistent AI agent memory. Knowledge graph with learning retrieval, ACT-R decay, and spreading activation. Markdown-native, local-first, zero cloud. MCP server + CLI.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aitherium-awdk",
+      "name": "Explore Aitherium/awdk",
+      "source": "https://github.com/Aitherium/awdk",
+      "problem": "Build AI agent fleets. 3 lines, any backend, local or cloud. Effort-based model routing, 48 identities, knowledge graph memory, fleet orchestration.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-neo4j-labs-meta-knowledge-graph",
+      "name": "Explore neo4j-labs/meta-knowledge-graph",
+      "source": "https://github.com/neo4j-labs/meta-knowledge-graph",
+      "problem": "Self-improving, harness-agnostic memory layer for AI agents, backed by Neo4j \u2014 lifecycle hooks capture every session, MCP tools recall project memory, and an LLM extraction loop distills durable learnings and evolves the agent's system prompt.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dahai80-fusion-gateway",
+      "name": "Explore dahai80/fusion-gateway",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "problem": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nickmonrad-kernel-ai-assistant",
+      "name": "Explore NickMonrad/kernel-ai-assistant",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "problem": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chipmunkrpa-veritas",
+      "name": "Explore ChipmunkRPA/veritas",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "problem": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tonyisfool-tidypanel",
+      "name": "Explore TonyIsFool/TidyPanel",
+      "source": "https://github.com/TonyIsFool/TidyPanel",
+      "problem": "Local CSV and Excel data cleaning for AI agents. R package + JSON CLI: 0 model calls and 0 AI inference tokens for cleanup. Keep full tables local; use model context for reasoning.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "created_on": "2026-11-07",
+      "policy": "review-before-activation"
+    }
+  ]
+}
