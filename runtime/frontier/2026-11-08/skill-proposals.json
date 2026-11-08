@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-08",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-manki-review-manki",
+      "name": "Explore manki-review/manki",
+      "source": "https://github.com/manki-review/manki",
+      "problem": "Multi-stage, multi-agent AI code review for GitHub \u2014 self-hosted, provider-neutral. A planner picks the team, agents review in parallel, a judge filters the noise.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leadpoet-leadpoet",
+      "name": "Explore leadpoet/leadpoet",
+      "source": "https://github.com/leadpoet/leadpoet",
+      "problem": "Open-source Bittensor subnet for a global AI agent competition in sales intelligence",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-feder-cr-jobs_applier_ai_agent",
+      "name": "Explore feder-cr/Jobs_Applier_AI_Agent",
+      "source": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+      "problem": "AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-saisreethulluru-aiml-c5",
+      "name": "Explore SaisreeThulluru/AIML-C5",
+      "source": "https://github.com/SaisreeThulluru/AIML-C5",
+      "problem": "Multi-Agent AI Business Assistant for Intelligent Enterprise Workflow Automation. An enterprise-grade multi-agent system featuring HR, Finance, Coding, Email, Data Analysis, and Customer Support agents coordinated through intelligent workflow orchestration.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kalidke-ship-of-tools",
+      "name": "Explore kalidke/ship-of-tools",
+      "source": "https://github.com/kalidke/ship-of-tools",
+      "problem": "An agentic development environment for Julia: AI agents drive a keyboard-driven TUI + REPL to read, run, and surface code \u2014 and coordinate across sessions and machines.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-themark-net-pfy-mentat",
+      "name": "Explore themark-net/pfy-mentat",
+      "source": "https://github.com/themark-net/pfy-mentat",
+      "problem": "Track, categorize, and rank local LLM dev tools/agents/frameworks. Seed from X posts. Build continuous pipelines & integrations for Grok CLI + MCP memory + iterative tool evaluation. Self-hosted focus.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-takashi-ohmoto-git-cyberriskscape",
+      "name": "Explore takashi-ohmoto-git/CyberRiskScape",
+      "source": "https://github.com/takashi-ohmoto-git/CyberRiskScape",
+      "problem": "Visual threat modeling tool covering AI, LLM, agentic systems, and post-quantum cryptography",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-masterplanner25-aindy-runtime",
+      "name": "Explore Masterplanner25/aindy-runtime",
+      "source": "https://github.com/Masterplanner25/aindy-runtime",
+      "problem": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a memory system that accumulates. Runs survive restarts and resume where they stopped.  Mount your domain logic as a plugin package or drive it over the HTTP SDK",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nimbus-agent-nimbus",
+      "name": "Explore nimbus-agent/Nimbus",
+      "source": "https://github.com/nimbus-agent/Nimbus",
+      "problem": "On-call intelligence for DevOps and platform teams. Local-first AI agent over your tools \u2014 HITL-gated, MCP-native, AGPL-3.0.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-omd-123-browser-verified-skill",
+      "name": "Explore OMD-123/browser-verified-skill",
+      "source": "https://github.com/OMD-123/browser-verified-skill",
+      "problem": "Browser automation with evidence. An Agent Skill that lets an AI agent drive a real browser while every action passes a policy gate, every run leaves an auditable artifact, and the run compiles into a plain Playwright script that replays for free.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citrolabs-ego-lite",
+      "name": "Explore citrolabs/ego-lite",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "problem": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kraft87-synapse",
+      "name": "Explore kraft87/synapse",
+      "source": "https://github.com/kraft87/synapse",
+      "problem": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liminode-agent-memory-cpp",
+      "name": "Explore LimiNode/agent-memory-cpp",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "problem": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-muvon-octobrain",
+      "name": "Explore Muvon/octobrain",
+      "source": "https://github.com/Muvon/octobrain",
+      "problem": "Persistent memory for AI assistants \u2014 semantic search, knowledge graph, and MCP server integration. Built in Rust.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mimirsynth-mimirsynth",
+      "name": "Explore mimirsynth/mimirsynth",
+      "source": "https://github.com/mimirsynth/mimirsynth",
+      "problem": "Memory for AI agents, based on the CoALA cognitive framework and built on a temporal knowledge graph",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ling0322-libwaifu",
+      "name": "Explore ling0322/libwaifu",
+      "source": "https://github.com/ling0322/libwaifu",
+      "problem": "Your local AI waifu! Local SDXL / Qwen-Image / Anima / IndexTTS / CosyVoice inference in Rust + C++, CUDA / Metal / Vulkan",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-michael-borck-loco-fosil",
+      "name": "Explore michael-borck/loco-fosil",
+      "source": "https://github.com/michael-borck/loco-fosil",
+      "problem": "Second-life GPUs, measured. Useful local inference on hardware the modern stack left behind.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-r0bledas-offline-ai-cluster",
+      "name": "Explore r0bledas/Offline-AI-Cluster",
+      "source": "https://github.com/r0bledas/Offline-AI-Cluster",
+      "problem": "Universal offline distributed LLM inference cluster with cross-platform tensor splitting (macOS, Windows, Linux, Switch), fault-tolerant routing, and local RAG pipeline.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jenkinsrobotics-jaegerai",
+      "name": "Explore JenkinsRobotics/JaegerAI",
+      "source": "https://github.com/JenkinsRobotics/JaegerAI",
+      "problem": "The universal turnkey agentic agent \u2014 local inference, tools, skills, memory, the id/ego persona pipeline, chat/voice/TUI faces, and the client protocol. The Mind. Runs on JaegerOS; headless is a config, not a fork.",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-syntropyai-hq-syntropy",
+      "name": "Explore syntropyai-hq/syntropy",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "problem": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "created_on": "2026-11-08",
+      "policy": "review-before-activation"
+    }
+  ]
+}

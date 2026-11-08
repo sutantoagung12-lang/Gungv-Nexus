@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-08",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "manki-review-manki",
+      "title": "manki-review/manki",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/manki-review/manki",
+      "description": "Multi-stage, multi-agent AI code review for GitHub \u2014 self-hosted, provider-neutral. A planner picks the team, agents review in parallel, a judge filters the noise.",
+      "stars": 5,
+      "updated_at": "2026-11-08T05:56:29Z"
+    },
+    {
+      "id": "leadpoet-leadpoet",
+      "title": "leadpoet/leadpoet",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/leadpoet/leadpoet",
+      "description": "Open-source Bittensor subnet for a global AI agent competition in sales intelligence",
+      "stars": 16,
+      "updated_at": "2026-11-08T05:53:53Z"
+    },
+    {
+      "id": "feder-cr-jobs_applier_ai_agent",
+      "title": "feder-cr/Jobs_Applier_AI_Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+      "description": "AI job application bot: automated job search and job hunting, auto-apply to resume-matching jobs while you sleep.",
+      "stars": 32402,
+      "updated_at": "2026-11-08T05:52:50Z"
+    },
+    {
+      "id": "langgenius-dify",
+      "title": "langgenius/dify",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 160640,
+      "updated_at": "2026-11-08T05:55:34Z"
+    },
+    {
+      "id": "saisreethulluru-aiml-c5",
+      "title": "SaisreeThulluru/AIML-C5",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SaisreeThulluru/AIML-C5",
+      "description": "Multi-Agent AI Business Assistant for Intelligent Enterprise Workflow Automation. An enterprise-grade multi-agent system featuring HR, Finance, Coding, Email, Data Analysis, and Customer Support agents coordinated through intelligent workflow orchestration.",
+      "stars": 0,
+      "updated_at": "2026-11-08T05:52:42Z"
+    },
+    {
+      "id": "kalidke-ship-of-tools",
+      "title": "kalidke/ship-of-tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kalidke/ship-of-tools",
+      "description": "An agentic development environment for Julia: AI agents drive a keyboard-driven TUI + REPL to read, run, and surface code \u2014 and coordinate across sessions and machines.",
+      "stars": 5,
+      "updated_at": "2026-11-08T05:57:48Z"
+    },
+    {
+      "id": "themark-net-pfy-mentat",
+      "title": "themark-net/pfy-mentat",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/themark-net/pfy-mentat",
+      "description": "Track, categorize, and rank local LLM dev tools/agents/frameworks. Seed from X posts. Build continuous pipelines & integrations for Grok CLI + MCP memory + iterative tool evaluation. Self-hosted focus.",
+      "stars": 0,
+      "updated_at": "2026-11-08T05:57:34Z"
+    },
+    {
+      "id": "takashi-ohmoto-git-cyberriskscape",
+      "title": "takashi-ohmoto-git/CyberRiskScape",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/takashi-ohmoto-git/CyberRiskScape",
+      "description": "Visual threat modeling tool covering AI, LLM, agentic systems, and post-quantum cryptography",
+      "stars": 21,
+      "updated_at": "2026-11-08T05:56:48Z"
+    },
+    {
+      "id": "masterplanner25-aindy-runtime",
+      "title": "Masterplanner25/aindy-runtime",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Masterplanner25/aindy-runtime",
+      "description": "Self-hosted runtime for AI agents and workflows. Durable execution, capability-gated tools, human approval gates, and a memory system that accumulates. Runs survive restarts and resume where they stopped.  Mount your domain logic as a plugin package or drive it over the HTTP SDK",
+      "stars": 1,
+      "updated_at": "2026-11-08T05:56:05Z"
+    },
+    {
+      "id": "nimbus-agent-nimbus",
+      "title": "nimbus-agent/Nimbus",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nimbus-agent/Nimbus",
+      "description": "On-call intelligence for DevOps and platform teams. Local-first AI agent over your tools \u2014 HITL-gated, MCP-native, AGPL-3.0.",
+      "stars": 7,
+      "updated_at": "2026-11-08T05:55:25Z"
+    },
+    {
+      "id": "omd-123-browser-verified-skill",
+      "title": "OMD-123/browser-verified-skill",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/OMD-123/browser-verified-skill",
+      "description": "Browser automation with evidence. An Agent Skill that lets an AI agent drive a real browser while every action passes a policy gate, every run leaves an auditable artifact, and the run compiles into a plain Playwright script that replays for free.",
+      "stars": 1,
+      "updated_at": "2026-11-08T05:45:01Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2055,
+      "updated_at": "2026-11-08T05:38:51Z"
+    },
+    {
+      "id": "vercel-labs-agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 46986,
+      "updated_at": "2026-11-08T05:56:33Z"
+    },
+    {
+      "id": "devinosolutions-stealth-chrome-devtools-mcp",
+      "title": "DevinoSolutions/stealth-chrome-devtools-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "description": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "stars": 32,
+      "updated_at": "2026-11-08T05:13:02Z"
+    },
+    {
+      "id": "citrolabs-ego-lite",
+      "title": "citrolabs/ego-lite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 22049,
+      "updated_at": "2026-11-08T05:51:56Z"
+    },
+    {
+      "id": "kraft87-synapse",
+      "title": "kraft87/synapse",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kraft87/synapse",
+      "description": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
+      "stars": 1,
+      "updated_at": "2026-11-08T05:44:44Z"
+    },
+    {
+      "id": "liminode-agent-memory-cpp",
+      "title": "LimiNode/agent-memory-cpp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "description": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "stars": 2,
+      "updated_at": "2026-11-08T05:24:06Z"
+    },
+    {
+      "id": "muvon-octobrain",
+      "title": "Muvon/octobrain",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Muvon/octobrain",
+      "description": "Persistent memory for AI assistants \u2014 semantic search, knowledge graph, and MCP server integration. Built in Rust.",
+      "stars": 20,
+      "updated_at": "2026-11-08T04:52:18Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-11-08T04:42:57Z"
+    },
+    {
+      "id": "mimirsynth-mimirsynth",
+      "title": "mimirsynth/mimirsynth",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mimirsynth/mimirsynth",
+      "description": "Memory for AI agents, based on the CoALA cognitive framework and built on a temporal knowledge graph",
+      "stars": 0,
+      "updated_at": "2026-11-08T04:28:01Z"
+    },
+    {
+      "id": "ling0322-libwaifu",
+      "title": "ling0322/libwaifu",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ling0322/libwaifu",
+      "description": "Your local AI waifu! Local SDXL / Qwen-Image / Anima / IndexTTS / CosyVoice inference in Rust + C++, CUDA / Metal / Vulkan",
+      "stars": 108,
+      "updated_at": "2026-11-08T05:56:43Z"
+    },
+    {
+      "id": "michael-borck-loco-fosil",
+      "title": "michael-borck/loco-fosil",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/michael-borck/loco-fosil",
+      "description": "Second-life GPUs, measured. Useful local inference on hardware the modern stack left behind.",
+      "stars": 0,
+      "updated_at": "2026-11-08T05:54:24Z"
+    },
+    {
+      "id": "r0bledas-offline-ai-cluster",
+      "title": "r0bledas/Offline-AI-Cluster",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/r0bledas/Offline-AI-Cluster",
+      "description": "Universal offline distributed LLM inference cluster with cross-platform tensor splitting (macOS, Windows, Linux, Switch), fault-tolerant routing, and local RAG pipeline.",
+      "stars": 0,
+      "updated_at": "2026-11-08T05:52:47Z"
+    },
+    {
+      "id": "jenkinsrobotics-jaegerai",
+      "title": "JenkinsRobotics/JaegerAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JenkinsRobotics/JaegerAI",
+      "description": "The universal turnkey agentic agent \u2014 local inference, tools, skills, memory, the id/ego persona pipeline, chat/voice/TUI faces, and the client protocol. The Mind. Runs on JaegerOS; headless is a config, not a fork.",
+      "stars": 1,
+      "updated_at": "2026-11-08T05:52:39Z"
+    },
+    {
+      "id": "syntropyai-hq-syntropy",
+      "title": "syntropyai-hq/syntropy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/syntropyai-hq/syntropy",
+      "description": "Distributed AI inference and agent orchestration platform unifying GPU, RAM, NVMe, and multi-node compute for scalable, local-first AI workloads",
+      "stars": 3,
+      "updated_at": "2026-11-08T05:52:09Z"
+    }
+  ]
+}
