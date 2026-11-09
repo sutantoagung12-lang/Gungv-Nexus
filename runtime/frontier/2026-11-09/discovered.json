@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-09",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "vmware-skills-vmware-aria",
+      "title": "vmware-skills/VMware-Aria",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vmware-skills/VMware-Aria",
+      "description": "VMware Aria Operations monitoring, alerting, and capacity planning \u2014 MCP tools for AI agents",
+      "stars": 3,
+      "updated_at": "2026-11-09T06:21:21Z"
+    },
+    {
+      "id": "zhip85-beework",
+      "title": "zhip85/BeeWork",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zhip85/BeeWork",
+      "description": "/ Multi-agent AI workflow and automation SaaS platform built for enterprises. \u4e13\u4e3a\u4f01\u4e1a\u6253\u9020\u7684\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u6d41\u4e0e\u81ea\u52a8\u5316 SaaS \u5e73\u53f0\u3002 ",
+      "stars": 1,
+      "updated_at": "2026-11-09T06:19:35Z"
+    },
+    {
+      "id": "velo4705-cubicore",
+      "title": "velo4705/cubicore",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/velo4705/cubicore",
+      "description": "Turn your AI agent into a company built around your needs.",
+      "stars": 0,
+      "updated_at": "2026-11-09T06:19:35Z"
+    },
+    {
+      "id": "aware-aeco-aware",
+      "title": "aware-aeco/aware",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/aware-aeco/aware",
+      "description": "Open-source agentic substrate for AECO. Apps are text. AI is the runtime.",
+      "stars": 7,
+      "updated_at": "2026-11-09T06:19:17Z"
+    },
+    {
+      "id": "suxrobgm-jobpilot",
+      "title": "suxrobGM/jobpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/suxrobGM/jobpilot",
+      "description": "An AI agent that applies to jobs for you. It finds openings, tailors your resume, and fills out applications in a real browser on your own machine. Runs on your Claude Code or Codex subscription.",
+      "stars": 111,
+      "updated_at": "2026-11-09T06:18:49Z"
+    },
+    {
+      "id": "gameworkerkim-vibe-investing",
+      "title": "gameworkerkim/vibe-investing",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/gameworkerkim/vibe-investing",
+      "description": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). \ubbf8\uad6d \uc8fc\uc2dd\u00b7\uac00\uc0c1\ud654\ud3d0 AI \ud22c\uc790 \ud050\ub808\uc774\uc158\u00b7\uce7c\ub7fc\u00b7\ud2b8\ub808\uc774\ub529 \ubd07.",
+      "stars": 361,
+      "updated_at": "2026-11-09T06:21:41Z"
+    },
+    {
+      "id": "madebywelch-guaca",
+      "title": "madebywelch/guaca",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/madebywelch/guaca",
+      "description": "A desktop workspace (inspired by Grok Bot & Muse) for AI agents that collaborate, write code, and use tools. Run locally or on your own server, with shared conversations, persistent memory, and MCP plugins.",
+      "stars": 54,
+      "updated_at": "2026-11-09T06:21:11Z"
+    },
+    {
+      "id": "nikspence-agentnik",
+      "title": "nikspence/agentnik",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nikspence/agentnik",
+      "description": "Agentnik is a cross-platform agentic GUI supporting local tool calling, coding, and (almost) any LLM provider. Work-in-progress, probably runs, is not finished.",
+      "stars": 0,
+      "updated_at": "2026-11-09T06:21:12Z"
+    },
+    {
+      "id": "leegyeongpil-ai-lab",
+      "title": "LeeGyeongPil/ai-lab",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LeeGyeongPil/ai-lab",
+      "description": "Open-source tools, libraries and runnable demos for building reliable LLM apps \u2014 evals, prompt caching, RAG, agents and MCP. Mock mode, no keys needed.",
+      "stars": 0,
+      "updated_at": "2026-11-09T06:20:36Z"
+    },
+    {
+      "id": "schornai-schornai",
+      "title": "schornai/schornai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/schornai/schornai",
+      "description": "Self-hosted AI workspace for teams. Build agents, search documents, and transcribe audio with local or cloud models and MCP tools.",
+      "stars": 9,
+      "updated_at": "2026-11-09T06:19:12Z"
+    },
+    {
+      "id": "zpoint-vibe-seller",
+      "title": "zpoint/vibe-seller",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zpoint/vibe-seller",
+      "description": "\u8de8\u5883\u5356\u5bb6\u7684 AI \u81ea\u52a8\u5316\u6846\u67b6\uff08\u652f\u6301\u4e9a\u9a6c\u900a\u3001Noon\u3001\u7f8e\u5ba2\u591a\u3001\u5343\u725b\u7b49\u5e73\u53f0\uff0c\u7d2b\u9e1f\u3001Chrome \u7b49\u6d4f\u89c8\u5668\uff09\uff0c\u81ea\u7531\u63a5\u5165\u4efb\u610f\u5927\u6a21\u578b(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)",
+      "stars": 117,
+      "updated_at": "2026-11-09T06:20:39Z"
+    },
+    {
+      "id": "citrolabs-ego-lite",
+      "title": "citrolabs/ego-lite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 22188,
+      "updated_at": "2026-11-09T06:21:03Z"
+    },
+    {
+      "id": "zanta0529-pocket-agent",
+      "title": "zanta0529/pocket-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "description": "A secure, keyless CLI AI agent powered by your ChatGPT account (OAuth) and multi-LLM (Ollama, Gemini, OpenRouter). Features multi-agent delegation, built-in MCP tools, browser automation, and native document generation.",
+      "stars": 1,
+      "updated_at": "2026-11-09T06:06:11Z"
+    },
+    {
+      "id": "mearlhq-mearl",
+      "title": "mearlhq/mearl",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mearlhq/mearl",
+      "description": "Browser automation and web debugging with AI agents in the browser you already use.",
+      "stars": 0,
+      "updated_at": "2026-11-09T06:04:36Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 552,
+      "updated_at": "2026-11-09T06:08:44Z"
+    },
+    {
+      "id": "garyu-tt-noosphere-lite-mcp",
+      "title": "Garyu-tt/noosphere-lite-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Garyu-tt/noosphere-lite-mcp",
+      "description": "Local-first MCP long-term memory for AI agents with knowledge graphs, provenance, history and stale-fact tracking.",
+      "stars": 10,
+      "updated_at": "2026-11-09T06:00:00Z"
+    },
+    {
+      "id": "codesphere-u-cortex-mcp",
+      "title": "codesphere-u/cortex-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codesphere-u/cortex-mcp",
+      "description": "Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents.",
+      "stars": 1,
+      "updated_at": "2026-11-09T05:58:59Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-11-09T05:44:20Z"
+    },
+    {
+      "id": "orchard254-cognigraph",
+      "title": "Orchard254/CogniGraph",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Orchard254/CogniGraph",
+      "description": "CogniGraph \u2014 persistent memory MCP server for AI coding agents. Hybrid search + knowledge graph with self-healing provenance.",
+      "stars": 0,
+      "updated_at": "2026-11-09T05:32:52Z"
+    },
+    {
+      "id": "argonautlabsai-argonautlabsai.github.io",
+      "title": "argonautlabsai/argonautlabsai.github.io",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/argonautlabsai/argonautlabsai.github.io",
+      "description": "Argonaut Labs: local AI inference research, Kimi 3.1 on one GPU, DeepSeek and GLM benchmarks, CUDA and NVMe expert streaming. Source for argonautlabs.ai.",
+      "stars": 0,
+      "updated_at": "2026-11-09T06:15:56Z"
+    },
+    {
+      "id": "subramanyaks-pocketai",
+      "title": "SubramanyaKS/PocketAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SubramanyaKS/PocketAI",
+      "description": "Pocket AI is a Flutter-based local AI chat app that downloads a GGUF language model on first use and runs inference directly on the device. It keeps the model in the app support directory so it can be reused later without downloading it again. Currently uses Qwen3",
+      "stars": 1,
+      "updated_at": "2026-11-09T06:15:27Z"
+    },
+    {
+      "id": "mycellios-mycellios",
+      "title": "Mycellios/mycellios",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mycellios/mycellios",
+      "description": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "stars": 2,
+      "updated_at": "2026-11-09T06:14:29Z"
+    },
+    {
+      "id": "chipmunkrpa-veritas",
+      "title": "ChipmunkRPA/veritas",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "description": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "stars": 1,
+      "updated_at": "2026-11-09T06:09:47Z"
+    },
+    {
+      "id": "jenkinsrobotics-jaegerai",
+      "title": "JenkinsRobotics/JaegerAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JenkinsRobotics/JaegerAI",
+      "description": "The universal turnkey agentic agent \u2014 local inference, tools, skills, memory, the id/ego persona pipeline, chat/voice/TUI faces, and the client protocol. The Mind. Runs on JaegerOS; headless is a config, not a fork.",
+      "stars": 1,
+      "updated_at": "2026-11-09T06:09:29Z"
+    }
+  ]
+}

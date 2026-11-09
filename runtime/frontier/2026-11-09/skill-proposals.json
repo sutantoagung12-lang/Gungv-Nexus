@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-09",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-vmware-skills-vmware-aria",
+      "name": "Explore vmware-skills/VMware-Aria",
+      "source": "https://github.com/vmware-skills/VMware-Aria",
+      "problem": "VMware Aria Operations monitoring, alerting, and capacity planning \u2014 MCP tools for AI agents",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zhip85-beework",
+      "name": "Explore zhip85/BeeWork",
+      "source": "https://github.com/zhip85/BeeWork",
+      "problem": "/ Multi-agent AI workflow and automation SaaS platform built for enterprises. \u4e13\u4e3a\u4f01\u4e1a\u6253\u9020\u7684\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u6d41\u4e0e\u81ea\u52a8\u5316 SaaS \u5e73\u53f0\u3002 ",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-velo4705-cubicore",
+      "name": "Explore velo4705/cubicore",
+      "source": "https://github.com/velo4705/cubicore",
+      "problem": "Turn your AI agent into a company built around your needs.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aware-aeco-aware",
+      "name": "Explore aware-aeco/aware",
+      "source": "https://github.com/aware-aeco/aware",
+      "problem": "Open-source agentic substrate for AECO. Apps are text. AI is the runtime.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-suxrobgm-jobpilot",
+      "name": "Explore suxrobGM/jobpilot",
+      "source": "https://github.com/suxrobGM/jobpilot",
+      "problem": "An AI agent that applies to jobs for you. It finds openings, tailors your resume, and fills out applications in a real browser on your own machine. Runs on your Claude Code or Codex subscription.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gameworkerkim-vibe-investing",
+      "name": "Explore gameworkerkim/vibe-investing",
+      "source": "https://github.com/gameworkerkim/vibe-investing",
+      "problem": "AI-powered Vibe Investing for NASDAQ, S&P500 & crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). \ubbf8\uad6d \uc8fc\uc2dd\u00b7\uac00\uc0c1\ud654\ud3d0 AI \ud22c\uc790 \ud050\ub808\uc774\uc158\u00b7\uce7c\ub7fc\u00b7\ud2b8\ub808\uc774\ub529 \ubd07.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-madebywelch-guaca",
+      "name": "Explore madebywelch/guaca",
+      "source": "https://github.com/madebywelch/guaca",
+      "problem": "A desktop workspace (inspired by Grok Bot & Muse) for AI agents that collaborate, write code, and use tools. Run locally or on your own server, with shared conversations, persistent memory, and MCP plugins.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nikspence-agentnik",
+      "name": "Explore nikspence/agentnik",
+      "source": "https://github.com/nikspence/agentnik",
+      "problem": "Agentnik is a cross-platform agentic GUI supporting local tool calling, coding, and (almost) any LLM provider. Work-in-progress, probably runs, is not finished.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leegyeongpil-ai-lab",
+      "name": "Explore LeeGyeongPil/ai-lab",
+      "source": "https://github.com/LeeGyeongPil/ai-lab",
+      "problem": "Open-source tools, libraries and runnable demos for building reliable LLM apps \u2014 evals, prompt caching, RAG, agents and MCP. Mock mode, no keys needed.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-schornai-schornai",
+      "name": "Explore schornai/schornai",
+      "source": "https://github.com/schornai/schornai",
+      "problem": "Self-hosted AI workspace for teams. Build agents, search documents, and transcribe audio with local or cloud models and MCP tools.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zpoint-vibe-seller",
+      "name": "Explore zpoint/vibe-seller",
+      "source": "https://github.com/zpoint/vibe-seller",
+      "problem": "\u8de8\u5883\u5356\u5bb6\u7684 AI \u81ea\u52a8\u5316\u6846\u67b6\uff08\u652f\u6301\u4e9a\u9a6c\u900a\u3001Noon\u3001\u7f8e\u5ba2\u591a\u3001\u5343\u725b\u7b49\u5e73\u53f0\uff0c\u7d2b\u9e1f\u3001Chrome \u7b49\u6d4f\u89c8\u5668\uff09\uff0c\u81ea\u7531\u63a5\u5165\u4efb\u610f\u5927\u6a21\u578b(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citrolabs-ego-lite",
+      "name": "Explore citrolabs/ego-lite",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "problem": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zanta0529-pocket-agent",
+      "name": "Explore zanta0529/pocket-agent",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "problem": "A secure, keyless CLI AI agent powered by your ChatGPT account (OAuth) and multi-LLM (Ollama, Gemini, OpenRouter). Features multi-agent delegation, built-in MCP tools, browser automation, and native document generation.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mearlhq-mearl",
+      "name": "Explore mearlhq/mearl",
+      "source": "https://github.com/mearlhq/mearl",
+      "problem": "Browser automation and web debugging with AI agents in the browser you already use.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-caura-ai-caura",
+      "name": "Explore caura-ai/caura",
+      "source": "https://github.com/caura-ai/caura",
+      "problem": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-garyu-tt-noosphere-lite-mcp",
+      "name": "Explore Garyu-tt/noosphere-lite-mcp",
+      "source": "https://github.com/Garyu-tt/noosphere-lite-mcp",
+      "problem": "Local-first MCP long-term memory for AI agents with knowledge graphs, provenance, history and stale-fact tracking.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codesphere-u-cortex-mcp",
+      "name": "Explore codesphere-u/cortex-mcp",
+      "source": "https://github.com/codesphere-u/cortex-mcp",
+      "problem": "Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-orchard254-cognigraph",
+      "name": "Explore Orchard254/CogniGraph",
+      "source": "https://github.com/Orchard254/CogniGraph",
+      "problem": "CogniGraph \u2014 persistent memory MCP server for AI coding agents. Hybrid search + knowledge graph with self-healing provenance.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-argonautlabsai-argonautlabsai.github.io",
+      "name": "Explore argonautlabsai/argonautlabsai.github.io",
+      "source": "https://github.com/argonautlabsai/argonautlabsai.github.io",
+      "problem": "Argonaut Labs: local AI inference research, Kimi 3.1 on one GPU, DeepSeek and GLM benchmarks, CUDA and NVMe expert streaming. Source for argonautlabs.ai.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-subramanyaks-pocketai",
+      "name": "Explore SubramanyaKS/PocketAI",
+      "source": "https://github.com/SubramanyaKS/PocketAI",
+      "problem": "Pocket AI is a Flutter-based local AI chat app that downloads a GGUF language model on first use and runs inference directly on the device. It keeps the model in the app support directory so it can be reused later without downloading it again. Currently uses Qwen3",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mycellios-mycellios",
+      "name": "Explore Mycellios/mycellios",
+      "source": "https://github.com/Mycellios/mycellios",
+      "problem": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chipmunkrpa-veritas",
+      "name": "Explore ChipmunkRPA/veritas",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "problem": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jenkinsrobotics-jaegerai",
+      "name": "Explore JenkinsRobotics/JaegerAI",
+      "source": "https://github.com/JenkinsRobotics/JaegerAI",
+      "problem": "The universal turnkey agentic agent \u2014 local inference, tools, skills, memory, the id/ego persona pipeline, chat/voice/TUI faces, and the client protocol. The Mind. Runs on JaegerOS; headless is a config, not a fork.",
+      "created_on": "2026-11-09",
+      "policy": "review-before-activation"
+    }
+  ]
+}
