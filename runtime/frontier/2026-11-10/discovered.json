@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-10",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "typesensekit-typesensekit",
+      "title": "typesensekit/typesensekit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/typesensekit/typesensekit",
+      "description": "95 typed Typesense operations for humans and AI agents\u2014one CLI and MCP server, read-only by default.",
+      "stars": 3,
+      "updated_at": "2026-11-10T07:13:19Z"
+    },
+    {
+      "id": "curcan-riwpyk-nikbe7-jarvis-prime",
+      "title": "curcan-riwpyk-nikbE7/jarvis-prime",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/curcan-riwpyk-nikbE7/jarvis-prime",
+      "description": "J.A.R.V.I.S. Prime - Autonomous Voice & Computer-Use AI Agent (FFmpeg Video Editing & Windows OS Automation)",
+      "stars": 0,
+      "updated_at": "2026-11-10T07:13:13Z"
+    },
+    {
+      "id": "generalbots-generalbots",
+      "title": "generalbots/generalbots",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/generalbots/generalbots",
+      "description": "Multi-agent AI platform for autonomous agents, agentic AI orchestration and LLM workflow automation. 80 self-hosted apps - Chat, CRM, Mail, Drive, Calendar, Advanced RAG. Open source, built in Rust.",
+      "stars": 98,
+      "updated_at": "2026-11-10T07:13:06Z"
+    },
+    {
+      "id": "xhwskhizein-browser-cli",
+      "title": "xhwSkhizein/browser-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xhwSkhizein/browser-cli",
+      "description": "CLI-first browser automation for AI agents",
+      "stars": 3,
+      "updated_at": "2026-11-10T07:12:05Z"
+    },
+    {
+      "id": "mearlhq-mearl",
+      "title": "mearlhq/mearl",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mearlhq/mearl",
+      "description": "Browser automation and web debugging with AI agents in the browser you already use.",
+      "stars": 0,
+      "updated_at": "2026-11-10T07:11:50Z"
+    },
+    {
+      "id": "saross-research-agent-toolkit",
+      "title": "saross/research-agent-toolkit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/saross/research-agent-toolkit",
+      "description": "Verification-first AI tooling for research: agents, skills, prompts, and methods for working with LLMs without trusting them unchecked",
+      "stars": 0,
+      "updated_at": "2026-11-10T07:13:57Z"
+    },
+    {
+      "id": "xmor-ara",
+      "title": "xmor/ara",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xmor/ara",
+      "description": "ARA \u2014 Agent Runtime Architecture: Java 21 framework for building autonomous AI agents and multi-agent systems. LLM integration, tool calling, deterministic I/O contracts, RAG and human-in-the-loop. On Maven Central (io.github.xmor).",
+      "stars": 6,
+      "updated_at": "2026-11-10T07:13:25Z"
+    },
+    {
+      "id": "hu78945-agentflow",
+      "title": "Hu78945/agentflow",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Hu78945/agentflow",
+      "description": "Durable LLM agent orchestration: NestJS + Temporal workflows, tool use, human approval, SSE, cost tracking",
+      "stars": 0,
+      "updated_at": "2026-11-10T07:13:20Z"
+    },
+    {
+      "id": "bytedance-deer-flow",
+      "title": "bytedance/deer-flow",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 85210,
+      "updated_at": "2026-11-10T07:11:16Z"
+    },
+    {
+      "id": "qianluxi-sciverse-agent-tools",
+      "title": "qianluxi/Sciverse-Agent-Tools",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/qianluxi/Sciverse-Agent-Tools",
+      "description": "Standardized tool schemas and SDKs that expose Sciverse Open Platform retrieval capabilities to LLM agents.",
+      "stars": 0,
+      "updated_at": "2026-11-10T07:10:48Z"
+    },
+    {
+      "id": "mediuswareltd-open-browser",
+      "title": "mediuswareltd/open-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mediuswareltd/open-browser",
+      "description": "OpenBrowser: AI-powered browser automation. Describe your goal in plain language; OpenBrowser plans and executes the steps inside a real Chromium browser. It supports a fast rule-based planner out of the box, and optional AI planners (Gemini, Ollama) for complex goals. Docs: https://mediuswareltd.github.io/open-browser/",
+      "stars": 1,
+      "updated_at": "2026-11-10T07:09:07Z"
+    },
+    {
+      "id": "vyomkulshrestha-heliox-os",
+      "title": "VyomKulshrestha/Heliox-OS",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/VyomKulshrestha/Heliox-OS",
+      "description": "Open-source, local-first desktop AI agent for voice, gesture, gaze, browser and system automation with permission gates and verification.",
+      "stars": 69,
+      "updated_at": "2026-11-10T06:57:49Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23376,
+      "updated_at": "2026-11-10T06:55:12Z"
+    },
+    {
+      "id": "codesphere-u-cortex-mcp",
+      "title": "codesphere-u/cortex-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codesphere-u/cortex-mcp",
+      "description": "Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents.",
+      "stars": 1,
+      "updated_at": "2026-11-10T07:08:13Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 553,
+      "updated_at": "2026-11-10T07:06:18Z"
+    },
+    {
+      "id": "aiconnai-engram",
+      "title": "aiconnai/engram",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/aiconnai/engram",
+      "description": "MCP memory server for Claude Code, Cursor and AI agents - Rust local-first AI memory with hybrid search, SQLite, knowledge graph and Python/TypeScript SDKs",
+      "stars": 3,
+      "updated_at": "2026-11-10T06:52:28Z"
+    },
+    {
+      "id": "markus7h-ai-rem",
+      "title": "markus7h/ai-rem",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/markus7h/ai-rem",
+      "description": "Shared long-term memory as a knowledge-graph MCP server \u2014 persistent context, preferences and project knowledge for Claude Code, opencode and any MCP-capable AI agent.",
+      "stars": 5,
+      "updated_at": "2026-11-10T06:25:39Z"
+    },
+    {
+      "id": "southwest-ai-labs-xavier",
+      "title": "southwest-ai-labs/xavier",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/southwest-ai-labs/xavier",
+      "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+      "stars": 1,
+      "updated_at": "2026-11-10T06:23:10Z"
+    },
+    {
+      "id": "chipmunkrpa-veritas",
+      "title": "ChipmunkRPA/veritas",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "description": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "stars": 1,
+      "updated_at": "2026-11-10T07:13:48Z"
+    },
+    {
+      "id": "ling0322-libwaifu",
+      "title": "ling0322/libwaifu",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ling0322/libwaifu",
+      "description": "Your local AI waifu! Local SDXL / Qwen-Image / Anima / IndexTTS / CosyVoice inference in Rust + C++, CUDA / Metal / Vulkan",
+      "stars": 109,
+      "updated_at": "2026-11-10T07:13:09Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "stars": 7,
+      "updated_at": "2026-11-10T07:03:45Z"
+    },
+    {
+      "id": "louiscalata-agiw-suite",
+      "title": "louiscalata/agiw-suite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/louiscalata/agiw-suite",
+      "description": "Local AI inference monitor for macOS (Windows preview in source), with bundled Nisi and a Jaryo interface.",
+      "stars": 0,
+      "updated_at": "2026-11-10T06:50:44Z"
+    },
+    {
+      "id": "lasshow-strix-halo-llm-lab",
+      "title": "lasshow/strix-halo-llm-lab",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lasshow/strix-halo-llm-lab",
+      "description": "Cuaderno de laboratorio abierto: inferencia LLM local en mini-PC AMD Strix Halo (Ryzen AI MAX+ 395, 128 GB unificados). Benchmarks reales, cuantizaciones y configuraciones medidas, no estimadas.",
+      "stars": 0,
+      "updated_at": "2026-11-10T06:50:03Z"
+    }
+  ]
+}
