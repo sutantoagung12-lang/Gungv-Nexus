@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-11",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "vercel-labs-agent-desktop",
+      "title": "vercel-labs/agent-desktop",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": 21566,
+      "updated_at": "2026-11-11T06:10:04Z"
+    },
+    {
+      "id": "vercel-labs-agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 49413,
+      "updated_at": "2026-11-11T06:12:29Z"
+    },
+    {
+      "id": "karthikjr48-transaction-autopilot",
+      "title": "Karthikjr48/transaction-autopilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Karthikjr48/transaction-autopilot",
+      "description": "Autonomous AI commerce state agent and merchant operations dashboard powered by PayPal Sandbox, transaction forensics, and intelligent email automation.",
+      "stars": 1,
+      "updated_at": "2026-11-11T04:09:15Z"
+    },
+    {
+      "id": "leadpoet-leadpoet",
+      "title": "leadpoet/leadpoet",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/leadpoet/leadpoet",
+      "description": "Open-source Bittensor subnet for a global AI agent competition in sales intelligence",
+      "stars": 17,
+      "updated_at": "2026-11-11T06:09:01Z"
+    },
+    {
+      "id": "fasil-gulzar-python-learning",
+      "title": "fasil-gulzar/python-learning",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/fasil-gulzar/python-learning",
+      "description": "My daily Python learning journey, coding exercises, and mini-projects focused on building AI Agents and Automation workflows",
+      "stars": 0,
+      "updated_at": "2026-11-11T06:06:34Z"
+    },
+    {
+      "id": "squirrelscan-squirrelscan",
+      "title": "squirrelscan/squirrelscan",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/squirrelscan/squirrelscan",
+      "description": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+      "stars": 311,
+      "updated_at": "2026-11-11T03:54:36Z"
+    },
+    {
+      "id": "mousewurx-bob",
+      "title": "MouseWurX/Bob",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MouseWurX/Bob",
+      "description": "Bob: a local AI agent with a personality. Tools, 256K+ context, code, research, pictures and voice, plus an AI Lab to cut and test models and his own llama.cpp engine that switches experts live. On your PC, Mac, Linux, Pi or phone. Nothing sent to a cloud.",
+      "stars": 1,
+      "updated_at": "2026-11-11T05:46:32Z"
+    },
+    {
+      "id": "nanamikite-dsh-usage-center",
+      "title": "NanamiKite/dsh-usage-center",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NanamiKite/dsh-usage-center",
+      "description": "\u9762\u5411 DeepSeek Harness (DSH) \u7684\u4e00\u7ad9\u5f0f LLM \u7528\u91cf\u4e0e\u6210\u672c\u4e2d\u5fc3\uff1a\u96c6\u6210\u591a\u7ef4\u5ea6 Token \u7edf\u8ba1\u3001\u591a Provider \u8ba1\u8d39\u5f15\u64ce\u3001SQLite \u5e42\u7b49\u8d26\u672c\u3001\u4e0a\u4e0b\u6587\u7a97\u53e3\u76d1\u63a7\uff0c\u652f\u6301 Dashboard\u3001CLI \u4e0e Agent Tools\u3002",
+      "stars": 0,
+      "updated_at": "2026-11-10T16:11:42Z"
+    },
+    {
+      "id": "bigfish1913-pi-rust",
+      "title": "bigfish1913/pi-rust",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/bigfish1913/pi-rust",
+      "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ABI",
+      "stars": 249,
+      "updated_at": "2026-11-11T05:36:39Z"
+    },
+    {
+      "id": "musadiqurrahman-whaagent",
+      "title": "MusadiqUrRahman/whaagent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MusadiqUrRahman/whaagent",
+      "description": "Multi-tenant WhatsApp AI agent platform \u2014 deploy intelligent agents on WhatsApp with LLM support, MCP tools, and production-ready infrastructure.",
+      "stars": 3,
+      "updated_at": "2026-11-11T04:00:35Z"
+    },
+    {
+      "id": "lexmount-browser-eval",
+      "title": "lexmount/browser-eval",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lexmount/browser-eval",
+      "description": "Benchmarking Browsers and Web Tools for AI Agents. An evaluation harness for Browser Automation, Web Fetch / Search / Extract / Scraping / Crawling.",
+      "stars": 10,
+      "updated_at": "2026-11-11T05:19:47Z"
+    },
+    {
+      "id": "1665711659-ai-native-crm",
+      "title": "1665711659/ai-native-crm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1665711659/ai-native-crm",
+      "description": "AI-Native CRM: RAG, Tool-Calling Agent, Workflow Automation, AIGC pipeline (ComfyUI/TTS/ASR/FFmpeg) and Digital Employees (Playwright/Browser-use/Airtest). Python + Tornado.",
+      "stars": 0,
+      "updated_at": "2026-11-11T06:10:19Z"
+    },
+    {
+      "id": "nottelabs-notte",
+      "title": "nottelabs/notte",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nottelabs/notte",
+      "description": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "stars": 2058,
+      "updated_at": "2026-11-11T06:00:41Z"
+    },
+    {
+      "id": "mehmetnadir-cdpilot",
+      "title": "mehmetnadir/cdpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mehmetnadir/cdpilot",
+      "description": "Browser automation CLI on raw CDP \u2014 no Puppeteer, Playwright or Selenium, 0 npm dependencies. 70+ commands, test assertions, click/fill by visible text without an LLM, and an MCP server for AI coding agents.",
+      "stars": 33,
+      "updated_at": "2026-11-11T05:21:03Z"
+    },
+    {
+      "id": "grafenodb-grafeno",
+      "title": "grafenodb/grafeno",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/grafenodb/grafeno",
+      "description": "Grafeno is an open-source graph database built in Rust, designed for AI agent memory, knowledge graphs, and relationship-aware retrieval, featuring persistent storage, hybrid search, and temporal graph capabilities.",
+      "stars": 0,
+      "updated_at": "2026-11-11T05:17:49Z"
+    },
+    {
+      "id": "itsxactly-mazemaker",
+      "title": "itsXactlY/mazemaker",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/itsXactlY/mazemaker",
+      "description": "Semantic memory system with knowledge graph, spreading activation, embedding-based recall, autonomous dream consolidation, and C++ LSTM+kNN pattern learning for any /MCP and the Hermes Agent.",
+      "stars": 53,
+      "updated_at": "2026-11-11T05:58:03Z"
+    },
+    {
+      "id": "the-ai-alliance-semiont",
+      "title": "The-AI-Alliance/semiont",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "description": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "stars": 93,
+      "updated_at": "2026-11-11T04:30:07Z"
+    },
+    {
+      "id": "unbound-force-dewey",
+      "title": "unbound-force/dewey",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/unbound-force/dewey",
+      "description": "Knowledge graph MCP server for AI agents. 44 tools across Markdown vaults, semantic search, source code indexing, and persistent memory. Indexes local files, GitHub, web docs, and Go source code with local embeddings via Ollama.",
+      "stars": 3,
+      "updated_at": "2026-11-11T04:52:20Z"
+    },
+    {
+      "id": "dnacenta-recall-echo",
+      "title": "dnacenta/recall-echo",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dnacenta/recall-echo",
+      "description": "Persistent four-layer memory for AI coding agents: knowledge graph with Bayesian confidence, queried over MCP. Install with cargo install recall-echo --locked.",
+      "stars": 0,
+      "updated_at": "2026-11-11T04:36:11Z"
+    },
+    {
+      "id": "manimalakumar-local-ai-inference",
+      "title": "manimalakumar/local-ai-inference",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/manimalakumar/local-ai-inference",
+      "description": "serving optimization",
+      "stars": 0,
+      "updated_at": "2026-11-11T05:47:34Z"
+    },
+    {
+      "id": "avelone123123-shard",
+      "title": "avelone123123/shard",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/avelone123123/shard",
+      "description": "100% local AI runtime for Windows: a pre-flight fit advisor tells you whether a model will actually run on your VRAM/RAM before you download it. GGUF (llama.cpp) backend, native C++20 + MASM AVX2 core, OpenAI/Anthropic-compatible API, web dashboard.",
+      "stars": 1,
+      "updated_at": "2026-11-11T05:56:30Z"
+    },
+    {
+      "id": "kessler833-ornith-1.5-35b-a3b-for-gtx1070-inference-engine",
+      "title": "Kessler833/Ornith-1.5-35B-A3B-for-GTX1070-Inference-Engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Kessler833/Ornith-1.5-35B-A3B-for-GTX1070-Inference-Engine",
+      "description": "Custom CUDA inference engine that runs Ornith-1.5-35B-A3B (35B MoE, NVFP4) on a single GTX 1070 (8 GB, Windows) at ~25-30 tok/s. Expert streaming, fused NVFP4 kernels, Turbo modes, prefix cache. OpenAI-, Anthropic- and Ollama-compatible API for local AI agents.",
+      "stars": 1,
+      "updated_at": "2026-11-11T05:47:55Z"
+    },
+    {
+      "id": "nickmonrad-kernel-ai-assistant",
+      "title": "NickMonrad/kernel-ai-assistant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "description": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "stars": 36,
+      "updated_at": "2026-11-11T06:01:52Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 146240,
+      "updated_at": "2026-11-11T05:46:36Z"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-11",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-vercel-labs-agent-desktop",
+      "name": "Explore vercel-labs/agent-desktop",
+      "source": "https://github.com/vercel-labs/agent-desktop",
+      "problem": "Computer use CLI for AI agents",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-karthikjr48-transaction-autopilot",
+      "name": "Explore Karthikjr48/transaction-autopilot",
+      "source": "https://github.com/Karthikjr48/transaction-autopilot",
+      "problem": "Autonomous AI commerce state agent and merchant operations dashboard powered by PayPal Sandbox, transaction forensics, and intelligent email automation.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-leadpoet-leadpoet",
+      "name": "Explore leadpoet/leadpoet",
+      "source": "https://github.com/leadpoet/leadpoet",
+      "problem": "Open-source Bittensor subnet for a global AI agent competition in sales intelligence",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fasil-gulzar-python-learning",
+      "name": "Explore fasil-gulzar/python-learning",
+      "source": "https://github.com/fasil-gulzar/python-learning",
+      "problem": "My daily Python learning journey, coding exercises, and mini-projects focused on building AI Agents and Automation workflows",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-squirrelscan-squirrelscan",
+      "name": "Explore squirrelscan/squirrelscan",
+      "source": "https://github.com/squirrelscan/squirrelscan",
+      "problem": "The website QA tool for your coding agent. 310+ audit rules across SEO, performance, security, accessibility and agent experience.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mousewurx-bob",
+      "name": "Explore MouseWurX/Bob",
+      "source": "https://github.com/MouseWurX/Bob",
+      "problem": "Bob: a local AI agent with a personality. Tools, 256K+ context, code, research, pictures and voice, plus an AI Lab to cut and test models and his own llama.cpp engine that switches experts live. On your PC, Mac, Linux, Pi or phone. Nothing sent to a cloud.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nanamikite-dsh-usage-center",
+      "name": "Explore NanamiKite/dsh-usage-center",
+      "source": "https://github.com/NanamiKite/dsh-usage-center",
+      "problem": "\u9762\u5411 DeepSeek Harness (DSH) \u7684\u4e00\u7ad9\u5f0f LLM \u7528\u91cf\u4e0e\u6210\u672c\u4e2d\u5fc3\uff1a\u96c6\u6210\u591a\u7ef4\u5ea6 Token \u7edf\u8ba1\u3001\u591a Provider \u8ba1\u8d39\u5f15\u64ce\u3001SQLite \u5e42\u7b49\u8d26\u672c\u3001\u4e0a\u4e0b\u6587\u7a97\u53e3\u76d1\u63a7\uff0c\u652f\u6301 Dashboard\u3001CLI \u4e0e Agent Tools\u3002",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-bigfish1913-pi-rust",
+      "name": "Explore bigfish1913/pi-rust",
+      "source": "https://github.com/bigfish1913/pi-rust",
+      "problem": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, sessions, and plugin ABI",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-musadiqurrahman-whaagent",
+      "name": "Explore MusadiqUrRahman/whaagent",
+      "source": "https://github.com/MusadiqUrRahman/whaagent",
+      "problem": "Multi-tenant WhatsApp AI agent platform \u2014 deploy intelligent agents on WhatsApp with LLM support, MCP tools, and production-ready infrastructure.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lexmount-browser-eval",
+      "name": "Explore lexmount/browser-eval",
+      "source": "https://github.com/lexmount/browser-eval",
+      "problem": "Benchmarking Browsers and Web Tools for AI Agents. An evaluation harness for Browser Automation, Web Fetch / Search / Extract / Scraping / Crawling.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1665711659-ai-native-crm",
+      "name": "Explore 1665711659/ai-native-crm",
+      "source": "https://github.com/1665711659/ai-native-crm",
+      "problem": "AI-Native CRM: RAG, Tool-Calling Agent, Workflow Automation, AIGC pipeline (ComfyUI/TTS/ASR/FFmpeg) and Digital Employees (Playwright/Browser-use/Airtest). Python + Tornado.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mehmetnadir-cdpilot",
+      "name": "Explore mehmetnadir/cdpilot",
+      "source": "https://github.com/mehmetnadir/cdpilot",
+      "problem": "Browser automation CLI on raw CDP \u2014 no Puppeteer, Playwright or Selenium, 0 npm dependencies. 70+ commands, test assertions, click/fill by visible text without an LLM, and an MCP server for AI coding agents.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-grafenodb-grafeno",
+      "name": "Explore grafenodb/grafeno",
+      "source": "https://github.com/grafenodb/grafeno",
+      "problem": "Grafeno is an open-source graph database built in Rust, designed for AI agent memory, knowledge graphs, and relationship-aware retrieval, featuring persistent storage, hybrid search, and temporal graph capabilities.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-itsxactly-mazemaker",
+      "name": "Explore itsXactlY/mazemaker",
+      "source": "https://github.com/itsXactlY/mazemaker",
+      "problem": "Semantic memory system with knowledge graph, spreading activation, embedding-based recall, autonomous dream consolidation, and C++ LSTM+kNN pattern learning for any /MCP and the Hermes Agent.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-the-ai-alliance-semiont",
+      "name": "Explore The-AI-Alliance/semiont",
+      "source": "https://github.com/The-AI-Alliance/semiont",
+      "problem": "Semiont supports human+ai collaborative knowledge work.  Use it as: a Wiki, Knowledge Base, Context Graph, Semantic Layer, or Agentic Memory.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-unbound-force-dewey",
+      "name": "Explore unbound-force/dewey",
+      "source": "https://github.com/unbound-force/dewey",
+      "problem": "Knowledge graph MCP server for AI agents. 44 tools across Markdown vaults, semantic search, source code indexing, and persistent memory. Indexes local files, GitHub, web docs, and Go source code with local embeddings via Ollama.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dnacenta-recall-echo",
+      "name": "Explore dnacenta/recall-echo",
+      "source": "https://github.com/dnacenta/recall-echo",
+      "problem": "Persistent four-layer memory for AI coding agents: knowledge graph with Bayesian confidence, queried over MCP. Install with cargo install recall-echo --locked.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manimalakumar-local-ai-inference",
+      "name": "Explore manimalakumar/local-ai-inference",
+      "source": "https://github.com/manimalakumar/local-ai-inference",
+      "problem": "serving optimization",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-avelone123123-shard",
+      "name": "Explore avelone123123/shard",
+      "source": "https://github.com/avelone123123/shard",
+      "problem": "100% local AI runtime for Windows: a pre-flight fit advisor tells you whether a model will actually run on your VRAM/RAM before you download it. GGUF (llama.cpp) backend, native C++20 + MASM AVX2 core, OpenAI/Anthropic-compatible API, web dashboard.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kessler833-ornith-1.5-35b-a3b-for-gtx1070-inference-engine",
+      "name": "Explore Kessler833/Ornith-1.5-35B-A3B-for-GTX1070-Inference-Engine",
+      "source": "https://github.com/Kessler833/Ornith-1.5-35B-A3B-for-GTX1070-Inference-Engine",
+      "problem": "Custom CUDA inference engine that runs Ornith-1.5-35B-A3B (35B MoE, NVFP4) on a single GTX 1070 (8 GB, Windows) at ~25-30 tok/s. Expert streaming, fused NVFP4 kernels, Turbo modes, prefix cache. OpenAI-, Anthropic- and Ollama-compatible API for local AI agents.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nickmonrad-kernel-ai-assistant",
+      "name": "Explore NickMonrad/kernel-ai-assistant",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "problem": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-11-11",
+      "policy": "review-before-activation"
+    }
+  ]
+}
