@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-12",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "shivankd814-debug-ai-agent-android",
+      "title": "shivankd814-debug/AI-Agent-Android",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shivankd814-debug/AI-Agent-Android",
+      "description": "AI Agent Automation \u2013 Android  An intelligent Android-based AI automation system designed to simplify tasks, assist users, and automate workflows using AI-powered capabilities.  Built with a focus on smart automation, productivity, modular architecture, and seamless Android integration.  Platform: Android Project: AI Agent Automation",
+      "stars": 0,
+      "updated_at": "2026-11-12T07:06:03Z"
+    },
+    {
+      "id": "matintellect-posts",
+      "title": "MatIntellect/posts",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MatIntellect/posts",
+      "description": "English versions of MatIntellect posts on AI agents and automation for business. Originals: https://matintellect.com/en/posts",
+      "stars": 0,
+      "updated_at": "2026-11-12T07:04:21Z"
+    },
+    {
+      "id": "oomol-lab-open-connector",
+      "title": "oomol-lab/open-connector",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/oomol-lab/open-connector",
+      "description": "Open-source auth gateway connecting 1500+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "stars": 6227,
+      "updated_at": "2026-11-12T07:06:25Z"
+    },
+    {
+      "id": "infenia-yukta",
+      "title": "infenia/yukta",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/infenia/yukta",
+      "description": "Reactive DAG workflow orchestration server: define workflows as JSON, run them via REST, web UI, CLI or MCP for AI agents. Java 25, Spring WebFlux, GraalVM native.",
+      "stars": 1,
+      "updated_at": "2026-11-12T07:06:17Z"
+    },
+    {
+      "id": "amrdab-clawdcursor",
+      "title": "AmrDab/clawdcursor",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AmrDab/clawdcursor",
+      "description": "Local MCP server that gives any AI agent safe desktop control on Windows, macOS and Linux. Reads the screen as text and structure (accessibility + OCR) and acts by element name, with screenshots as the last resort. Multi-monitor aware, verifies every action, one safety gate.",
+      "stars": 408,
+      "updated_at": "2026-11-12T07:01:22Z"
+    },
+    {
+      "id": "rocareer-rolling-memory",
+      "title": "rocareer/rolling-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rocareer/rolling-memory",
+      "description": "Open-source, local-first long-term memory for AI coding agents: one MCP tool (recall) over a private local SQLite vault \u2014 zero cloud, zero vectors, zero background LLM calls, ~30 ms lookups. Apache-2.0.",
+      "stars": 1,
+      "updated_at": "2026-11-12T06:45:30Z"
+    },
+    {
+      "id": "xy-claude-brain-core",
+      "title": "xy-claude/brain-core",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xy-claude/brain-core",
+      "description": "A memory for your Claude Code agent that survives the session. One local MCP, five tools, a markdown vault you own, an eval that proves recall.",
+      "stars": 0,
+      "updated_at": "2026-11-12T05:55:53Z"
+    },
+    {
+      "id": "rajeshrajput97-agentic-ai-orchestrator",
+      "title": "rajeshrajput97/agentic-ai-orchestrator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rajeshrajput97/agentic-ai-orchestrator",
+      "description": "Minimal multi-agent orchestrator: planner, executor and tool registry",
+      "stars": 0,
+      "updated_at": "2026-11-12T07:01:47Z"
+    },
+    {
+      "id": "agentes-chat-agentes-chat",
+      "title": "agentes-chat/agentes-chat",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/agentes-chat/agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "stars": 559,
+      "updated_at": "2026-11-12T07:06:06Z"
+    },
+    {
+      "id": "tonythetiger168-aios-core",
+      "title": "tonythetiger168/aios-core",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tonythetiger168/aios-core",
+      "description": "Secure-by-default, local-first runtime for AI agents: scheduler, permissions, persistent memory, sandboxed tools and MCP. Python.",
+      "stars": 0,
+      "updated_at": "2026-11-12T06:57:10Z"
+    },
+    {
+      "id": "guangxiangdebizi-waymark-browser",
+      "title": "guangxiangdebizi/waymark-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/guangxiangdebizi/waymark-browser",
+      "description": "Open-source desktop browser shared by AI agents and people: automation first, AI second, humans last. Pluggable pointer/CAPTCHA/clipboard models, MCP, full action trace.",
+      "stars": 0,
+      "updated_at": "2026-11-12T07:00:13Z"
+    },
+    {
+      "id": "scrapeless-ai-scrapeless-cli",
+      "title": "scrapeless-ai/scrapeless-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/scrapeless-ai/scrapeless-cli",
+      "description": "Unified CLI for Scrapeless Web Unlocker, Crawl, AI Scraper, proxy URL generation, and cloud browser automation.",
+      "stars": 0,
+      "updated_at": "2026-10-28T01:29:41Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 41932,
+      "updated_at": "2026-11-12T07:03:51Z"
+    },
+    {
+      "id": "robinnegi9-cloudqa-task2-ai-agent",
+      "title": "Robinnegi9/CloudQA-Task2-AI-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Robinnegi9/CloudQA-Task2-AI-Agent",
+      "description": "AI-powered browser test automation using Python, Playwright and Gemini API",
+      "stars": 0,
+      "updated_at": "2026-11-12T06:47:46Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23390,
+      "updated_at": "2026-11-12T06:55:15Z"
+    },
+    {
+      "id": "rayhanson-git-enigma",
+      "title": "Rayhanson-Git/enigma",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Rayhanson-Git/enigma",
+      "description": "One memory for all your AI agents: an MCP server over a plain-Markdown Obsidian vault, with hybrid search, a knowledge graph you can open and a nightly caretaker.",
+      "stars": 0,
+      "updated_at": "2026-11-12T07:02:59Z"
+    },
+    {
+      "id": "swapnildahiphale-opensre",
+      "title": "swapnildahiphale/OpenSRE",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/swapnildahiphale/OpenSRE",
+      "description": "OpenSRE \u2014 the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in",
+      "stars": 179,
+      "updated_at": "2026-11-09T09:47:39Z"
+    },
+    {
+      "id": "iexcalibur-memblock",
+      "title": "iexcalibur/memblock",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/iexcalibur/memblock",
+      "description": "Structured memory SDK for AI agents \u2014 typed blocks, knowledge graph, hybrid search, encryption, and decay, all running locally on your own infrastructure.",
+      "stars": 0,
+      "updated_at": "2026-10-06T22:50:10Z"
+    },
+    {
+      "id": "liminode-agent-memory-cpp",
+      "title": "LimiNode/agent-memory-cpp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "description": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "stars": 2,
+      "updated_at": "2026-11-12T06:54:59Z"
+    },
+    {
+      "id": "poweredbypugs-stella-ai-astrology-system",
+      "title": "PoweredbyPugs/Stella-AI-Astrology-System",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PoweredbyPugs/Stella-AI-Astrology-System",
+      "description": "Stella is a single Python MCP server that gives an AI assistant a complete astrological practice: 89 tools spanning ephemeris computation, Hellenistic and Vedic timing techniques, cosmobiology, 9 Star Ki, the I Ching, a Neo4j knowledge graph built from 38 source texts, a three-axis chart reading generator, and a learning memory system.",
+      "stars": 0,
+      "updated_at": "2026-11-12T06:25:50Z"
+    },
+    {
+      "id": "hafung-localvideofactory",
+      "title": "hafung/LocalVideoFactory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hafung/LocalVideoFactory",
+      "description": "\ud83c\udfac \u672c\u5730 AI \u77ed\u89c6\u9891\u5de5\u5382\uff1a\u6587\u6848 \u2192 \u5206\u955c \u2192 \u914d\u97f3 \u2192 \u5b57\u5e55 \u2192 \u753b\u9762 \u2192 MP4\u3002Local-first AI short-video studio: multimodal editing, voice cloning, dynamic captions, B-roll and open music. CPU inference, open source.",
+      "stars": 4,
+      "updated_at": "2026-10-29T14:01:13Z"
+    },
+    {
+      "id": "mmogr-gglib",
+      "title": "mmogr/gglib",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mmogr/gglib",
+      "description": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "stars": 1,
+      "updated_at": "2026-11-12T06:36:26Z"
+    },
+    {
+      "id": "vitamindb-synthos",
+      "title": "VitaminDB/synthos",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/VitaminDB/synthos",
+      "description": "Local AI desktop studio in Rust: agentic chat, notes workspace, node editor for image/video/music/speech, code editor \u2014 on the native synaptix engine, any NVIDIA sm_80+ GPU (native on Blackwell). Models from .syn bundles (NVFP4/MXFP8/SQ quants) or GGUF. No Python, no torch, no cloud.",
+      "stars": 2,
+      "updated_at": "2026-11-10T09:13:54Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "stars": 7,
+      "updated_at": "2026-11-12T06:42:04Z"
+    },
+    {
+      "id": "jenkinsrobotics-jaegerai",
+      "title": "JenkinsRobotics/JaegerAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JenkinsRobotics/JaegerAI",
+      "description": "The universal turnkey agentic agent \u2014 local inference, tools, skills, memory, the id/ego persona pipeline, chat/voice/TUI faces, and the client protocol. The Mind. Runs on JaegerOS; headless is a config, not a fork.",
+      "stars": 1,
+      "updated_at": "2026-11-12T06:36:03Z"
+    }
+  ]
+}
