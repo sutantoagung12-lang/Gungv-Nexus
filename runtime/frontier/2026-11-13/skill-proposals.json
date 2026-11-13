@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-13",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-shasan7774bs23-agentic-pm-autopilot",
+      "name": "Explore shasan7774bs23/agentic-pm-autopilot",
+      "source": "https://github.com/shasan7774bs23/agentic-pm-autopilot",
+      "problem": "AI project manager for any Jira team, run by Claude Code on your machine. Analyses client tickets against your code and live app, checks Definition of Ready, drafts plain-English comments posted only on your OK, and tracks sprints, release forecasts, effort overruns and risks in a daily executive report. One-time setup reads Jira for you.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lekkalaganesh-rag-knowledge-platform-multi-tenant-ai-knowledge-and-automation",
+      "name": "Explore LEKKALAGANESH/RAG-Knowledge-Platform-multi-tenant-AI-knowledge-and-automation",
+      "source": "https://github.com/LEKKALAGANESH/RAG-Knowledge-Platform-multi-tenant-AI-knowledge-and-automation",
+      "problem": "Multi-tenant RAG platform: connect files, websites, S3, Postgres, Drive, OneDrive, Dropbox and any REST API; get cited answers via hybrid search; run an approval-gated AI agent. FastAPI + Postgres RLS + pgvector/Qdrant, Next.js UI, Python SDK, Docker/K8s.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nathapp-io-nax",
+      "name": "Explore nathapp-io/nax",
+      "source": "https://github.com/nathapp-io/nax",
+      "problem": "AI Coding Agent Orchestrator \u2014 loops until done",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-edgerunners-2-capri-ai-desktop",
+      "name": "Explore edgerunners-2/capri-ai-desktop",
+      "source": "https://github.com/edgerunners-2/capri-ai-desktop",
+      "problem": "Cyberpunk AI desktop agent & voice companion for Windows. Supports Claude Code, Ollama, DeepSeek, Discord calls & screen automation.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yyyprobee-bah",
+      "name": "Explore YYYPROBEE/BAH",
+      "source": "https://github.com/YYYPROBEE/BAH",
+      "problem": "Banking agent harness: plugin kernel, tool pipeline, plan orchestration, saga compensation, and multi-channel delivery. | \u94f6\u884c\u667a\u80fd\u4f53\u5e95\u5ea7\uff1a\u63d2\u4ef6\u5185\u6838\u3001\u5de5\u5177\u7ba1\u7ebf\u3001\u8ba1\u5212\u7f16\u6392\u3001Saga \u8865\u507f\u4e0e\u591a\u6e20\u9053\u4ea4\u4ed8\u3002",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mkathir0-agentic-data-preprocessing-system.",
+      "name": "Explore mkathir0/Agentic-Data-Preprocessing-System.",
+      "source": "https://github.com/mkathir0/Agentic-Data-Preprocessing-System.",
+      "problem": "Multi-agent system that autonomously profiles, cleans, validates, and documents raw datasets using LLM-driven decision-making over deterministic data engineering tools.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zhangzhengeric-sage",
+      "name": "Explore ZHangZHengEric/Sage",
+      "source": "https://github.com/ZHangZHengEric/Sage",
+      "problem": "An RSI Agent Harness for running, evaluating, and evolving agents\u2014with tools, skills, MCP, stateful execution, and multi-agent workflows.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nikspence-agentnik",
+      "name": "Explore nikspence/agentnik",
+      "source": "https://github.com/nikspence/agentnik",
+      "problem": "Agentnik is a cross-platform agentic GUI supporting local tool calling, coding, and (almost) any LLM provider. Work-in-progress, probably runs, is not finished.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zpoint-vibe-seller",
+      "name": "Explore zpoint/vibe-seller",
+      "source": "https://github.com/zpoint/vibe-seller",
+      "problem": "\u8de8\u5883\u5356\u5bb6\u7684 AI \u81ea\u52a8\u5316\u6846\u67b6\uff08\u652f\u6301\u4e9a\u9a6c\u900a\u3001Noon\u3001\u7f8e\u5ba2\u591a\u3001\u5343\u725b\u7b49\u5e73\u53f0\uff0c\u7d2b\u9e1f\u3001Chrome \u7b49\u6d4f\u89c8\u5668\uff09\uff0c\u81ea\u7531\u63a5\u5165\u4efb\u610f\u5927\u6a21\u578b(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dragonked2-alphacode",
+      "name": "Explore dragonked2/alphacode",
+      "source": "https://github.com/dragonked2/alphacode",
+      "problem": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sidalit-moli-snap",
+      "name": "Explore sidalit/moli-snap",
+      "source": "https://github.com/sidalit/moli-snap",
+      "problem": "Snap packaging for Moli, a lightweight headless browser for AI agents and automation.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opok-ops-mindforge",
+      "name": "Explore opok-ops/MindForge",
+      "source": "https://github.com/opok-ops/MindForge",
+      "problem": "Production-grade lifelong memory for AI agents \u2014 4-tier memory, knowledge graph, E2EE, federated P2P, MCP server.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kraft87-synapse",
+      "name": "Explore kraft87/synapse",
+      "source": "https://github.com/kraft87/synapse",
+      "problem": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jmiaie-ompa",
+      "name": "Explore jmiaie/ompa",
+      "source": "https://github.com/jmiaie/ompa",
+      "problem": "Persistent, citable memory for any AI agent: verbatim markdown vault, temporal knowledge graph and local hybrid search over MCP. R@5 0.981 on LongMemEval-S with 0 LLM calls.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-saicharan-nidiganti-local-ai-benchmark",
+      "name": "Explore saicharan-nidiganti/local-ai-benchmark",
+      "source": "https://github.com/saicharan-nidiganti/local-ai-benchmark",
+      "problem": "Which small LLM should run on a 4 GB laptop GPU? Offline benchmark of qwen3:4b-instruct, phi4-mini and llama3.2:3b on Ollama: task quality, speed, latency, GPU memory and energy, with raw run logs and environment manifests.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chipmunkrpa-veritas",
+      "name": "Explore ChipmunkRPA/veritas",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "problem": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-properproperproper-thomas-ai-nvidia-llms-mlx-apple-ai-services",
+      "name": "Explore ProperProperProper/thomas-ai-nvidia-llms-mlx-apple-ai-services",
+      "source": "https://github.com/ProperProperProper/thomas-ai-nvidia-llms-mlx-apple-ai-services",
+      "problem": "Thomas AI: native Rust orchestration for free NVIDIA LLMs, Apple Foundation Models, MLX, local AI agents, and Apple Silicon inference",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-viviberi-oneclick-ai-cover",
+      "name": "Explore ViviBeri/OneClick-AI-Cover",
+      "source": "https://github.com/ViviBeri/OneClick-AI-Cover",
+      "problem": "A free, open-source, Windows-first AI singing cover creator with vocal separation, voice conversion (RVC), instrumental mixing, and WAV/MP3 export \u2014 designed for local processing without paid APIs or cloud inference.",
+      "created_on": "2026-11-13",
+      "policy": "review-before-activation"
+    }
+  ]
+}

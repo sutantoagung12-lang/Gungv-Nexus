@@ -1,0 +1,29 @@
+# Daily Frontier — 2026-11-13
+
+Discovered nodes: 24
+
+## Nodes
+- [shasan7774bs23/agentic-pm-autopilot](https://github.com/shasan7774bs23/agentic-pm-autopilot) — AI project manager for any Jira team, run by Claude Code on your machine. Analyses client tickets against your code and live app, checks Definition of Ready, drafts plain-English comments posted only on your OK, and tracks sprints, release forecasts, effort overruns and risks in a daily executive report. One-time setup reads Jira for you.
+- [LEKKALAGANESH/RAG-Knowledge-Platform-multi-tenant-AI-knowledge-and-automation](https://github.com/LEKKALAGANESH/RAG-Knowledge-Platform-multi-tenant-AI-knowledge-and-automation) — Multi-tenant RAG platform: connect files, websites, S3, Postgres, Drive, OneDrive, Dropbox and any REST API; get cited answers via hybrid search; run an approval-gated AI agent. FastAPI + Postgres RLS + pgvector/Qdrant, Next.js UI, Python SDK, Docker/K8s.
+- [nathapp-io/nax](https://github.com/nathapp-io/nax) — AI Coding Agent Orchestrator — loops until done
+- [edgerunners-2/capri-ai-desktop](https://github.com/edgerunners-2/capri-ai-desktop) — Cyberpunk AI desktop agent & voice companion for Windows. Supports Claude Code, Ollama, DeepSeek, Discord calls & screen automation.
+- [langgenius/dify](https://github.com/langgenius/dify) — Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.
+- [YYYPROBEE/BAH](https://github.com/YYYPROBEE/BAH) — Banking agent harness: plugin kernel, tool pipeline, plan orchestration, saga compensation, and multi-channel delivery. | 银行智能体底座：插件内核、工具管线、计划编排、Saga 补偿与多渠道交付。
+- [mkathir0/Agentic-Data-Preprocessing-System.](https://github.com/mkathir0/Agentic-Data-Preprocessing-System.) — Multi-agent system that autonomously profiles, cleans, validates, and documents raw datasets using LLM-driven decision-making over deterministic data engineering tools.
+- [ZHangZHengEric/Sage](https://github.com/ZHangZHengEric/Sage) — An RSI Agent Harness for running, evaluating, and evolving agents—with tools, skills, MCP, stateful execution, and multi-agent workflows.
+- [nikspence/agentnik](https://github.com/nikspence/agentnik) — Agentnik is a cross-platform agentic GUI supporting local tool calling, coding, and (almost) any LLM provider. Work-in-progress, probably runs, is not finished.
+- [zpoint/vibe-seller](https://github.com/zpoint/vibe-seller) — 跨境卖家的 AI 自动化框架（支持亚马逊、Noon、美客多、千牛等平台，紫鸟、Chrome 等浏览器），自由接入任意大模型(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)
+- [dragonked2/alphacode](https://github.com/dragonked2/alphacode) — Free MIT AI coding agent — no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust.
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) — Browser automation CLI for AI agents
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) — Automate browser based workflows with AI
+- [sidalit/moli-snap](https://github.com/sidalit/moli-snap) — Snap packaging for Moli, a lightweight headless browser for AI agents and automation.
+- [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) — Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.
+- [opok-ops/MindForge](https://github.com/opok-ops/MindForge) — Production-grade lifelong memory for AI agents — 4-tier memory, knowledge graph, E2EE, federated P2P, MCP server.
+- [kraft87/synapse](https://github.com/kraft87/synapse) — Self-hosted long-term memory for AI coding agents — episodic store, knowledge graph, and MCP server.
+- [jmiaie/ompa](https://github.com/jmiaie/ompa) — Persistent, citable memory for any AI agent: verbatim markdown vault, temporal knowledge graph and local hybrid search over MCP. R@5 0.981 on LongMemEval-S with 0 LLM calls.
+- [EtanHey/brainlayer](https://github.com/EtanHey/brainlayer) — Persistent memory MCP for AI agents — SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations
+- [1bit-MONSTER/engine](https://github.com/1bit-MONSTER/engine) — One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.
+- [saicharan-nidiganti/local-ai-benchmark](https://github.com/saicharan-nidiganti/local-ai-benchmark) — Which small LLM should run on a 4 GB laptop GPU? Offline benchmark of qwen3:4b-instruct, phi4-mini and llama3.2:3b on Ollama: task quality, speed, latency, GPU memory and energy, with raw run logs and environment manifests.
+- [ChipmunkRPA/veritas](https://github.com/ChipmunkRPA/veritas) — Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.
+- [ProperProperProper/thomas-ai-nvidia-llms-mlx-apple-ai-services](https://github.com/ProperProperProper/thomas-ai-nvidia-llms-mlx-apple-ai-services) — Thomas AI: native Rust orchestration for free NVIDIA LLMs, Apple Foundation Models, MLX, local AI agents, and Apple Silicon inference
+- [ViviBeri/OneClick-AI-Cover](https://github.com/ViviBeri/OneClick-AI-Cover) — A free, open-source, Windows-first AI singing cover creator with vocal separation, voice conversion (RVC), instrumental mixing, and WAV/MP3 export — designed for local processing without paid APIs or cloud inference.
