@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-14",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-jonathanrreed-apple-mcps",
+      "name": "Explore JonathanRReed/Apple-MCPs",
+      "source": "https://github.com/JonathanRReed/Apple-MCPs",
+      "problem": "Model Context Protocol (MCP) servers that give AI agents local access to macOS apps: Mail, Calendar, Reminders, Messages, Contacts, Notes, Shortcuts, Files, System, and Maps. Unified server plus focused single-app servers.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mirzatghayrat-arslan",
+      "name": "Explore mirzatghayrat/arslan",
+      "source": "https://github.com/mirzatghayrat/arslan",
+      "problem": "Open-source AI agent for your Mac and iPhone \u2014 runs your terminal and apps in the background, and asks before it acts. Local-first, bring your own key.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dinesh210805-aura-android-use",
+      "name": "Explore Dinesh210805/aura-android-use",
+      "source": "https://github.com/Dinesh210805/aura-android-use",
+      "problem": "AURA: an AI that uses your Android phone the way you do. On-device agent plus an MCP server inside the phone. Bring your own LLM key.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rajiniottesting-coder-multi-agent-test-automation",
+      "name": "Explore rajiniottesting-coder/multi-agent-test-automation",
+      "source": "https://github.com/rajiniottesting-coder/multi-agent-test-automation",
+      "problem": "Multi-agent AI test automation framework using Playwright, pytest-bdd and any OpenAI-compatible LLM. Six specialized agents (Impact Analyst, Test Designer, Coder, Reviewer, Runner, Reporter) take a Jira story to a reviewed, executed pull request, with human approval gates at every critical step.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fbrehm1990-foreman-ai",
+      "name": "Explore Fbrehm1990/Foreman-AI",
+      "source": "https://github.com/Fbrehm1990/Foreman-AI",
+      "problem": "Foreman AI: your AI team, on the job. Autonomous agent team, voice assistant and smart-home hub in one local dashboard.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yunhai89-yunzai-agent-plugin",
+      "name": "Explore yunhai89/yunzai-agent-plugin",
+      "source": "https://github.com/yunhai89/yunzai-agent-plugin",
+      "problem": "\u57fa\u4e8e Yunzai \u7684 AI Agent \u63d2\u4ef6\u6846\u67b6\uff1aLLM \u5bf9\u8bdd\u00b7\u5de5\u5177\u8c03\u7528\u00b7\u957f\u671f\u8bb0\u5fc6\u00b7MCP\u00b7\u5de5\u5177\u8fdb\u5316 | A modular AI Agent runtime for Yunzai with self-evolving tools",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-footprintjs-agentfootprint",
+      "name": "Explore footprintjs/agentfootprint",
+      "source": "https://github.com/footprintjs/agentfootprint",
+      "problem": "TypeScript AI agent framework with recorded context, tool calls and decisions, plus configurable answer checks.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aaronyanx-senior-frontend-interview",
+      "name": "Explore aaronyanx/senior-frontend-interview",
+      "source": "https://github.com/aaronyanx/senior-frontend-interview",
+      "problem": "AI \u65f6\u4ee3\u7684\u524d\u7aef\u5de5\u7a0b\u5e08\u9762\u8bd5\u6307\u5357\uff1a\u4ece\u6d4f\u89c8\u5668\u4e0e V8 \u5e95\u5c42\uff0c\u5230 Agent Harness\u3001Lead Agent \u7f16\u6392\u3001Tool Calling\u3001AG-UI\u3001RAG \u4e0e\u7845\u57fa\u5458\u5de5\u3002\u8bb2\u673a\u5236\u3001\u53d6\u820d\u4e0e\u5de5\u7a0b\u843d\u5730\u3002",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-agentes-chat-agentes-chat",
+      "name": "Explore agentes-chat/agentes-chat",
+      "source": "https://github.com/agentes-chat/agentes-chat",
+      "problem": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-f-o-x11-dreaming-press",
+      "name": "Explore f-o-x11/dreaming-press",
+      "source": "https://github.com/f-o-x11/dreaming-press",
+      "problem": "A publication where AI agents write for humans. Node/Express SSR + SQLite, autonomous newsroom, live AI-tool data engine. https://dreaming.press",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tencent-browserskill",
+      "name": "Explore Tencent/BrowserSkill",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "problem": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-api-evangelist-agentql",
+      "name": "Explore api-evangelist/agentql",
+      "source": "https://github.com/api-evangelist/agentql",
+      "problem": "AgentQL \u2014 independent third-party profile of a public API surface, by API Evangelist. AgentQL connects LLMs and AI agents to the entire web through a specialized query language, REST API, and Python/JavaScript SDKs. It enables web scraping, data extraction, and browser automation using natural language queries that are self-healing \u2014 adapting autom",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dragonked2-alphacode",
+      "name": "Explore dragonked2/alphacode",
+      "source": "https://github.com/dragonked2/alphacode",
+      "problem": "Free MIT AI coding agent \u2014 no API key needed. Built-in free model, or bring Claude, GPT, Gemini, DeepSeek, Ollama +50 more. Swarm mode, 40+ tools, browser & desktop automation, built in Rust.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kraft87-synapse",
+      "name": "Explore kraft87/synapse",
+      "source": "https://github.com/kraft87/synapse",
+      "problem": "Self-hosted long-term memory for AI coding agents \u2014 episodic store, knowledge graph, and MCP server.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jiay-77-palimpsest",
+      "name": "Explore JiaY-77/Palimpsest",
+      "source": "https://github.com/JiaY-77/Palimpsest",
+      "problem": "Local-first, battle-tested, memory that never disappears. Hybrid vector search + knowledge graph + full-text retrieval for AI agents.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cheney-enterprises-mnemos",
+      "name": "Explore cheney-enterprises/mnemos",
+      "source": "https://github.com/cheney-enterprises/mnemos",
+      "problem": "Cognitive architecture for persistent AI agent memory. Knowledge graph with learning retrieval, ACT-R decay, and spreading activation. Markdown-native, local-first, zero cloud. MCP server + CLI.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chemiguel23-memorymesh",
+      "name": "Explore CheMiguel23/MemoryMesh",
+      "source": "https://github.com/CheMiguel23/MemoryMesh",
+      "problem": "A knowledge graph server that uses the Model Context Protocol (MCP) to provide structured memory persistence for AI models.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-inite-ai-inite-brain-service",
+      "name": "Explore inite-ai/inite-brain-service",
+      "source": "https://github.com/inite-ai/inite-brain-service",
+      "problem": "Open-source bitemporal knowledge graph \u2014 long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR forget. REST + native MCP.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kleinbem-dev-cadre",
+      "name": "Explore kleinbem-dev/cadre",
+      "source": "https://github.com/kleinbem-dev/cadre",
+      "problem": "Private AI teammates on your own compute (powered by Goose over local inference: Ollama, MeshLLM)",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ohdearquant-lattice",
+      "name": "Explore ohdearquant/lattice",
+      "source": "https://github.com/ohdearquant/lattice",
+      "problem": "Run local AI models anywhere",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chipmunkrpa-veritas",
+      "name": "Explore ChipmunkRPA/veritas",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "problem": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-urbanmorph-inference-vitals",
+      "name": "Explore urbanmorph/inference-vitals",
+      "source": "https://github.com/urbanmorph/inference-vitals",
+      "problem": "A dashboard for running and fine-tuning AI models on an Apple Silicon Mac or Linux with NVIDIA GPUs: speed, loss, memory, heat, power and battery, for any local engine",
+      "created_on": "2026-11-14",
+      "policy": "review-before-activation"
+    }
+  ]
+}
