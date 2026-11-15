@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-15",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-bughunter3333-lab-j.a.r.v.i.s",
+      "name": "Explore bughunter3333-lab/J.A.R.V.I.S",
+      "source": "https://github.com/bughunter3333-lab/J.A.R.V.I.S",
+      "problem": "ARVIS-X is an AI-powered personal operating system inspired by Tony Stark's J.A.R.V.I.S. It combines conversational AI, voice control, memory, autonomous agents, and workflow automation to help users code, manage projects, execute tasks, and interact with applications through natural language.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-danilqa-kombinat",
+      "name": "Explore Danilqa/kombinat",
+      "source": "https://github.com/Danilqa/kombinat",
+      "problem": "\ud83c\udfed Dead simple, lightweight engine for 24/7 background AI agents. Works with your Claude, Codex or any other subscription. Comes with remote control, UI and mobile support",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-openvibers-openvibe.actor",
+      "name": "Explore OpenVibers/OpenVibe.Actor",
+      "source": "https://github.com/OpenVibers/OpenVibe.Actor",
+      "problem": "Route a task to the best AI agent, check the answer with a second model, and see the cost and the why, at openvibe.actor.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nijop-electronics-agent-kit-new-prototype",
+      "name": "Explore NijoP/electronics-agent-kit-new-prototype",
+      "source": "https://github.com/NijoP/electronics-agent-kit-new-prototype",
+      "problem": "Electronics Agent Kit (EAK) \u2014 A standalone, Rust-first, AI-native electronics design automation platform with native schematic, PCB, 3D, engineering verification, and manufacturing capabilities.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manojdevarajulu-pocketagent",
+      "name": "Explore ManojDevarajulu/PocketAgent",
+      "source": "https://github.com/ManojDevarajulu/PocketAgent",
+      "problem": "Autonomous on-device AI agent for Android. Operates apps via accessibility overlays with zero PC, no ADB, no root, and no backend. BYOK.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ronintoadempty-ai--manus",
+      "name": "Explore ronintoadempty/ai--manus",
+      "source": "https://github.com/ronintoadempty/ai--manus",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ordercocoondrag-ai--manus",
+      "name": "Explore ordercocoondrag/ai--manus",
+      "source": "https://github.com/ordercocoondrag/ai--manus",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-meteorzipartition-ai--manus",
+      "name": "Explore Meteorzipartition/ai--manus",
+      "source": "https://github.com/Meteorzipartition/ai--manus",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-moatpemanacle-ai--manus",
+      "name": "Explore Moatpemanacle/ai--manus",
+      "source": "https://github.com/Moatpemanacle/ai--manus",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pegasusvendorharbor-ai--manus",
+      "name": "Explore PegasusVendorHarbor/ai--manus",
+      "source": "https://github.com/PegasusVendorHarbor/ai--manus",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mehmetnadir-cdpilot",
+      "name": "Explore mehmetnadir/cdpilot",
+      "source": "https://github.com/mehmetnadir/cdpilot",
+      "problem": "Browser automation CLI on raw CDP \u2014 no Puppeteer, Playwright or Selenium, 0 npm dependencies. 70+ commands, test assertions, click/fill by visible text without an LLM, and an MCP server for AI coding agents.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aixtin-nyral",
+      "name": "Explore aixtin/nyral",
+      "source": "https://github.com/aixtin/nyral",
+      "problem": "An open-source personal AI agent that lives on your Android phone. On-device long-term memory, SSH remote ops, 21 built-in tools, a browser the agent drives itself. No account, bring your own model key.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nottelabs-notte",
+      "name": "Explore nottelabs/notte",
+      "source": "https://github.com/nottelabs/notte",
+      "problem": "Cloud browser infrastructure and web automation platform for your AI and coding agents",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-scszcoder-ecan.ai",
+      "name": "Explore scszcoder/eCan.ai",
+      "source": "https://github.com/scszcoder/eCan.ai",
+      "problem": "Privacy-first, AI native agents For E-Commerce (and beyond), create skill (langgraph based workflow), tasks, agents, graphically with low code or no code. Deploy agents across network.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mustcodeal-seleniumbase-rs",
+      "name": "Explore MustCodeAl/seleniumbase-rs",
+      "source": "https://github.com/MustCodeAl/seleniumbase-rs",
+      "problem": "SeleniumBase for Rust (unofficial port): browser automation and testing with the SeleniumBase API, a driverless Chrome DevTools engine, stealth mode, and an MCP server for AI agents.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sunormesky-max-epicode",
+      "name": "Explore sunormesky-max/epicode",
+      "source": "https://github.com/sunormesky-max/epicode",
+      "problem": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lleontor705-cortex",
+      "name": "Explore lleontor705/cortex",
+      "source": "https://github.com/lleontor705/cortex",
+      "problem": "Persistent memory for AI coding agents \u2014 knowledge graph, importance scoring, vector search",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-humblemat810-kogwistar",
+      "name": "Explore humblemat810/kogwistar",
+      "source": "https://github.com/humblemat810/kogwistar",
+      "problem": "Graph-native AI substrate for HyperGraphRAG. Knowledge, Workflow orchestration, conversation memory and wisdom are modeled as hypergraphs. Support strong event sourced provenance and replay.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cheney-enterprises-mnemos",
+      "name": "Explore cheney-enterprises/mnemos",
+      "source": "https://github.com/cheney-enterprises/mnemos",
+      "problem": "Cognitive architecture for persistent AI agent memory. Knowledge graph with learning retrieval, ACT-R decay, and spreading activation. Markdown-native, local-first, zero cloud. MCP server + CLI.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-unbound-force-dewey",
+      "name": "Explore unbound-force/dewey",
+      "source": "https://github.com/unbound-force/dewey",
+      "problem": "Knowledge graph MCP server for AI agents. 44 tools across Markdown vaults, semantic search, source code indexing, and persistent memory. Indexes local files, GitHub, web docs, and Go source code with local embeddings via Ollama.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kvmem-kvmem",
+      "name": "Explore kvmem/kvmem",
+      "source": "https://github.com/kvmem/kvmem",
+      "problem": "KVMem virtualizes KV memory across inference backends to make ultra-long-context local AI accessible on limited hardware.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rybo30-ghostdrive_7",
+      "name": "Explore rybo30/ghostdrive_7",
+      "source": "https://github.com/rybo30/ghostdrive_7",
+      "problem": "Encrypted data and local AI inference. Multi-model reasoning and deployable AI agents.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-louiscalata-agiw-suite",
+      "name": "Explore louiscalata/agiw-suite",
+      "source": "https://github.com/louiscalata/agiw-suite",
+      "problem": "Local AI inference monitor for macOS (Windows preview in source), with bundled Nisi and a Jaryo interface.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chipmunkrpa-veritas",
+      "name": "Explore ChipmunkRPA/veritas",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "problem": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "created_on": "2026-11-15",
+      "policy": "review-before-activation"
+    }
+  ]
+}
