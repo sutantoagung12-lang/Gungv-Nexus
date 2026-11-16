@@ -8,7 +8,7 @@
     "auto_install": false,
     "auto_merge_into_pool": true
   },
-  "count": 1218,
+  "count": 1219,
   "repositories": [
     {
       "repository": "langchain-ai/langgraph",
@@ -9677,7 +9677,22 @@
       "trust": "untrusted",
       "requires_validation": true,
       "integration_mode": "metadata-only"
+    },
+    {
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "capability": "discovered",
+      "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
+      "stars": 150196,
+      "forks": 15880,
+      "language": "Python",
+      "license": "MIT",
+      "updated_at": "2026-11-16T11:32:16Z",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 1.4485,
+      "trust": "untrusted",
+      "requires_validation": true,
+      "integration_mode": "metadata-only"
     }
   ],
-  "last_update": "2026-11-09"
+  "last_update": "2026-11-16"
 }
