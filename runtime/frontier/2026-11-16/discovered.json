@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-16",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "singlebarrellabs-vscode-mcp-server",
+      "title": "singlebarrellabs/vscode-mcp-server",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/singlebarrellabs/vscode-mcp-server",
+      "description": "VS Code MCP server for AI agents (opencode, Claude, Cursor) \u2014 debug, edit, and control VS Code via Model Context Protocol. Debugger, terminal, LSP, file ops (40+ tools).",
+      "stars": 3,
+      "updated_at": "2026-11-15T03:11:47Z"
+    },
+    {
+      "id": "mrfaizan-dev-mrfaizan-dev",
+      "title": "mrfaizan-dev/mrfaizan-dev",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mrfaizan-dev/mrfaizan-dev",
+      "description": "Python Backend & Applied AI Developer building agentic AI, LLM-powered applications, hybrid RAG systems, intelligent web automation, and asynchronous APIs with FastAPI, LangGraph, LlamaIndex, Celery, and Redis.",
+      "stars": 0,
+      "updated_at": "2026-11-12T14:47:29Z"
+    },
+    {
+      "id": "josssphzhou-poki",
+      "title": "JosssphZhou/poki",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JosssphZhou/poki",
+      "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "stars": 1376,
+      "updated_at": "2026-11-16T06:23:04Z"
+    },
+    {
+      "id": "platonai-browser4",
+      "title": "platonai/Browser4",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/platonai/Browser4",
+      "description": "Browser4 \u2014 an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.",
+      "stars": 1186,
+      "updated_at": "2026-11-14T06:56:52Z"
+    },
+    {
+      "id": "sudharsen27-flowpilot",
+      "title": "Sudharsen27/flowpilot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Sudharsen27/flowpilot",
+      "description": "AI-native multi-tenant CRM and sales automation platform where intelligent agents safely qualify leads, manage customer conversations, automate workflows, and execute business actions with human control.",
+      "stars": 0,
+      "updated_at": "2026-11-12T07:18:22Z"
+    },
+    {
+      "id": "langgenius-dify",
+      "title": "langgenius/dify",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 161234,
+      "updated_at": "2026-11-16T06:21:38Z"
+    },
+    {
+      "id": "rongxinzy-rongxinai",
+      "title": "rongxinzy/RongxinAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rongxinzy/RongxinAI",
+      "description": "Open-source desktop AI agent: built-in free model, local GGUF models via llama.cpp, dispatch tasks from WeChat/Feishu/DingTalk. Files, browser & MCP tools. | \u5f00\u6e90\u684c\u9762 AI \u667a\u80fd\u4f53\uff1a\u5185\u7f6e\u514d\u8d39\u6a21\u578b\uff0cllama.cpp \u672c\u5730 GGUF \u6a21\u578b\uff0c\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489\u76f4\u63a5\u6d3e\u4efb\u52a1\u3002",
+      "stars": 162,
+      "updated_at": "2026-11-12T04:06:11Z"
+    },
+    {
+      "id": "menghaoaho-jira-ai-bridge",
+      "title": "menghaoaho/jira-ai-bridge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/menghaoaho/jira-ai-bridge",
+      "description": "Enterprise Jira remote tunnel gateway and AI Agent orchestration bridge (frp + Nginx 6-Patch + LLM tools)",
+      "stars": 0,
+      "updated_at": "2026-09-13T05:16:24Z"
+    },
+    {
+      "id": "rimworld-rimmind-mod-rimworld-rimmind-mod-core",
+      "title": "RimWorld-RimMind-Mod/RimWorld-RimMind-Mod-Core",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RimWorld-RimMind-Mod/RimWorld-RimMind-Mod-Core",
+      "description": "Core runtime for RimMind: LLM request pipeline, async queue, context engine, agent bus & tool registry",
+      "stars": 5,
+      "updated_at": "2026-11-07T06:47:11Z"
+    },
+    {
+      "id": "tyama-ds-agent-workbench",
+      "title": "tyama-ds/agent-workbench",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tyama-ds/agent-workbench",
+      "description": "Windows-native multi-provider agent teams for Local LLM, OpenAI and Anthropic APIs, with scoped Office/file tools and explicit proxy control.",
+      "stars": 0,
+      "updated_at": "2026-11-09T20:38:25Z"
+    },
+    {
+      "id": "soldiercoder-gobrowse",
+      "title": "SoldierCoder/gobrowse",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/SoldierCoder/gobrowse",
+      "description": "Universal browser automation for AI agents in Go: CLI + daemon + MCP server, packaged as a Claude Code skill",
+      "stars": 0,
+      "updated_at": "2026-11-16T06:17:15Z"
+    },
+    {
+      "id": "gordidima-rgb-deloist-agent",
+      "title": "gordidima-rgb/deloist-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/gordidima-rgb/deloist-agent",
+      "description": "Desktop AI assistant team for Windows: bots with roles, any model, routines, approvals, messengers, browser, voice. Source-available (PolyForm Noncommercial).",
+      "stars": 28,
+      "updated_at": "2026-11-16T06:23:46Z"
+    },
+    {
+      "id": "homesweetlove-luma",
+      "title": "homesweetlove/Luma",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/homesweetlove/Luma",
+      "description": "A lightweight personal Windows browser with local automation, secure local vault, and human-approved AI handoffs.",
+      "stars": 0,
+      "updated_at": "2026-11-16T05:52:27Z"
+    },
+    {
+      "id": "prithivipm2580-browser-mind",
+      "title": "PrithiviPM2580/browser-mind",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/PrithiviPM2580/browser-mind",
+      "description": "BrowserMind is an AI-powered web automation agent that intelligently controls a browser to navigate websites, interact with elements, and automate complex web tasks. Built with Claude Code and Browserbase, it brings autonomous AI-driven web interaction to life.",
+      "stars": 0,
+      "updated_at": "2026-11-16T05:58:50Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 559,
+      "updated_at": "2026-11-14T13:41:14Z"
+    },
+    {
+      "id": "liliang-cn-cortexdb",
+      "title": "liliang-cn/cortexdb",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "description": "Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning\u2014all in one SQLite file.",
+      "stars": 517,
+      "updated_at": "2026-11-16T06:14:05Z"
+    },
+    {
+      "id": "zuchguillotine-haidaa",
+      "title": "ZuchGuillotine/HAIDAA",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ZuchGuillotine/HAIDAA",
+      "description": "Persistent memory for AI agents. Provenance-aware scientific knowledge graph, read-only MCP server, signed contributions, quarantined publication, schemas and an offline receipt verifier.",
+      "stars": 1,
+      "updated_at": "2026-09-27T05:24:15Z"
+    },
+    {
+      "id": "pratibhabharti18-memory-bank",
+      "title": "pratibhabharti18/Memory-Bank",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/pratibhabharti18/Memory-Bank",
+      "description": "AI-powered Personal Knowledge OS (Second Brain) using RAG, vector databases, and knowledge graphs to organize, connect, and reason over personal notes securely.",
+      "stars": 1,
+      "updated_at": "2026-11-12T09:07:36Z"
+    },
+    {
+      "id": "lleontor705-cortex",
+      "title": "lleontor705/cortex",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lleontor705/cortex",
+      "description": "Persistent memory for AI coding agents \u2014 knowledge graph, importance scoring, vector search",
+      "stars": 2,
+      "updated_at": "2026-10-09T11:37:29Z"
+    },
+    {
+      "id": "cortexkit-synapse",
+      "title": "cortexkit/synapse",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/cortexkit/synapse",
+      "description": "Local AI inference for CortexKit: embeddings, rerank, micro-LLM one-shots across CUDA/Metal/ANE/Vulkan/CPU \u2014 certification-gated engines behind one subc surface.",
+      "stars": 0,
+      "updated_at": "2026-11-12T06:42:35Z"
+    },
+    {
+      "id": "luando-tester-ghostqa-hybrid-sentinel",
+      "title": "Luando-tester/ghostqa-hybrid-sentinel",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Luando-tester/ghostqa-hybrid-sentinel",
+      "description": "GhostQA Local-First Sentinel - #BuildHybridAI 2026: Chrome extension + web dashboard with Firebase AI Logic hybrid inference (on-device Gemini Nano + cloud fallback)",
+      "stars": 0,
+      "updated_at": "2026-11-16T05:53:36Z"
+    },
+    {
+      "id": "chipmunkrpa-veritas",
+      "title": "ChipmunkRPA/veritas",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "description": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "stars": 1,
+      "updated_at": "2026-11-12T17:05:53Z"
+    },
+    {
+      "id": "mycellios-mycellios",
+      "title": "Mycellios/mycellios",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mycellios/mycellios",
+      "description": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "stars": 2,
+      "updated_at": "2026-11-12T15:23:14Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "stars": 8,
+      "updated_at": "2026-11-15T19:47:30Z"
+    }
+  ]
+}
