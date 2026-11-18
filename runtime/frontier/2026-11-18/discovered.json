@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-18",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "ttxs69-hermes-continue-hook",
+      "title": "ttxs69/hermes-continue-hook",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ttxs69/hermes-continue-hook",
+      "description": "Stop the agent from asking permission for things it should just do \u2014 conditional continuation for Claude Code, Codex, Qwen Code, Cursor, Copilot CLI, Gemini CLI, OpenCode, Pi, DeepSeek Harness and Hermes Agent.",
+      "stars": 0,
+      "updated_at": "2026-11-02T11:28:39Z"
+    },
+    {
+      "id": "rovinteh-ai-automation-portfolio",
+      "title": "rovinteh/ai-automation-portfolio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rovinteh/ai-automation-portfolio",
+      "description": "Project showcase covering AI agents, automation and system integrations.",
+      "stars": 0,
+      "updated_at": "2026-11-18T07:22:25Z"
+    },
+    {
+      "id": "ketanb1412003-multi-agent-ai-research-automation",
+      "title": "ketanb1412003/Multi-Agent-AI-Research-Automation",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ketanb1412003/Multi-Agent-AI-Research-Automation",
+      "description": "An AI-powered research and report automation system built with n8n, Google Gemini, and Tavily. Automates web research, source analysis, report writing, quality review, PDF generation, and Google Drive delivery using multiple AI agents.",
+      "stars": 0,
+      "updated_at": "2026-11-18T07:08:37Z"
+    },
+    {
+      "id": "mohamed-sobhy-2006-agentica-ai",
+      "title": "Mohamed-Sobhy-2006/AGENTICA-AI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mohamed-Sobhy-2006/AGENTICA-AI",
+      "description": "AGENTICA (Agent \u00b7 Intelligence \u00b7 Collaboration \u00b7 Automation) \u2014 Autonomous Multi-Agent AI platform for enterprise document processing and RAG knowledge retrieval.",
+      "stars": 0,
+      "updated_at": "2026-11-18T05:40:31Z"
+    },
+    {
+      "id": "langgenius-dify",
+      "title": "langgenius/dify",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 161395,
+      "updated_at": "2026-11-18T07:21:33Z"
+    },
+    {
+      "id": "atrislabs-atris",
+      "title": "atrislabs/atris",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/atrislabs/atris",
+      "description": "The operating system for agent teams: shared memory, workspaces, and tools that run entire operations across code, research, and business.",
+      "stars": 71,
+      "updated_at": "2026-11-16T06:42:46Z"
+    },
+    {
+      "id": "axisvela-praxo-core-csharp",
+      "title": "axisvela/praxo-core-csharp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/axisvela/praxo-core-csharp",
+      "description": "PRAXO-CORE C# / .NET implementation: embeddable AI agent framework with policy, tools, events, and checkpoints",
+      "stars": 1,
+      "updated_at": "2026-11-17T15:54:26Z"
+    },
+    {
+      "id": "axisvela-praxo-core-rust",
+      "title": "axisvela/praxo-core-rust",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/axisvela/praxo-core-rust",
+      "description": "PRAXO-CORE Rust implementation: embeddable AI agent framework with policy, tools, events, and checkpoints",
+      "stars": 2,
+      "updated_at": "2026-11-17T15:54:23Z"
+    },
+    {
+      "id": "axisvela-praxo-core-typescript",
+      "title": "axisvela/praxo-core-typescript",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/axisvela/praxo-core-typescript",
+      "description": "PRAXO-CORE TypeScript implementation: embeddable AI agent framework with policy, tools, events, and checkpoints",
+      "stars": 1,
+      "updated_at": "2026-11-17T15:54:18Z"
+    },
+    {
+      "id": "apify-crawlee-python",
+      "title": "apify/crawlee-python",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/apify/crawlee-python",
+      "description": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehand. Works with BeautifulSoup, Parsel, Playwright, and raw HTTP. Download HTML, PDF, images, and other files. Proxy rotation included.",
+      "stars": 9678,
+      "updated_at": "2026-11-18T06:48:17Z"
+    },
+    {
+      "id": "mathisarends-browserrig",
+      "title": "mathisarends/browserrig",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mathisarends/browserrig",
+      "description": "Event-driven Chrome automation for AI agents and Python apps. Built on Harnessed, cdpify, and Pydantic.",
+      "stars": 0,
+      "updated_at": "2026-11-11T15:27:09Z"
+    },
+    {
+      "id": "holynova-broclean",
+      "title": "holynova/BroClean",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/holynova/BroClean",
+      "description": "Native macOS menu bar app for inspecting and closing browser instances from AI tools and automation.",
+      "stars": 0,
+      "updated_at": "2026-11-16T12:35:51Z"
+    },
+    {
+      "id": "apify-apify-sdk-python",
+      "title": "apify/apify-sdk-python",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/apify/apify-sdk-python",
+      "description": "Apify SDK for Python\u2014The official library for building Apify Actors: serverless cloud programs for web scraping, browser automation, data processing, and AI agents. Manages the Actor lifecycle, storages (datasets, key-value stores, request queues), events, proxies, and pay-per-event monetization. Built on top of the the Apify API Client.",
+      "stars": 180,
+      "updated_at": "2026-11-11T14:18:33Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 42203,
+      "updated_at": "2026-11-18T07:01:42Z"
+    },
+    {
+      "id": "ward-software-defined-systems-embraos",
+      "title": "Ward-Software-Defined-Systems/embraOS",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ward-Software-Defined-Systems/embraOS",
+      "description": "A continuity-preserving operating system for one AI, written in Rust \u2014 not a chatbot, not an agent framework. An immutable image, an identity sealed at first boot and verified by SHA-256 on every boot, memory that persists in a knowledge graph. Anthropic, Gemini, Ollama or LM Studio; QEMU and hypervisors on x86_64 and aarch64, and bare metal.",
+      "stars": 1,
+      "updated_at": "2026-11-14T01:36:49Z"
+    },
+    {
+      "id": "miniaxolotl-grove",
+      "title": "miniaxolotl/grove",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/miniaxolotl/grove",
+      "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "stars": 1,
+      "updated_at": "2026-11-09T02:37:18Z"
+    },
+    {
+      "id": "robofinsystems-robosystems-app",
+      "title": "RoboFinSystems/robosystems-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RoboFinSystems/robosystems-app",
+      "description": "Part of RoboSystems, the open-source knowledge graph for finance. Its web app: graphs, MCP connections, Cypher, documents, subgraphs, memory and the SEC repository. Next.js, deployable to your own AWS account.",
+      "stars": 2,
+      "updated_at": "2026-11-16T18:23:54Z"
+    },
+    {
+      "id": "vinculums-vincs-app",
+      "title": "Vinculums/Vincs-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Vinculums/Vincs-app",
+      "description": "Vinc for the desktop: a knowledge graph you and your AI assistants share. Downloads live in Releases.",
+      "stars": 0,
+      "updated_at": "2026-10-29T17:05:11Z"
+    },
+    {
+      "id": "rayhanson-git-enigma",
+      "title": "Rayhanson-Git/enigma",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Rayhanson-Git/enigma",
+      "description": "One memory for all your AI agents: an MCP server over a plain-Markdown Obsidian vault, with hybrid search, a knowledge graph you can open and a nightly caretaker.",
+      "stars": 1,
+      "updated_at": "2026-11-18T02:21:06Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 147418,
+      "updated_at": "2026-11-18T07:23:24Z"
+    },
+    {
+      "id": "harshtambade-hannah",
+      "title": "HarshTambade/HANNAH",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/HarshTambade/HANNAH",
+      "description": "Shanaya is a source-available AI companion built for natural conversation across web, mobile, and desktop environments. It combines a responsive React interface, a real-time 3D avatar, emotion-aware responses, multilingual voice interaction, cloud and local inference, and offline-capable native AI.",
+      "stars": 0,
+      "updated_at": "2026-11-17T20:13:14Z"
+    },
+    {
+      "id": "dlealvilla-local-ai-stack",
+      "title": "dlealvilla/local-ai-stack",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dlealvilla/local-ai-stack",
+      "description": "Use idle GPUs you already have\u2014or buy one server. End-to-end private AI: models, vLLM, gateway, chat, ops.",
+      "stars": 0,
+      "updated_at": "2026-11-18T07:06:53Z"
+    },
+    {
+      "id": "hrabanazviking-runeforgeai-hugrgate",
+      "title": "hrabanazviking/RuneForgeAI-HugrGate",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hrabanazviking/RuneForgeAI-HugrGate",
+      "description": "HugrGate is an open-source, local-first decision runtime that adds probabilistic AI judgment to ordinary program logic. It can use rules, classifiers, local models, or optional remote backends without locking software to one vendor, model, or inference method.",
+      "stars": 4,
+      "updated_at": "2026-11-15T18:32:12Z"
+    },
+    {
+      "id": "chipmunkrpa-veritas",
+      "title": "ChipmunkRPA/veritas",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "description": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "stars": 1,
+      "updated_at": "2026-11-12T17:05:53Z"
+    }
+  ]
+}
