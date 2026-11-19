@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-19",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "openwizdev-openwiz",
+      "title": "openwizdev/OpenWiz",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/openwizdev/OpenWiz",
+      "description": "The open source kernel for agent factories. Bring your own agents, compute and bots.",
+      "stars": 1,
+      "updated_at": "2026-11-19T07:21:35Z"
+    },
+    {
+      "id": "fachriathallah-tuntasops",
+      "title": "FachriAthallah/TuntasOps",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/FachriAthallah/TuntasOps",
+      "description": "Lomba Hackathon RPA Automation & Agentic AI",
+      "stars": 0,
+      "updated_at": "2026-11-19T07:16:10Z"
+    },
+    {
+      "id": "zhanglongxiao111-indesign-cli",
+      "title": "zhanglongxiao111/indesign-cli",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zhanglongxiao111/indesign-cli",
+      "description": "Agent-native CLI for Adobe InDesign automation \u2014 150 tools, HTML \u2194 InDesign conversion, and structured JSON returns built for AI agents.",
+      "stars": 60,
+      "updated_at": "2026-10-28T11:56:25Z"
+    },
+    {
+      "id": "citilogicuk-frontstage",
+      "title": "CitilogicUK/frontstage",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/CitilogicUK/frontstage",
+      "description": "One platform that records every AI app, agent and automation in the business, scales oversight to risk, and makes the governed route the fastest way to build.",
+      "stars": 0,
+      "updated_at": "2026-11-19T06:54:56Z"
+    },
+    {
+      "id": "callstack-agent-device",
+      "title": "callstack/agent-device",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/callstack/agent-device",
+      "description": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+      "stars": 5451,
+      "updated_at": "2026-11-19T07:20:37Z"
+    },
+    {
+      "id": "kamesha12-manus--ai",
+      "title": "kamesha12/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kamesha12/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 179,
+      "updated_at": "2026-11-15T17:01:27Z"
+    },
+    {
+      "id": "python001-dev-manus--ai",
+      "title": "python001-dev/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/python001-dev/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 202,
+      "updated_at": "2026-11-15T17:01:07Z"
+    },
+    {
+      "id": "itprogamatikdedsec-manus--ai",
+      "title": "ITprogamatikDedSec/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ITprogamatikDedSec/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 201,
+      "updated_at": "2026-11-15T17:01:10Z"
+    },
+    {
+      "id": "kazim768-manus--ai",
+      "title": "kazim768/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kazim768/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 202,
+      "updated_at": "2026-11-15T17:01:00Z"
+    },
+    {
+      "id": "stancaedy10-glitch-manus--ai",
+      "title": "stancaedy10-glitch/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/stancaedy10-glitch/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 202,
+      "updated_at": "2026-11-15T17:01:06Z"
+    },
+    {
+      "id": "chao-qin-ultrago",
+      "title": "Chao-qin/ultrago",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Chao-qin/ultrago",
+      "description": "Open-source browser automation for AI agents via MCP",
+      "stars": 4,
+      "updated_at": "2026-11-19T04:18:13Z"
+    },
+    {
+      "id": "codara-solutions-codara-studio",
+      "title": "Codara-Solutions/codara-studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Codara-Solutions/codara-studio",
+      "description": "Codara Studio by Codara Solutions: desktop control surface for supervising AI coding agents. Terminals, runs, automations, and a built-in browser Preview.",
+      "stars": 2,
+      "updated_at": "2026-11-12T14:05:00Z"
+    },
+    {
+      "id": "anslmc-answersense-forms",
+      "title": "anslmC/answersense-forms",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/anslmC/answersense-forms",
+      "description": "AI-assisted form answering and auto-fill browser extension",
+      "stars": 8,
+      "updated_at": "2026-11-02T09:05:08Z"
+    },
+    {
+      "id": "zanta0529-pocket-agent",
+      "title": "zanta0529/pocket-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "description": "A local-first CLI AI agent with ChatGPT OAuth, Ollama, and multiple cloud LLM providers. Supports subagents, MCP integrations, browser automation, and Word/PDF/PowerPoint generation.",
+      "stars": 1,
+      "updated_at": "2026-11-17T02:06:31Z"
+    },
+    {
+      "id": "mashrafeearyan-chexsaai",
+      "title": "MashrafeeAryan/ChexsaAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MashrafeeAryan/ChexsaAI",
+      "description": "Open-source personal AI agent that can use your browser and computer to get tasks done.",
+      "stars": 1,
+      "updated_at": "2026-11-12T16:49:07Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2137,
+      "updated_at": "2026-11-19T07:07:16Z"
+    },
+    {
+      "id": "douglasjordan2-c0",
+      "title": "douglasjordan2/c0",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/douglasjordan2/c0",
+      "description": "An external memory for LLMs: a bi-temporal knowledge graph with hybrid (keyword + vector) retrieval and a self-improving reflection loop. Benchmarked to beat flat vector RAG on corrections and time-versioned queries.",
+      "stars": 23,
+      "updated_at": "2026-11-10T21:58:06Z"
+    },
+    {
+      "id": "kanenasingreece-shared_memory",
+      "title": "KanenasInGreece/Shared_Memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/KanenasInGreece/Shared_Memory",
+      "description": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, Codex, Antigravity ...). Agent installable, vector (Postgres + pgvector) + graph (Neo4j) backbone, managed through a local gateway, supporting multiple local LLM backends, with full provenance,  consolidation, telemetry and more",
+      "stars": 1,
+      "updated_at": "2026-11-09T13:09:49Z"
+    },
+    {
+      "id": "miniaxolotl-grove",
+      "title": "miniaxolotl/grove",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/miniaxolotl/grove",
+      "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "stars": 1,
+      "updated_at": "2026-11-09T02:37:18Z"
+    },
+    {
+      "id": "unbound-force-dewey",
+      "title": "unbound-force/dewey",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/unbound-force/dewey",
+      "description": "Knowledge graph MCP server for AI agents. 44 tools across Markdown vaults, semantic search, source code indexing, and persistent memory. Indexes local files, GitHub, web docs, and Go source code with local embeddings via Ollama.",
+      "stars": 3,
+      "updated_at": "2026-11-12T13:48:01Z"
+    },
+    {
+      "id": "chipmunkrpa-veritas",
+      "title": "ChipmunkRPA/veritas",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "description": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "stars": 1,
+      "updated_at": "2026-11-12T17:05:53Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 147567,
+      "updated_at": "2026-11-19T07:17:54Z"
+    },
+    {
+      "id": "opencsgs-csglite",
+      "title": "OpenCSGs/csglite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/OpenCSGs/csglite",
+      "description": "CSGLite is a lightweight local LLM inference platform. One command downloads, loads, and chats with models. It   ships a web UI, OpenAI-compatible API, llama.cpp inference, resumable downloads, marketplace browsing, and one-click AI app and  coding-agent setup\u2014all in a single cross-platform binary.",
+      "stars": 53,
+      "updated_at": "2026-11-15T02:28:37Z"
+    },
+    {
+      "id": "jackliu1111-apex-fps-mvp",
+      "title": "jackliu1111/apex-fps-mvp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jackliu1111/apex-fps-mvp",
+      "description": "100% in-browser Apex Legends highlight clipper. Auto-detect gunshot segments via local AI audio inference (WebCodecs & ONNX), review on dual timelines, and export clips with zero upload.",
+      "stars": 1,
+      "updated_at": "2026-11-18T09:31:30Z"
+    },
+    {
+      "id": "dahai80-fusion-gateway",
+      "title": "dahai80/fusion-gateway",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "description": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "stars": 2,
+      "updated_at": "2026-11-12T16:30:51Z"
+    }
+  ]
+}

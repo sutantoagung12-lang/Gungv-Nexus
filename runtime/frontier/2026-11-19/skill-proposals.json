@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-19",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-openwizdev-openwiz",
+      "name": "Explore openwizdev/OpenWiz",
+      "source": "https://github.com/openwizdev/OpenWiz",
+      "problem": "The open source kernel for agent factories. Bring your own agents, compute and bots.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fachriathallah-tuntasops",
+      "name": "Explore FachriAthallah/TuntasOps",
+      "source": "https://github.com/FachriAthallah/TuntasOps",
+      "problem": "Lomba Hackathon RPA Automation & Agentic AI",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zhanglongxiao111-indesign-cli",
+      "name": "Explore zhanglongxiao111/indesign-cli",
+      "source": "https://github.com/zhanglongxiao111/indesign-cli",
+      "problem": "Agent-native CLI for Adobe InDesign automation \u2014 150 tools, HTML \u2194 InDesign conversion, and structured JSON returns built for AI agents.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citilogicuk-frontstage",
+      "name": "Explore CitilogicUK/frontstage",
+      "source": "https://github.com/CitilogicUK/frontstage",
+      "problem": "One platform that records every AI app, agent and automation in the business, scales oversight to risk, and makes the governed route the fastest way to build.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-callstack-agent-device",
+      "name": "Explore callstack/agent-device",
+      "source": "https://github.com/callstack/agent-device",
+      "problem": "Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kamesha12-manus--ai",
+      "name": "Explore kamesha12/manus--ai",
+      "source": "https://github.com/kamesha12/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-python001-dev-manus--ai",
+      "name": "Explore python001-dev/manus--ai",
+      "source": "https://github.com/python001-dev/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-itprogamatikdedsec-manus--ai",
+      "name": "Explore ITprogamatikDedSec/manus--ai",
+      "source": "https://github.com/ITprogamatikDedSec/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kazim768-manus--ai",
+      "name": "Explore kazim768/manus--ai",
+      "source": "https://github.com/kazim768/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-stancaedy10-glitch-manus--ai",
+      "name": "Explore stancaedy10-glitch/manus--ai",
+      "source": "https://github.com/stancaedy10-glitch/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chao-qin-ultrago",
+      "name": "Explore Chao-qin/ultrago",
+      "source": "https://github.com/Chao-qin/ultrago",
+      "problem": "Open-source browser automation for AI agents via MCP",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codara-solutions-codara-studio",
+      "name": "Explore Codara-Solutions/codara-studio",
+      "source": "https://github.com/Codara-Solutions/codara-studio",
+      "problem": "Codara Studio by Codara Solutions: desktop control surface for supervising AI coding agents. Terminals, runs, automations, and a built-in browser Preview.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-anslmc-answersense-forms",
+      "name": "Explore anslmC/answersense-forms",
+      "source": "https://github.com/anslmC/answersense-forms",
+      "problem": "AI-assisted form answering and auto-fill browser extension",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zanta0529-pocket-agent",
+      "name": "Explore zanta0529/pocket-agent",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "problem": "A local-first CLI AI agent with ChatGPT OAuth, Ollama, and multiple cloud LLM providers. Supports subagents, MCP integrations, browser automation, and Word/PDF/PowerPoint generation.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mashrafeearyan-chexsaai",
+      "name": "Explore MashrafeeAryan/ChexsaAI",
+      "source": "https://github.com/MashrafeeAryan/ChexsaAI",
+      "problem": "Open-source personal AI agent that can use your browser and computer to get tasks done.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-douglasjordan2-c0",
+      "name": "Explore douglasjordan2/c0",
+      "source": "https://github.com/douglasjordan2/c0",
+      "problem": "An external memory for LLMs: a bi-temporal knowledge graph with hybrid (keyword + vector) retrieval and a self-improving reflection loop. Benchmarked to beat flat vector RAG on corrections and time-versioned queries.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kanenasingreece-shared_memory",
+      "name": "Explore KanenasInGreece/Shared_Memory",
+      "source": "https://github.com/KanenasInGreece/Shared_Memory",
+      "problem": "Memory Framework based on the idea of Architectural Decision Records, shared knowledge between AI agents (Claude Code, Codex, Antigravity ...). Agent installable, vector (Postgres + pgvector) + graph (Neo4j) backbone, managed through a local gateway, supporting multiple local LLM backends, with full provenance,  consolidation, telemetry and more",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-miniaxolotl-grove",
+      "name": "Explore miniaxolotl/grove",
+      "source": "https://github.com/miniaxolotl/grove",
+      "problem": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-unbound-force-dewey",
+      "name": "Explore unbound-force/dewey",
+      "source": "https://github.com/unbound-force/dewey",
+      "problem": "Knowledge graph MCP server for AI agents. 44 tools across Markdown vaults, semantic search, source code indexing, and persistent memory. Indexes local files, GitHub, web docs, and Go source code with local embeddings via Ollama.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-chipmunkrpa-veritas",
+      "name": "Explore ChipmunkRPA/veritas",
+      "source": "https://github.com/ChipmunkRPA/veritas",
+      "problem": "Chipmunk Verify / TrueTrace: open-source AI-media screening with local inference, source-linked evidence, and PDF/JSON reports.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opencsgs-csglite",
+      "name": "Explore OpenCSGs/csglite",
+      "source": "https://github.com/OpenCSGs/csglite",
+      "problem": "CSGLite is a lightweight local LLM inference platform. One command downloads, loads, and chats with models. It   ships a web UI, OpenAI-compatible API, llama.cpp inference, resumable downloads, marketplace browsing, and one-click AI app and  coding-agent setup\u2014all in a single cross-platform binary.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jackliu1111-apex-fps-mvp",
+      "name": "Explore jackliu1111/apex-fps-mvp",
+      "source": "https://github.com/jackliu1111/apex-fps-mvp",
+      "problem": "100% in-browser Apex Legends highlight clipper. Auto-detect gunshot segments via local AI audio inference (WebCodecs & ONNX), review on dual timelines, and export clips with zero upload.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dahai80-fusion-gateway",
+      "name": "Explore dahai80/fusion-gateway",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "problem": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "created_on": "2026-11-19",
+      "policy": "review-before-activation"
+    }
+  ]
+}
