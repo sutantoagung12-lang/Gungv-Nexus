@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-21",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "jasvantmalvi-ai-automation-portfolio",
+      "title": "jasvantMalvi/AI-Automation-Portfolio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jasvantMalvi/AI-Automation-Portfolio",
+      "description": "A collection of AI automation, AI agent, and n8n workflow projects built using practical integrations and APIs.",
+      "stars": 0,
+      "updated_at": "2026-11-21T06:02:23Z"
+    },
+    {
+      "id": "algoprog-hydor",
+      "title": "algoprog/hydor",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/algoprog/hydor",
+      "description": "The everything app for AI agents: Claude Code, Codex or any model with unified memory",
+      "stars": 1,
+      "updated_at": "2026-11-17T06:23:37Z"
+    },
+    {
+      "id": "yrn-dev-operator",
+      "title": "yrn-dev/Operator",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/yrn-dev/Operator",
+      "description": "Terminal AI coding agent \u2014 Autonomous AI Agent on your computer. Supports Alem AI + Ollama. Works with code, research, automation, DevOps, data analysis, and content generation.",
+      "stars": 11,
+      "updated_at": "2026-11-21T06:58:31Z"
+    },
+    {
+      "id": "hexuria-gpui-agent",
+      "title": "hexuria/gpui-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hexuria/gpui-agent",
+      "description": "Native automation and control plane for GPUI / Native Shell-based apps. Enables automated testing and AI agents to discover, connect to, and control multiple running applications in development and production through semantic UI snapshots and scripted actions, without CDP.",
+      "stars": 16,
+      "updated_at": "2026-11-21T02:07:51Z"
+    },
+    {
+      "id": "lechangxu-lechangxu",
+      "title": "lechangxu/lechangxu",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lechangxu/lechangxu",
+      "description": "AI Agent Systems \u00b7 Quantitative Research \u00b7 Automation",
+      "stars": 0,
+      "updated_at": "2026-10-24T14:45:40Z"
+    },
+    {
+      "id": "stancaedy10-glitch-manus--ai",
+      "title": "stancaedy10-glitch/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/stancaedy10-glitch/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 201,
+      "updated_at": "2026-11-19T09:39:06Z"
+    },
+    {
+      "id": "mohamedhamdytaha-manus--ai",
+      "title": "mohamedhamdytaha/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mohamedhamdytaha/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 179,
+      "updated_at": "2026-11-19T09:38:25Z"
+    },
+    {
+      "id": "kazim768-manus--ai",
+      "title": "kazim768/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kazim768/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 201,
+      "updated_at": "2026-11-19T09:41:22Z"
+    },
+    {
+      "id": "lloweryfn-rgb-manus--ai",
+      "title": "lloweryfn-rgb/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lloweryfn-rgb/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 201,
+      "updated_at": "2026-11-19T09:40:59Z"
+    },
+    {
+      "id": "kamesha12-manus--ai",
+      "title": "kamesha12/manus--ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kamesha12/manus--ai",
+      "description": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "stars": 178,
+      "updated_at": "2026-11-19T09:40:53Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23482,
+      "updated_at": "2026-11-21T02:11:29Z"
+    },
+    {
+      "id": "devinosolutions-stealth-chrome-devtools-mcp",
+      "title": "DevinoSolutions/stealth-chrome-devtools-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "description": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "stars": 34,
+      "updated_at": "2026-11-18T10:56:02Z"
+    },
+    {
+      "id": "vercel-labs-agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 53121,
+      "updated_at": "2026-11-21T06:55:29Z"
+    },
+    {
+      "id": "prover0721-browser-agent-bridge",
+      "title": "prover0721/browser-agent-bridge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/prover0721/browser-agent-bridge",
+      "description": "\u8ba9 AI Agent (Antigravity/ChatGPT/Claude) \u6781\u901f\u64cd\u63a7\u771f\u5b9e\u6d4f\u89c8\u5668 / Fast MCP browser automation bridge for AI Agents",
+      "stars": 0,
+      "updated_at": "2026-11-12T05:26:50Z"
+    },
+    {
+      "id": "apify-crawlee",
+      "title": "apify/crawlee",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/apify/crawlee",
+      "description": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+      "stars": 26508,
+      "updated_at": "2026-11-21T06:20:56Z"
+    },
+    {
+      "id": "liminode-agent-memory-cpp",
+      "title": "LimiNode/agent-memory-cpp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "description": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "stars": 2,
+      "updated_at": "2026-11-12T14:06:53Z"
+    },
+    {
+      "id": "robofinsystems-robosystems-app",
+      "title": "RoboFinSystems/robosystems-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RoboFinSystems/robosystems-app",
+      "description": "Part of RoboSystems, the open-source knowledge graph for finance. Its web app: graphs, MCP connections, Cypher, documents, subgraphs, memory and the SEC repository. Next.js, deployable to your own AWS account.",
+      "stars": 2,
+      "updated_at": "2026-11-16T18:23:54Z"
+    },
+    {
+      "id": "dieron-mygraph",
+      "title": "dieron/mygraph",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dieron/mygraph",
+      "description": "Built by AI, for AI: a knowledge graph that agents use as long-term memory, where every fact cites its evidence. MCP and REST, one Rust binary.",
+      "stars": 1,
+      "updated_at": "2026-11-06T04:53:45Z"
+    },
+    {
+      "id": "liliang-cn-cortexdb",
+      "title": "liliang-cn/cortexdb",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "description": "Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning\u2014all in one SQLite file.",
+      "stars": 529,
+      "updated_at": "2026-11-20T21:34:37Z"
+    },
+    {
+      "id": "orchard254-cognigraph",
+      "title": "Orchard254/CogniGraph",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Orchard254/CogniGraph",
+      "description": "CogniGraph \u2014 persistent memory MCP server for AI coding agents. Hybrid search + knowledge graph with self-healing provenance.",
+      "stars": 0,
+      "updated_at": "2026-11-09T06:38:40Z"
+    },
+    {
+      "id": "mmogr-gglib",
+      "title": "mmogr/gglib",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mmogr/gglib",
+      "description": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "stars": 1,
+      "updated_at": "2026-11-12T15:29:09Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "stars": 10,
+      "updated_at": "2026-11-17T23:24:05Z"
+    },
+    {
+      "id": "fedrnv-fdemailclassifier",
+      "title": "fedrnv/FDEmailClassifier",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/fedrnv/FDEmailClassifier",
+      "description": "Open-source multilingual AI email classifier. Rust, Python, C and C++ SDKs planned. Local inference, privacy-first, Apache 2.0 original code.",
+      "stars": 0,
+      "updated_at": "2026-11-21T06:15:24Z"
+    },
+    {
+      "id": "laxman7795-ai-ml-internship-assignment",
+      "title": "LAXMAN7795/ai-ml-internship-assignment",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/LAXMAN7795/ai-ml-internship-assignment",
+      "description": "Practical AI/ML engineering assignments covering LoRA fine-tuning, RAG from scratch, and local LLM inference.",
+      "stars": 0,
+      "updated_at": "2026-11-21T06:12:59Z"
+    },
+    {
+      "id": "nickmonrad-kernel-ai-assistant",
+      "title": "NickMonrad/kernel-ai-assistant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "description": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "stars": 37,
+      "updated_at": "2026-11-14T19:57:20Z"
+    }
+  ]
+}

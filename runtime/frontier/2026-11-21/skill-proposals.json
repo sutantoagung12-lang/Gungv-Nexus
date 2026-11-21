@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-21",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-jasvantmalvi-ai-automation-portfolio",
+      "name": "Explore jasvantMalvi/AI-Automation-Portfolio",
+      "source": "https://github.com/jasvantMalvi/AI-Automation-Portfolio",
+      "problem": "A collection of AI automation, AI agent, and n8n workflow projects built using practical integrations and APIs.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-algoprog-hydor",
+      "name": "Explore algoprog/hydor",
+      "source": "https://github.com/algoprog/hydor",
+      "problem": "The everything app for AI agents: Claude Code, Codex or any model with unified memory",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yrn-dev-operator",
+      "name": "Explore yrn-dev/Operator",
+      "source": "https://github.com/yrn-dev/Operator",
+      "problem": "Terminal AI coding agent \u2014 Autonomous AI Agent on your computer. Supports Alem AI + Ollama. Works with code, research, automation, DevOps, data analysis, and content generation.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hexuria-gpui-agent",
+      "name": "Explore hexuria/gpui-agent",
+      "source": "https://github.com/hexuria/gpui-agent",
+      "problem": "Native automation and control plane for GPUI / Native Shell-based apps. Enables automated testing and AI agents to discover, connect to, and control multiple running applications in development and production through semantic UI snapshots and scripted actions, without CDP.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lechangxu-lechangxu",
+      "name": "Explore lechangxu/lechangxu",
+      "source": "https://github.com/lechangxu/lechangxu",
+      "problem": "AI Agent Systems \u00b7 Quantitative Research \u00b7 Automation",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-stancaedy10-glitch-manus--ai",
+      "name": "Explore stancaedy10-glitch/manus--ai",
+      "source": "https://github.com/stancaedy10-glitch/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mohamedhamdytaha-manus--ai",
+      "name": "Explore mohamedhamdytaha/manus--ai",
+      "source": "https://github.com/mohamedhamdytaha/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kazim768-manus--ai",
+      "name": "Explore kazim768/manus--ai",
+      "source": "https://github.com/kazim768/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-lloweryfn-rgb-manus--ai",
+      "name": "Explore lloweryfn-rgb/manus--ai",
+      "source": "https://github.com/lloweryfn-rgb/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kamesha12-manus--ai",
+      "name": "Explore kamesha12/manus--ai",
+      "source": "https://github.com/kamesha12/manus--ai",
+      "problem": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-devinosolutions-stealth-chrome-devtools-mcp",
+      "name": "Explore DevinoSolutions/stealth-chrome-devtools-mcp",
+      "source": "https://github.com/DevinoSolutions/stealth-chrome-devtools-mcp",
+      "problem": "Undetectable browser automation for AI agents via MCP. Stealth Chrome DevTools with smart profile management, anti-detection arg filtering, and CDP access.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prover0721-browser-agent-bridge",
+      "name": "Explore prover0721/browser-agent-bridge",
+      "source": "https://github.com/prover0721/browser-agent-bridge",
+      "problem": "\u8ba9 AI Agent (Antigravity/ChatGPT/Claude) \u6781\u901f\u64cd\u63a7\u771f\u5b9e\u6d4f\u89c8\u5668 / Fast MCP browser automation bridge for AI Agents",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-apify-crawlee",
+      "name": "Explore apify/crawlee",
+      "source": "https://github.com/apify/crawlee",
+      "problem": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liminode-agent-memory-cpp",
+      "name": "Explore LimiNode/agent-memory-cpp",
+      "source": "https://github.com/LimiNode/agent-memory-cpp",
+      "problem": "Embedded C++17 toolkit for AI-agent memory: RAG, hybrid BM25/vector search, knowledge graphs, Markdown ingestion, and pluggable embeddings.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-robofinsystems-robosystems-app",
+      "name": "Explore RoboFinSystems/robosystems-app",
+      "source": "https://github.com/RoboFinSystems/robosystems-app",
+      "problem": "Part of RoboSystems, the open-source knowledge graph for finance. Its web app: graphs, MCP connections, Cypher, documents, subgraphs, memory and the SEC repository. Next.js, deployable to your own AWS account.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dieron-mygraph",
+      "name": "Explore dieron/mygraph",
+      "source": "https://github.com/dieron/mygraph",
+      "problem": "Built by AI, for AI: a knowledge graph that agents use as long-term memory, where every fact cites its evidence. MCP and REST, one Rust binary.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liliang-cn-cortexdb",
+      "name": "Explore liliang-cn/cortexdb",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "problem": "Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning\u2014all in one SQLite file.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-orchard254-cognigraph",
+      "name": "Explore Orchard254/CogniGraph",
+      "source": "https://github.com/Orchard254/CogniGraph",
+      "problem": "CogniGraph \u2014 persistent memory MCP server for AI coding agents. Hybrid search + knowledge graph with self-healing provenance.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mmogr-gglib",
+      "name": "Explore mmogr/gglib",
+      "source": "https://github.com/mmogr/gglib",
+      "problem": "The local model runtime that makes llama.cpp behave like an API provider.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-fedrnv-fdemailclassifier",
+      "name": "Explore fedrnv/FDEmailClassifier",
+      "source": "https://github.com/fedrnv/FDEmailClassifier",
+      "problem": "Open-source multilingual AI email classifier. Rust, Python, C and C++ SDKs planned. Local inference, privacy-first, Apache 2.0 original code.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-laxman7795-ai-ml-internship-assignment",
+      "name": "Explore LAXMAN7795/ai-ml-internship-assignment",
+      "source": "https://github.com/LAXMAN7795/ai-ml-internship-assignment",
+      "problem": "Practical AI/ML engineering assignments covering LoRA fine-tuning, RAG from scratch, and local LLM inference.",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nickmonrad-kernel-ai-assistant",
+      "name": "Explore NickMonrad/kernel-ai-assistant",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "problem": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "created_on": "2026-11-21",
+      "policy": "review-before-activation"
+    }
+  ]
+}
