@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-22",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-1o1swapnil-tzar-bot",
+      "name": "Explore 1o1swapnil/tzar-bot",
+      "source": "https://github.com/1o1swapnil/tzar-bot",
+      "problem": "AI-powered penetration-testing automation platform \u2014 Claude Code skills + multi-agent coordinator/executor/validator workflow for authorized security testing.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-n-takatsu-mcp-rs",
+      "name": "Explore n-takatsu/mcp-rs",
+      "source": "https://github.com/n-takatsu/mcp-rs",
+      "problem": "Rust implementation of the Model Context Protocol (MCP) for AI-agent integration with WordPress and beyond.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ceki-me-realbrowser-skill",
+      "name": "Explore Ceki-me/realbrowser-skill",
+      "source": "https://github.com/Ceki-me/realbrowser-skill",
+      "problem": "Give your AI agent a human disguise. Real Chrome from real humans via Ceki marketplace.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-footloose9-hyperfabric-evolution",
+      "name": "Explore Footloose9/hyperfabric-evolution",
+      "source": "https://github.com/Footloose9/hyperfabric-evolution",
+      "problem": "Open-source research lab for blockchain, AI agents, automation, security, privacy, cryptography, and communication protocols. Reproducible tests, synthetic evidence tools, and a manual read-only XRPL preview.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kuz-lab-homelab",
+      "name": "Explore kuz-lab/homelab",
+      "source": "https://github.com/kuz-lab/homelab",
+      "problem": "My home lab: networking, self-hosted services, home automation and Workbench, my AI agent harness.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vovadyach-dashgen",
+      "name": "Explore vovadyach/dashgen",
+      "source": "https://github.com/vovadyach/dashgen",
+      "problem": "Natural-language dashboard generator (in progress). LLM agent (Claude or Gemini function calling) decides which tools to call to fetch metrics and render charts. React + Node.js.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-m-priyambica-langchain_learnings",
+      "name": "Explore m-priyambica/Langchain_learnings",
+      "source": "https://github.com/m-priyambica/Langchain_learnings",
+      "problem": "Hands-on exploration of LangChain v1.x, LangGraph, LLM integrations, AI agents, tools, structured outputs, and middleware. Includes practical Jupyter notebooks with examples of multi-provider model integration, agent workflows, streaming, and Human-in-the-Loop (HITL) controls.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cygnux-labs-tracekit",
+      "name": "Explore Cygnux-Labs/Tracekit",
+      "source": "https://github.com/Cygnux-Labs/Tracekit",
+      "problem": "Tracekit records what your AI agents do, decides each tool call before it runs, and gives you a signed record anyone can verify offline: tamper-evident tracing, policy gates and cross-checks for AI agents.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-warter666-multi-gcg",
+      "name": "Explore warter666/Multi-GCG",
+      "source": "https://github.com/warter666/Multi-GCG",
+      "problem": "Targeted tool-call attacks on tool-using LLM agents: GCG over a document body, four attack families, layered verification.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-juliusbrussee-caveman",
+      "name": "Explore JuliusBrussee/caveman",
+      "source": "https://github.com/JuliusBrussee/caveman",
+      "problem": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ceki-me-js-sdk",
+      "name": "Explore Ceki-me/js-sdk",
+      "source": "https://github.com/Ceki-me/js-sdk",
+      "problem": "TypeScript/Node.js SDK for browser.ceki.me \u2014 rent real browsers from real people for AI agent automation",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ceki-me-python-sdk",
+      "name": "Explore Ceki-me/python-sdk",
+      "source": "https://github.com/Ceki-me/python-sdk",
+      "problem": "Python SDK for browser.ceki.me \u2014 rent real browsers from real people for AI agent automation",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-monoes-mono-agent-src",
+      "name": "Explore monoes/mono-agent-src",
+      "source": "https://github.com/monoes/mono-agent-src",
+      "problem": "Mono-agent engine \u2014 workflow automation with social platforms, AI services, and browser automation",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-niyam-paneru-niyam-paneru",
+      "name": "Explore Niyam-Paneru/Niyam-Paneru",
+      "source": "https://github.com/Niyam-Paneru/Niyam-Paneru",
+      "problem": "Backend systems and AI automation portfolio: browser writes, booking workflows, voice boundaries, metrics, and remote compute.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-monoes-monomind",
+      "name": "Explore monoes/monomind",
+      "source": "https://github.com/monoes/monomind",
+      "problem": "Autonomous AI orchestration with persistent memory, self-coordinating agent orgs, and a codebase knowledge graph and more.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nano-step-nano-brain",
+      "name": "Explore nano-step/nano-brain",
+      "source": "https://github.com/nano-step/nano-brain",
+      "problem": "Persistent memory & code intelligence server for AI coding agents. Deploy on VPS for shared memory across machines. Hybrid search (BM25 + pgvector), knowledge graph, impact analysis. 14 MCP tools. Works with Claude Code, OpenCode, Cursor, and any MCP client.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-liliang-cn-cortexdb",
+      "name": "Explore liliang-cn/cortexdb",
+      "source": "https://github.com/liliang-cn/cortexdb",
+      "problem": "Local-first AI agent memory with a knowledge graph, ontology constraints, and traceable reasoning\u2014all in one SQLite file.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-grafenodb-grafeno",
+      "name": "Explore grafenodb/grafeno",
+      "source": "https://github.com/grafenodb/grafeno",
+      "problem": "Grafeno is an open-source graph database built in Rust, designed for AI agent memory, knowledge graphs, and relationship-aware retrieval, featuring persistent storage, hybrid search, and temporal graph capabilities.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-satyajitbeura2468-satyaai",
+      "name": "Explore SatyajitBeura2468/SatyaAI",
+      "source": "https://github.com/SatyajitBeura2468/SatyaAI",
+      "problem": "SatyaAI is a truth-first, multimodal AI assistant built to make powerful reasoning, research and creation accessible to everyone through efficient open intelligence, privacy-conscious local inference and evidence-first answers.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-regdilikun-strata-dsh-workbench",
+      "name": "Explore regdiliKUN/strata-dsh-workbench",
+      "source": "https://github.com/regdiliKUN/strata-dsh-workbench",
+      "problem": "\u628a Strata \u63a8\u7406\u5f15\u64ce\u548c DeepSeek Harness Agent \u62fc\u6210\u5f00\u7bb1\u53ef\u7528\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0\uff5cLocal AI workbench: Strata 125B MoE inference + dsh agent, with one-click setup, folder upload, prompt enhancement and VRAM diagnostics",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nickmonrad-kernel-ai-assistant",
+      "name": "Explore NickMonrad/kernel-ai-assistant",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "problem": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-1bit-monster-engine",
+      "name": "Explore 1bit-MONSTER/engine",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "problem": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mesh-llm-skippy",
+      "name": "Explore Mesh-LLM/skippy",
+      "source": "https://github.com/Mesh-LLM/skippy",
+      "problem": "Skippy is an AI inference engine that powers Mesh LLM, for distributed and local workloads ",
+      "created_on": "2026-11-22",
+      "policy": "review-before-activation"
+    }
+  ]
+}
