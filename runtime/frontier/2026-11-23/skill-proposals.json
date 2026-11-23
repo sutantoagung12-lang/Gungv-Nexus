@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-23",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-kanikagupta-22978-agentflow-intelligent-workflow-automation",
+      "name": "Explore KanikaGupta-22978/AgentFlow-Intelligent-Workflow-Automation",
+      "source": "https://github.com/KanikaGupta-22978/AgentFlow-Intelligent-Workflow-Automation",
+      "problem": "AI-powered workflow automation platform using LangGraph, Gemini API and FastAPI.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-iftikhar-ahmed-ai-iftikhar-ahmed-ai",
+      "name": "Explore iftikhar-ahmed-ai/iftikhar-ahmed-ai",
+      "source": "https://github.com/iftikhar-ahmed-ai/iftikhar-ahmed-ai",
+      "problem": "Profile: Claude AI Developer - AI Agents & Automation",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-marcusquinn-aidevops",
+      "name": "Explore marcusquinn/aidevops",
+      "source": "https://github.com/marcusquinn/aidevops",
+      "problem": "Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-janessa2297-n8n-automation-projects",
+      "name": "Explore janessa2297/n8n-automation-projects",
+      "source": "https://github.com/janessa2297/n8n-automation-projects",
+      "problem": "A portfolio of n8n automation projects featuring AI agents, RAG chatbots, API integrations, and intelligent business workflows.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mathisarends-browserrig",
+      "name": "Explore mathisarends/browserrig",
+      "source": "https://github.com/mathisarends/browserrig",
+      "problem": "Event-driven Chrome automation for AI agents and Python apps. Built on Harnessed, cdpify, and Pydantic.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-gy15901580825-argus",
+      "name": "Explore gy15901580825/Argus",
+      "source": "https://github.com/gy15901580825/Argus",
+      "problem": "Open-source red-team testing for AI agents. 320 bundled probes with OWASP LLM Top 10, MITRE ATLAS, and NIST AI RMF mappings. Selected probes use recorded browser requests, MCP tool calls, or mock payments. CLI, SARIF, GitHub Action.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aletheics-opencontinue",
+      "name": "Explore aletheics/opencontinue",
+      "source": "https://github.com/aletheics/opencontinue",
+      "problem": "Open-source terminal coding agent with durable sessions, tools, and source-controlled checks.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ankitgoelcmu-faultline-agent",
+      "name": "Explore ankitgoelcmu/faultline-agent",
+      "source": "https://github.com/ankitgoelcmu/faultline-agent",
+      "problem": "Fault injection for tool-calling LLM agents, incl. a \u03c4\u00b2-bench plug-in (lost responses, transient errors, stale reads) with replay-exact grading",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dianj-voice-restaurant-agent",
+      "name": "Explore dianj/voice-restaurant-agent",
+      "source": "https://github.com/dianj/voice-restaurant-agent",
+      "problem": "Multilingual voice restaurant concierge: local LLM (Gemma / Qwen in LM Studio) with tool calling, bookings confirmed in code, allergens, human handover, evals and Playwright tests",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-billy-enrizky-openbrowser-ai",
+      "name": "Explore billy-enrizky/openbrowser-ai",
+      "source": "https://github.com/billy-enrizky/openbrowser-ai",
+      "problem": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, interact with, and extract information from web pages autonomously.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nhrbuilds-flashbrowse",
+      "name": "Explore nhrbuilds/flashbrowse",
+      "source": "https://github.com/nhrbuilds/flashbrowse",
+      "problem": "Token-compressed, AXTree-native headless browser and MCP server for AI agents. Sub-100ms CDP automation in pure Rust. Zero Python.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-axvrma-auditbench",
+      "name": "Explore axvrma/auditbench",
+      "source": "https://github.com/axvrma/auditbench",
+      "problem": "A lightweight headless AI agent framework built for autonomous workflows, browser automation, and intelligent task execution. Designed to be modular, extensible, and developer-friendly, Lighthouse Agent focuses on real-world automation with minimal setup and maximum control.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zpzxgcr-tabweaver",
+      "name": "Explore zpzxgcr/TabWeaver",
+      "source": "https://github.com/zpzxgcr/TabWeaver",
+      "problem": "Ultra-lightweight Chrome extension enabling autonomous cross-tab browser automation directly from your favorite AI chat interfaces \u2014 100% native, zero dependencies.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pbathuri-cartograph",
+      "name": "Explore pbathuri/cartograph",
+      "source": "https://github.com/pbathuri/cartograph",
+      "problem": "Local knowledge graph + shared memory for AI agents: PDFs, Office, notebooks and code with page/line citations, over MCP. No LLM needed to build it.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-helpcode-ai-anythingmcp",
+      "name": "Explore HelpCode-ai/anythingmcp",
+      "source": "https://github.com/HelpCode-ai/anythingmcp",
+      "problem": "Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy\u2026) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-swapnildahiphale-opensre",
+      "name": "Explore swapnildahiphale/OpenSRE",
+      "source": "https://github.com/swapnildahiphale/OpenSRE",
+      "problem": "OpenSRE \u2014 the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-penfieldlabs-n8n-nodes-penfield",
+      "name": "Explore penfieldlabs/n8n-nodes-penfield",
+      "source": "https://github.com/penfieldlabs/n8n-nodes-penfield",
+      "problem": "n8n community node for Penfield: long-term memory and a knowledge graph for n8n workflows and AI agents",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nickmonrad-kernel-ai-assistant",
+      "name": "Explore NickMonrad/kernel-ai-assistant",
+      "source": "https://github.com/NickMonrad/kernel-ai-assistant",
+      "problem": "Jandal AI \u2014 Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-takeshy-gemihub-hybrid",
+      "name": "Explore takeshy/gemihub-hybrid",
+      "source": "https://github.com/takeshy/gemihub-hybrid",
+      "problem": "Gemihub Hybrid \u2014 local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-yuhuabillchen-justfit-llm",
+      "name": "Explore YuhuaBillChen/justfit-llm",
+      "source": "https://github.com/YuhuaBillChen/justfit-llm",
+      "problem": "Run Qwen3.8-27B with its full 256K context on a 24 GB Mac. Long-context local LLM serving for Apple silicon, built on Inco AI's Splash.  OpenAI-compatible API.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-satyajitbeura2468-satyaai",
+      "name": "Explore SatyajitBeura2468/SatyaAI",
+      "source": "https://github.com/SatyajitBeura2468/SatyaAI",
+      "problem": "SatyaAI is a truth-first, multimodal AI assistant built to make powerful reasoning, research and creation accessible to everyone through efficient open intelligence, privacy-conscious local inference and evidence-first answers.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mycellios-mycellios",
+      "name": "Explore Mycellios/mycellios",
+      "source": "https://github.com/Mycellios/mycellios",
+      "problem": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "created_on": "2026-11-23",
+      "policy": "review-before-activation"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Daily Frontier — 2026-11-23
+
+Discovered nodes: 24
+
+## Nodes
+- [KanikaGupta-22978/AgentFlow-Intelligent-Workflow-Automation](https://github.com/KanikaGupta-22978/AgentFlow-Intelligent-Workflow-Automation) — AI-powered workflow automation platform using LangGraph, Gemini API and FastAPI.
+- [iftikhar-ahmed-ai/iftikhar-ahmed-ai](https://github.com/iftikhar-ahmed-ai/iftikhar-ahmed-ai) — Profile: Claude AI Developer - AI Agents & Automation
+- [marcusquinn/aidevops](https://github.com/marcusquinn/aidevops) — Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.
+- [janessa2297/n8n-automation-projects](https://github.com/janessa2297/n8n-automation-projects) — A portfolio of n8n automation projects featuring AI agents, RAG chatbots, API integrations, and intelligent business workflows.
+- [mathisarends/browserrig](https://github.com/mathisarends/browserrig) — Event-driven Chrome automation for AI agents and Python apps. Built on Harnessed, cdpify, and Pydantic.
+- [prime-radiant-inc/evener](https://github.com/prime-radiant-inc/evener) — A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.
+- [gy15901580825/Argus](https://github.com/gy15901580825/Argus) — Open-source red-team testing for AI agents. 320 bundled probes with OWASP LLM Top 10, MITRE ATLAS, and NIST AI RMF mappings. Selected probes use recorded browser requests, MCP tool calls, or mock payments. CLI, SARIF, GitHub Action.
+- [aletheics/opencontinue](https://github.com/aletheics/opencontinue) — Open-source terminal coding agent with durable sessions, tools, and source-controlled checks.
+- [ankitgoelcmu/faultline-agent](https://github.com/ankitgoelcmu/faultline-agent) — Fault injection for tool-calling LLM agents, incl. a τ²-bench plug-in (lost responses, transient errors, stale reads) with replay-exact grading
+- [dianj/voice-restaurant-agent](https://github.com/dianj/voice-restaurant-agent) — Multilingual voice restaurant concierge: local LLM (Gemma / Qwen in LM Studio) with tool calling, bookings confirmed in code, allergens, human handover, evals and Playwright tests
+- [billy-enrizky/openbrowser-ai](https://github.com/billy-enrizky/openbrowser-ai) — OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, interact with, and extract information from web pages autonomously.
+- [nhrbuilds/flashbrowse](https://github.com/nhrbuilds/flashbrowse) — Token-compressed, AXTree-native headless browser and MCP server for AI agents. Sub-100ms CDP automation in pure Rust. Zero Python.
+- [axvrma/auditbench](https://github.com/axvrma/auditbench) — A lightweight headless AI agent framework built for autonomous workflows, browser automation, and intelligent task execution. Designed to be modular, extensible, and developer-friendly, Lighthouse Agent focuses on real-world automation with minimal setup and maximum control.
+- [zpzxgcr/TabWeaver](https://github.com/zpzxgcr/TabWeaver) — Ultra-lightweight Chrome extension enabling autonomous cross-tab browser automation directly from your favorite AI chat interfaces — 100% native, zero dependencies.
+- [pbathuri/cartograph](https://github.com/pbathuri/cartograph) — Local knowledge graph + shared memory for AI agents: PDFs, Office, notebooks and code with page/line citations, over MCP. No LLM needed to build it.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) — Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy…) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.
+- [EtanHey/brainlayer](https://github.com/EtanHey/brainlayer) — Persistent memory MCP for AI agents — SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations
+- [swapnildahiphale/OpenSRE](https://github.com/swapnildahiphale/OpenSRE) — OpenSRE — the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack & Teams. opensre.in
+- [penfieldlabs/n8n-nodes-penfield](https://github.com/penfieldlabs/n8n-nodes-penfield) — n8n community node for Penfield: long-term memory and a knowledge graph for n8n workflows and AI agents
+- [NickMonrad/kernel-ai-assistant](https://github.com/NickMonrad/kernel-ai-assistant) — Jandal AI — Local-first Android AI assistant with on-device LLM inference, semantic memory, and extensible skill framework
+- [takeshy/gemihub-hybrid](https://github.com/takeshy/gemihub-hybrid) — Gemihub Hybrid — local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.
+- [YuhuaBillChen/justfit-llm](https://github.com/YuhuaBillChen/justfit-llm) — Run Qwen3.8-27B with its full 256K context on a 24 GB Mac. Long-context local LLM serving for Apple silicon, built on Inco AI's Splash.  OpenAI-compatible API.
+- [SatyajitBeura2468/SatyaAI](https://github.com/SatyajitBeura2468/SatyaAI) — SatyaAI is a truth-first, multimodal AI assistant built to make powerful reasoning, research and creation accessible to everyone through efficient open intelligence, privacy-conscious local inference and evidence-first answers.
+- [Mycellios/mycellios](https://github.com/Mycellios/mycellios) — Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.
