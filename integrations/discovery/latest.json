@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "generated_at": "2026-11-16T11:32:48.693465+00:00",
+  "generated_at": "2026-11-23T12:58:34.319963+00:00",
   "source": "GitHub Search API",
   "status": "integrated-metadata-only",
-  "added_to_capability_pool": 1,
+  "added_to_capability_pool": 0,
   "runtime_availability": {
     "mode": "adaptive",
     "states": [
@@ -96,20 +96,5 @@
     }
   },
   "error": null,
-  "candidates": [
-    {
-      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "capability": "discovered",
-      "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-      "stars": 150196,
-      "forks": 15880,
-      "language": "Python",
-      "license": "MIT",
-      "updated_at": "2026-11-16T11:32:16Z",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 1.4485,
-      "trust": "untrusted",
-      "requires_validation": true
-    }
-  ]
+  "candidates": []
 }
