@@ -1,0 +1,29 @@
+# Daily Frontier — 2026-11-24
+
+Discovered nodes: 24
+
+## Nodes
+- [kontenlaris-studio/kontenlaris-studio](https://github.com/kontenlaris-studio/kontenlaris-studio) — ✨ Kontenlaris Studio — AI agents, bots & on-chain automation
+- [shadok-ai/shadok-ai](https://github.com/shadok-ai/shadok-ai) — Run Claude Code agents on a schedule. They stay silent unless there's something worth telling you — a quiet day costs zero tokens.
+- [shwet-23/agentic-ai-customer-support-platform](https://github.com/shwet-23/agentic-ai-customer-support-platform) — Agentic AI-powered customer support automation platform
+- [zanta0529/pocket-agent](https://github.com/zanta0529/pocket-agent) — A local-first CLI AI agent with ChatGPT OAuth, Ollama, and multiple cloud LLM providers. Supports subagents, MCP integrations, browser automation, and Word/PDF/PowerPoint generation.
+- [manki-review/manki](https://github.com/manki-review/manki) — Multi-stage, multi-agent AI code review for GitHub — self-hosted, provider-neutral. A planner picks the team, agents review in parallel, a judge filters the noise.
+- [Morningstar202604/spark](https://github.com/Morningstar202604/spark) — Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.
+- [X33834/spark](https://github.com/X33834/spark) — Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.
+- [badhope/spark](https://github.com/badhope/spark) — Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.
+- [rocareer/rolling-memory](https://github.com/rocareer/rolling-memory) — Source-available, local-first long-term memory for AI coding agents: one MCP tool (recall) over a private local SQLite vault — zero cloud, zero vectors, zero background LLM calls, ~30 ms lookups. Free for noncommercial use (PolyForm-Noncommercial-1.0.0).
+- [disi910/squall](https://github.com/disi910/squall) — Fault-injection testing and step-by-step replay for tool-using LLM agents. Preview built on simulated data.
+- [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) — The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.
+- [6bean/testpike](https://github.com/6bean/testpike) — Self-evolving AI test automation platform: turns requirement docs into reviewable test cases and executable scripts, runs them on real browsers, devices and load engines (Playwright · Gatling · k6 · JMeter), and learns from every review and failure.
+- [Mistyrain520/k6auto-public](https://github.com/Mistyrain520/k6auto-public) — AI-powered full-stack test automation framework built on k6. API testing, performance testing, browser testing, WebSocket, AI agent skills and Allure reporting.
+- [akyourowngames/A.N.K.I.T.A](https://github.com/akyourowngames/A.N.K.I.T.A) — Ankita AI — open-source personal AI companion for desktop by Krish Verma (Electron + terminal). Plugin/skill system, scheduled jobs, browser tools. Local-first, MIT.
+- [jaylfc/taosmd](https://github.com/jaylfc/taosmd) — Local-first AI memory — runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbatim archive, knowledge graph, hybrid retrieval. Framework-agnostic, no cloud.
+- [substrate-systems/evermatter](https://github.com/substrate-systems/evermatter) — Evermatter: governed long-term memory for AI agents. A typed knowledge graph with sources, evidence and epistemic status, served over MCP to Claude, ChatGPT, Codex and Cursor. Self-hosted or Evermatter Cloud.
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp) — Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy…) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.
+- [EtanHey/brainlayer](https://github.com/EtanHey/brainlayer) — Persistent memory MCP for AI agents — SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations
+- [codesphere-u/cortex-mcp](https://github.com/codesphere-u/cortex-mcp) — Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents.
+- [Anil-matcha/awesome-uncensored-ai-image-models](https://github.com/Anil-matcha/awesome-uncensored-ai-image-models) — A community-maintained catalog of open and low-filter AI image models, checkpoints, and local inference resources.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+- [takeshy/gemihub-hybrid](https://github.com/takeshy/gemihub-hybrid) — Gemihub Hybrid — local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.
+- [sameersaket20/stockpilot-ai](https://github.com/sameersaket20/stockpilot-ai) — On-device offline LLM + STT for retail inventory: talk or type, Gemma plans and answers from local Room data, Whisper turns voice into text—dual inference on your phone, no cloud LLM.
+- [rahulkesarkar/ai-job-matching-agent](https://github.com/rahulkesarkar/ai-job-matching-agent) — End-to-end AI job matching application using NLP, semantic search, FAISS, FastAPI and local LLM inference.

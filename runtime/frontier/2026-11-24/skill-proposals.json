@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-24",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-kontenlaris-studio-kontenlaris-studio",
+      "name": "Explore kontenlaris-studio/kontenlaris-studio",
+      "source": "https://github.com/kontenlaris-studio/kontenlaris-studio",
+      "problem": "\u2728 Kontenlaris Studio \u2014 AI agents, bots & on-chain automation",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-shadok-ai-shadok-ai",
+      "name": "Explore shadok-ai/shadok-ai",
+      "source": "https://github.com/shadok-ai/shadok-ai",
+      "problem": "Run Claude Code agents on a schedule. They stay silent unless there's something worth telling you \u2014 a quiet day costs zero tokens.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-shwet-23-agentic-ai-customer-support-platform",
+      "name": "Explore shwet-23/agentic-ai-customer-support-platform",
+      "source": "https://github.com/shwet-23/agentic-ai-customer-support-platform",
+      "problem": "Agentic AI-powered customer support automation platform",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zanta0529-pocket-agent",
+      "name": "Explore zanta0529/pocket-agent",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "problem": "A local-first CLI AI agent with ChatGPT OAuth, Ollama, and multiple cloud LLM providers. Supports subagents, MCP integrations, browser automation, and Word/PDF/PowerPoint generation.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-manki-review-manki",
+      "name": "Explore manki-review/manki",
+      "source": "https://github.com/manki-review/manki",
+      "problem": "Multi-stage, multi-agent AI code review for GitHub \u2014 self-hosted, provider-neutral. A planner picks the team, agents review in parallel, a judge filters the noise.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-morningstar202604-spark",
+      "name": "Explore Morningstar202604/spark",
+      "source": "https://github.com/Morningstar202604/spark",
+      "problem": "Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-x33834-spark",
+      "name": "Explore X33834/spark",
+      "source": "https://github.com/X33834/spark",
+      "problem": "Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-badhope-spark",
+      "name": "Explore badhope/spark",
+      "source": "https://github.com/badhope/spark",
+      "problem": "Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rocareer-rolling-memory",
+      "name": "Explore rocareer/rolling-memory",
+      "source": "https://github.com/rocareer/rolling-memory",
+      "problem": "Source-available, local-first long-term memory for AI coding agents: one MCP tool (recall) over a private local SQLite vault \u2014 zero cloud, zero vectors, zero background LLM calls, ~30 ms lookups. Free for noncommercial use (PolyForm-Noncommercial-1.0.0).",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-disi910-squall",
+      "name": "Explore disi910/squall",
+      "source": "https://github.com/disi910/squall",
+      "problem": "Fault-injection testing and step-by-step replay for tool-using LLM agents. Preview built on simulated data.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-citrolabs-ego-lite",
+      "name": "Explore citrolabs/ego-lite",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "problem": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-6bean-testpike",
+      "name": "Explore 6bean/testpike",
+      "source": "https://github.com/6bean/testpike",
+      "problem": "Self-evolving AI test automation platform: turns requirement docs into reviewable test cases and executable scripts, runs them on real browsers, devices and load engines (Playwright \u00b7 Gatling \u00b7 k6 \u00b7 JMeter), and learns from every review and failure.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mistyrain520-k6auto-public",
+      "name": "Explore Mistyrain520/k6auto-public",
+      "source": "https://github.com/Mistyrain520/k6auto-public",
+      "problem": "AI-powered full-stack test automation framework built on k6. API testing, performance testing, browser testing, WebSocket, AI agent skills and Allure reporting.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-akyourowngames-a.n.k.i.t.a",
+      "name": "Explore akyourowngames/A.N.K.I.T.A",
+      "source": "https://github.com/akyourowngames/A.N.K.I.T.A",
+      "problem": "Ankita AI \u2014 open-source personal AI companion for desktop by Krish Verma (Electron + terminal). Plugin/skill system, scheduled jobs, browser tools. Local-first, MIT.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jaylfc-taosmd",
+      "name": "Explore jaylfc/taosmd",
+      "source": "https://github.com/jaylfc/taosmd",
+      "problem": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbatim archive, knowledge graph, hybrid retrieval. Framework-agnostic, no cloud.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-substrate-systems-evermatter",
+      "name": "Explore substrate-systems/evermatter",
+      "source": "https://github.com/substrate-systems/evermatter",
+      "problem": "Evermatter: governed long-term memory for AI agents. A typed knowledge graph with sources, evidence and epistemic status, served over MCP to Claude, ChatGPT, Codex and Cursor. Self-hosted or Evermatter Cloud.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-helpcode-ai-anythingmcp",
+      "name": "Explore HelpCode-ai/anythingmcp",
+      "source": "https://github.com/HelpCode-ai/anythingmcp",
+      "problem": "Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy\u2026) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codesphere-u-cortex-mcp",
+      "name": "Explore codesphere-u/cortex-mcp",
+      "source": "https://github.com/codesphere-u/cortex-mcp",
+      "problem": "Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-anil-matcha-awesome-uncensored-ai-image-models",
+      "name": "Explore Anil-matcha/awesome-uncensored-ai-image-models",
+      "source": "https://github.com/Anil-matcha/awesome-uncensored-ai-image-models",
+      "problem": "A community-maintained catalog of open and low-filter AI image models, checkpoints, and local inference resources.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-takeshy-gemihub-hybrid",
+      "name": "Explore takeshy/gemihub-hybrid",
+      "source": "https://github.com/takeshy/gemihub-hybrid",
+      "problem": "Gemihub Hybrid \u2014 local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-sameersaket20-stockpilot-ai",
+      "name": "Explore sameersaket20/stockpilot-ai",
+      "source": "https://github.com/sameersaket20/stockpilot-ai",
+      "problem": "On-device offline LLM + STT for retail inventory: talk or type, Gemma plans and answers from local Room data, Whisper turns voice into text\u2014dual inference on your phone, no cloud LLM.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rahulkesarkar-ai-job-matching-agent",
+      "name": "Explore rahulkesarkar/ai-job-matching-agent",
+      "source": "https://github.com/rahulkesarkar/ai-job-matching-agent",
+      "problem": "End-to-end AI job matching application using NLP, semantic search, FAISS, FastAPI and local LLM inference.",
+      "created_on": "2026-11-24",
+      "policy": "review-before-activation"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-24",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "kontenlaris-studio-kontenlaris-studio",
+      "title": "kontenlaris-studio/kontenlaris-studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kontenlaris-studio/kontenlaris-studio",
+      "description": "\u2728 Kontenlaris Studio \u2014 AI agents, bots & on-chain automation",
+      "stars": 0,
+      "updated_at": "2026-11-20T14:49:05Z"
+    },
+    {
+      "id": "shadok-ai-shadok-ai",
+      "title": "shadok-ai/shadok-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shadok-ai/shadok-ai",
+      "description": "Run Claude Code agents on a schedule. They stay silent unless there's something worth telling you \u2014 a quiet day costs zero tokens.",
+      "stars": 15,
+      "updated_at": "2026-11-19T09:38:39Z"
+    },
+    {
+      "id": "shwet-23-agentic-ai-customer-support-platform",
+      "title": "shwet-23/agentic-ai-customer-support-platform",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shwet-23/agentic-ai-customer-support-platform",
+      "description": "Agentic AI-powered customer support automation platform",
+      "stars": 0,
+      "updated_at": "2026-11-24T09:49:10Z"
+    },
+    {
+      "id": "zanta0529-pocket-agent",
+      "title": "zanta0529/pocket-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "description": "A local-first CLI AI agent with ChatGPT OAuth, Ollama, and multiple cloud LLM providers. Supports subagents, MCP integrations, browser automation, and Word/PDF/PowerPoint generation.",
+      "stars": 1,
+      "updated_at": "2026-11-24T03:18:09Z"
+    },
+    {
+      "id": "manki-review-manki",
+      "title": "manki-review/manki",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/manki-review/manki",
+      "description": "Multi-stage, multi-agent AI code review for GitHub \u2014 self-hosted, provider-neutral. A planner picks the team, agents review in parallel, a judge filters the noise.",
+      "stars": 5,
+      "updated_at": "2026-11-12T16:50:25Z"
+    },
+    {
+      "id": "morningstar202604-spark",
+      "title": "Morningstar202604/spark",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Morningstar202604/spark",
+      "description": "Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.",
+      "stars": 0,
+      "updated_at": "2026-11-23T23:41:35Z"
+    },
+    {
+      "id": "x33834-spark",
+      "title": "X33834/spark",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/X33834/spark",
+      "description": "Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.",
+      "stars": 0,
+      "updated_at": "2026-11-23T23:41:33Z"
+    },
+    {
+      "id": "badhope-spark",
+      "title": "badhope/spark",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/badhope/spark",
+      "description": "Browser-native, cross-platform, open-source AI coding application. One audited agent loop across Web, desktop, CLI/TUI, IDE and API, with approvals, sandbox, rollback, browser tools and any OpenAI-compatible model.",
+      "stars": 30,
+      "updated_at": "2026-11-23T23:41:31Z"
+    },
+    {
+      "id": "rocareer-rolling-memory",
+      "title": "rocareer/rolling-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rocareer/rolling-memory",
+      "description": "Source-available, local-first long-term memory for AI coding agents: one MCP tool (recall) over a private local SQLite vault \u2014 zero cloud, zero vectors, zero background LLM calls, ~30 ms lookups. Free for noncommercial use (PolyForm-Noncommercial-1.0.0).",
+      "stars": 7,
+      "updated_at": "2026-11-23T17:35:39Z"
+    },
+    {
+      "id": "disi910-squall",
+      "title": "disi910/squall",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/disi910/squall",
+      "description": "Fault-injection testing and step-by-step replay for tool-using LLM agents. Preview built on simulated data.",
+      "stars": 0,
+      "updated_at": "2026-11-24T09:40:37Z"
+    },
+    {
+      "id": "citrolabs-ego-lite",
+      "title": "citrolabs/ego-lite",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "stars": 24297,
+      "updated_at": "2026-11-24T09:47:58Z"
+    },
+    {
+      "id": "6bean-testpike",
+      "title": "6bean/testpike",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/6bean/testpike",
+      "description": "Self-evolving AI test automation platform: turns requirement docs into reviewable test cases and executable scripts, runs them on real browsers, devices and load engines (Playwright \u00b7 Gatling \u00b7 k6 \u00b7 JMeter), and learns from every review and failure.",
+      "stars": 1,
+      "updated_at": "2026-11-24T06:49:47Z"
+    },
+    {
+      "id": "mistyrain520-k6auto-public",
+      "title": "Mistyrain520/k6auto-public",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mistyrain520/k6auto-public",
+      "description": "AI-powered full-stack test automation framework built on k6. API testing, performance testing, browser testing, WebSocket, AI agent skills and Allure reporting.",
+      "stars": 21,
+      "updated_at": "2026-11-24T02:57:51Z"
+    },
+    {
+      "id": "akyourowngames-a.n.k.i.t.a",
+      "title": "akyourowngames/A.N.K.I.T.A",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/akyourowngames/A.N.K.I.T.A",
+      "description": "Ankita AI \u2014 open-source personal AI companion for desktop by Krish Verma (Electron + terminal). Plugin/skill system, scheduled jobs, browser tools. Local-first, MIT.",
+      "stars": 15,
+      "updated_at": "2026-11-10T13:04:55Z"
+    },
+    {
+      "id": "jaylfc-taosmd",
+      "title": "jaylfc/taosmd",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/jaylfc/taosmd",
+      "description": "Local-first AI memory \u2014 runs offline on any machine with 8 GB+ RAM (SBC, mini PC, laptop, workstation). Zero-loss verbatim archive, knowledge graph, hybrid retrieval. Framework-agnostic, no cloud.",
+      "stars": 84,
+      "updated_at": "2026-11-19T18:25:16Z"
+    },
+    {
+      "id": "substrate-systems-evermatter",
+      "title": "substrate-systems/evermatter",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/substrate-systems/evermatter",
+      "description": "Evermatter: governed long-term memory for AI agents. A typed knowledge graph with sources, evidence and epistemic status, served over MCP to Claude, ChatGPT, Codex and Cursor. Self-hosted or Evermatter Cloud.",
+      "stars": 9,
+      "updated_at": "2026-11-24T09:25:04Z"
+    },
+    {
+      "id": "helpcode-ai-anythingmcp",
+      "title": "HelpCode-ai/anythingmcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/HelpCode-ai/anythingmcp",
+      "description": "Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy\u2026) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.",
+      "stars": 835,
+      "updated_at": "2026-11-24T08:32:51Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 9,
+      "updated_at": "2026-11-12T17:21:27Z"
+    },
+    {
+      "id": "codesphere-u-cortex-mcp",
+      "title": "codesphere-u/cortex-mcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/codesphere-u/cortex-mcp",
+      "description": "Local-First Bi-Temporal Knowledge Graph, Cross-Agent Persistent Memory & Token-Budgeted Context Compiler MCP Server for AI Coding Agents.",
+      "stars": 1,
+      "updated_at": "2026-11-14T16:59:05Z"
+    },
+    {
+      "id": "anil-matcha-awesome-uncensored-ai-image-models",
+      "title": "Anil-matcha/awesome-uncensored-ai-image-models",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Anil-matcha/awesome-uncensored-ai-image-models",
+      "description": "A community-maintained catalog of open and low-filter AI image models, checkpoints, and local inference resources.",
+      "stars": 19,
+      "updated_at": "2026-11-15T13:50:40Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 148381,
+      "updated_at": "2026-11-24T09:42:27Z"
+    },
+    {
+      "id": "takeshy-gemihub-hybrid",
+      "title": "takeshy/gemihub-hybrid",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/takeshy/gemihub-hybrid",
+      "description": "Gemihub Hybrid \u2014 local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.",
+      "stars": 0,
+      "updated_at": "2026-11-23T07:49:24Z"
+    },
+    {
+      "id": "sameersaket20-stockpilot-ai",
+      "title": "sameersaket20/stockpilot-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/sameersaket20/stockpilot-ai",
+      "description": "On-device offline LLM + STT for retail inventory: talk or type, Gemma plans and answers from local Room data, Whisper turns voice into text\u2014dual inference on your phone, no cloud LLM.",
+      "stars": 0,
+      "updated_at": "2026-11-24T08:31:49Z"
+    },
+    {
+      "id": "rahulkesarkar-ai-job-matching-agent",
+      "title": "rahulkesarkar/ai-job-matching-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rahulkesarkar/ai-job-matching-agent",
+      "description": "End-to-end AI job matching application using NLP, semantic search, FAISS, FastAPI and local LLM inference.",
+      "stars": 0,
+      "updated_at": "2026-11-24T06:26:01Z"
+    }
+  ]
+}
