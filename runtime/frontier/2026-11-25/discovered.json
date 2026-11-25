@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-25",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "astralwaveorg-agentrelaynext",
+      "title": "astralwaveorg/AgentRelayNext",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/astralwaveorg/AgentRelayNext",
+      "description": "Agent Relay: local-first macOS where one AI coding agent implements in an isolated Git worktree, another independent model reviews read-only, and you get a patch, test receipt, and review evidence. Claude Code + OpenCode + MCP, MIT. | Agent Relay\uff1a\u672c\u5730\u4f18\u5148 macOS \u591a AI \u7f16\u7a0b\u5de5\u5177\uff0c\u4e00\u4e2a Agent \u9694\u79bb\u5b9e\u73b0\uff0c\u53e6\u4e00\u4e2a\u72ec\u7acb\u6a21\u578b\u53ea\u8bfb\u8bc4\u5ba1\uff0c\u4ea4\u4ed8\u8865\u4e01\u3001\u6d4b\u8bd5\u6536\u636e\u548c\u8bc4\u5ba1\u8bc1\u636e\u3002\u652f\u6301 Claude Code\u3001OpenCode\u3001MCP\uff0cMIT \u5f00\u6e90\u3002",
+      "stars": 0,
+      "updated_at": "2026-11-24T14:58:53Z"
+    },
+    {
+      "id": "generalbots-generalbots",
+      "title": "generalbots/generalbots",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/generalbots/generalbots",
+      "description": "Multi-agent AI platform for autonomous agents, agentic AI orchestration and LLM workflow automation. 80 self-hosted apps - Chat, CRM, Mail, Drive, Calendar, Advanced RAG. Open source, built in Rust.",
+      "stars": 98,
+      "updated_at": "2026-11-20T15:53:42Z"
+    },
+    {
+      "id": "langgenius-dify",
+      "title": "langgenius/dify",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 161865,
+      "updated_at": "2026-11-25T07:43:59Z"
+    },
+    {
+      "id": "oddmash-oddmash-agents",
+      "title": "Oddmash/oddmash-agents",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Oddmash/oddmash-agents",
+      "description": "AI-powered agents for Oddmash projects",
+      "stars": 0,
+      "updated_at": "2026-11-24T15:13:05Z"
+    },
+    {
+      "id": "phamtuan207-computer-use-wayland",
+      "title": "phamTuan207/computer-use-wayland",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/phamTuan207/computer-use-wayland",
+      "description": "GUI automation for AI agents on Wayland/Hyprland, built first for Muse agents: virtual pointer, keyboard, screen capture, Chromium DOM and native accessibility. One vision, maximum actions.",
+      "stars": 2,
+      "updated_at": "2026-11-23T02:18:58Z"
+    },
+    {
+      "id": "uvais8958-agenticai",
+      "title": "uvais8958/AgenticAI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/uvais8958/AgenticAI",
+      "description": "Learning and exploring Agentic AI, including AI Agents, LLMs, Prompt Engineering, Tool Calling, and building intelligent AI-powered applications using JavaScript and MERN Stack.",
+      "stars": 0,
+      "updated_at": "2026-11-25T08:28:22Z"
+    },
+    {
+      "id": "prime-radiant-inc-evener",
+      "title": "prime-radiant-inc/evener",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "description": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "stars": 209,
+      "updated_at": "2026-11-24T20:16:02Z"
+    },
+    {
+      "id": "aetherravyn-ravenbot",
+      "title": "AetherRavyn/RAVENBOT",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AetherRavyn/RAVENBOT",
+      "description": "Local-first multi-agent desktop workspace: persistent AI agents, offices, sandboxed tools, memory, MCP, and a headless daemon. Rust + Tauri + Svelte.",
+      "stars": 1,
+      "updated_at": "2026-11-24T19:18:40Z"
+    },
+    {
+      "id": "senoldogann-dot",
+      "title": "senoldogann/Dot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/senoldogann/Dot",
+      "description": "Dot: an autonomous agent that lives on your Mac. It works your browser, desktop, files, shell and MCP tools behind a safety gate you can read, remembers and learns skills, runs on a schedule, and comes with a native iPhone app. Local-first, MIT.",
+      "stars": 1,
+      "updated_at": "2026-11-24T09:43:54Z"
+    },
+    {
+      "id": "mathisarends-browserrig",
+      "title": "mathisarends/browserrig",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mathisarends/browserrig",
+      "description": "Event-driven Chrome automation for AI agents and Python apps. Built on Harnessed, cdpify, and Pydantic.",
+      "stars": 0,
+      "updated_at": "2026-11-11T15:27:09Z"
+    },
+    {
+      "id": "vercel-labs-agent-browser",
+      "title": "vercel-labs/agent-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 53869,
+      "updated_at": "2026-11-25T08:23:55Z"
+    },
+    {
+      "id": "skyfireitdiy-jarvis",
+      "title": "skyfireitdiy/Jarvis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "description": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "stars": 155,
+      "updated_at": "2026-11-12T15:25:04Z"
+    },
+    {
+      "id": "tencent-browserskill",
+      "title": "Tencent/BrowserSkill",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": 10707,
+      "updated_at": "2026-11-25T07:45:37Z"
+    },
+    {
+      "id": "meharajm-ai-worker.app",
+      "title": "meharajM/ai-worker.app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/meharajM/ai-worker.app",
+      "description": "Open-source desktop AI workspace for MCP tools, local files, browser automation, and provider-agnostic LLM workflows.",
+      "stars": 3,
+      "updated_at": "2026-09-03T12:23:55Z"
+    },
+    {
+      "id": "ward-software-defined-systems-embraos",
+      "title": "Ward-Software-Defined-Systems/embraOS",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ward-Software-Defined-Systems/embraOS",
+      "description": "A continuity-preserving operating system for one AI, written in Rust \u2014 not a chatbot, not an agent framework. An immutable image, an identity sealed at first boot and verified by SHA-256 on every boot, memory that persists in a knowledge graph. Anthropic, Gemini, Ollama or LM Studio; QEMU and hypervisors on x86_64 and aarch64, and bare metal.",
+      "stars": 1,
+      "updated_at": "2026-11-14T01:36:49Z"
+    },
+    {
+      "id": "caura-ai-caura",
+      "title": "caura-ai/caura",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/caura-ai/caura",
+      "description": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "stars": 576,
+      "updated_at": "2026-11-25T00:47:12Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2154,
+      "updated_at": "2026-11-24T23:54:05Z"
+    },
+    {
+      "id": "vbcherepanov-total-agent-memory",
+      "title": "vbcherepanov/total-agent-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vbcherepanov/total-agent-memory",
+      "description": "Persistent local memory for AI coding agents \u2014 Claude Code, Codex CLI, Cursor, any MCP client. Temporal knowledge graph, procedural memory, AST codebase ingest, cross-project analogy. LongMemEval R@5 95.1%, LoCoMo 0.607, BEAM 1M 0.448. 74 MCP tools, 9 IDEs, 100% local.",
+      "stars": 77,
+      "updated_at": "2026-11-22T20:49:47Z"
+    },
+    {
+      "id": "robofinsystems-robosystems-app",
+      "title": "RoboFinSystems/robosystems-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RoboFinSystems/robosystems-app",
+      "description": "Part of RoboSystems, the open-source knowledge graph for finance. Its web app: graphs, MCP connections, Cypher, documents, subgraphs, memory and the SEC repository. Next.js, deployable to your own AWS account.",
+      "stars": 2,
+      "updated_at": "2026-11-16T18:23:54Z"
+    },
+    {
+      "id": "tonyisfool-tidypanel",
+      "title": "TonyIsFool/TidyPanel",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/TonyIsFool/TidyPanel",
+      "description": "Local CSV and Excel data cleaning for AI agents. R package + JSON CLI: 0 model calls and 0 AI inference tokens for cleanup. Keep full tables local; use model context for reasoning.",
+      "stars": 2,
+      "updated_at": "2026-11-24T16:29:18Z"
+    },
+    {
+      "id": "opentail-net-opentail.stingray",
+      "title": "opentail-net/OpenTail.Stingray",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/opentail-net/OpenTail.Stingray",
+      "description": "Local AI, native to .NET. Run language models, vision, speech, and generative AI directly in your C# applications. No Python. No external inference server. CPU or GPU. Open source, built for NativeAOT.",
+      "stars": 2,
+      "updated_at": "2026-11-10T06:25:24Z"
+    },
+    {
+      "id": "tetherto-qvac",
+      "title": "tetherto/qvac",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/tetherto/qvac",
+      "description": "Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS, Windows, Android, iOS.",
+      "stars": 825,
+      "updated_at": "2026-11-24T21:18:08Z"
+    },
+    {
+      "id": "neelm0906-mference",
+      "title": "NeelM0906/Mference",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NeelM0906/Mference",
+      "description": "Private AI that runs entirely on your Mac: a native SwiftUI app on its own Swift + Metal inference engine. Streams MoE experts from SSD (Qwen 3.6 35B-A3B in ~1.5 GB), runs GGUF through in-process llama.cpp, and serves an OpenAI-compatible local API.",
+      "stars": 123,
+      "updated_at": "2026-11-24T02:15:50Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 148523,
+      "updated_at": "2026-11-25T08:25:29Z"
+    }
+  ]
+}

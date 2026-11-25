@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-25",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-astralwaveorg-agentrelaynext",
+      "name": "Explore astralwaveorg/AgentRelayNext",
+      "source": "https://github.com/astralwaveorg/AgentRelayNext",
+      "problem": "Agent Relay: local-first macOS where one AI coding agent implements in an isolated Git worktree, another independent model reviews read-only, and you get a patch, test receipt, and review evidence. Claude Code + OpenCode + MCP, MIT. | Agent Relay\uff1a\u672c\u5730\u4f18\u5148 macOS \u591a AI \u7f16\u7a0b\u5de5\u5177\uff0c\u4e00\u4e2a Agent \u9694\u79bb\u5b9e\u73b0\uff0c\u53e6\u4e00\u4e2a\u72ec\u7acb\u6a21\u578b\u53ea\u8bfb\u8bc4\u5ba1\uff0c\u4ea4\u4ed8\u8865\u4e01\u3001\u6d4b\u8bd5\u6536\u636e\u548c\u8bc4\u5ba1\u8bc1\u636e\u3002\u652f\u6301 Claude Code\u3001OpenCode\u3001MCP\uff0cMIT \u5f00\u6e90\u3002",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-generalbots-generalbots",
+      "name": "Explore generalbots/generalbots",
+      "source": "https://github.com/generalbots/generalbots",
+      "problem": "Multi-agent AI platform for autonomous agents, agentic AI orchestration and LLM workflow automation. 80 self-hosted apps - Chat, CRM, Mail, Drive, Calendar, Advanced RAG. Open source, built in Rust.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-oddmash-oddmash-agents",
+      "name": "Explore Oddmash/oddmash-agents",
+      "source": "https://github.com/Oddmash/oddmash-agents",
+      "problem": "AI-powered agents for Oddmash projects",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-phamtuan207-computer-use-wayland",
+      "name": "Explore phamTuan207/computer-use-wayland",
+      "source": "https://github.com/phamTuan207/computer-use-wayland",
+      "problem": "GUI automation for AI agents on Wayland/Hyprland, built first for Muse agents: virtual pointer, keyboard, screen capture, Chromium DOM and native accessibility. One vision, maximum actions.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-uvais8958-agenticai",
+      "name": "Explore uvais8958/AgenticAI",
+      "source": "https://github.com/uvais8958/AgenticAI",
+      "problem": "Learning and exploring Agentic AI, including AI Agents, LLMs, Prompt Engineering, Tool Calling, and building intelligent AI-powered applications using JavaScript and MERN Stack.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-prime-radiant-inc-evener",
+      "name": "Explore prime-radiant-inc/evener",
+      "source": "https://github.com/prime-radiant-inc/evener",
+      "problem": "A coding agent: give it a prompt and it reads, writes, runs commands, and searches code in a loop until the work is done, using native tool-calling across OpenAI, Anthropic, and Google models.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-aetherravyn-ravenbot",
+      "name": "Explore AetherRavyn/RAVENBOT",
+      "source": "https://github.com/AetherRavyn/RAVENBOT",
+      "problem": "Local-first multi-agent desktop workspace: persistent AI agents, offices, sandboxed tools, memory, MCP, and a headless daemon. Rust + Tauri + Svelte.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-senoldogann-dot",
+      "name": "Explore senoldogann/Dot",
+      "source": "https://github.com/senoldogann/Dot",
+      "problem": "Dot: an autonomous agent that lives on your Mac. It works your browser, desktop, files, shell and MCP tools behind a safety gate you can read, remembers and learns skills, runs on a schedule, and comes with a native iPhone app. Local-first, MIT.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mathisarends-browserrig",
+      "name": "Explore mathisarends/browserrig",
+      "source": "https://github.com/mathisarends/browserrig",
+      "problem": "Event-driven Chrome automation for AI agents and Python apps. Built on Harnessed, cdpify, and Pydantic.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vercel-labs-agent-browser",
+      "name": "Explore vercel-labs/agent-browser",
+      "source": "https://github.com/vercel-labs/agent-browser",
+      "problem": "Browser automation CLI for AI agents",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyfireitdiy-jarvis",
+      "name": "Explore skyfireitdiy/Jarvis",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "problem": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tencent-browserskill",
+      "name": "Explore Tencent/BrowserSkill",
+      "source": "https://github.com/Tencent/BrowserSkill",
+      "problem": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-meharajm-ai-worker.app",
+      "name": "Explore meharajM/ai-worker.app",
+      "source": "https://github.com/meharajM/ai-worker.app",
+      "problem": "Open-source desktop AI workspace for MCP tools, local files, browser automation, and provider-agnostic LLM workflows.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ward-software-defined-systems-embraos",
+      "name": "Explore Ward-Software-Defined-Systems/embraOS",
+      "source": "https://github.com/Ward-Software-Defined-Systems/embraOS",
+      "problem": "A continuity-preserving operating system for one AI, written in Rust \u2014 not a chatbot, not an agent framework. An immutable image, an identity sealed at first boot and verified by SHA-256 on every boot, memory that persists in a knowledge graph. Anthropic, Gemini, Ollama or LM Studio; QEMU and hypervisors on x86_64 and aarch64, and bare metal.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-caura-ai-caura",
+      "name": "Explore caura-ai/caura",
+      "source": "https://github.com/caura-ai/caura",
+      "problem": "Caura (formerly MemClaw) \u2014 governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-vbcherepanov-total-agent-memory",
+      "name": "Explore vbcherepanov/total-agent-memory",
+      "source": "https://github.com/vbcherepanov/total-agent-memory",
+      "problem": "Persistent local memory for AI coding agents \u2014 Claude Code, Codex CLI, Cursor, any MCP client. Temporal knowledge graph, procedural memory, AST codebase ingest, cross-project analogy. LongMemEval R@5 95.1%, LoCoMo 0.607, BEAM 1M 0.448. 74 MCP tools, 9 IDEs, 100% local.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-robofinsystems-robosystems-app",
+      "name": "Explore RoboFinSystems/robosystems-app",
+      "source": "https://github.com/RoboFinSystems/robosystems-app",
+      "problem": "Part of RoboSystems, the open-source knowledge graph for finance. Its web app: graphs, MCP connections, Cypher, documents, subgraphs, memory and the SEC repository. Next.js, deployable to your own AWS account.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tonyisfool-tidypanel",
+      "name": "Explore TonyIsFool/TidyPanel",
+      "source": "https://github.com/TonyIsFool/TidyPanel",
+      "problem": "Local CSV and Excel data cleaning for AI agents. R package + JSON CLI: 0 model calls and 0 AI inference tokens for cleanup. Keep full tables local; use model context for reasoning.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opentail-net-opentail.stingray",
+      "name": "Explore opentail-net/OpenTail.Stingray",
+      "source": "https://github.com/opentail-net/OpenTail.Stingray",
+      "problem": "Local AI, native to .NET. Run language models, vision, speech, and generative AI directly in your C# applications. No Python. No external inference server. CPU or GPU. Open source, built for NativeAOT.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-tetherto-qvac",
+      "name": "Explore tetherto/qvac",
+      "source": "https://github.com/tetherto/qvac",
+      "problem": "Open-source local AI SDK - run AI on-device with no cloud, no API keys. Supports GGUF, RAG, image, music, and video generation, speech-to-text, P2P inference, and more. Cross-platform: Linux, macOS, Windows, Android, iOS.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-neelm0906-mference",
+      "name": "Explore NeelM0906/Mference",
+      "source": "https://github.com/NeelM0906/Mference",
+      "problem": "Private AI that runs entirely on your Mac: a native SwiftUI app on its own Swift + Metal inference engine. Streams MoE experts from SSD (Qwen 3.6 35B-A3B in ~1.5 GB), runs GGUF through in-process llama.cpp, and serves an OpenAI-compatible local API.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-comfy-org-comfyui",
+      "name": "Explore Comfy-Org/ComfyUI",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "problem": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "created_on": "2026-11-25",
+      "policy": "review-before-activation"
+    }
+  ]
+}
