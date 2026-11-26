@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-26",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "prosamik-desktop-bridge",
+      "title": "proSamik/desktop-bridge",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/proSamik/desktop-bridge",
+      "description": "Agent Desktop Remote Control via Cloudflare Tunnel: self-hosted remote MCP server that lets Claude and other AI agents run Claude Code (claude -p) and OpenAI Codex CLI on your Mac, Linux and Windows machines. OAuth 2.1, admin panel, parallel runs.",
+      "stars": 0,
+      "updated_at": "2026-11-26T05:54:27Z"
+    },
+    {
+      "id": "tgyd-helige-pi",
+      "title": "TGYD-helige/pi",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/TGYD-helige/pi",
+      "description": "Pluggable extension packages for the Pi AI-agent runtime. Each package exposes LLM-callable tools via MCP \u2014 covering IM workspace integrations (Lark, DingTalk, WeCom), browser & computer automation, persistent memory, telemetry, task scheduling, image generation, web access, security policies, and more.",
+      "stars": 97,
+      "updated_at": "2026-11-25T17:23:27Z"
+    },
+    {
+      "id": "mmxb8-ultratransfer",
+      "title": "mmxb8/UltraTransfer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mmxb8/UltraTransfer",
+      "description": "High-performance open-source AI agent infrastructure for secure data exchange, verified context synchronization, adaptive caching, and reproducible performance engineering.",
+      "stars": 2,
+      "updated_at": "2026-11-26T05:41:37Z"
+    },
+    {
+      "id": "apify-apify-mcp-server",
+      "title": "apify/apify-mcp-server",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/apify/apify-mcp-server",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+      "stars": 17937,
+      "updated_at": "2026-11-26T08:12:38Z"
+    },
+    {
+      "id": "ianlyoo-artemis",
+      "title": "ianlyoo/artemis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ianlyoo/artemis",
+      "description": "Self-hosted AI agent team on your computer or an always-on Linux server: one lead over Claude Code, Codex, Gemini CLI, OpenCode and any OpenAI-compatible API, a vault for keys, approval cards, and an App for desktop and phone.",
+      "stars": 0,
+      "updated_at": "2026-11-25T16:54:39Z"
+    },
+    {
+      "id": "kota-kawa-marmo-core",
+      "title": "kota-kawa/Marmo-Core",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kota-kawa/Marmo-Core",
+      "description": "Python kernel and CLI for AI agents: route a goal to the right Memory, Skill, Tool, and Agent resources, then run them through policy gates, human approval, and a hash-chained audit log.",
+      "stars": 1,
+      "updated_at": "2026-11-24T07:16:58Z"
+    },
+    {
+      "id": "nalam-karthik-stepwise",
+      "title": "Nalam-Karthik/stepwise",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Nalam-Karthik/stepwise",
+      "description": "Durable runtime for LLM agents: crash-safe journaled steps, exactly-once tool effects, human approval gates and cost budgets. FastAPI + Postgres + Claude.",
+      "stars": 0,
+      "updated_at": "2026-11-26T08:06:54Z"
+    },
+    {
+      "id": "hackinggate-uphold",
+      "title": "HackingGate/uphold",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/HackingGate/uphold",
+      "description": "Reduce reliance on AGENTS.md and other plain-text instructions that guide agents. LLMs are probabilistic, so don't rely solely on Markdown instructions. Use tools that actually enforce your rules; make them behave more like a linter or a compiler.  (The tool is still in an early stage, so its behavior and interfaces may change significantly.)",
+      "stars": 1,
+      "updated_at": "2026-11-09T14:41:10Z"
+    },
+    {
+      "id": "aditya-13115-opencode",
+      "title": "aditya-13115/openCODE",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/aditya-13115/openCODE",
+      "description": "My personal OpenCode development environment featuring curated AI agent skills, Superpowers workflows, Hugging Face and MLflow tooling, Anthropic skills, OpenAgents, browser automation, and reusable configurations for AI-assisted coding, debugging, testing, code reviews, and LLM development.",
+      "stars": 0,
+      "updated_at": "2026-10-26T07:00:22Z"
+    },
+    {
+      "id": "billy-enrizky-openbrowser-ai",
+      "title": "billy-enrizky/openbrowser-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/billy-enrizky/openbrowser-ai",
+      "description": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, interact with, and extract information from web pages autonomously.",
+      "stars": 279,
+      "updated_at": "2026-11-14T17:56:21Z"
+    },
+    {
+      "id": "zanta0529-pocket-agent",
+      "title": "zanta0529/pocket-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zanta0529/pocket-agent",
+      "description": "A local-first CLI AI agent with ChatGPT OAuth, Ollama, and multiple cloud LLM providers. Supports subagents, MCP integrations, browser automation, and Word/PDF/PowerPoint generation.",
+      "stars": 1,
+      "updated_at": "2026-11-24T03:18:09Z"
+    },
+    {
+      "id": "lightpanda-io-browser",
+      "title": "lightpanda-io/browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": 42583,
+      "updated_at": "2026-11-26T08:08:41Z"
+    },
+    {
+      "id": "robofinsystems-robosystems-app",
+      "title": "RoboFinSystems/robosystems-app",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RoboFinSystems/robosystems-app",
+      "description": "Part of RoboSystems, the open-source knowledge graph for finance. Its web app: graphs, MCP connections, Cypher, documents, subgraphs, memory and the SEC repository. Next.js, deployable to your own AWS account.",
+      "stars": 2,
+      "updated_at": "2026-11-16T18:23:54Z"
+    },
+    {
+      "id": "protechtus-sextant",
+      "title": "protechtus/sextant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/protechtus/sextant",
+      "description": "Self-hosted AI memory and orchestration: MCP memory server, temporal knowledge graph, transcript capture, local task queue. No cloud required.",
+      "stars": 0,
+      "updated_at": "2026-11-13T19:47:42Z"
+    },
+    {
+      "id": "vbcherepanov-total-agent-memory",
+      "title": "vbcherepanov/total-agent-memory",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/vbcherepanov/total-agent-memory",
+      "description": "Persistent local memory for AI coding agents \u2014 Claude Code, Codex CLI, Cursor, any MCP client. Temporal knowledge graph, procedural memory, AST codebase ingest, cross-project analogy. LongMemEval R@5 95.1%, LoCoMo 0.607, BEAM 1M 0.448. 74 MCP tools, 9 IDEs, 100% local.",
+      "stars": 77,
+      "updated_at": "2026-11-22T20:49:47Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2154,
+      "updated_at": "2026-11-26T07:47:39Z"
+    },
+    {
+      "id": "helpcode-ai-anythingmcp",
+      "title": "HelpCode-ai/anythingmcp",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/HelpCode-ai/anythingmcp",
+      "description": "Enterprise Agent Harness & MCP Gateway: connect APIs, databases, file servers and 600+ connectors (SAP, Odoo, Etsy\u2026) to Claude, ChatGPT, Microsoft Copilot and your agents. Memory, skills, knowledge graph, SSO/RBAC, audit log and governance built in. Your AI company brain.",
+      "stars": 846,
+      "updated_at": "2026-11-26T00:50:00Z"
+    },
+    {
+      "id": "comfy-org-comfyui",
+      "title": "Comfy-Org/ComfyUI",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 148665,
+      "updated_at": "2026-11-26T08:11:24Z"
+    },
+    {
+      "id": "mdjunaid-11-browser-ai",
+      "title": "mdjunaid-11/browser-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mdjunaid-11/browser-ai",
+      "description": "A private, voice-enabled AI companion that runs entirely in your browser. Features local LLM inference, speech recognition, text-to-speech, animated animal companions, and persistent chat. No backend, accounts, telemetry, or paid APIs. Powered by Transformers.js and ONNX Runtime Web.",
+      "stars": 0,
+      "updated_at": "2026-11-26T08:08:06Z"
+    },
+    {
+      "id": "opentail-net-opentail.stingray",
+      "title": "opentail-net/OpenTail.Stingray",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/opentail-net/OpenTail.Stingray",
+      "description": "Local AI, native to .NET. Run language models, vision, speech, and generative AI directly in your C# applications. No Python. No external inference server. CPU or GPU. Open source, built for NativeAOT.",
+      "stars": 2,
+      "updated_at": "2026-11-10T06:25:24Z"
+    },
+    {
+      "id": "1bit-monster-engine",
+      "title": "1bit-MONSTER/engine",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/1bit-MONSTER/engine",
+      "description": "One binary to rule them all: model-agnostic local LLM inference for AMD Strix Halo (Ryzen AI MAX+ 395) on Linux. Radeon 8060S iGPU (gfx1151) via HRX + our HIP kernels, XDNA 2 NPU via our NPU runtime, inside Lemonade Server with an OpenAI-compatible API. Qwen3.8, ZAYA1, BitNet b1.58, any GGUF. Apache-2.0.",
+      "stars": 10,
+      "updated_at": "2026-11-17T23:24:05Z"
+    },
+    {
+      "id": "dahai80-fusion-gateway",
+      "title": "dahai80/fusion-gateway",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/dahai80/fusion-gateway",
+      "description": "Fusion-Gateway is a lightweight high-performance API gateway built for local AI model orchestration on macOS. It unifies multi-model access, streamlines inference routing, and optimizes resource scheduling for MLX-based AI workflows.",
+      "stars": 2,
+      "updated_at": "2026-11-12T16:30:51Z"
+    }
+  ]
+}
