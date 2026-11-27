@@ -1,0 +1,236 @@
+{
+  "date": "2026-11-27",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "viox-development-alice-agent",
+      "title": "Viox-Development/alice-agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Viox-Development/alice-agent",
+      "description": "Desktop AI agent that runs on your PC: voice, computer use, browser, phone app, memory and autonomous agent teams. Works with free API tiers or your own subscriptions.",
+      "stars": 1,
+      "updated_at": "2026-11-25T11:37:38Z"
+    },
+    {
+      "id": "kestra-io-kestra",
+      "title": "kestra-io/kestra",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/kestra-io/kestra",
+      "description": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+      "stars": 30382,
+      "updated_at": "2026-11-27T08:22:58Z"
+    },
+    {
+      "id": "dylanlambertson-axis",
+      "title": "DylanLambertson/Axis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/DylanLambertson/Axis",
+      "description": "An AI-native IDE combining multi-provider AI integration, autonomous agent orchestration, and collaborative development in one unified workspace.",
+      "stars": 1,
+      "updated_at": "2026-11-10T15:56:22Z"
+    },
+    {
+      "id": "langgenius-dify",
+      "title": "langgenius/dify",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/langgenius/dify",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "stars": 161987,
+      "updated_at": "2026-11-27T08:22:14Z"
+    },
+    {
+      "id": "compozy-compozy",
+      "title": "compozy/compozy",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/compozy/compozy",
+      "description": "An operating system for AI agents. The autonomous control plane for your agents: see and steer every Claude Code, Codex, and Cursor session. Always-on agents check in on their own, and you step in only when one needs you.",
+      "stars": 2910,
+      "updated_at": "2026-11-27T03:30:52Z"
+    },
+    {
+      "id": "marek-sm-canary",
+      "title": "marek-sm/CANARY",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/marek-sm/CANARY",
+      "description": "Measures indirect prompt injection against a sandboxed tool-using LLM agent, separating what the model proposes from what the system permits. Cal Poly CS + AI Club research, Fall 2026.",
+      "stars": 4,
+      "updated_at": "2026-11-23T23:48:48Z"
+    },
+    {
+      "id": "flipped522-ecommerce-customer-service-agent",
+      "title": "Flipped522/Ecommerce-Customer-Service-Agent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Flipped522/Ecommerce-Customer-Service-Agent",
+      "description": "An AI-powered e-commerce customer service agent integrating LLMs, RAG, tool calling, and workflow orchestration to handle real-world customer support scenarios.",
+      "stars": 0,
+      "updated_at": "2026-11-23T08:01:23Z"
+    },
+    {
+      "id": "modelengine-group-nexent",
+      "title": "ModelEngine-Group/nexent",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/ModelEngine-Group/nexent",
+      "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "stars": 6274,
+      "updated_at": "2026-11-27T08:21:05Z"
+    },
+    {
+      "id": "atharvraotole-weave",
+      "title": "AtharvRaotole/weave",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/AtharvRaotole/weave",
+      "description": "Let your LLM agent write one short Python-like script instead of a dozen tool calls. A Rust runtime runs the independent calls in parallel. Works with OpenAI, LangChain and MCP.",
+      "stars": 4,
+      "updated_at": "2026-11-27T02:07:53Z"
+    },
+    {
+      "id": "zpoint-vibe-seller",
+      "title": "zpoint/vibe-seller",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zpoint/vibe-seller",
+      "description": "\u8de8\u5883\u5356\u5bb6\u7684 AI \u81ea\u52a8\u5316\u6846\u67b6\uff08\u652f\u6301\u4e9a\u9a6c\u900a\u3001Noon\u3001\u7f8e\u5ba2\u591a\u3001\u5343\u725b\u7b49\u5e73\u53f0\uff0c\u7d2b\u9e1f\u3001\u60a6\u4e92\u8054\u3001Chrome \u7b49\u6d4f\u89c8\u5668\uff09\uff0c\u81ea\u7531\u63a5\u5165\u4efb\u610f\u5927\u6a21\u578b(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)",
+      "stars": 154,
+      "updated_at": "2026-11-27T07:32:30Z"
+    },
+    {
+      "id": "w01fb0ss-pibot",
+      "title": "w01fb0ss/PiBot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/w01fb0ss/PiBot",
+      "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "stars": 663,
+      "updated_at": "2026-11-27T07:41:42Z"
+    },
+    {
+      "id": "xiweicheng-ai-helper",
+      "title": "xiweicheng/ai-helper",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/xiweicheng/ai-helper",
+      "description": "LLM-powered browser extension that actually operates web pages \u2014 clicks, fills forms, uploads files, runs commands, extends via MCP. ReAct loop \u00b7 40+ tools \u00b7 multi-agent. | \u8ba9\u5927\u6a21\u578b\u4eb2\u624b\u64cd\u4f5c\u7f51\u9875\u7684\u5f00\u6e90\u6d4f\u89c8\u5668\u63d2\u4ef6\uff1aReAct \u63a8\u7406\u5faa\u73af \u00b7 40+ \u5185\u7f6e\u5de5\u5177 \u00b7 MCP \u6269\u5c55 \u00b7 \u591a\u667a\u80fd\u4f53\u534f\u4f5c\u3002",
+      "stars": 15,
+      "updated_at": "2026-11-24T07:50:12Z"
+    },
+    {
+      "id": "esmworks-leafbot",
+      "title": "esmworks/leafbot",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/esmworks/leafbot",
+      "description": "Self-hosted AI assistant: build a team of bots with their own memory, routines, tools and browser, and chat with them from the desktop app or the web.",
+      "stars": 0,
+      "updated_at": "2026-11-20T22:45:12Z"
+    },
+    {
+      "id": "hoed-gajahmada-ai",
+      "title": "hoed/gajahmada-ai",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/hoed/gajahmada-ai",
+      "description": "Sovereign Hybrid Knowledge & Distributed Intelligence Platform - GNNM Native Neural Model (Decoder-Only Transformer) \u00b7 Hybrid External Knowledge Retrieval (Semantic + BM25 + Knowledge Graph) \u00b7 5-Tier Persistent Memory (SQLite WAL + Optional Supabase pgvector) ",
+      "stars": 0,
+      "updated_at": "2026-11-26T11:04:29Z"
+    },
+    {
+      "id": "zumik3-del-synaptomind",
+      "title": "zumik3-del/synaptomind",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/zumik3-del/synaptomind",
+      "description": "Local persistent memory for AI agents \u2014 SQLite knowledge graph + semantic recall over MCP",
+      "stars": 8,
+      "updated_at": "2026-11-24T10:44:43Z"
+    },
+    {
+      "id": "miniaxolotl-grove",
+      "title": "miniaxolotl/grove",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/miniaxolotl/grove",
+      "description": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "stars": 1,
+      "updated_at": "2026-11-09T02:37:18Z"
+    },
+    {
+      "id": "doobidoo-mcp-memory-service",
+      "title": "doobidoo/mcp-memory-service",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "stars": 2158,
+      "updated_at": "2026-11-27T07:52:20Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 10,
+      "updated_at": "2026-11-27T07:16:09Z"
+    },
+    {
+      "id": "maithreshvaddi-27-maithreshvaddi-27",
+      "title": "MaithreshVaddi-27/MaithreshVaddi-27",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/MaithreshVaddi-27/MaithreshVaddi-27",
+      "description": "AI/ML Engineer & Agentic Systems Builder \u2014 Production RAG, MCP tool orchestration & local-first inference.",
+      "stars": 0,
+      "updated_at": "2026-10-08T08:51:50Z"
+    },
+    {
+      "id": "opensetlabs-openset-llm",
+      "title": "opensetlabs/openset-llm",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/opensetlabs/openset-llm",
+      "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+      "stars": 1904,
+      "updated_at": "2026-11-27T08:25:26Z"
+    },
+    {
+      "id": "takeshy-gemihub-hybrid",
+      "title": "takeshy/gemihub-hybrid",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/takeshy/gemihub-hybrid",
+      "description": "Gemihub Hybrid \u2014 local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.",
+      "stars": 0,
+      "updated_at": "2026-11-23T07:49:24Z"
+    },
+    {
+      "id": "jeremysu0818-local-ai-inference-stack",
+      "title": "JeremySu0818/local-ai-inference-stack",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/JeremySu0818/local-ai-inference-stack",
+      "description": "",
+      "stars": 0,
+      "updated_at": "2026-11-21T18:13:14Z"
+    },
+    {
+      "id": "zer0tracex-inferplane",
+      "title": "Zer0TraceX/Inferplane",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Zer0TraceX/Inferplane",
+      "description": "A local-first AI desktop workspace for FreeBSD and Linux, unifying LLM inference, coding agents, remote development and model management.",
+      "stars": 0,
+      "updated_at": "2026-11-27T07:53:18Z"
+    }
+  ]
+}

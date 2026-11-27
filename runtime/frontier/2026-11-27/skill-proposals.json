@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-27",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-viox-development-alice-agent",
+      "name": "Explore Viox-Development/alice-agent",
+      "source": "https://github.com/Viox-Development/alice-agent",
+      "problem": "Desktop AI agent that runs on your PC: voice, computer use, browser, phone app, memory and autonomous agent teams. Works with free API tiers or your own subscriptions.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-kestra-io-kestra",
+      "name": "Explore kestra-io/kestra",
+      "source": "https://github.com/kestra-io/kestra",
+      "problem": "Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-versioned, scalable to millions of executions.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-dylanlambertson-axis",
+      "name": "Explore DylanLambertson/Axis",
+      "source": "https://github.com/DylanLambertson/Axis",
+      "problem": "An AI-native IDE combining multi-provider AI integration, autonomous agent orchestration, and collaborative development in one unified workspace.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-langgenius-dify",
+      "name": "Explore langgenius/dify",
+      "source": "https://github.com/langgenius/dify",
+      "problem": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-compozy-compozy",
+      "name": "Explore compozy/compozy",
+      "source": "https://github.com/compozy/compozy",
+      "problem": "An operating system for AI agents. The autonomous control plane for your agents: see and steer every Claude Code, Codex, and Cursor session. Always-on agents check in on their own, and you step in only when one needs you.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-marek-sm-canary",
+      "name": "Explore marek-sm/CANARY",
+      "source": "https://github.com/marek-sm/CANARY",
+      "problem": "Measures indirect prompt injection against a sandboxed tool-using LLM agent, separating what the model proposes from what the system permits. Cal Poly CS + AI Club research, Fall 2026.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-flipped522-ecommerce-customer-service-agent",
+      "name": "Explore Flipped522/Ecommerce-Customer-Service-Agent",
+      "source": "https://github.com/Flipped522/Ecommerce-Customer-Service-Agent",
+      "problem": "An AI-powered e-commerce customer service agent integrating LLMs, RAG, tool calling, and workflow orchestration to handle real-world customer support scenarios.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-modelengine-group-nexent",
+      "name": "Explore ModelEngine-Group/nexent",
+      "source": "https://github.com/ModelEngine-Group/nexent",
+      "problem": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles \u2014 unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-atharvraotole-weave",
+      "name": "Explore AtharvRaotole/weave",
+      "source": "https://github.com/AtharvRaotole/weave",
+      "problem": "Let your LLM agent write one short Python-like script instead of a dozen tool calls. A Rust runtime runs the independent calls in parallel. Works with OpenAI, LangChain and MCP.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zpoint-vibe-seller",
+      "name": "Explore zpoint/vibe-seller",
+      "source": "https://github.com/zpoint/vibe-seller",
+      "problem": "\u8de8\u5883\u5356\u5bb6\u7684 AI \u81ea\u52a8\u5316\u6846\u67b6\uff08\u652f\u6301\u4e9a\u9a6c\u900a\u3001Noon\u3001\u7f8e\u5ba2\u591a\u3001\u5343\u725b\u7b49\u5e73\u53f0\uff0c\u7d2b\u9e1f\u3001\u60a6\u4e92\u8054\u3001Chrome \u7b49\u6d4f\u89c8\u5668\uff09\uff0c\u81ea\u7531\u63a5\u5165\u4efb\u610f\u5927\u6a21\u578b(AI automation framework for cross-border sellers (supports Amazon, Noon, Mercado Libre, Qianniu and more; Ziniao, Chrome and other browsers). Freely connect any LLM.)",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-w01fb0ss-pibot",
+      "name": "Explore w01fb0ss/PiBot",
+      "source": "https://github.com/w01fb0ss/PiBot",
+      "problem": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-xiweicheng-ai-helper",
+      "name": "Explore xiweicheng/ai-helper",
+      "source": "https://github.com/xiweicheng/ai-helper",
+      "problem": "LLM-powered browser extension that actually operates web pages \u2014 clicks, fills forms, uploads files, runs commands, extends via MCP. ReAct loop \u00b7 40+ tools \u00b7 multi-agent. | \u8ba9\u5927\u6a21\u578b\u4eb2\u624b\u64cd\u4f5c\u7f51\u9875\u7684\u5f00\u6e90\u6d4f\u89c8\u5668\u63d2\u4ef6\uff1aReAct \u63a8\u7406\u5faa\u73af \u00b7 40+ \u5185\u7f6e\u5de5\u5177 \u00b7 MCP \u6269\u5c55 \u00b7 \u591a\u667a\u80fd\u4f53\u534f\u4f5c\u3002",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-esmworks-leafbot",
+      "name": "Explore esmworks/leafbot",
+      "source": "https://github.com/esmworks/leafbot",
+      "problem": "Self-hosted AI assistant: build a team of bots with their own memory, routines, tools and browser, and chat with them from the desktop app or the web.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-hoed-gajahmada-ai",
+      "name": "Explore hoed/gajahmada-ai",
+      "source": "https://github.com/hoed/gajahmada-ai",
+      "problem": "Sovereign Hybrid Knowledge & Distributed Intelligence Platform - GNNM Native Neural Model (Decoder-Only Transformer) \u00b7 Hybrid External Knowledge Retrieval (Semantic + BM25 + Knowledge Graph) \u00b7 5-Tier Persistent Memory (SQLite WAL + Optional Supabase pgvector) ",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zumik3-del-synaptomind",
+      "name": "Explore zumik3-del/synaptomind",
+      "source": "https://github.com/zumik3-del/synaptomind",
+      "problem": "Local persistent memory for AI agents \u2014 SQLite knowledge graph + semantic recall over MCP",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-miniaxolotl-grove",
+      "name": "Explore miniaxolotl/grove",
+      "source": "https://github.com/miniaxolotl/grove",
+      "problem": "Self-hosted MCP memory server for AI agents: semantic search, knowledge graphs, and persistent project context. By Bramble Labs Inc.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-doobidoo-mcp-memory-service",
+      "name": "Explore doobidoo/mcp-memory-service",
+      "source": "https://github.com/doobidoo/mcp-memory-service",
+      "problem": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph + autonomous consolidation.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-maithreshvaddi-27-maithreshvaddi-27",
+      "name": "Explore MaithreshVaddi-27/MaithreshVaddi-27",
+      "source": "https://github.com/MaithreshVaddi-27/MaithreshVaddi-27",
+      "problem": "AI/ML Engineer & Agentic Systems Builder \u2014 Production RAG, MCP tool orchestration & local-first inference.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-opensetlabs-openset-llm",
+      "name": "Explore opensetlabs/openset-llm",
+      "source": "https://github.com/opensetlabs/openset-llm",
+      "problem": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-takeshy-gemihub-hybrid",
+      "name": "Explore takeshy/gemihub-hybrid",
+      "source": "https://github.com/takeshy/gemihub-hybrid",
+      "problem": "Gemihub Hybrid \u2014 local answers, connected communities. Firebase AI Logic hybrid inference for Web and Chrome.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-jeremysu0818-local-ai-inference-stack",
+      "name": "Explore JeremySu0818/local-ai-inference-stack",
+      "source": "https://github.com/JeremySu0818/local-ai-inference-stack",
+      "problem": "",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-zer0tracex-inferplane",
+      "name": "Explore Zer0TraceX/Inferplane",
+      "source": "https://github.com/Zer0TraceX/Inferplane",
+      "problem": "A local-first AI desktop workspace for FreeBSD and Linux, unifying LLM inference, coding agents, remote development and model management.",
+      "created_on": "2026-11-27",
+      "policy": "review-before-activation"
+    }
+  ]
+}
