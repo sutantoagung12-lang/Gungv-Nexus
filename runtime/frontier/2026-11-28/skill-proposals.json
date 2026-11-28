@@ -1,0 +1,206 @@
+{
+  "date": "2026-11-28",
+  "status": "proposed",
+  "skills": [
+    {
+      "id": "generated-devansh1012007-personal_ai_automations_os",
+      "name": "Explore devansh1012007/Personal_AI_Automations_OS",
+      "source": "https://github.com/devansh1012007/Personal_AI_Automations_OS",
+      "problem": "Local-first, event-sourced agent OS: pipelines on a capability facade, an append-only ledger as the single source of truth, guarded self-improvement, attested change bundles, and chaos-tested crash recovery.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-cytrexsgr-cypher-dj",
+      "name": "Explore CytrexSGR/cypher-dj",
+      "source": "https://github.com/CytrexSGR/cypher-dj",
+      "problem": "A Linux DJ studio and DAW that a human and an AI agent play together over MCP. Arrangement with mixer and automation, a modular synthesizer with synths, drums and effects, VST3/LV2 hosting, stem separation, live coding, warp. Public beta.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-netcore-technologies-forge",
+      "name": "Explore NetCore-Technologies/FORGE",
+      "source": "https://github.com/NetCore-Technologies/FORGE",
+      "problem": "An open-source developer platform for code verification, AI agent security, workflow automation, observability, and webhook testing \u2014 powered by a unified CLI and self-hosted infrastructure.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nagapoojith-taskpulse-mcp-based-agentic-ai-productivity-automation-platform",
+      "name": "Explore nagapoojith/TASKPULSE-MCP-Based-Agentic-AI-Productivity-Automation-Platform",
+      "source": "https://github.com/nagapoojith/TASKPULSE-MCP-Based-Agentic-AI-Productivity-Automation-Platform",
+      "problem": "",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mvanhorn-last30days-skill",
+      "name": "Explore mvanhorn/last30days-skill",
+      "source": "https://github.com/mvanhorn/last30days-skill",
+      "problem": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-codewithjuber-forgekit",
+      "name": "Explore CodeWithJuber/forgekit",
+      "source": "https://github.com/CodeWithJuber/forgekit",
+      "problem": "Reliability layer for AI coding agents: shared memory that survives sessions, blast-radius checks before edits, verification gates after \u2014 one config for 10 tools, zero runtime deps.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-woojubb-robota",
+      "name": "Explore woojubb/robota",
+      "source": "https://github.com/woojubb/robota",
+      "problem": "TypeScript framework for building AI agents \u2014 multi-provider (Anthropic, OpenAI, Google), tool calling, permissions, hooks, streaming, and CLI coding assistant",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-estebanmr99-lean-agents",
+      "name": "Explore estebanmr99/lean-agents",
+      "source": "https://github.com/estebanmr99/lean-agents",
+      "problem": "One command, every coding agent: shared rules, cheap subagents, token-saving tools and MCP for Claude Code, OpenCode, Copilot CLI and Antigravity. macOS + Windows.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rizko-d-hijackprobe",
+      "name": "Explore rizko-d/hijackprobe",
+      "source": "https://github.com/rizko-d/hijackprobe",
+      "problem": "Indirect prompt-injection & tool-hijack harness for enterprise AI agents - OWASP LLM Top 10 coverage, argument-level ASR/FRR, machine-verified mitigations, PoC evidence, real-LLM adapters",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-shupandee-agentflight",
+      "name": "Explore shupandee/agentflight",
+      "source": "https://github.com/shupandee/agentflight",
+      "problem": "Flight recorder for LLM agents: fail-open tracing of model and tool calls, OpenAI and LangGraph integrations, deterministic replay and fork.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyvern-ai-skyvern",
+      "name": "Explore Skyvern-AI/skyvern",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "problem": "Automate browser based workflows with AI",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-abhinav-nigam-agent-browser",
+      "name": "Explore abhinav-nigam/agent-browser",
+      "source": "https://github.com/abhinav-nigam/agent-browser",
+      "problem": "Browser automation for AI agents - control browsers via simple CLI commands",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-apify-crawlee-python",
+      "name": "Explore apify/crawlee-python",
+      "source": "https://github.com/apify/crawlee-python",
+      "problem": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehand. Works with BeautifulSoup, Parsel, Playwright, and raw HTTP. Download HTML, PDF, images, and other files. Proxy rotation included.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-skyfireitdiy-jarvis",
+      "name": "Explore skyfireitdiy/Jarvis",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "problem": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-nhrbuilds-flashbrowse",
+      "name": "Explore nhrbuilds/flashbrowse",
+      "source": "https://github.com/nhrbuilds/flashbrowse",
+      "problem": "Token-compressed, AXTree-native headless browser and MCP server for AI agents. Sub-100ms CDP automation in pure Rust. Zero Python.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-ward-software-defined-systems-embraos",
+      "name": "Explore Ward-Software-Defined-Systems/embraOS",
+      "source": "https://github.com/Ward-Software-Defined-Systems/embraOS",
+      "problem": "A continuity-preserving operating system for one AI, written in Rust \u2014 not a chatbot, not an agent framework. An immutable image, an identity sealed at first boot and verified by SHA-256 on every boot, memory that persists in a knowledge graph. Anthropic, Gemini, Ollama or LM Studio; QEMU and hypervisors on x86_64 and aarch64, and bare metal.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-protechtus-sextant",
+      "name": "Explore protechtus/sextant",
+      "source": "https://github.com/protechtus/sextant",
+      "problem": "Self-hosted AI memory and orchestration: MCP memory server, temporal knowledge graph, transcript capture, local task queue. No cloud required.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-etanhey-brainlayer",
+      "name": "Explore EtanHey/brainlayer",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "problem": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-wosledon-hetu",
+      "name": "Explore wosledon/Hetu",
+      "source": "https://github.com/wosledon/Hetu",
+      "problem": "\u672c\u5730\u4f18\u5148\u7684 AI \u77e5\u8bc6\u4e0e Agent \u5de5\u4f5c\u53f0\uff1aMarkdown \u7b14\u8bb0 + \u5bf9\u8bdd/\u7f16\u7801\u4f1a\u8bdd\uff0c\u914d\u5411\u91cf\u68c0\u7d22\u3001\u77e5\u8bc6\u56fe\u8c31\u3001Wiki\u3001\u8bb0\u5fc6\u3001\u770b\u677f\u4e0e\u5de5\u4f5c\u6d41\uff0c\u652f\u6301 MCP / \u6280\u80fd / \u591a\u6a21\u578b \u00b7 Local-first AI knowledge & agent workspace with semantic search, knowledge graph, memories, kanban, workflows & MCP",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-substrate-systems-evermatter",
+      "name": "Explore substrate-systems/evermatter",
+      "source": "https://github.com/substrate-systems/evermatter",
+      "problem": "Evermatter: governed long-term memory for AI agents. A typed knowledge graph with sources, evidence and epistemic status, served over MCP to Claude, ChatGPT, Codex and Cursor. Self-hosted or Evermatter Cloud.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-rudycity-rudy-lang",
+      "name": "Explore RudyCity/rudy-lang",
+      "source": "https://github.com/RudyCity/rudy-lang",
+      "problem": "RudyLang: an independent, single-binary C11 programming language and AI runtime - bytecode VM, trace JIT, native tensors/autograd, and local GGUF inference with OpenAI-compatible serving.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-markaboucher61-hash-apex-neural-studio",
+      "name": "Explore markaboucher61-hash/Apex-Neural-Studio",
+      "source": "https://github.com/markaboucher61-hash/Apex-Neural-Studio",
+      "problem": "Apex Neural Studio v1.0 by FREEdom ADV \u2014 100% Offline, Zero-Knowledge Local AI Workspace for Windows 10/11 with Multilingual Support & Native x64 GGUF Inference.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-pigeon-home-homing-pigeon",
+      "name": "Explore Pigeon-Home/homing-pigeon",
+      "source": "https://github.com/Pigeon-Home/homing-pigeon",
+      "problem": "Homing Pigeon enables your system to be controlled by cloud AI in a new fun and interesting way. It installs an LLM, which provides local inference to the runner which makes expert computer security decisions. All platforms, operating systems and AI vendors are supported. Any issue? Tag @PigeonHome on X.com or email me.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-celiarceron-byte-coregold-usdt-vcc-local-ssd-inference-hybrid-ai-savings-guide",
+      "name": "Explore celiarceron-byte/coregold-usdt-vcc-local-ssd-inference-hybrid-ai-savings-guide",
+      "source": "https://github.com/celiarceron-byte/coregold-usdt-vcc-local-ssd-inference-hybrid-ai-savings-guide",
+      "problem": "11 \u6708 26 \u65e5\u672c\u5730\u63a8\u7406\u5de5\u5177 Magnitude \u9760 SSD \u5378\u8f7d\u6280\u672f\u8ba9 24GB \u663e\u5b58\u7684 RTX 3090 \u6210\u529f\u8dd1\u51fa 66GB \u5927\u6a21\u578b\uff0c\u5f15\u53d1\u6781\u5ba2\u5708\u5237\u5c4f\u2014\u2014\u804a\u804a\u201c\u672c\u5730\u5f00\u6e90\u6a21\u578b + \u4e91\u7aef\u9876\u5c16\u95ed\u6e90 API\u201d\u6df7\u5408\u642d\u914d\u65f6\uff0c\u600e\u4e48\u7528 CoreGold \u865a\u62df\u5361 \u628a\u6bcf\u4e00\u5206\u5de5\u5177\u9884\u7b97\u82b1\u5728\u5200\u5203\u4e0a\u3002",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    },
+    {
+      "id": "generated-mycellios-mycellios",
+      "name": "Explore Mycellios/mycellios",
+      "source": "https://github.com/Mycellios/mycellios",
+      "problem": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "created_on": "2026-11-28",
+      "policy": "review-before-activation"
+    }
+  ]
+}

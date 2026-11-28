@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-28",
+  "policy": "daily-frontier",
+  "nodes": [
+    {
+      "id": "devansh1012007-personal_ai_automations_os",
+      "title": "devansh1012007/Personal_AI_Automations_OS",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/devansh1012007/Personal_AI_Automations_OS",
+      "description": "Local-first, event-sourced agent OS: pipelines on a capability facade, an append-only ledger as the single source of truth, guarded self-improvement, attested change bundles, and chaos-tested crash recovery.",
+      "stars": 0,
+      "updated_at": "2026-11-27T05:19:25Z"
+    },
+    {
+      "id": "cytrexsgr-cypher-dj",
+      "title": "CytrexSGR/cypher-dj",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/CytrexSGR/cypher-dj",
+      "description": "A Linux DJ studio and DAW that a human and an AI agent play together over MCP. Arrangement with mixer and automation, a modular synthesizer with synths, drums and effects, VST3/LV2 hosting, stem separation, live coding, warp. Public beta.",
+      "stars": 3,
+      "updated_at": "2026-11-20T15:54:48Z"
+    },
+    {
+      "id": "netcore-technologies-forge",
+      "title": "NetCore-Technologies/FORGE",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/NetCore-Technologies/FORGE",
+      "description": "An open-source developer platform for code verification, AI agent security, workflow automation, observability, and webhook testing \u2014 powered by a unified CLI and self-hosted infrastructure.",
+      "stars": 3,
+      "updated_at": "2026-11-28T07:37:20Z"
+    },
+    {
+      "id": "nagapoojith-taskpulse-mcp-based-agentic-ai-productivity-automation-platform",
+      "title": "nagapoojith/TASKPULSE-MCP-Based-Agentic-AI-Productivity-Automation-Platform",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nagapoojith/TASKPULSE-MCP-Based-Agentic-AI-Productivity-Automation-Platform",
+      "description": "",
+      "stars": 1,
+      "updated_at": "2026-11-28T07:40:03Z"
+    },
+    {
+      "id": "mvanhorn-last30days-skill",
+      "title": "mvanhorn/last30days-skill",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 76491,
+      "updated_at": "2026-11-28T07:43:22Z"
+    },
+    {
+      "id": "codewithjuber-forgekit",
+      "title": "CodeWithJuber/forgekit",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/CodeWithJuber/forgekit",
+      "description": "Reliability layer for AI coding agents: shared memory that survives sessions, blast-radius checks before edits, verification gates after \u2014 one config for 10 tools, zero runtime deps.",
+      "stars": 3,
+      "updated_at": "2026-11-25T09:40:33Z"
+    },
+    {
+      "id": "woojubb-robota",
+      "title": "woojubb/robota",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/woojubb/robota",
+      "description": "TypeScript framework for building AI agents \u2014 multi-provider (Anthropic, OpenAI, Google), tool calling, permissions, hooks, streaming, and CLI coding assistant",
+      "stars": 21,
+      "updated_at": "2026-11-25T14:15:43Z"
+    },
+    {
+      "id": "estebanmr99-lean-agents",
+      "title": "estebanmr99/lean-agents",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/estebanmr99/lean-agents",
+      "description": "One command, every coding agent: shared rules, cheap subagents, token-saving tools and MCP for Claude Code, OpenCode, Copilot CLI and Antigravity. macOS + Windows.",
+      "stars": 4,
+      "updated_at": "2026-11-27T05:39:15Z"
+    },
+    {
+      "id": "rizko-d-hijackprobe",
+      "title": "rizko-d/hijackprobe",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/rizko-d/hijackprobe",
+      "description": "Indirect prompt-injection & tool-hijack harness for enterprise AI agents - OWASP LLM Top 10 coverage, argument-level ASR/FRR, machine-verified mitigations, PoC evidence, real-LLM adapters",
+      "stars": 0,
+      "updated_at": "2026-11-28T07:40:46Z"
+    },
+    {
+      "id": "shupandee-agentflight",
+      "title": "shupandee/agentflight",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/shupandee/agentflight",
+      "description": "Flight recorder for LLM agents: fail-open tracing of model and tool calls, OpenAI and LangGraph integrations, deterministic replay and fork.",
+      "stars": 0,
+      "updated_at": "2026-11-28T07:03:59Z"
+    },
+    {
+      "id": "skyvern-ai-skyvern",
+      "title": "Skyvern-AI/skyvern",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "stars": 23558,
+      "updated_at": "2026-11-28T07:30:23Z"
+    },
+    {
+      "id": "abhinav-nigam-agent-browser",
+      "title": "abhinav-nigam/agent-browser",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/abhinav-nigam/agent-browser",
+      "description": "Browser automation for AI agents - control browsers via simple CLI commands",
+      "stars": 2,
+      "updated_at": "2026-05-19T15:10:43Z"
+    },
+    {
+      "id": "apify-crawlee-python",
+      "title": "apify/crawlee-python",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/apify/crawlee-python",
+      "description": "Crawlee\u2014A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehand. Works with BeautifulSoup, Parsel, Playwright, and raw HTTP. Download HTML, PDF, images, and other files. Proxy rotation included.",
+      "stars": 9697,
+      "updated_at": "2026-11-28T07:13:18Z"
+    },
+    {
+      "id": "skyfireitdiy-jarvis",
+      "title": "skyfireitdiy/Jarvis",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/skyfireitdiy/Jarvis",
+      "description": "A multi-agent collaboration framework that lets AI agents work together, operate your computer, and browse the web.",
+      "stars": 155,
+      "updated_at": "2026-11-12T15:25:04Z"
+    },
+    {
+      "id": "nhrbuilds-flashbrowse",
+      "title": "nhrbuilds/flashbrowse",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/nhrbuilds/flashbrowse",
+      "description": "Token-compressed, AXTree-native headless browser and MCP server for AI agents. Sub-100ms CDP automation in pure Rust. Zero Python.",
+      "stars": 112,
+      "updated_at": "2026-11-28T03:46:19Z"
+    },
+    {
+      "id": "ward-software-defined-systems-embraos",
+      "title": "Ward-Software-Defined-Systems/embraOS",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Ward-Software-Defined-Systems/embraOS",
+      "description": "A continuity-preserving operating system for one AI, written in Rust \u2014 not a chatbot, not an agent framework. An immutable image, an identity sealed at first boot and verified by SHA-256 on every boot, memory that persists in a knowledge graph. Anthropic, Gemini, Ollama or LM Studio; QEMU and hypervisors on x86_64 and aarch64, and bare metal.",
+      "stars": 1,
+      "updated_at": "2026-11-14T01:36:49Z"
+    },
+    {
+      "id": "protechtus-sextant",
+      "title": "protechtus/sextant",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/protechtus/sextant",
+      "description": "Self-hosted AI memory and orchestration: MCP memory server, temporal knowledge graph, transcript capture, local task queue. No cloud required.",
+      "stars": 0,
+      "updated_at": "2026-11-13T19:47:42Z"
+    },
+    {
+      "id": "etanhey-brainlayer",
+      "title": "EtanHey/brainlayer",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/EtanHey/brainlayer",
+      "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAnnotations",
+      "stars": 10,
+      "updated_at": "2026-11-27T07:16:09Z"
+    },
+    {
+      "id": "wosledon-hetu",
+      "title": "wosledon/Hetu",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/wosledon/Hetu",
+      "description": "\u672c\u5730\u4f18\u5148\u7684 AI \u77e5\u8bc6\u4e0e Agent \u5de5\u4f5c\u53f0\uff1aMarkdown \u7b14\u8bb0 + \u5bf9\u8bdd/\u7f16\u7801\u4f1a\u8bdd\uff0c\u914d\u5411\u91cf\u68c0\u7d22\u3001\u77e5\u8bc6\u56fe\u8c31\u3001Wiki\u3001\u8bb0\u5fc6\u3001\u770b\u677f\u4e0e\u5de5\u4f5c\u6d41\uff0c\u652f\u6301 MCP / \u6280\u80fd / \u591a\u6a21\u578b \u00b7 Local-first AI knowledge & agent workspace with semantic search, knowledge graph, memories, kanban, workflows & MCP",
+      "stars": 13,
+      "updated_at": "2026-11-26T17:13:07Z"
+    },
+    {
+      "id": "substrate-systems-evermatter",
+      "title": "substrate-systems/evermatter",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/substrate-systems/evermatter",
+      "description": "Evermatter: governed long-term memory for AI agents. A typed knowledge graph with sources, evidence and epistemic status, served over MCP to Claude, ChatGPT, Codex and Cursor. Self-hosted or Evermatter Cloud.",
+      "stars": 9,
+      "updated_at": "2026-11-24T16:25:00Z"
+    },
+    {
+      "id": "rudycity-rudy-lang",
+      "title": "RudyCity/rudy-lang",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/RudyCity/rudy-lang",
+      "description": "RudyLang: an independent, single-binary C11 programming language and AI runtime - bytecode VM, trace JIT, native tensors/autograd, and local GGUF inference with OpenAI-compatible serving.",
+      "stars": 0,
+      "updated_at": "2026-11-28T04:21:12Z"
+    },
+    {
+      "id": "markaboucher61-hash-apex-neural-studio",
+      "title": "markaboucher61-hash/Apex-Neural-Studio",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/markaboucher61-hash/Apex-Neural-Studio",
+      "description": "Apex Neural Studio v1.0 by FREEdom ADV \u2014 100% Offline, Zero-Knowledge Local AI Workspace for Windows 10/11 with Multilingual Support & Native x64 GGUF Inference.",
+      "stars": 1,
+      "updated_at": "2026-11-27T19:22:10Z"
+    },
+    {
+      "id": "pigeon-home-homing-pigeon",
+      "title": "Pigeon-Home/homing-pigeon",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Pigeon-Home/homing-pigeon",
+      "description": "Homing Pigeon enables your system to be controlled by cloud AI in a new fun and interesting way. It installs an LLM, which provides local inference to the runner which makes expert computer security decisions. All platforms, operating systems and AI vendors are supported. Any issue? Tag @PigeonHome on X.com or email me.",
+      "stars": 1,
+      "updated_at": "2026-11-28T00:07:05Z"
+    },
+    {
+      "id": "celiarceron-byte-coregold-usdt-vcc-local-ssd-inference-hybrid-ai-savings-guide",
+      "title": "celiarceron-byte/coregold-usdt-vcc-local-ssd-inference-hybrid-ai-savings-guide",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/celiarceron-byte/coregold-usdt-vcc-local-ssd-inference-hybrid-ai-savings-guide",
+      "description": "11 \u6708 26 \u65e5\u672c\u5730\u63a8\u7406\u5de5\u5177 Magnitude \u9760 SSD \u5378\u8f7d\u6280\u672f\u8ba9 24GB \u663e\u5b58\u7684 RTX 3090 \u6210\u529f\u8dd1\u51fa 66GB \u5927\u6a21\u578b\uff0c\u5f15\u53d1\u6781\u5ba2\u5708\u5237\u5c4f\u2014\u2014\u804a\u804a\u201c\u672c\u5730\u5f00\u6e90\u6a21\u578b + \u4e91\u7aef\u9876\u5c16\u95ed\u6e90 API\u201d\u6df7\u5408\u642d\u914d\u65f6\uff0c\u600e\u4e48\u7528 CoreGold \u865a\u62df\u5361 \u628a\u6bcf\u4e00\u5206\u5de5\u5177\u9884\u7b97\u82b1\u5728\u5200\u5203\u4e0a\u3002",
+      "stars": 2,
+      "updated_at": "2026-11-28T07:42:14Z"
+    },
+    {
+      "id": "mycellios-mycellios",
+      "title": "Mycellios/mycellios",
+      "type": "frontier-node",
+      "status": "discovered",
+      "source": "https://github.com/Mycellios/mycellios",
+      "description": "Explore distributed AI inference across connected devices. Open-source tools, a local mock demo, and a two-host setup guide.",
+      "stars": 3,
+      "updated_at": "2026-11-23T20:45:58Z"
+    }
+  ]
+}
